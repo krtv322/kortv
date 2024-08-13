@@ -202,6 +202,11 @@ https://dramapreview.imbc.com/drama_preview_hd/_definst_/drama_preview_hd.stream
 http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1NTY4MTIsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNmJkNzdkOC05ZDI1LTQyOTYtYWYwNC1kYzVlOWYyZTY1NTAiLCJpYXQiOjE3MjM1NDk2MTJ9.rn2q3XC3ZsY7mtMHMBPUQh-UeviUU_DPMkEtIhb4iSg
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프2
 http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1NTY4MzMsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMTZkYTFmYTMtMDM3ZS00MWI2LWExZWYtNDdiMTc3OTllNGM1IiwiaWF0IjoxNzIzNTQ5NjMzfQ.tIkkBGMKXMEW5jNpt5AKAoQXelMKTa-zfZ8dCzLvM7Y
+#EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGLOF
+#EXTVLCOPT:http-referrer=http://www.hwado.net/webtv/catv/56.php
+http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/17D9F2D32E63874965D1724B28678B3A3BB298C78E85F8D217C21A4EDD55595E/playlist.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
+http://www.hwado.net/webtv/catv/58.php
 #EXTINF:-1 group-title="🐉体育频道🦆",KBS SPORTS
 https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",SBS SPORTS
