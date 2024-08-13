@@ -163,9 +163,9 @@ https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1723702089&Policy=
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
 https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzYxNDQ4Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=dCW5d9v3E0iE4qH~E8wnG0hwPzz2xRrngEv9LzaW1UeTQVR-yLpJyAY4iO5QM-Qad4N9Bf8y3CPqi1EVb5gxP36eN5t~pB8B5QLy8Hc88EG8p1D9cpSTZFAZ1HdEf1VPbie9LIHP80RO-GPU8~N3yMumzQ4-nar8C-CSV2uFA7E_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 group-title="🐉韩国电视🦆",티비조선
-https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",티비조선2
-https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",연합뉴스
