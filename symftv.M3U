@@ -156,18 +156,8 @@ https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1723701724&Policy=eyJTdGF0ZW1lbnQ
 https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1723702010&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzcwMjAxMH19fV19&Signature=jY05RV3cp-SFgNWijGabvHtnPY9AiVtkI5zGHjq7QeTTWHlNsvZluCwFjG4WmB6VRPfqB6XitVWrJ7kfqohAayg2JI8yoIaRkTgZLrOB3UjGC0E5uIRCxjuyI~mfLjO~2E7WeIQG4N9uTyrp1fSuSxIItSlCGhayuxkH-HnwyC3B~dvkaOwvZk2YjtDYi87igg-n8Rc5BNmPPTwlblC5q3RXhTV6W~xkuGDcSqMrPhIJ7Og8-oD9FH7K~8apEQz98GxYJIeXegf5Pa3M53k~wr~UZ0IHZfJ-aT1b8g~7jxYYZEGMXgzgqU6sKQc6~ycqVSoGOvDG-~oRsSwOFyr8uQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS어린이만화동산
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1723702089&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjM3MDIwODl9fX1dfQ__&Signature=RGcm07CtO5v~iGtvprxiaRWpa4ZZc1loskBIx0WqSHflh-OmbbsUwARHkwmu2yMiZ8A0X9Hi6L0odS7NIDeUWS3t5nMHCML89-a9K47NmO832hbhGEVFdiPeHfcMFxHI2VR6JZqgv~2DSlwejzI-wOueT7Xdb0lkshakM9-czwbjntYq6LpwTQS3VUpVbarLSRtdDGeJ6OPE1f8EVBHQyfgryNsYLG7QA-cMpOxgv4xyAHe6istGdCuzVAEf8bPm68SawEL3ZG5lM~3q5fRvZ8Orx3shqpGiAwb-gHeZ9uY8tWYgwpUpLXTaa-AHpqe8jn9k4cv1~nc3QH1W10Gi4w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉韩国电视🦆",sbs
-https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1MzA5MDUsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI4Mjk4ZDI5MC0zNDVkLTQzNDAtOGVkMC0zY2NmNjYwMjRhZjciLCJpYXQiOjE3MjM1MzA3MjV9.V3hBlLlEpopJqZ0sTJXWtbCyoqAPJWb_FaOSdgdO3DU&solsessionid=805557fd6af6415d09b06a508619c042
-#EXTINF:-1 group-title="🐉韩国电视🦆",sbs golf
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1MzAxMTMsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiZGQwZTI5MjMtNWE2ZS00NDhjLWJhYmEtOGIwYjY2NmFjNzJlIiwiaWF0IjoxNzIzNTI5OTMzfQ.-bjk_rbOA5GpTX0Ds3abE88FkmBxF5cYvg3ea82YH-s&solsessionid=240b9ac4720126664b3679282f08c571
-#EXTINF:-1 group-title="🐉韩国电视🦆",CHANEIA
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",JTBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
 https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzYxNDQ4Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=dCW5d9v3E0iE4qH~E8wnG0hwPzz2xRrngEv9LzaW1UeTQVR-yLpJyAY4iO5QM-Qad4N9Bf8y3CPqi1EVb5gxP36eN5t~pB8B5QLy8Hc88EG8p1D9cpSTZFAZ1HdEf1VPbie9LIHP80RO-GPU8~N3yMumzQ4-nar8C-CSV2uFA7E_&Key-Pair-Id=pub_hls-live.mbn.co.kr
-#EXTINF:-1 group-title="🐉韩国电视🦆",JTBC GOLF
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_503_2DBCC4F7.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",KBS SPORTS
 https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",SBS SPORTS
