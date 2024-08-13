@@ -1,0 +1,134 @@
+#EXTINF:-1,KBS대구
+http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
+#EXTINF:-1,SBSCJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1,MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBN
+http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
+#EXTINF:-1,연합뉴스
+https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8
+#EXTINF:-1,티비조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
+#EXTINF:-1,YTN
+http://210.92.207.38:40001
+#EXTINF:-1,KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1,KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1,kbslife
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1,kbsstory
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1,FTV 낚시
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
+#EXTINF:-1,한국낚시
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+#EXTINF:-1,국방tv
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1,국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1,cts
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1,CGN
+https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_2.m3u8
+#EXTINF:-1,GOODTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1,FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1,kbsNEWS
+http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF:-1,ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1,ktv
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1,kctv
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1,NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1,ytn 사이언스
+http://mytv.dothome.co.kr/ch/catv/261.php
+#EXTINF:-1,韩·HotPlusTV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1,jcn
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1,OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1,mbc 아메리카
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
+#EXTINF:-1,mbc drama
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1,韩·EBS-1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1,韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1,EBS+ 1 (400p)
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS+ 2 (400p)
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1,韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Korean Song Channel (720p)
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1,TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1,kbs1
+http://mytv.dothome.co.kr/ch/public/11.php
+#EXTINF:-1,KBS부산
+http://mytv.dothome.co.kr/ch/public/15.php/.m3u8
+#EXTINF:-1,KBS목포
+http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
+#EXTINF:-1,KBS울산
+http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
+#EXTINF:-1,SBS대전
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1,SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1,SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1,SBS UBC
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1,KBC SBS
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+#EXTINF:-1,MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,MBC강원영동TV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,MBC TJB
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC YES
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1,MBC JEZ
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1,mbc
+https://zrr.kr/n5WE
+#EXTINF:-1,MBC경남
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1,MBC목포
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,MBC춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1,MBN
+https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,kbs 월드
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1,YBTV-1朝鲜语
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+#EXTINF:-1,YBTV-2
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1,延边-1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1,延边-2
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1,延边-2
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+#EXTINF:-1,延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1,延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
