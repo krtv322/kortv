@@ -195,6 +195,9 @@ http://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1NDU4ODIsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImUzMDlmNTgwLTQ4YmYtNDEwZS05MTRlLTVkMGNlMjc3N2Y3YyIsImlhdCI6MTcyMzUzODY4Mn0.PGMGGZKZ6I0kMF5vllH1fnG81ksr0d-SVJDFDjO8q7M
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS BIZ
 http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1NDYwMzcsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0YzliYzZjYi0wMWRmLTQzYjMtOTdkNC1mMzg3N2M4Nzk4NTgiLCJpYXQiOjE3MjM1Mzg4Mzd9.yUbbzJqh4k_eUoJYzJ4zp-n4V6DxmOSy0d6LM0j0eTU
+#EXTINF:-1 group-title="🐉韩国频道🦆",MBCDLAMA
+#EXTVLCOPT:http-referrer=https://onair.imbc.com/?chid=13
+https://dramapreview.imbc.com/drama_preview_hd/_definst_/drama_preview_hd.stream/chunklist.m3u8?_lsu_sa_=69D1B414B35A39D4714B95523B11A94015AE3CC5D90222073E5057a986293C26ADa2D30F3872584F8056352172b831A9D72338A61F3A68802C0F97BA324902AFA50C53264A23AB666E9686DAD2D6F45C3B712905BDB3CF750C3656A5B7B8475E17991F7BFBD1E71237C8FA75EAE928376DABE891CA541BED1FE26193F1029D76&v=3
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프
 http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM1NTY4MTIsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNmJkNzdkOC05ZDI1LTQyOTYtYWYwNC1kYzVlOWYyZTY1NTAiLCJpYXQiOjE3MjM1NDk2MTJ9.rn2q3XC3ZsY7mtMHMBPUQh-UeviUU_DPMkEtIhb4iSg
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프2
