@@ -40,12 +40,6 @@ http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
 http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",kbsnews
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国频道🦆",TV Chosun (720p)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉韩国频道🦆",TV Chosun 2 (720p)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",Mubeat
