@@ -193,6 +193,12 @@ http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM2MDMzNDAsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZjU2ZGEwYTAtNGI3MS00Mjc3LWExYzYtMTQzNWY2Y2E4MTJiIiwiaWF0IjoxNzIzNTk2MTQwfQ.nauxlO-ZrXIicpWcdMGf7zwqdP6KTs73-f13_PunLKE
 #EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
+#EXTINF:-1 group-title="🐉韩国电视🦆",스크린골프존
+http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉韩国电视🦆",KBS SPORTS
+https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",SBS SPORTS
+http://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM2MDgwNDEsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzMzMxZDA2ZC1kZTcwLTQzZDYtYWE4Zi02OGYzMTE5YTVkNzkiLCJpYXQiOjE3MjM2MDA4NDF9.uvrMUkuRYpxYCVLhyvDyjtp56JyIA45NnRZOP2FknDo
 #EXTINF:-1 group-title="🐉韩国电视🦆",延边-1
 http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 #EXTINF:-1 group-title="🐉韩国电视🦆",延边-2
@@ -210,13 +216,11 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBC 아메리카
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",KBS SPORTS
-https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1253_AAA4978B.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",SBS SPORTS
 https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉体育频道🦆",mbc SPORTS
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1252_823A179E.m3u8
-#EXTINF:-1 group-title="🐉体育频道🦆",스크린골프존
-http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉体育频道🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
 #EXTINF:-1 group-title="🐉体育频道🦆",일본골프
