@@ -162,8 +162,12 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",연합뉴스
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzcxNzk2MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=LaKu7vb45pLe4fj2k0FGNlDBV7T9RjJQV1k9NRzEKZ%7EN-qVrBlU79%7EX%7EfDDFwywaia0v4r5SK1tfWO63M6-Xg5%7ED7G1vAzcdlgo9HbzaVBVPs8GRy43PL1688NLMVyLfNMPupNXlmuRGpLD8CJdmxGuqKGGcNdi2EwSszMzdv3I_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+#EXTINF:-1 group-title="🐉韩国电视🦆",JTBC (720p)
+#EXTVLCOPT:http-referrer=https://www.tving.com/live
+https://jtbc-mcdn.tving.com/jtbc/live1000.smil/playlist.m3u8?dvr&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjLW1jZG4udHZpbmcuY29tL2p0YmMvbGl2ZTEwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjM3NjA5MTd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=agl1e6W0XPP1PlBw1NLgbi9FhoWwaUVqB~nIiE3dEnSvwaTPIEbUie7lD-s7V3yl~hPjTNrb1HIbcLyzNFUtUDrQa2u18EF4MGoWwj1R7vXFb8RCqkt2J1NF8ly2Z-P1X9N-8pRhUUDvtF-JdX-AO4osTnybkFSQIirAjfL51H0as6In33P9u-MaFZjjEJZUnS6tMjdryU~DSVZtlv0I3vwSqtcsOpHeRAmAK15VbEBGAhK1F-aSy9oay~3NzwveW3D71Sn3cYWv5g3fNqwvJ1wTeutjLhaOi6yXVwGwJfVUY4jpGgtgHCyr406N9RHamHgMAjBcTVoPB9i2iZNi8Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 group-title="🐉韩国频道🦆",TV Chosun 2 (720p)
+#EXTVLCOPT:https-referrer=https://www.tving.com/
+https://tvn-mcdn.tving.com/tvn/live1000.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm4tbWNkbi50dmluZy5jb20vdHZuL2xpdmUxMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzIzNzYwMjc4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=iBkGrkXqESkBOyEFtWTRs9TrDptFOZEei12Da5JQMB5zNdGdpNQE6sPde0xz4UH0ITzJsYmxopOLBK7s1dWLUh5S6SnBgB~ktlMH4sYwYFdpR3hnKr70G9nbc9uAXYpIs6vVTilYofRhMzSyQBmFI9R17mAk7iOwYYZrQ7tYyNMJ4D6Zexto9yFV3d2J1mfRhA0k51vNRcwyI~dty-L7~XQHMnt327kt3E8RaSQ3ut18x9maSa4WOlBlBJAyJ0H4NxuMXShnJwBQ3e856Fv3BnV6AUOqQGAtKJD3QiCsA1Xuwop0IidXHcWJByEiT6~8aKsMDu9LagU-IcQ7JCfaEQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉韩国电视🦆",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjM2ODY4NzB9.RPTjZRQo7NKmpy0XkYzYIc56Dte_Avxls0nrDT02txQ
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBSDLAMA
