@@ -1958,3 +1958,9 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",10회
+https://www.shanghaitan.xyz/video/m3u8//58b52a7d/index.m3u8
+#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",9회
+https://www.jamnatv.com/video/m3u8//a84a4430/index.m3u8
+#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",8회
+https://www.shanghaitan.xyz/video/m3u8//164cdff8/index.m3u8
