@@ -193,6 +193,16 @@ http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM2MDMzNDAsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZjU2ZGEwYTAtNGI3MS00Mjc3LWExYzYtMTQzNWY2Y2E4MTJiIiwiaWF0IjoxNzIzNTk2MTQwfQ.nauxlO-ZrXIicpWcdMGf7zwqdP6KTs73-f13_PunLKE
 #EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
+#EXTINF:-1 group-title="🐉韩国电视🦆",延边-1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 group-title="🐉韩国电视🦆",延边-2
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 group-title="🐉韩国电视🦆",延边-2
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+#EXTINF:-1 group-title="🐉韩国电视🦆",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1 group-title="🐉韩国电视🦆",延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBC DLAMA
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBC 에드리원
@@ -1910,13 +1920,3 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",延边-1
-http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-#EXTINF:-1 group-title="🐉韩国频道🦆",延边-2
-http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-#EXTINF:-1 group-title="🐉韩国频道🦆",延边-2
-http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
-#EXTINF:-1 group-title="🐉韩国频道🦆",延边朝鲜语综合
-http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-#EXTINF:-1 group-title="🐉韩国频道🦆",延边汉语综合
-http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
