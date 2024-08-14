@@ -1958,23 +1958,21 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
-#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",11회
-https://hls-v1.bcbc.red/videos/202408/07/65505a26-b50d-47cd-b5af-aff84b1a4ae1/index.m3u8?counts=5&timestamp=1723638778&key=5ba2ee0797f9c6b11ebea4de67750212
-#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",10회
-https://www.shanghaitan.xyz/video/m3u8//58b52a7d/index.m3u8
-#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",9회
-https://www.jamnatv.com/video/m3u8//a84a4430/index.m3u8
-#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",8회
-https://www.shanghaitan.xyz/video/m3u8//164cdff8/index.m3u8
+#EXTINF:-1 group-title="🐉한일톱텐쇼🦆",12회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/963d6b8d-32a3-481c-b13e-99f04735eb89/238c5c16-0307-4735-b776-caf7d3fc1ca1-master.m3u8
+#EXTINF:-1 group-title="🐉조선의 남매들🦆",미스 미스터트롯 5회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/57912629-a02d-4927-ba5f-0529c6d91b22/c9fbff27-fe84-4cc6-a6be-9c1b8d46d1c2-master.m3u8
+#EXTINF:-1 group-title="🐉가요무대🦆",0812
+https://videos.ontvkorea.com/static/streaming-playlists/hls/61e5766b-2440-42d4-8646-9861fdf34d97/bc8da91d-e0ee-430e-96e1-54a551e8e2bd-master.m3u8
 #EXTINF:-1 group-title="🐉뭉쳐야 찬다🦆",43회
 https://www.meentv.com/video/m3u8//ffe7a138/index.m3u8
-#EXTINF:-1 group-title="🐉뭉쳐야 찬다🦆",42회
-https://www.moonnightspn.xyz/video/m3u8//c45e4023/index.m3u8
-#EXTINF:-1 group-title="🐉뭉쳐야 찬다🦆",41회
-https://www.meentv.com/video/m3u8//964f0729/index.m3u8
-#EXTINF:-1 group-title="🐉불타는 장미단🦆",25회
-https://www.moonnightspn.xyz/video/m3u8//b531fb74/index.m3u8
-#EXTINF:-1 group-title="🐉불타는 장미단🦆",24회
-https://www.meentv.com/video/m3u8//7344f307/index.m3u8
-#EXTINF:-1 group-title="🐉불타는 장미단🦆",23회
-https://www.moonnightspn.xyz/video/m3u8//66c04265/index.m3u8
+#EXTINF:-1 group-title="🐉정글밥🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/c2b25480-3913-4a6e-9f0e-3e31733889fc/8d015bb1-7fe0-4a4e-b4ec-0ee7274f2235-master.m3u8
+#EXTINF:-1 group-title="🐉놀라운 토요일🦆",327회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/99fb72e1-519c-404f-a0ce-15434639c3e5/f10d6763-e2d8-4370-b9e4-ed30ddd219be-master.m3u8
+#EXTINF:-1 group-title="🐉열린 음악회🦆",1489회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/75fc7dcc-544b-4c55-92fa-90f3d544b9ca/687e3693-e187-4d12-af3a-9e923424239c-master.m3u8
+#EXTINF:-1 group-title="🐉인기가요🦆",1239회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/22bc93b1-bdb2-446d-a4a6-ed8f7c07ee83/0db8725c-a746-4c66-b883-5318ec21108a-master.m3u8
+#EXTINF:-1 group-title="🐉불타는 장미단🦆",69회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/adc900c7-c189-48c0-bbaf-0a789292c514/5c0c44f8-de36-4345-be7a-99e9be48cbc4-master.m3u8
