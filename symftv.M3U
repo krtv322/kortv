@@ -8,10 +8,10 @@ http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",TJB SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",SBSCJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",mbc
-https://zrr.kr/n5WE
+#EXTINF:-1 group-title="🐉韩国频道🦆",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",MBC춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",MBC YES
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",mbn
@@ -1918,8 +1918,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",kbc SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",SBS KNN (1080p) [Not 24/7]
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",SBSCJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="🐉韩国频道🦆",SBS G1 (360p) [Not 24/7]
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🐉韩国频道🦆",SBS JIBS (720p) [Not 24/7]
@@ -1938,8 +1938,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",MBC JEZ
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",MBC춘천
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",mbc
+https://zrr.kr/n5WE
 #EXTINF:-1 group-title="🐉韩国频道🦆",MBC TJB
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="🐉韩国频道🦆",MBC Daegu (대구 MBC) (480p) [Not 24/7]
