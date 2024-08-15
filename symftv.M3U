@@ -147,9 +147,9 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1723878563&Policy=eyJTdGF0ZW1lbnQ
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1723878631&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjM4Nzg2MzF9fX1dfQ__&Signature=MBbdWN06u4yvD8z-~tvrgj-tuv-mdKTdA-LseACHQWhIX2xtKKX19-ZpONugF0RnnaCBdZjvjyTZchrkqPayE3OpyDX3HJaR0bPqt5lxhZdQQWYYbf2UZ6Ll7KF3kD2xoLbHEkYbY4vsug80z46NIXidUwe-N1-5hCaVQZWsMTVPmBelZlczQaBgC96nFSM3CuMYgo4YNM6vnAIxvUpGSy8cAtAxVthMfOtgRF0AZIcciZqxXLfxD7xrFjRILv2aJlgQ4CF0Po~35PaCr-6WIp2GfEtbkt0Eyzm6-gF2rAF~aLoG8Y920OnTD~AD8X3arnn4q5ekEKZKndOH7CWbmg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBC
-https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1723730982&h=bd8743953f5ac0b5bb7631f28b25e4ed
+https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1723740762&h=1d219ccb4276a2930b27c589e641117e
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs
-http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzEwMDksInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjIyMTU0ZTI0LWUyODItNDhmNC1hNmI0LWNiMzY1NzcwYzk0NiIsImlhdCI6MTcyMzcyMzgwOX0.86mJN7sD1_AcqZBa3PYMejlXI_BpDI-x5ExnWKwx3wc
+http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA3ODUsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjM3YzNiOGIzLTljMjgtNDgxZS04MWVjLWZkN2IyZDQ0NmFhZiIsImlhdCI6MTcyMzczMzU4NX0.vnG48cg_9LL3cA0C8DCFyMOAVj8LiQNsbh6Yb92M4WU
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
 https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MzIwM30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=QF~GaUWFQ37fLhtCx6oqw12WOHYeMjjqSZNKU9a7mthOvG9P6PBnZumGKm7JelsH7Hjh0QhnkF36YVLRA5mW4zrqCJhHH9jJUlSUk9XTJelAyw8P8a2ZSa-9tCVefGOe6cUVUlRQpQbzycufRrBiq4rGriYB~OWdoBIXb9SrL0k_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国电视🦆",TV Chosun (720p)
@@ -158,8 +158,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉韩国电视🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc3NDU4MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=kGMaJN7QR-fTpIuwQCQ03XCzbOcrbnv54X~lGkd8crf9xt14L~Jjw9h7g92~TEG-iNFW~6sKWlqh6OzOgif14vlehuH0~Xma437itkr8l64o4UhLCyWU00AsIUqdrtX~VWsEdp7ubAw~L5mEME6hPgKQnQ9fksAVGDLpusV-dkU_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉韩国电视🦆",ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",연합뉴스
@@ -176,19 +174,19 @@ https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1723878767&Polic
 https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1723878850&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzg3ODg1MH19fV19&Signature=A8Ai93uaepvU4NosRizdA7ENB51a4F6erzv9CJ3xcAnH-MzLi8AnTZc4LyFoVqu3f7IwGmMg6ltqlCN3clkO7SYo6Pyhe8FYc-J2Gujtp0q9zVjeoyILnRUA4xjkv4o6HHCbRaaS3JQEjWnldjHo3Or2a7sKA7KP-U-0Kqy6MTv09Aeyo555OGbP4JrEB9atW8SIw3JnVVpkH3oLgbObarxtsg8cGHrVkIk2ybw1zMEywiIdv62XDFqyL1tNVW9jTpC5hAtb88iWwJnhZyWxHkY--iN49XvcVQpo224lF-abXJmjZ4w-q5QH1W9XEERnoXn-Fe3IBv5nHBg9dSbJiA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS PLUS
 #EXTVLCOPT:http-referrer=http://www.hwado.net/webtv/catv/31.php
-http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzEwNTcsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyNTA0YWVjZC1hZjVhLTQzMGQtYmEzNi0xNjk2MjhlMGNlMzQiLCJpYXQiOjE3MjM3MjM4NTd9.0iEzb4QUDva8gT7SUu7biwGReg70sAeyKCTgip9wmRs
+http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA4MTAsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwMjcyMGJmMS1lYjkxLTQ3NGQtYjRkMS03MDlhOGY5MGY1YTEiLCJpYXQiOjE3MjM3MzM2MTB9.a08TFUifqxmGaBdruQV_CoACCuPuYl-K2P4qegcA4Co
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS FEUN
 #EXTVLCOPT:http-referrer=http://www.hwado.net/webtv/catv/32.php
-http://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzEwODIsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFhOGEwNDY3LTVjYmQtNDIzNi04OTBhLWE4Yzg1ZDRhODU2YyIsImlhdCI6MTcyMzcyMzg4Mn0._0H_VBLK3KjuiTG0gFC0o-ckv0UCKh-950zi6qwYrik
+http://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA4MzcsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjBmNjc2ZTE2LTQzNzctNDcxZS05ZWYxLTVlZjE2NjE2YTVhYyIsImlhdCI6MTcyMzczMzYzN30.wZU22brRxnqupSF5BAIAA0SOSVLwF4s8ViyBBg4zmeU
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS M
 #EXTVLCOPT:http-referrer=https://tinyurl.com/3an9wbe8
-http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzExMTksInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJkY2JiZDFmLTgxYTgtNGEzNS1iNDZkLTI1Y2NhYWJjZWJiOSIsImlhdCI6MTcyMzcyMzkxOX0.LllT6CGtzwLe6bS6kPaVkEdSmVL2oQOWxa5XbQBOSD0
+http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA4NjAsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjgwNDI2NjMwLTc2MmEtNGQ1OC1hMDY5LWRlNjI4ZGRlMmExMiIsImlhdCI6MTcyMzczMzY2MH0.SIoffpcohVngqBBXfyERhE28-orR_GKR4zb5wD4VUHA
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS BIZ
-http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzExNDUsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzMmNkMjE1MS02M2U3LTRjYzMtOTkxYy1kMDBjYzZhYTczYWMiLCJpYXQiOjE3MjM3MjM5NDV9.YtGx4nKm9bnLozrMc8dEKjxZ0OswWDJdW18mRFciLis
+http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA4ODIsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNTMxY2M3OS1mZWI3LTQ2N2UtOTgzZS0zMDgxNTdhZTkwNDYiLCJpYXQiOjE3MjM3MzM2ODJ9.X1bFgJ5zrtHZl3MJ0aIf_-s32NTjDcEgNc9yoLafQjA
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프
-http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzExNjMsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiZTM5YjQ4Mi1mNzcyLTRjNDAtODhjOC1kNjMzNjExODliZDYiLCJpYXQiOjE3MjM3MjM5NjN9.IuxSi7Uu17yTye8BL6F3phDMHLWwZg29gI8ZxVI1CKk
+http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA4OTcsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwYjFiM2NjYi1hYmQzLTQyMGQtYjBiNi05NGUyYWViZGUxYjYiLCJpYXQiOjE3MjM3MzM2OTd9.zQ0uIxEeRYe3dX0f3wtphmcyUCgb1M7PWk3fq-DwcJw
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프2
-http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3MzExODEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNWJlYmFjZmEtNTZhZC00ZTU4LTlmMGItOTgzYjBkNDdjZTVmIiwiaWF0IjoxNzIzNzIzOTgxfQ.tsTw3dIeL-AaHyxbGvU7uiQBPy95VilbCVhywE4kDYA
+http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM3NDA5MTUsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMGRkZGExMjAtYjE5ZS00Mzc1LWJmMWEtNDQ2MDIzOGRkNGQ5IiwiaWF0IjoxNzIzNzMzNzE1fQ.2nswEjhVB-OkgQdLD1Nr55QYtTZ7VaPpECf1X2sPofA
 #EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
 #EXTINF:-1 group-title="🐉韩国电视🦆",스크린골프존
