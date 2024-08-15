@@ -193,8 +193,16 @@ http://www.hwado.net/webtv/catv/58.php
 http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS SPORTS
 https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",프로야구 5경기
+https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+#EXTINF:-1 group-title="🐉韩国电视🦆",최강야구
+https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",스타리그
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",C1
+https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",사랑의 콜센타
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",뉴키드
@@ -213,12 +221,6 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1723793108&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MzEwOH19fV19&Signature=KKAFj9tRya4OEMLZBTbxOHG8e8lh-af~2ddgYh3O05xi4a7zW9ehICF2mkZnIfFBIJpfxG4V5-LgG1~Q0d~wi2ImMHidoICpkaYooveB1t3q0uU18jpCwBtYmyCWouS38EAkuTWNDWYpWGVLBG9dAdW0-VQfAWOH7mksHLsBTMGBDrluRca2K2rM1ma39Bp06z9NNWjupA9jWtyIU1sQXkvdUJJ7uHdIIIqBuYZ29vykYyyN15RHL~D58tabCqvfqb-~Tuxwdo-brU8PNntvk7dbzqTBs6URTyS2HKqCWll34apR2DAPF4CRmBEx7kVumSTuzADSR2GI3-2nQwRjlQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",도시어부
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",최강야구
-https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",프로야구 5경기
-https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉韩国电视🦆",스타리그
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS KIDS
 https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1723878811&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzg3ODgxMX19fV19&Signature=VvHAGYhHCwWlc2D~Mo68xZOt9z3AbvHfvfy-iv6Z1lM8NjwHCNX46F~H2kNBxgi-MUYimHXdpXdAN9iVqkphmVvjMERK4DI4UkG~GJI90Pl3XA~mkSe44~Dji-Wqb974avthDWFwB6bkv3xoCzTiLEJR76xqO9ENdBsVj3GOOwAyqQo77-pNVP8njl-pR9b1JmBY0r9IH1kQuAeTu4qdTU5f594fBVybcNfDnVljmtd9aEPH6fsWAdkC7c0d354PCe00G2aOCRUPmmChUmbCZle46Fo4Prbff0IXQimLk87Cq2DS3f~ib3kxTg8DpJsnEjXRrZ4HXZ4OnY-FkTNVEg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS어린이만화동산
