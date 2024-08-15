@@ -159,7 +159,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc3MzczN30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=lrgmo-dmcCtJmyA5TiPQtKEUVg3b3mMc1fFnr0d~Z9hw-TTJi-nb3-fNQ344IHskuutdq858eLnSAmqtskmVGWlwqa9QCukMIN50O5XOdszx6HpDnGYu2GBdtJ1R3q-rJ75xp-1GG25lDfoQHb9NzS2rTlkUKyXiv-FCluuV14g_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+http://www.hwado.net/webtv/catv/51_248899BF.php
 #EXTINF:-1 group-title="🐉韩国电视🦆",ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",연합뉴스
