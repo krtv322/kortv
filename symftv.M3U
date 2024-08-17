@@ -152,7 +152,7 @@ https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=17238
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs
 http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjM4OTAyNjQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjgyN2Q2ZGNjLWUyMWMtNDAwZi04NWQxLTk4MmY0OWEwZTk5NCIsImlhdCI6MTcyMzg4MzA2NH0.yCavUXacA9RYxWywOWn5qxveNPlrIUn9KSk06y8MVE0
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzg4NDg4MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=NIduNvly4gr79X17RxH9WR1HXMn0Dgg7MJiAhlh~vP7kX9Xz6z~SwiDxmeX~wOtVdhckAvbm~ZUmQzLzLVkloV0TDpUZskn27il4lCXxYkGYwmwi4Jzk1z5GkgH4cZVu2OD85tEU2JI2zTxqPJY5HcwsC6PCrVQ~I6i~TeRbqGo_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzk3NDAyNH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=n0CXErDpXF08BrqCsg-0zViNpjpOhZKKHX7s8hjOdX0xKNeG5LLw0e81twJipAcgr7Ts~NJa7Qyenxs1FKC4M80QmDhtGQK8uYijavEZ2own2Bf1U1Ern1CvB9W5ITWJHSr-9FQd2YfkOnz5dXnCra9SoW4eNeeP-lOvmIAM9oo_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国电视🦆",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
