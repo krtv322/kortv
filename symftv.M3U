@@ -1961,6 +1961,16 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉이제 만나러 갑니다🦆",659회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/88521722-fd8f-4f14-bd65-73c1986defac/5c2e13e8-db64-4ed3-958e-9ee7614f2781-master.m3u8
+#EXTINF:-1 group-title="🐉미운 우리 새끼🦆",405회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d478b287-061f-4194-9c8f-88c4a2b7cc10/5b6be96b-4b32-47dc-b4ed-fa63ee1838ef-master.m3u8
+#EXTINF:-1 group-title="🐉거인의 어깨🦆",5회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d277e530-288e-4268-8d5a-9e6e5a53054b/057ef07e-7036-4d93-9129-09f1bd755f5b-master.m3u8
+#EXTINF:-1 group-title="🐉슈퍼맨이 돌아왓다🦆",546회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/13035b5b-3825-49f8-a5c4-806127bc2179/4680da6e-811c-40eb-b68d-cdb15d5c6878-master.m3u8
+#EXTINF:-1 group-title="🐉식객 허영만의 백반기행🦆",260회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/072fba4d-ac77-4fad-9feb-371295d19c08/23e0d6e6-4df3-45b1-adc4-220d0e28282e-master.m3u8
 #EXTINF:-1 group-title="🐉뭉쳐야 찬다🦆",44회
 https://videos.ontvkorea.com/static/web-videos/145547d1-102b-4f6e-8b0b-ee886d2c3e24-450.mp4
 #EXTINF:-1 group-title="🐉런닝맨🦆",715회
@@ -2125,5 +2135,7 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/8295bea0-b385-4c93-a
 https://videos.ontvkorea.com/static/streaming-playlists/hls/62537919-1fb3-40e7-852d-06c9d19161e7/36e1e57c-c4fa-49eb-b877-ef3e234e298b-master.m3u8
 #EXTINF:-1 group-title="🐉사장님 귀는 당나귀 귀🦆",270회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/2c6e7f5a-573f-4eaf-a98a-2f004213dd53/cd125823-8b6c-4aca-83c3-701ae42be253-master.m3u8
+#EXTINF:-1 group-title="🐉성적을 부탁해 티처스🦆",22회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/592d6a5d-722d-47b9-92fa-e28691b84f13/90db365c-f02f-4bcd-9299-8ebbf8f01bb4-master.m3u8
 #EXTINF:-1 group-title="🐉동물농장🦆",0818
 https://videos.ontvkorea.com/static/streaming-playlists/hls/838022d1-5c88-4adb-ba87-665425cd406f/ec494b0a-6441-45ae-bc25-b15fea85b9d5-master.m3u8
