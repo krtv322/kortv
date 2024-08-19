@@ -1965,6 +1965,8 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉캐그콘서트🦆",1086회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/684c005d-0af7-405a-a1d9-2540a0a30a5b/298e979b-4bf4-4692-a0a1-a83104fe2c4b-master.m3u8
 #EXTINF:-1 group-title="🐉이제 만나러 갑니다🦆",659회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/88521722-fd8f-4f14-bd65-73c1986defac/5c2e13e8-db64-4ed3-958e-9ee7614f2781-master.m3u8
 #EXTINF:-1 group-title="🐉미운 우리 새끼🦆",405회
