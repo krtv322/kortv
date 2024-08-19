@@ -1971,6 +1971,8 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉최신영화🦆",핸섬가이즈(2024)
+https://v9.tlkqc.com/wjv9/202408/16/VQxCgLKkHD81/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="🐉최강야구🦆",95회
 https://www.segyen.com/20240819/JbRxZY7A//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉오은영 리포트 결혼지옥🦆",88회
