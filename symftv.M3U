@@ -1963,6 +1963,10 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉젠블루의 땀송송 데뷔탁🦆",4회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/53840d5c-42a1-4765-8dd6-28122cc7c391/3ff4b30e-ead9-4799-8674-628769131c4a-master.m3u8
+#EXTINF:-1 group-title="🐉이웃집 찰스🦆",448회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d47c70c6-d72a-4ed5-b542-89eef17ed5a4/71b4d368-be1c-4030-abb3-e080049be7d9-master.m3u8
 #EXTINF:-1 group-title="🐉더 쇼🦆",0820
 https://videos.ontvkorea.com/static/streaming-playlists/hls/2126a46a-3356-4af0-9375-9220aa0e069c/35ff24cd-9ac3-45ae-b898-207bdddbea7f-master.m3u8
 #EXTINF:-1 group-title="🐉최강야구🦆",95회
