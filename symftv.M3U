@@ -1963,6 +1963,10 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉2장1절🦆",14회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/6a3dea05-f979-467e-a632-5442927a44e0/7bdc370f-8c74-44b1-b4bf-3ecd357d1282-master.m3u8
+#EXTINF:-1 group-title="🐉벌거벗은 한국사🦆",122회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/963d8190-0a0b-4096-a9d2-79816ce6dedf/7644bab9-26db-4e20-bfda-d4bd878c3117-master.m3u8
 #EXTINF:-1 group-title="🐉태군 노래자랑🦆",18회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/fcda61dd-1574-479f-b48b-96a8a9c9e180/9d464c9c-1f71-4fe2-b968-b75600bad4f6-master.m3u8
 #EXTINF:-1 group-title="🐉주간 아이돌🦆",0821
