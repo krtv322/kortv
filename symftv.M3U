@@ -1963,6 +1963,22 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉리얼 도전 스토리 하이킥🦆",0822
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d69d7c25-3d7a-4f16-a033-18fc173f1107/7e149b93-2342-4ffb-931f-3b74b2821449-master.m3u8
+#EXTINF:-1 group-title="🐉스튜디오K🦆",0821
+https://videos.ontvkorea.com/static/streaming-playlists/hls/b312f97d-ca76-4c67-9a31-f6da13f16224/b99dc9b9-40e0-4c7b-89d4-66b3cc381e4a-master.m3u8
+#EXTINF:-1 group-title="🐉아빠하고 나하고🦆",36회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/774d7c91-a192-4cb8-a77d-29a552e4678f/aa56ea14-89c1-4a19-8794-125dfa60e823-master.m3u8
+#EXTINF:-1 group-title="🐉나는솔로🦆",163회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/50c8dee4-b40b-4a8e-8016-d38a4b11c2af/2e4686d8-24ea-4d8c-abec-c5a011e14698-master.m3u8
+#EXTINF:-1 group-title="🐉라디오스타🦆",878회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/97b733ce-9bc9-4388-925f-0eb1dce17c5b/a236af33-cba0-4e34-822e-23a9d5fddf7b-master.m3u8
+#EXTINF:-1 group-title="🐉고딩엄빠🦆",10회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/526edd95-a670-4819-b3ad-7e786784fe80/10da7893-8591-40b8-8ec5-2f02ca345135-master.m3u8
+#EXTINF:-1 group-title="🐉골때리는 그녀들🦆",5회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/34af071f-a72a-4e9c-ac50-2bf6a21598a1/db946b49-9136-45f7-b35e-3ca16174ceff-master.m3u8
+#EXTINF:-1 group-title="🐉신랑수업🦆",128회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/727c36c3-9764-4b58-a12b-e2900b3c8c4a/fc22e1c6-56b2-4a01-b1ae-20dbbb78852c-master.m3u8
 #EXTINF:-1 group-title="🐉2장1절🦆",14회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/6a3dea05-f979-467e-a632-5442927a44e0/7bdc370f-8c74-44b1-b4bf-3ecd357d1282-master.m3u8
 #EXTINF:-1 group-title="🐉벌거벗은 한국사🦆",122회
@@ -2127,7 +2143,7 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/adc900c7-c189-48c0-b
 https://videos.ontvkorea.com/static/streaming-playlists/hls/48685bf9-6454-4b32-a6e4-ef313208525f/27759313-8a40-41d5-b8df-e43cc225965a-master.m3u8
 #EXTINF:-1 group-title="🐉불타는 장미단🦆",67회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/5e66bb51-e0a2-45a7-9642-4f4771e3d9c3/4532329c-bef1-41c4-93bf-c0ce8577e871-master.m3u8
-#EXTINF:-1 group-title="🐉골때리는 그녀들🦆",세계관의 확장 4회
+#EXTINF:-1 group-title="🐉골때리는 그녀들🦆",4회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/e1fc1858-8ef5-423d-9fad-e36e0bafe6a5/5d6b1651-67c7-4068-998f-99c5190b0083-master.m3u8
 #EXTINF:-1 group-title="🐉신랑수업🦆",127회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/7227ed8a-2b6b-4328-8696-98db41c5da06/69d7765b-3bef-4022-9ab3-fdfbc5cd8e44-master.m3u8
