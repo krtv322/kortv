@@ -1965,6 +1965,8 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉아빠는 꽃중년🦆",18회
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202408/0822/%EC%95%84%EB%B9%A0%EB%8A%94%20%EA%BD%83%EC%A4%91%EB%85%84-240822-E18.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240823%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240823T135639Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25EC%2595%2584%25EB%25B9%25A0%25EB%258A%2594%2520%25EA%25BD%2583%25EC%25A4%2591%25EB%2585%2584-240822-E18.mp4&X-Amz-Signature=ad61ed4b3ab3f0f4adc6508e751e6abde5738f9c4faee32b9ac92ba13aa2866f
 #EXTINF:-1 group-title="🐉동네스타K4🦆",21회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/78dd3eb6-1018-42cc-970d-56de935bba0c/4031b6e3-4e8f-448e-85af-972eaa027647-master.m3u8
 #EXTINF:-1 group-title="🐉뮤직뱅크🦆",0823
