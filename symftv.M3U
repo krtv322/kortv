@@ -1963,6 +1963,8 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉미스쓰리랑🦆",166회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2d57186e-38ec-41dc-9e62-b3f69ab45b89/fd10241e-afbd-47bc-817d-e4ee0b4a3fa1-master.m3u8
 #EXTINF:-1 group-title="🐉미스쓰리랑🦆",17회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/e6be1a09-1472-4401-b417-dbfd533871f0/414b7113-7f76-4ee6-ad21-9773da58acb1-master.m3u8
 #EXTINF:-1 group-title="🐉이혼숙려캠프🦆",2회
