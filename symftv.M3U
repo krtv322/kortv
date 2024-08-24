@@ -1957,6 +1957,12 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉살림하는 남자들 시즌2🦆",356회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/39f8dd42-dff1-404f-9e62-f749589434d8/e607c42c-817b-4eb9-89f1-f09a007c9796-master.m3u8
+#EXTINF:-1 group-title="🐉아는 형님🦆",447회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/29f12c7e-f20c-45ba-8c14-19da8752c566/c1859f84-688c-4404-b2c1-f5a035f54b28-master.m3u8
+#EXTINF:-1 group-title="🐉니도내산 독박투어🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/08f99d0c-0880-45c5-beb1-cd8e3e6e8149/5af35237-f96d-4067-bb21-aa07cffe632a-master.m3u8
 #EXTINF:-1 group-title="🐉놀라운 토요일🦆",329회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/707aee16-e380-4589-9eb6-e9a62967def5/c1bd4aa0-27cd-49ae-b70c-f7666713a062-master.m3u8
 #EXTINF:-1 group-title="🐉산따라 물따라 딴따라🦆",13회
