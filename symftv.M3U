@@ -1957,6 +1957,8 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉아는 형님🦆",t447회
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202408/0823/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4-240823-E559.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240824%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240824T144333Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25EB%2582%2598%2520%25ED%2598%25BC%25EC%259E%2590%2520%25EC%2582%25B0%25EB%258B%25A4-240823-E559.mp4&X-Amz-Signature=3310709f11d5fe5ff106e57bfc470c3f464ebc7307b22a2fabba1f0e2eb4694e
 #EXTINF:-1 group-title="🐉살림하는 남자들 시즌2🦆",356회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/39f8dd42-dff1-404f-9e62-f749589434d8/e607c42c-817b-4eb9-89f1-f09a007c9796-master.m3u8
 #EXTINF:-1 group-title="🐉아는 형님🦆",447회
