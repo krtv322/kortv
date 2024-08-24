@@ -1963,6 +1963,10 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉불후의 명곡🦆",670회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d1a0a0cd-fee5-4da8-af8b-eb017db75a3e/a88d8c69-8c5c-4e9a-9fd4-81e070e1034d-master.m3u8
+#EXTINF:-1 group-title="🐉놀면 뭐하니🦆",245회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/70024fdc-70cd-4aed-a6b9-c20a39c206c6/7b410eb4-964a-491b-bebb-0b800887ead3-master.m3u8
 #EXTINF:-1 group-title="🐉쇼 음악중심🦆",866회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/dbe2704d-8b10-42d9-aab8-d967784b67d8/ae8f8a41-c0ea-47d5-ad97-d8a7f5b8e2ce-master.m3u8
 #EXTINF:-1 group-title="🐉차트를 달리는 남자🦆",402회
