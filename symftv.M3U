@@ -146,9 +146,9 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1724632280&Policy=eyJTdGF0ZW1lbnQ
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1724632329&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjQ2MzIzMjl9fX1dfQ__&Signature=RwzMZGCsGj3EIeDGY27aJXFw2yyoQDaqGgB0WL8C-2C1Prh0LY45IKg4y1vdHMLve-koZlZidGshHI12g4H5LUmpoGjYx8RnJgD2qJ9jAiJF79d2HLwa2b1tYvoMPiRAwH3mrRriARjx~VJM3AUo3BOa4FeMX90tS7EchqNX85pyj1K7Jux4xKQbutrsprW706jxllVCrpXtyGuNXRh--1gtmIc5IecFGzSRyTepCtmKieO0X4DxKkO~RyGEK5~gxrfcejJbjM-p9UctBe00mg7ah-Yz-dT44fYqmKEodCK6TZlTisbaXc6qRnGofBQ0dKO1z3wb3iNrRho2QzCezQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBC
-https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1724484727&h=46436f55fe990a7ddabdc31cc75cf6b3
+https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1724502024&h=8dbb7eed82c11100ea83e4264114169b
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs
-http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ3NDksInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjQ1ZDU2OGE5LWFjMjItNDdkMS05MDIyLTVlMmExM2NhYmVhZSIsImlhdCI6MTcyNDQ3NzU0OX0.FU1r8siL4wDtIasEjQjVnzz4y481iOvoJfh5iS8QpLM
+http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIwNDQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjBhZGRlMTBiLTQzZTItNDM2YS04MGEzLTg1N2JjMTBhNDE3MyIsImlhdCI6MTcyNDQ5NDg0NH0.krgcuQDhDuLPGIpK-DZ5sH32DTnEjrbH_DjDB-rTe1w
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
 http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDU0NTYwOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=nUq2SnuZ~3H5~A~zftj1bUzfUABVlF8avSguR4eYblhoknj8~33wUG5w0YWMrSdcd-m8874paFPnvyrnw4dB8QjjKHbmzCTRDoQlB4lyhRqhwcd2AYt7-gTTntFJcnew3~anm6-eSayhx~dXcYIj6T8CZ3PPryutGdn0U33lTjI_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国电视🦆",TV Chosun (720p)
@@ -173,19 +173,19 @@ https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1724632514&Polic
 https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1724632523&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDYzMjUyM319fV19&Signature=XvxJVrLnk9uYEfpXQjmBVKX1VEFFKE1O8TLXwy3iJ3fNcj88r14Ej80uEFjrKNAQOsqgvSEOVqcXczYaO91hhRzjKUNImKScDyIiPCBM6jcu4~ejvTjfjKjWVypMUNvjIt-LZ0pQbM7yKc2QBptKgX2U~~3TIhS6sIWsZhCAcNlyP~3U38bhfICkJRmMJ5K-iY8WNgSAaZ~QcoJNw~AmWNG8034FR68Fc-yg8XSCoaVuBVosjfCE8COrrakYe8gIC7oMiCzuVpcSaG0WbgaHu9IP782k4B~bdJt4yCYVhIkdg6dSKAE-fKHZbpSxZMgnlr19Wr6KDcfa6cyp5C6Tvw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS PLUS
 #EXTVLCOPT:http-referrer=http://www.hwado.net/webtv/catv/31.php
-http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ3NjksInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1YTQxODgxYy1hZWUxLTQxZTctOTJmNC0zODk3MTFhMDQ2ZjAiLCJpYXQiOjE3MjQ0Nzc1Njl9.S_ap9qNwbENtcNVrcrOHLo8HgLHPa6kLVv-0FFi3GM4
+http://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIwNzIsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzZjRjMGNjOC0yZmUwLTQxM2UtOTFhOC01NjdiOTZkYjFlNGMiLCJpYXQiOjE3MjQ0OTQ4NzJ9._EYIOo1NGK5ZDiVyBAtxl98SDRRruAOwZiqtm1W-Az0
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS FEUN
 #EXTVLCOPT:http-referrer=http://www.hwado.net/webtv/catv/32.php
-http://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ3ODksInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijk1ODNkY2JiLTYzZDktNDdhNi1iMzU0LTFjZWJkOThjNDA4NyIsImlhdCI6MTcyNDQ3NzU4OX0.-okZUNauut_OtS3eYJX2X9XhCneQJ5_JbtRogpoIh4Q
+http://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIxMjksInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImYzNGFhY2U1LTU1MmUtNDI2Yi04YTM0LWZjMDlkZDllYTk4OSIsImlhdCI6MTcyNDQ5NDkyOX0.EDb7Zf0jaiIMQc5sKDmO1zKSAsV1AUiHGLFO0R0Ej5Y
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS M
 #EXTVLCOPT:http-referrer=https://tinyurl.com/3an9wbe8
-http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ4MTEsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijc5ZmFkYWM5LWFkNDctNDRiMC1hNDcwLTc5YWJiMzI4MzVlNiIsImlhdCI6MTcyNDQ3NzYxMX0.nYbQg2_kej-ItG7yjw9YMWkYW8t4Pwxu5b96CxwfZLU
+http://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIxNDMsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjY2YmY0ZDE5LTIyMjMtNDE3Ni1iZDcwLTIxMGExYzI4NDg2ZiIsImlhdCI6MTcyNDQ5NDk0M30.AcRAr2Odzy_xLkfhCqfp2C9goZgVgzJ3GINhkD2Ttys
 #EXTINF:-1 group-title="🐉韩国电视🦆",SBS BIZ
-http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ4MzEsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NTlhYzJkMi05NWI3LTQ0OWItODMxNC1mOTUzZWVlMmJhYzYiLCJpYXQiOjE3MjQ0Nzc2MzF9.-VON99yw687u3kblTV22mVFbCNImXxBrosOEaxfDV0k
+http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIxNTksInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2MTU0ZWFlZi02ZWIyLTQ2ZjUtODIzZC0wN2JlOTNhYzJjYzQiLCJpYXQiOjE3MjQ0OTQ5NTl9.w6BHMUeGzQe_cQKPHI8uI6NoFzG6Fv51BGK7yq4FS4U
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프
-http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ4NDksInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwODc5ODAxNi1lNDhhLTQ5YTMtYWRhYS0yYzJhNGFjOTA1ODEiLCJpYXQiOjE3MjQ0Nzc2NDl9.-9FFGJRDAQ1AtE_wPLhwicKQeRhTwFNkIIEW38JbVn8
+http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIxNzMsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJhMjRjOTFmMy00MjdiLTQzZTktYjA3OS03NGM4ZTcxZjdhNWMiLCJpYXQiOjE3MjQ0OTQ5NzN9.TrvxQ8h16K3_NzzWcn4HrK1u4Ef_3RDMHgBG9-HaWO4
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프2
-http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0ODQ4NzEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNGZhZTdmZTUtNmE3MC00MDE2LTljOTEtN2QwY2VmNGMxNDFkIiwiaWF0IjoxNzI0NDc3NjcxfQ.N4p3RTJMgxkYxLheh0XRfe4Oy6uChC36cm8l_4KIzwc
+http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ1MDIxODcsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNGFiNDZiMDYtMDlhMS00NDhiLTg1NjgtY2Y4MWQ4MzBmZmRmIiwiaWF0IjoxNzI0NDk0OTg3fQ.ofjvUZXFOGw1bj40jcajYe1lGm98U1fYs-rFQnMjTmQ
 #EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLF
 http://211.110.63.98/jtbcgolf1/_definst_/9248DE5262A73AF4018ADD682BE64A9C33D45DF7C51B8D2E9BC57F064361365D/chunklist_w1712801991.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
@@ -196,8 +196,6 @@ http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉韩国电视🦆",최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",sbs스포츠
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ0MDUwMDMsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmNDEzNjljYy0xYjMxLTRkNDktOTE1NC0wNjNlMzdmNGIwNzAiLCJpYXQiOjE3MjQzOTc4MDN9.zVgp2oDQIPa0EJJ6EJy4JcoFZNoYRAo7moNh8UrAOvs
 #EXTINF:-1 group-title="🐉韩国电视🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",한국영화
@@ -1965,6 +1963,14 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉쇼 음악중심🦆",866회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/dbe2704d-8b10-42d9-aab8-d967784b67d8/ae8f8a41-c0ea-47d5-ad97-d8a7f5b8e2ce-master.m3u8
+#EXTINF:-1 group-title="🐉차트를 달리는 남자🦆",402회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/9a02e579-117d-4c6e-b12e-7c62236e1eab/77719a96-f949-46e5-bf0e-91098b79d51f-master.m3u8
+#EXTINF:-1 group-title="🐉국악한마당🦆",1520회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/355f6064-7097-4ca6-bda2-84969ff69cc7/37b580d3-1e7e-4420-b358-e9b2cc03b7a6-master.m3u8
+#EXTINF:-1 group-title="🐉영화가 좋다🦆",917회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/064fcfa3-24d1-42e2-8aef-a4d48bd12313/81fc6c9a-ac0a-4ba3-9728-e3e8c93d31f8-master.m3u8
 #EXTINF:-1 group-title="🐉독립영화관🦆",0823
 https://videos.ontvkorea.com/static/streaming-playlists/hls/39da0c57-4b88-4810-8b1b-14003aba1697/8bfcd3f1-0038-49b5-8b9e-22cee94eb935-master.m3u8
 #EXTINF:-1 group-title="🐉마이네임이즈🦆",8회
@@ -1979,16 +1985,14 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/02509849-d4d7-4f3c-b
 https://videos.ontvkorea.com/static/streaming-playlists/hls/1f4ac5d8-455b-4b0e-84a8-46dbcde95ec3/547dde6b-13e0-45ce-ac47-76e73f76eac3-master.m3u8
 #EXTINF:-1 group-title="🐉서진이네2🦆",9회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/0ed563ad-8f72-4a4f-b811-5072dbeda94c/354f1d9c-48d4-4e9b-bf86-220f0179d500-master.m3u8
-#EXTINF:-1 group-title="🐉편스토랑🦆",237회
-https://www.segyen.com/20240823/na2563SQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉이십세기 힛 트쏭🦆",229회
-https://www.jroad.xyz/video/m3u8//70d75cc0/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/21dd8c32-585f-4762-a1f2-7fc9a5969e68/aca4f0a8-f4d3-4989-954d-427faae321aa-master.m3u8
 #EXTINF:-1 group-title="🐉맛잇는 녀석들🦆",477회
-https://www.jroad.xyz/video/m3u8//9bd5e63b/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/b0a56fa5-6f55-4385-b932-1cbcc0896efb/c60df247-5bb1-4ae7-984d-265e85f07975-master.m3u8
 #EXTINF:-1 group-title="🐉요즘 육아 금쪽같은 내 새끼🦆",204회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/e1afa4cb-697b-46f7-9051-b0f1237a5ba2/a7b28bbe-72e3-4da9-bf6e-0c63735f9cef-master.m3u8
 #EXTINF:-1 group-title="🐉프리한 닥터🦆",166회
-https://www.jroad.xyz/video/m3u8//9b33437a/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2d57186e-38ec-41dc-9e62-b3f69ab45b89/fd10241e-afbd-47bc-817d-e4ee0b4a3fa1-master.m3u8
 #EXTINF:-1 group-title="🐉미스쓰리랑🦆",17회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/e6be1a09-1472-4401-b417-dbfd533871f0/414b7113-7f76-4ee6-ad21-9773da58acb1-master.m3u8
 #EXTINF:-1 group-title="🐉이혼숙려캠프🦆",2회
@@ -2032,13 +2036,13 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/526edd95-a670-4819-b
 #EXTINF:-1 group-title="🐉골때리는 그녀들🦆",5회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/34af071f-a72a-4e9c-ac50-2bf6a21598a1/db946b49-9136-45f7-b35e-3ca16174ceff-master.m3u8
 #EXTINF:-1 group-title="🐉2장1절🦆",14회
-https://www.jroad.xyz/video/m3u8//d53292cf/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/6a3dea05-f979-467e-a632-5442927a44e0/7bdc370f-8c74-44b1-b4bf-3ecd357d1282-master.m3u8
 #EXTINF:-1 group-title="🐉유퀴즈🦆",258회
 https://www.segyen.com/20240821/jsbgrD69/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉벌거벗은 한국사🦆",122회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/963d8190-0a0b-4096-a9d2-79816ce6dedf/7644bab9-26db-4e20-bfda-d4bd878c3117-master.m3u8
 #EXTINF:-1 group-title="🐉태군 노래자랑🦆",18회
-https://www.jroad.xyz/video/m3u8//0f357b25/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/fcda61dd-1574-479f-b48b-96a8a9c9e180/9d464c9c-1f71-4fe2-b968-b75600bad4f6-master.m3u8
 #EXTINF:-1 group-title="🐉주간 아이돌🦆",0821
 https://videos.ontvkorea.com/static/streaming-playlists/hls/11d1fbea-6e03-4450-844c-0ada8c7e4454/c6ba50ee-393a-40e5-8a0d-9ee2da396d8f-master.m3u8
 #EXTINF:-1 group-title="🐉꿀잼 영화가 좋다🦆",0821
@@ -2048,17 +2052,19 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/2cfbc3bd-0842-47c9-9
 #EXTINF:-1 group-title="🐉공개연애🦆",1회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/e0fd32c6-cc5f-498c-b410-9e7e159d9b8e/bdb3151a-b40f-455a-831b-66a12d17c553-master.m3u8
 #EXTINF:-1 group-title="🐉정글밥🦆",2회
-https://www.jroad.xyz/video/m3u8//03bd77d6/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/e7f91c07-4bbe-4dc5-b61e-55bfb18b971a/288e5839-e91b-4397-aa77-0cdca15e56ee-master.m3u8
 #EXTINF:-1 group-title="🐉한일톱텐쇼🦆",13회
-https://www.jroad.xyz/video/m3u8//bc80498e/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/c4305a77-183e-4c76-be72-4372b971ba88/05bb176a-75d9-4a2a-a8cc-3b9ac24e90eb-master.m3u8
 #EXTINF:-1 group-title="🐉최강야구🦆",95회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/fc57cb3b-5436-4cde-8396-1ab05888f243/27495d99-9a84-488a-bb01-571b9937b6d3-master.m3u8
 #EXTINF:-1 group-title="🐉톡파원 25시🦆",126회
 https://www.jroad.xyz/video/m3u8//eee617b6/index.m3u8
 #EXTINF:-1 group-title="🐉가요무대🦆",0819
-https://www.jroad.xyz/video/m3u8//ca8fd2fe/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/1737fccc-43cb-47ec-ad31-109d5e9c9019/8730ea92-c654-44a7-81e1-4cc9a67d4a66-master.m3u8
 #EXTINF:-1 group-title="🐉더트롯쇼🦆",121회
-https://www.jroad.xyz/video/m3u8//2e90c301/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/a0742553-9cbc-4c07-9a9c-9fb8bb20cd59/20fc6006-b37b-43ae-a851-24f68eb2de9b-master.m3u8
+#EXTINF:-1 group-title="🐉신발 벗고 돌싱포맨🦆",149회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/02a8b251-7941-447c-9581-f4278126b232/bd1dcdfa-76a7-4777-b355-c4ff132b703f-master.m3u8
 #EXTINF:-1 group-title="🐉심야괴담회🦆",7회
 https://www.jroad.xyz/video/m3u8//f5760545/index.m3u8
 #EXTINF:-1 group-title="🐉태어난 김에 음악일주🦆",1회
@@ -2116,9 +2122,9 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/1bca681f-9d32-4220-9
 #EXTINF:-1 group-title="🐉복면가왕🦆",461회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/96b9e925-7dd4-4368-aa1b-195341b12b6e/6c57d98b-2a14-459f-b3fb-d2c35936e079-master.m3u8
 #EXTINF:-1 group-title="🐉전국노래자랑🦆",2223회
-https://www.jroad.xyz/video/m3u8//9fd818b2/index.m3u8
-#EXTINF:-1 group-title="🐉열린 음악회🦆",0818
-https://www.jroad.xyz/video/m3u8//18d2e8e1/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/8295bea0-b385-4c93-a0b2-9d5e59ff63d5/1c5c7bc1-ce75-47eb-9591-d019f96a0dd1-master.m3u8
+#EXTINF:-1 group-title="🐉열린 음악회🦆",1492회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/8a9fb643-b52d-41b2-a25a-696fad18d0e0/5f0450b8-ab75-4d91-9958-9d380b337a02-master.m3u8
 #EXTINF:-1 group-title="🐉한국영화 클래식🦆",0818
 https://videos.ontvkorea.com/static/streaming-playlists/hls/0aeac8ac-f7a2-4aa8-a2d4-f670c9580cd3/65ee05a8-ddeb-443a-84ab-1b2133f4c103-master.m3u8
 #EXTINF:-1 group-title="🐉알토란🦆",503회
@@ -2160,7 +2166,7 @@ https://vod3.cf.dmcdn.net/sec2(igyzILbLirT0YIRl5awGbFCukRRQajjlG8CWgH-6woj2XzuDG
 #EXTINF:-1 group-title="🐉조선의 남매들🦆",미스 미스터트롯 5회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/57912629-a02d-4927-ba5f-0529c6d91b22/c9fbff27-fe84-4cc6-a6be-9c1b8d46d1c2-master.m3u8
 #EXTINF:-1 group-title="🐉산따라 물따라 딴따라🦆",12회
-https://www.jroad.xyz/video/m3u8//719502c5/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/66897515-9cdb-4395-a387-77c383f2abb5/6d3813c8-1be7-4344-8414-ff56596dabc1-master.m3u8
 #EXTINF:-1 group-title="🐉산따라 물따라 딴따라🦆",11회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/4ff1bae4-8d8e-4811-8f38-67e3e5db8f81/7d9e5d44-87b1-4165-abf9-edad5c9504c2-master.m3u8
 #EXTINF:-1 group-title="🐉산따라 물따라 딴따라🦆",10회
@@ -2256,7 +2262,7 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/5af99338-2af0-4133-9
 #EXTINF:-1 group-title="🐉전지적 참견 시점🦆",310회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/311b5a93-ad62-45c5-8de0-2aed14f8cf86/5575ba27-0d2f-4899-8125-e99e59914fb8-master.m3u8
 #EXTINF:-1 group-title="🐉콘서트 7080+🦆",5회
-https://www.jroad.xyz/video/m3u8//483c4f8a/index.m3u8
+https://videos.ontvkorea.com/static/streaming-playlists/hls/746ae1db-4857-466f-805e-86d22baab420/6294fa15-cff4-48cb-b8a9-129bd11ade74-master.m3u8
 #EXTINF:-1 group-title="🐉팡팡터지는 정보쇼 알맹이🦆",0818
 https://videos.ontvkorea.com/static/streaming-playlists/hls/c4f209a4-f576-4031-8a19-6d7d38f6499c/743693e0-b531-4a0c-96a0-070cd79b72d5-master.m3u8
 #EXTINF:-1 group-title="🐉신비한티비 서프라이즈🦆",1127회
