@@ -1963,6 +1963,10 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉놀라운 토요일🦆",329회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/707aee16-e380-4589-9eb6-e9a62967def5/c1bd4aa0-27cd-49ae-b70c-f7666713a062-master.m3u8
+#EXTINF:-1 group-title="🐉산따라 물따라 딴따라🦆",13회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/22d1e943-a45c-49cd-bd10-0246aae3ddb1/ee87e064-da28-4d99-8b7b-03c088ff52c3-master.m3u8
 #EXTINF:-1 group-title="🐉곽준빈의 세계 기사식당🦆",0824
 https://videos.ontvkorea.com/static/streaming-playlists/hls/b84abecf-d01b-4d52-8136-8cfa256152ca/068b3be6-090b-42f2-b7a8-01cf1b5932ea-master.m3u8
 #EXTINF:-1 group-title="🐉불후의 명곡🦆",670회
