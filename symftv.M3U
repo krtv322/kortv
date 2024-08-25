@@ -1957,15 +1957,42 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1,TV Chosun
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
-
+#EXTINF:-1 group-title="🐉한국영화2024🦆",핸섬가이즈
+https://svipsvip.ffzyread1.com/20240822/30716_a45f8db3/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",설계자
+https://svipsvip.ffzy-online5.com/20240816/31439_a91a50a0/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",하이재킹
+https://svip.high21-playback.com/20240815/38237_f101e10b/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉드라마 엄마 친구 아들🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2babd468-9d40-4309-b65a-75fbd30d029f/a4446f25-a3ed-4e86-9796-bda00387b58f-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 엄마 친구 아들🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/28733cf0-e4dc-4357-8467-d7dd19db7ad2/d5f816a2-c87a-4ddd-8fd2-debfb55606a1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 엄마 친구 아들🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/f5db10d9-b1d3-446d-a4b2-77f1b77bbf63/ced6916a-e4c9-494b-94dd-6647d7b4ea2d-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",8회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/69f4bff3-6cd9-4c7a-9602-82e123851071/96266f80-1b00-4e13-99a2-d2807756b7f1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",7회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/9fe89c76-5bdc-4ead-8e21-28ba1e2fbcf8/79cf712a-ece3-4733-87ca-3a80307b8074-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",6회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/227b0106-4fcd-4ab7-8a2b-dcc5614a51e4/911011ba-55e1-4305-8826-74aacdedce6b-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",5회
+https://www.segyen.com/20240816/vHSOXaCV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",4회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/b02e394c-c101-447b-a65e-9af75e9b8d1f/54e2b442-e73e-49bc-baae-1588649ec4a1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/8b469300-1c2c-46f5-84ac-c7a51b2dfc98/713ff5ac-5524-4e2f-b758-446a3034256c-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2f3d36b0-7f4d-437d-8f2b-7235f0ef6583/5c154d6b-c2a0-4b89-8465-39eb9a249bdc-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 나쁜 기억 지우개🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/721f7857-4c26-413b-beab-d0a925cb5649/19868b3f-f904-434c-961e-a3fe093f969a-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 백설공주에게 죽음을 - Black Out🦆",4회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/a9c29843-e8cb-48b8-8ab9-fb6d203adbe8/7f6ff7eb-0bd2-4910-b7d8-116b17b3d3b2-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 백설공주에게 죽음을 - Black Out🦆",3회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/f409baca-12bc-461c-b349-b9c265b06991/44174c27-257a-41d4-96ae-c1e5bc291815-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 백설공주에게 죽음을 - Black Out🦆",2회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/47decb82-e259-4fb4-b315-c85fb8645fec/0ee365c9-8688-4ee5-86d2-bf8b6f249ab5-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 백설공주에게 죽음을 - Black Out🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/491f10c8-b797-49a3-9dc1-777e7d798d90/48ab9e23-7b78-45d2-8c6f-613e5d2274ca-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 굿파트너🦆",9회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/5997f8ce-982f-4efc-931d-d086ab3f5491/4de14130-9de2-401e-b5dd-f553d3b2ffc5-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 굿파트너🦆",8회
@@ -1992,6 +2019,54 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/b5130f23-c7e5-4a00-9
 https://videos.ontvkorea.com/static/streaming-playlists/hls/b6701f6e-d620-4dea-957a-7f716ee9d53f/01147a32-ca9d-4d74-949b-205e3e4ffe78-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 가족X멜로🦆",1회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/15ec5e0d-11c6-4237-ab1d-e376d053b998/6cb3cb72-5911-4d67-8572-c6eab3bb5ad1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 DNA러버🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/926cb335-c953-4358-b0b3-425166549a09/ba9fea60-aca2-45b6-836b-d03624515547-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 DNA러버🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/8324823f-0a7f-49b4-bb8a-46c2a6f02443/0137904f-78b5-4533-b4eb-4efcec50deba-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 DNA러버🦆",1회
+https://www.segyen.com/20240817/fcGI0ASj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 새벽 2시의 신데렐라🦆",1회
+https://www.segyen.com/20240824/kp3AfTkq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 미녀와 순정남🦆",41회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/fe8c450c-5a98-4049-b0bc-accc82bd9547/16713d3b-79f2-4cd5-85a8-92c151350f20-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 미녀와 순정남🦆",40회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d108ed72-4264-494d-8dab-94b47552189a/dcb8a733-928b-4150-b24f-a96f98175604-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 미녀와 순정남🦆",39회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/38a8e521-49b2-46e0-b846-df8ab6b1717f/6b276b01-5ed8-4f7e-8b67-0b486e5497cc-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 미녀와 순정남🦆",38회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/8b4c2c58-056c-44dd-a806-9189e9ede5a4/e88da6a0-2078-48cf-b07b-e3b4547f9f02-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 수지맞은 우리🦆",98회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/e3b52cb6-bf21-436b-8fe7-e1f1af2bf022/148ae40e-5886-49eb-b2c3-7c73383a5ce6-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 수지맞은 우리🦆",97회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/102ef44c-aa67-4c62-bd57-89660dec3178/13e76110-26d6-4ab2-a8ed-34012f1d91c6-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 수지맞은 우리🦆",96회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/396efcdb-e9be-421b-ae11-117a47eb6131/41616cbc-2c2d-4567-a36d-6780204efc21-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 스캔들🦆",40회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/cb5217da-5903-4058-9b2f-3069a84e807b/65180ab8-a688-4d82-950a-b21ea565e5c3-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 스캔들🦆",39회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d9755f7a-1515-4a3f-984a-1f78aba476ae/69202e24-0ac1-4425-88e6-d44a8205632c-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 스캔들🦆",38회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/980178df-cd63-4b42-b727-5afb423de348/5c5c9980-a014-46d8-8d1b-f3787afaec35-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 용감무쌍 용수정🦆",70회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/e0925fcb-2f17-40c8-8621-b718f2687b93/3bd36f63-5f08-4ba2-b51c-722bb67a5a68-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 용감무쌍 용수정🦆",69회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/e68df558-7ced-4a36-a79e-47e882b9fc8d/db0b06cf-c8aa-4c08-803e-d84ff2fa30a8-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 용감무쌍 용수정🦆",68회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/f9ebab66-9f7d-4f7a-8e33-1b1da7fa7453/13cf40dd-52df-4614-b735-e747048aed7f-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",7회
+https://www.segyen.com/20240822/9HCZ2m7m/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",6회
+https://www.segyen.com/20240822/AbmId7Ox/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",4회
+https://www.segyen.com/20240815/DyiioGMN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",3회
+https://www.segyen.com/20240814/5dsiAXWJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/60410c2b-8c1a-4d0a-9018-b5c4955df79c/00959572-f1ab-4921-a819-1b67b50d72e8-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 사랑의 안단테🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/28ef29b5-f16c-41f4-af8e-bef14f716d23/4caa4ed8-8de9-4a4c-9aad-07c1708dd36f-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 파친코 시즌2🦆",1회
+https://www.segyen.com/20240823/OC94cInO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉드라마 완벽한 가족🦆",4회
 https://www.segyen.com/20240822/mpaolyKE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉드라마 완벽한 가족🦆",3회
@@ -2000,6 +2075,60 @@ https://videos.ontvkorea.com/static/streaming-playlists/hls/fdefff5d-e709-4b75-8
 https://videos.ontvkorea.com/static/streaming-playlists/hls/5573858d-8932-4251-8d6b-cfca6a95b06c/623d72b5-4bf6-4903-ad07-0ead5eb193fb-master.m3u8
 #EXTINF:-1 group-title="🐉드라마 완벽한 가족🦆",1회
 https://videos.ontvkorea.com/static/streaming-playlists/hls/6fe68e84-99e8-4ee4-bafe-7a7378b5dedd/a5bf18d3-9401-46bb-ad36-1d06f3875545-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",8회
+https://www.segyen.com/20240821/ELyp65n5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",7회
+https://www.segyen.com/20240821/gPTpIxeR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",6회
+https://www.segyen.com/20240814/vx8lEcPq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",4회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/53f9c761-bcee-4e17-89b7-036b3fd11587/6ad387a3-3f72-42dc-a78b-2444fe37604d-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/376f556b-a8b1-4c22-870e-f8f5c0d0f5d7/c7661247-21fb-4b8a-8fdd-d945db57deed-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/b7a6b915-7b40-4eb4-82ce-b14cd4d38c60/44bbb9a0-fe38-4a18-be5a-cb153b70a2fc-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 노 웨이 아웃 더 룰렛🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/71f511d5-eba6-4395-80a1-85da1413743c/9fea85bb-4e64-4cf2-a9fb-cdb91424a104-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 OPENing(오프닝)🦆",2회
+https://www.segyen.com/20240819/BIC0AlIx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉드라마 OPENing(오프닝)🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/a22b314b-46f0-4fe0-9b90-1f9f78627c52/072f8bb2-7f7c-4bbe-8ecf-d228dbba8abe-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",8회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/22d242a5-92b5-4187-be28-98ee65626049/e6da1354-7429-4e0e-a749-55df179131e3-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",7회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/9838dacf-b1c6-4978-9462-2667a66c4681/805202fe-291b-4b89-9202-c4f61be432af-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",6회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/f3a17ecb-658d-480d-a592-cc65f30b848e/ba0c74f3-f6e0-46c7-9db3-9fc95fa73eaa-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",5회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/3da611b4-74c6-4112-8960-c1f4d1072f75/27ab029e-c28b-4d97-b964-9bf9a7f83efd-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",4회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/b9856af7-b6c3-45ac-9ec3-18de86cced62/fc15bd55-638e-40c1-8c12-948e552c9dee-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/a0727426-cf0f-43c1-bd85-9bb6b074fd42/47e307cc-87b6-4b37-9423-85d3607188ee-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",2회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/52adad92-e077-45a0-b346-e245f847a140/b274dc89-2093-4cd2-8063-e2d18ed95a30-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 우연일까🦆",1회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/4c5b1d93-5120-4f3e-8025-a5845673f6db/0da5b5af-a54f-4ae8-b4b5-8c058ee376f9-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",12회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/d6c2af63-69d3-4395-bedd-f28fd2b8d05f/34d288b7-c92c-4087-8921-e841f2664dc1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",11회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2bbf9bb2-5a23-4d7f-9111-e1a9b6d8482a/c8d91b3c-18fd-4f6b-999e-6b616e3febd4-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",10회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/7653353d-fbb8-4003-ac1b-ec51b42ed821/4d7f99c0-ad3b-45f3-98ba-32fadf09d1e4-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",9회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/81234e92-4608-4851-bc92-a4555230fb2d/236d429f-55b4-43b4-88ca-e26fb9e0ea73-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",8회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/5de125c3-75ac-42a5-a046-9373bad2278c/e524c546-f077-4db1-9f13-23d9d60f8eaa-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",7회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/2a72d0dd-4c04-429d-8e11-deea45098fba/6b08f2b8-48ca-4fbb-b75e-01c076679d4f-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",6회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/68265160-e99d-48fd-bc9a-ceef773e1a4c/df0f59f1-a178-4b2b-adbc-69fc5ecdd3b1-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",5회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/09f2c671-4776-4cba-a0ed-2a7bc0c69d74/1de2812c-4c25-4b5e-95b2-dd9aae5a05e7-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",4회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/e853f42e-d7dc-4e53-8d6c-0ce3e7b926fd/57f5c8e4-8d57-4028-964c-2251a07b945a-master.m3u8
+#EXTINF:-1 group-title="🐉드라마 감사합니다🦆",3회
+https://videos.ontvkorea.com/static/streaming-playlists/hls/1d3652eb-1bb9-4f42-a762-89b3a28f5b0f/7d7614d6-e9b5-49fc-ac22-6a1b09df8834-master.m3u8
 #EXTINF:-1 group-title="🐉전지적 참견 시점🦆",311회
 https://www.segyen.com/20240824/lggdvaLg/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉동치미🦆",614회
