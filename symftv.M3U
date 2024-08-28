@@ -152,7 +152,7 @@ https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=17248
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs
 http://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ4MzAxMTIsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImMyZDg2ZjA0LWU5MjMtNGQ4Yi1iN2UzLWZjMDIzNTcwNTZlNSIsImlhdCI6MTcyNDgyMjkxMn0.U1nx3BClulQXTZeRgcGcvHxPHC31urIe5Ugy0UI1UQI
 #EXTINF:-1 group-title="🐉韩国电视🦆",MBN
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=AACx1HRf0VMK9FmiuwVq09ScKSW88xBLiNab4sU2&secret=1126ed7ee39adfd22c18078f86e52bc5&time=1724823252
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDkxNTQzN30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=uZkkPC2iVr-NWUU4bwvL2uuJ6rl14ruBShyYIQDo6QAh5c2Y5JucjupKxc7ghJ6un7A2cE8PPZu3knwx4aD9RckkPghzkts1NRjy1xWPJcbVhdH~ovvSLoNItyyWxRRJkW3G-kgEaRz7MoQhEaZ2z539QDnN8l8UdBQoxfoYv7k_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国电视🦆",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -166,13 +166,11 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjQ4NDY0MjN9.U8KVhuEPFdhXLSeNW0gvrqWYxiGbqTLsQJbHabcTWZg
 #EXTINF:-1 group-title="🐉韩国电视🦆",tvn
-https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=dpyCiUhsuoOZ6XO0W5bEojvyccdzuaGNCUMJ6H8D&secret=44e752fd6e77bddd5c7d32d6c4826269&time=1724816874
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=fHQ7U6dzZOKYeQMlijyVLdbNinvy0aSjIg8ZEf5H&secret=2aa5f5a962a6d50859df5f25e2f70f6c&time=1724828886
 #EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=xuc4nhsp2qYcD8HKOIRSL5i1QMcUuufzneAERvcf&secret=f88691c73bd5629cd239cd29e970ed9f&time=1724820822
 #EXTINF:-1 group-title="🐉韩国电视🦆",OCN
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=4cdVSvJeCdD549O7iLL8zy0sVekgnrubcBZ5xuew&secret=53ecbfef32ba83006e110466560c28d2&time=1724820882
-#EXTINF:-1 group-title="🐉韩国电视🦆",MBC ON
-https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=lXJSKwLmMiVWSkhjFMmPeIhXpzYeNtRyg8PdUtCt&secret=97ebc0eeccea8406033130ab71a27668&time=1724825681
 #EXTINF:-1 group-title="🐉韩国电视🦆",INET TV
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=nuD8yhNdLAg879WI6v02pKLL66dUp1VHsfJrN45E&secret=e0eae8ed90ddde25b70d72d44a0c135f&time=1724821071
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBSDLAMA
