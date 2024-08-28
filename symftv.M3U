@@ -169,8 +169,30 @@ https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=TGfFd2wrHh1mqrmVyjrrhQXHZPFWXCflI6PueY3a&secret=de43393b8e3ddd99b6cba27e3ca01e82&time=1724808296
 #EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=qMjxAYVs6kZaCrEmOOIZdidGridyCA1CcmqE6sfW&secret=1e95f11c68a91ee98fdac6e6c44a9b57&time=1724808585
-#EXTINF:-1 group-title="🐉韩国电视🦆",KBSNSPOTS
+#EXTINF:-1 group-title="🐉韩国电视🦆",OCN
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=ixWkQCrwlOfuyCw6812bCH03XI2AcKc2i8p1mKzW&secret=aa8f729319299123bba445fddd8798e0&time=1724809850
+#EXTINF:-1 group-title="🐉韩国电视🦆",MBC ON
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=9u3vfc8Yg9q1LVXjxBLzdV6WM9DIVkEFqSOkXn4D&secret=87798496b725f02256bef830ce2907ca&time=1724809918
+#EXTINF:-1 group-title="🐉韩国电视🦆",KBSN SPOTS
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=Uj4ekQ4x5IEyIJNxrURNzQmXNH5PsvSjbAJj8sQm&secret=5badaa444e9d4360838f0f8ee92c9dca&time=1724808922
+#EXTINF:-1 group-title="🐉韩国电视🦆",MBC SPOTS
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=03b1aCaPvjLGiG6Hbz9sFc7pZOUIeFBYvwjy7QzQ&secret=d3cf886c29084567851601f358d39aa1&time=1724809392
+#EXTINF:-1 group-title="🐉韩国电视🦆",SBS SPOTS
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=J7hC5D9vfuCbz7TYScJy3SdQAUa34qtNz8NKr784&secret=57bcaba16c0937609db3c8f5338adf98&time=1724809651
+#EXTINF:-1 group-title="🐉韩国电视🦆",SKY SPOTS
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=ISszth9UNwAUsDz8K4tuRVnf63N2YSzDHJH2HtXO&secret=a3e400347fb45b92982ea9a97dedf1ab&time=1724809559
+#EXTINF:-1 group-title="🐉韩国电视🦆",TVN SPOTS
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=ip7V05xcLAQMtSrF0Ahj5aOJYfW5pCgdzCVs943h&secret=25fb8803cd8d76483fe85b2a0f5c2c20&time=1724809993
+#EXTINF:-1 group-title="🐉韩国电视🦆",SPOTS1
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=rdZTlGlQaFgB2Ubg1178Y136MKtzYBOyJ1iwcorL&secret=dd62204987cab27e00cc629e1fce55eb&time=1724809712
+#EXTINF:-1 group-title="🐉韩国电视🦆",SPOTS2
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=5R5rP9rx0anqrpvonMrUQrAwhB3wyBRenpzBK036&secret=c0432ce70ce2a8b7156c1562eb416ad8&time=1724809766
+#EXTINF:-1 group-title="🐉韩国电视🦆",SPOTS PRIME+
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=ZOJQgxxfs3SjC98iXHQGR8vcxOFbsKULsjvxRgEJ&secret=249e7d7949d724226b1b13716efd4e5d&time=1724810094
+#EXTINF:-1 group-title="🐉韩国电视🦆",SPOTS PRIME2
+https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=shif7mvpzSqrsRwwMTg9xVCUl6ChGtuPhWUBIAZi&secret=9e3ea558c45fe7acc587dbecbb589c5a&time=1724810332
+#EXTINF:-1 group-title="🐉韩国电视🦆",SPOTS ON
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=gJr9lcYpyBEoSvcfTwsgImInZhqEnI4kZ7R5dP2L&secret=417eb950b79d01867e68bf91609ee6eb&time=1724810249
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBSDLAMA
 https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1724806699&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDgwNjY5OX19fV19&Signature=j9M3Gz~qvieWwyNaiw9koL1yqpddn6s0JISoQ1HdlSoyjzAgte9~ypK6sovP4oo0g7LxJtVqDAsPVBoRGQTuHpr~fHKgLACT2RlRF4CtHgQL6e0v-kLixuOefHnvoLpFIzIv-cQ~QjhTicniXsIo8GRQDoVhHiE5WkV2APCpLPcgTtnXcOMl2qIPoVDmMqyeTGEJ7ZthYRt8sywwF3hFHfMkN-cpvax8JlqAFAeGRMelQSjdVFasb3vAHAJhVVJIw37PqzjEUfGB0PswWbsl64-cAx2tJhNCCdlYxdmGVXXkheITBPoatb4Q37inE88BW7BbUISP~KnBv6smJyiYeA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS JOY
