@@ -23,6 +23,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="🐉韩国频道🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",채널a
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjQ5MzI4MjB9.MGBIQq3AYMIon3tGe6qXtU-CUG8yz1VHCGFpek68StI
 #EXTINF:-1 group-title="🐉韩国频道🦆",jtbc
 https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDkyNTQzNH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=MIztE3RzypX5fKBRMUhXibbCIUbXAbyVr7jyRPFV-kXJrYtTPVGRfarc1HNYr5sPJCUJRZ2N-hlqaRapLtHbCKirJR2Gwn4pCkmBoiFn6xiraW-U9wzCAZHnm3ap8o7Agk1S56wtxFpKgq7nkjGMe79koQ9BHPB2TwIAoF2knLo_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉韩国频道🦆",延边卫视
@@ -31,6 +33,9 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",YBTV-2
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉韩国频道🦆",TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",mbc drama
@@ -47,6 +52,66 @@ http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",Mubeat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+#EXTINF:-1 group-title="🐉韩国频道🦆",JTBCGOLF
+http://211.110.63.98/jtbcgolf1/_definst_/9248DE5262A73AF4018ADD682BE64A9C33D45DF7C51B8D2E9BC57F064361365D/chunklist_w1712801991.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",JTBCGOLFSPOT
+http://www.hwado.net/webtv/catv/58.php
+#EXTINF:-1 group-title="🐉韩国频道🦆",스크린골프존
+http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉韩国频道🦆",프로야구 5경기
+https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+#EXTINF:-1 group-title="🐉韩国频道🦆",최강야구
+https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",스타리그
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",sbs spot
+https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ5MDEzMjAsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyNTA5MjNmNS1kZDNiLTQxYmMtYTlhYy1kNmM2ODlkN2M2NzAiLCJpYXQiOjE3MjQ4OTQxMjB9.471PYslAxSQSoARS9513Fb5JrAHtwzVvJXnK-RP7XbU&solsessionid=1af8a775aa90f1c61b46dc998c6a5d82
+#EXTINF:-1 group-title="🐉韩国频道🦆",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",사랑의 콜센타
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",뉴키드
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:-1 group-title="🐉韩国频道🦆",1박2일
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_267_CE8DD5CA.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",서진이네
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_268_DACDF61E.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",나는 자연인이다
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",콩콩팥팥
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",맛잇는 녀석들
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",역사적 그날
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1724984155&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4NDE1NX19fV19&Signature=YBob1aVQXKxSQ40XIzbcl69sBPBmCCt0jaF6e8RKwPds~3kiHXuB8iwQWph0f14aMYoFx5i1PwdzIJba8VGIYthN6MKT8j8mR6fhY9vHgjw1akRA~8znBP3Mweex7T1dwo5HL1wXJZj1LTJv7lKZp1OefpyF~iC-J0COUbQ9kv7YprXdZFkFqrRP8vsPBLx2j4ojaRr5apIrBH3k4xTTLF8XFv3i4YTcVE9oVeyIW-8Jw40qxyfS~~EvLwIiyqzscn9R28NAc9iZuI2z-adT249d710RgZO7DNsUN2626pEJbYXyNNHx4hbiYGJoGYGVBBJSfwaVx8Us8UJ3NvPilA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🐉韩国频道🦆",도시어부
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",백반기행
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",KBS KIDS
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1724984031&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4NDAzMX19fV19&Signature=QjsWpTnUMAHyr~dqJVPoco9sS4bSa3Vmjr5v2KgfLNCae4LnJZgvg8suzX3K3cmp--P9ng6OG1ungdXHmRsd7yPMqyH3qVrSHQL8zxqdW9oAWgmQLwjb~NqZrYdf~DKxeBdEK72EAUJBt8ozu53jb4yNtPRh5~qUIGe~zLsedjVaeANPnURtVkx4onrGwey6TqPS-PsP9MqH3M2hJ00mQjNVFNQbxb-VJm1LUbJUfDoVYpkn0XwPkxMxDaOYHkrfXGaMEOL8uWfghDYqeoK5v27hmWbXfAquq09UObRwkHJ721fODX1CMU7aw3vnX0B-5es26oRT7DTyzUNkoMA~DQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🐉韩国频道🦆",KBS어린이만화동산
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1724984118&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjQ5ODQxMTh9fX1dfQ__&Signature=T4ykiO~e~ttQiGzEqzscxNXL9FE4azb5OHD4m87tUCjO1jsaggnT4QnHlvE3aej5u0zvhXMvrzqVUtnw00G5~vMvqHHKMo7hPNwQhQhCHH1WmYDNQUV6mkSR-fmJvJ5R8xlsO7Wyzfr7chaGPkn0GuTtWMqJbYLD7yVV5PFoHTdKW499FD-xDWsx9lEiDnDau1eXGfQ3JmqBmkhbBW4BEy81F15ox3J90aZxnImiRKR8nX0yQmherCXwnGAvX7daX0PhGMZiSUN~0wJFAdYgCuMukGLDCgmfTM~GLWPN~my~540jyIkOvBEAriSVAqmbBqeBoo4QBvod-khgvH9PHg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🐉韩国电视🦆",핑크퐁
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
+#EXTINF:-1 group-title="🐉韩国频道🦆",키즈타임
+https://d2tt54zlwwxv7v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9go3fzcjcsn6y/AcornTV_KR.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",뽀요티비
+https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/2317a89d-6593-4f0c-a335-6ee2f5f3e572/1.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",코코비티비
+https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/a24040b7-cccc-4634-a7bd-9e9f5fcdf65e/0.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",로보카폴리
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",보노보노
+https://1df737ec1d5c4d8b8b166da65a87c1c4.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/33fd0228-92d1-4914-8b28-76057f75562f/3.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",반지의 비밀
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/47776108-fab4-44e8-92c9-bbeb786fec5b/0.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",내청코
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/a64a25c5-8f40-4f89-a6a1-38feea6bed33/0.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",명탐정코난
+https://9a353877e2a140ab91b02e09cc7ced81.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/221a1680-1971-4146-9fff-3f7a2528dc2e/0.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",TED
+https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🐉韩国频道🦆",GugakTV 국악방송 (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",「韩国」tvN1
@@ -156,15 +221,10 @@ https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQi
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉韩国电视🦆",TV Chosun (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉韩国电视🦆",TV Chosun 2 (720p)
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",연합뉴스
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjQ5MzI4MjB9.MGBIQq3AYMIon3tGe6qXtU-CUG8yz1VHCGFpek68StI
 #EXTINF:-1 group-title="🐉韩国电视🦆",tvn
 https://live-jp-kr130.kacooltoys.com/playlist/live.m3u8?sid=OksfxPi0FvaxZnha9iOwfIqfSFCctYkNqNj4hSzt&secret=5b25fc115cb8a5ebbc06f1365d03a053&time=1724896098
 #EXTINF:-1 group-title="🐉韩国电视🦆",jtbc
@@ -192,70 +252,10 @@ http://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJK
 http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ4OTYxODgsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzZTBlZWE3YS04NjAxLTQ0NmMtOTViNS04ZTAwMWMzMzQ0ODQiLCJpYXQiOjE3MjQ4ODg5ODh9.UyRc34vzcpbxIbXG6RRPfOesRCYQLbgSU5InvJG9sP0
 #EXTINF:-1 group-title="🐉韩国电视🦆",sbs골프2
 http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ4OTYyMDQsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiODM5YmRkYmYtNjRhNi00ODIxLWI2MTYtZDkzZjE2ZmZkMDI4IiwiaWF0IjoxNzI0ODg5MDA0fQ.Ae_0zDS0o1qNo7XffSGg73LU0sKacL1w2BGFsMLmmSg
-#EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLF
-http://211.110.63.98/jtbcgolf1/_definst_/9248DE5262A73AF4018ADD682BE64A9C33D45DF7C51B8D2E9BC57F064361365D/chunklist_w1712801991.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",JTBCGOLFSPOT
-http://www.hwado.net/webtv/catv/58.php
-#EXTINF:-1 group-title="🐉韩国电视🦆",스크린골프존
-http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="🐉韩国电视🦆",프로야구 5경기
-https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉韩国电视🦆",최강야구
-https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",스타리그
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",sbs spot
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ5MDEzMjAsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyNTA5MjNmNS1kZDNiLTQxYmMtYTlhYy1kNmM2ODlkN2M2NzAiLCJpYXQiOjE3MjQ4OTQxMjB9.471PYslAxSQSoARS9513Fb5JrAHtwzVvJXnK-RP7XbU&solsessionid=1af8a775aa90f1c61b46dc998c6a5d82
-#EXTINF:-1 group-title="🐉韩国电视🦆",한국영화
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",사랑의 콜센타
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",뉴키드
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 group-title="🐉韩国电视🦆",1박2일
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_267_CE8DD5CA.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",서진이네
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_268_DACDF61E.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",나는 자연인이다
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",콩콩팥팥
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",맛잇는 녀석들
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1724984155&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4NDE1NX19fV19&Signature=YBob1aVQXKxSQ40XIzbcl69sBPBmCCt0jaF6e8RKwPds~3kiHXuB8iwQWph0f14aMYoFx5i1PwdzIJba8VGIYthN6MKT8j8mR6fhY9vHgjw1akRA~8znBP3Mweex7T1dwo5HL1wXJZj1LTJv7lKZp1OefpyF~iC-J0COUbQ9kv7YprXdZFkFqrRP8vsPBLx2j4ojaRr5apIrBH3k4xTTLF8XFv3i4YTcVE9oVeyIW-8Jw40qxyfS~~EvLwIiyqzscn9R28NAc9iZuI2z-adT249d710RgZO7DNsUN2626pEJbYXyNNHx4hbiYGJoGYGVBBJSfwaVx8Us8UJ3NvPilA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉韩国电视🦆",도시어부
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",백반기행
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1724984031&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4NDAzMX19fV19&Signature=QjsWpTnUMAHyr~dqJVPoco9sS4bSa3Vmjr5v2KgfLNCae4LnJZgvg8suzX3K3cmp--P9ng6OG1ungdXHmRsd7yPMqyH3qVrSHQL8zxqdW9oAWgmQLwjb~NqZrYdf~DKxeBdEK72EAUJBt8ozu53jb4yNtPRh5~qUIGe~zLsedjVaeANPnURtVkx4onrGwey6TqPS-PsP9MqH3M2hJ00mQjNVFNQbxb-VJm1LUbJUfDoVYpkn0XwPkxMxDaOYHkrfXGaMEOL8uWfghDYqeoK5v27hmWbXfAquq09UObRwkHJ721fODX1CMU7aw3vnX0B-5es26oRT7DTyzUNkoMA~DQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉韩国电视🦆",KBS어린이만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1724984118&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjQ5ODQxMTh9fX1dfQ__&Signature=T4ykiO~e~ttQiGzEqzscxNXL9FE4azb5OHD4m87tUCjO1jsaggnT4QnHlvE3aej5u0zvhXMvrzqVUtnw00G5~vMvqHHKMo7hPNwQhQhCHH1WmYDNQUV6mkSR-fmJvJ5R8xlsO7Wyzfr7chaGPkn0GuTtWMqJbYLD7yVV5PFoHTdKW499FD-xDWsx9lEiDnDau1eXGfQ3JmqBmkhbBW4BEy81F15ox3J90aZxnImiRKR8nX0yQmherCXwnGAvX7daX0PhGMZiSUN~0wJFAdYgCuMukGLDCgmfTM~GLWPN~my~540jyIkOvBEAriSVAqmbBqeBoo4QBvod-khgvH9PHg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉韩国电视🦆",핑크퐁
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
-#EXTINF:-1 group-title="🐉韩国电视🦆",키즈타임
-https://d2tt54zlwwxv7v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9go3fzcjcsn6y/AcornTV_KR.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",뽀요티비
-https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/2317a89d-6593-4f0c-a335-6ee2f5f3e572/1.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",코코비티비
-https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/a24040b7-cccc-4634-a7bd-9e9f5fcdf65e/0.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",로보카폴리
-https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",보노보노
-https://1df737ec1d5c4d8b8b166da65a87c1c4.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/33fd0228-92d1-4914-8b28-76057f75562f/3.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",반지의 비밀
-https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/47776108-fab4-44e8-92c9-bbeb786fec5b/0.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",내청코
-https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/a64a25c5-8f40-4f89-a6a1-38feea6bed33/0.m3u8
-#EXTINF:-1 group-title="🐉韩国电视🦆",명탐정코난
-https://9a353877e2a140ab91b02e09cc7ced81.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/221a1680-1971-4146-9fff-3f7a2528dc2e/0.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",延边朝鲜语综合
 http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 #EXTINF:-1 group-title="🐉韩国电视🦆",延边汉语综合
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-#EXTINF:-1 group-title="🐉韩国电视🦆",TED
-https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",KBS NEWS
 https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1724983903&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4MzkwM319fV19&Signature=bDSRrhNaQyzLM2BiobU3k~IUy4eB9iICSCKDRPwKNNrllh~RanBgWCV2diwfGdUuE7cjflRKxk-ZI6GEQYoBCVMcHHdUw4uTQfPlL74upYCtP5iRkFn5Bzpi2S24SlIhZsXAQ1QCBmF4D64m1DDiiBJZVw~gIlt~Jrq6tbTWUO3UAdXjJEg-tI0iYYlFdIbRfHSs~evIrOb1C7tIDqL0pHGIvFO4upjnQVzcIXPNV~APgQX58ZHftkZcqsvYTW1Aasl0ZnfvC1i5fDmBcQ-W1tJc-89VCMgrX474NHX9aJw2dODLgDTycjzdFVRu3oVEnE2SgVmOte2XQj8~licExA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国电视🦆",아리랑티비
