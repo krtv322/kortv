@@ -206,6 +206,8 @@ https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
+#EXTINF:-1 group-title="🐉韩国电视🦆",sbs spot
+https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjQ5MDEzMjAsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyNTA5MjNmNS1kZDNiLTQxYmMtYTlhYy1kNmM2ODlkN2M2NzAiLCJpYXQiOjE3MjQ4OTQxMjB9.471PYslAxSQSoARS9513Fb5JrAHtwzVvJXnK-RP7XbU&solsessionid=1af8a775aa90f1c61b46dc998c6a5d82
 #EXTINF:-1 group-title="🐉韩国电视🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉韩国电视🦆",사랑의 콜센타
