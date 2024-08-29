@@ -5,8 +5,8 @@ https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",KBS1대구
 http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
-#EXTINF:-1 group-title="🐉韩国频道🦆",KBS2
-http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
+#EXTINF:-1 group-title="🐉韩国频道🦆",KBS 2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1725078025&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjUwNzgwMjV9fX1dfQ__&Signature=aC83bmY9es7nzsRjmiza-yeOGE0OOH12Et-NR1RycQu~zn0t3s66nBM9zHGZfVjLmn~nlSJU3BoH7ZXg~CG88srQxDDf-Xo~t6TGKssS97~~wxbgqL6-WWXv-nj7~fuHQNSB7HJDwXFJ1CxomtI0SDWi5VjoJYtM2nioTKerM9r~YhYMNTmMWoy7wcARnu4EZrI~4DFSBaP2Y4VhE3~RC5564v8j6qVfXwmnqA5Q2UiPgeVPxQsbogfxloRWS0dBf8flTHkXFmWsw2gv0kYavaMzoLOZ6u7quwAK3kruv9n8hH3RcCsywW3gQm2wspu0rd226Mr2bIHerHCBXKIZdw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉韩国频道🦆",kbc SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",TJB SBS
