@@ -452,6 +452,7 @@ https://svip.high21-playback.com/20240824/38401_68346de4/2000k/hls/mixed.m3u8
 
 
 
+
 #EXTINF:-1 group-title="🐉한국드라마🦆",우씨왕후 4회
 https://svip.high22-playback.com/20240829/8912_40d88927/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",우씨왕후 3회
@@ -473,7 +474,7 @@ https://svip.high24-playback.com/20240818/3686_3bcc2d74/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 1회
 https://svip.high25-playback.com/20240818/2910_14af547c/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 9회
-https://www.segyen.com/20240830/0iMJORmU/1000kb/hls/index.m3u8
+https://svip.high25-playback.com/20240831/4146_40fa6cfd/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 8회
 https://svip.high24-playback.com/20240825/4000_1eb72ec6/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 7회
@@ -555,7 +556,7 @@ https://svip.high24-playback.com/20240818/3598_a16fdbd9/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 38회
 https://svip.high24-playback.com/20240812/2664_3253be1f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 103회
-https://ontvkorea.com/static/streaming-playlists/hls/36323310-0dd2-4499-a74d-ae803b136bd5/b0aae530-bbfe-40eb-8417-028d984a9d7d-master.m3u8
+https://svip.high25-playback.com/20240831/4148_462b519b/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 102회
 https://svip.high25-playback.com/20240831/4090_780de513/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 101회
@@ -587,7 +588,7 @@ https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제75회
-https://ontvkorea.com/static/webseed/1291c575-818b-47e0-9f20-2c9e9865a4e9-720.mp4
+https://svipsvip.ffzyread1.com/20240831/31070_1c050219/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 74회
 https://svip.high25-playback.com/20240830/4032_397f01f3/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 73회
@@ -1017,7 +1018,14 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆",국악한마당 0831
+https://ontvkorea.com/static/streaming-playlists/hls/c0b7df7c-64b9-4f65-bf6a-e3b53c0b2793/29331871-f20e-4736-b81f-71448da02cba-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",영화가 좋다 0831
+https://ontvkorea.com/static/streaming-playlists/hls/3518cfad-5f3e-47e9-bded-59f761fdc25a/770fc82b-7f4c-41c1-9854-cffd2cae7483-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",접속 무비월드 0831
+https://ontvkorea.com/static/streaming-playlists/hls/b27b247e-490d-4281-90b2-ee1d0cbbdbbf/fa3cd842-9641-4948-a377-4e4173ffba70-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",쇼 음악중심 제865회
+https://ontvkorea.com/static/streaming-playlists/hls/b2168acd-2079-4fcf-9d65-aced9519033c/4ddde485-6d44-4746-bb6f-769178500258-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",신인가수 조정석 A List to Playlist 제8회
 https://svip.high22-playback.com/20240830/9020_54db82f4/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",신인가수 조정석 A List to Playlist 제7회
