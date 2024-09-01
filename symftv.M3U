@@ -1054,9 +1054,12 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆",사장님 귀는 당나귀 귀 제270회
+https://asia.joovideo.cfd/static/streaming-playlists/hls/f86a1b7c-e1a6-49de-b48a-33d91a15f628/a9e86df1-73f2-4236-9b4b-1850ef246750-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",240901 SBS 알토란 제505회 - 전통 장 특집
+https://ontvkorea.com/static/webseed/2ed0b167-dfba-4c00-a25f-c447a02434c9-450.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆",240901 SBS 인기가요
+https://ontvkorea.com/static/webseed/e4f97661-a134-4f45-9aea-c245cf58913a-450.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆",240901 출발 비디오 여행
 https://ontvkorea.com/static/webseed/d0fb058b-e471-4d71-9d94-4fc0222bff5d-720.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆",신비한TV 서프라이즈 240901
