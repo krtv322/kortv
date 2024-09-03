@@ -13,8 +13,8 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC UHD
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="🐉한국방송🦆",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",티비조선
@@ -26,7 +26,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjUzNjQ4MjF9.T3gIUlmpR8699uSrm8xdH6wO0Esmy3QtwpHqqyQ-fW8
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM1NzU1M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=rfq2gYwNt24X3RJtnW80R2x92fapHWPuXtP7uruWxZUtYXAI8YE9s200fTiDDhveN5U5uPE3yZtxsIra3U88h0bBpkuiQ1FqMuQ%7EqODEJFkOEb46oOKBzbJnVLnWzovZr70c0KkaBoiIG9phPeZp64b6eQ17mA24OnyMII3uy2A_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTM3ODk1Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=GAUKNPr-9iylldxd3nKURApMwK0TmOE9fIIc8wdA-CltR0VkN7CWnjh2ajpO-45EmYfwa5%7EsJbWWWelyL4Miyh9H1s1pBN-rZOYr5%7EFz7XaJtn1tJZlf2XMI-dX81D8%7Eh0hpQRme5Jy6DSF0RRxV%7E90PMJUHEOVCVTCS79lX9kY_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉한국방송🦆",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YBTV-1朝鲜语
@@ -63,9 +63,9 @@ https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.co
 #EXTINF:-1 group-title="🐉한국방송🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs골프
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUzMjU4NDIsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4ZTRhM2U5OC0wZDMxLTQ4YjQtYTEyMi02NjU5ODkxYWQxNWIiLCJpYXQiOjE3MjUzMTg2NDJ9.9j2uqvhU5Ap8U0q0SKvUmrweEQoQ3_4F3MHAZqzHSMo
+http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUzNDI3NDEsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwYjE3MjRhYS1lNDcyLTRjNDEtOGIyOC0wNjZhNmNiN2Y0M2YiLCJpYXQiOjE3MjUzMzU1NDF9.HS6sZ2DtadPgdzr7QyaUzJAEzBaxmkEx2LYDH5ph6zM
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs골프2
-http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUzMjU3MzksInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZDNkNjg4MzAtMGMyZC00MmRjLWFlZGUtM2I0YjE2NDNmMDI0IiwiaWF0IjoxNzI1MzE4NTM5fQ.8eujlVNHyFxbJIU3d462plEL7vpuAx_ypOuDiF446Qo
+http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjUzNDI3NzMsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZGYwZTQwMDAtYWY5OC00NmZiLTljOTYtNGFmZjdmYzhjMjBmIiwiaWF0IjoxNzI1MzM1NTczfQ.NxLsb9fO2Bah5uTYtOK9qHBJo0anqwEuvY2fGcinCzk
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
@@ -236,8 +236,8 @@ http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://www.hwado.net/webtv/public/21_573058EB.php
-#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="🐉한국방송🦆",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC JEZ
