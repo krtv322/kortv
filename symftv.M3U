@@ -160,6 +160,10 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965
 http://mytv.dothome.co.kr/ch/catv/261.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",CCS
+https://media.ccstv.co.kr:1936/OnAirEdge/OnAir/chunklist_w873473997.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",BTV
+http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="🐉한국방송🦆",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",NHTV (720p)
@@ -198,10 +202,14 @@ https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc넷
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",서경방송
+https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🐉한국방송🦆",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="🐉한국방송🦆",14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+#EXTINF:-1 group-title="🐉한국방송🦆",D LIVETV
+http://112.214.255.201/hls/ch02/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbs1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS부산
@@ -314,8 +322,8 @@ https://vip.ffzyread.com/20240126/22675_cdfab943/3000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉최신영화2024🦆",碰触
+https://svip.high21-playback.com/20240804/38023_57dc4a9d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",大奖
 https://svip.high21-playback.com/20240903/38582_4c178f60/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",黑人学院绑架：黑人女孩失踪电影
@@ -710,7 +718,7 @@ https://www.segyen.com/20240902/2e2p4fQr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",유어아너 9회
 https://www.segyen.com/20240902/T0E5Bq1t/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",유어아너 8회
-https://www.segyen.com/20240828/quZGNrzl/1000kb/hls/index.m3u8
+https://svip.high22-playback.com/20240903/9595_2fdae971/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",유어아너 7회
 https://svip.high25-playback.com/20240903/4583_e2f61936/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",유어아너 6회
@@ -1118,6 +1126,20 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆",공개연애 - 여배우의 사생활 제3회
+https://ontvkorea.com/static/streaming-playlists/hls/88e84347-6681-430c-b934-c449b4b8bcf3/daf5d0e7-5b7d-43bc-9d25-ef637268c087-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",정글밥 제4회
+https://ontvkorea.com/static/streaming-playlists/hls/3266ece2-ffb1-45b5-a59d-cdc72ed6d064/2f7be22c-9b7b-4423-8c56-4531bb99b124-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",연애의 참견 시즌3 제241회
+https://www.managahaspn.com/20240903/mgHYH0Eo/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",한일톱텐쇼 제15회
+https://ontvkorea.com/static/streaming-playlists/hls/8be462df-68ab-46d4-9af3-60918f4a7918/5c549931-b4d9-42ee-b423-ea065e92e0c8-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",벌거벗은 세계사 제167회
+https://ontvkorea.com/static/streaming-playlists/hls/5103e2f7-ef16-42fb-82ed-af89f99506db/e4e10029-4041-4c49-bbf7-8b64e52cf7be-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",신발 벗고 돌싱포맨 제151회
 https://www.segyen.com/20240903/m7xJKx3f/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",청소광 브라이언 제4회
