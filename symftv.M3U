@@ -26,7 +26,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjU2NjcxNzF9.euZ8mNmSn0XFGpW8sVhzi4blhDs9RDcWpvfeHAIo258
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTYzODM5OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=AB6ZjmH7C6dAHqQmPxnyNEexQr6yXCT6Jo6EP4x3qEZAsVnRkBil7%7Eo3-BctS0EXrZyhGcR3UdBkhuoe85phDv8igYZ7wbYUP5vce9TVpM7Lllm6KwHUarvERci6TOr%7EUZHdICHuvvU5saZh2wpDBZvB6LE30Z3j-Z5Lk-GO7WY_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTY2MDAyMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=RHay7GmD5YnmA8Rpn-xajxwyO4zoFoo%7ENXHRe%7Eeom8rgGBtqNxtAUmF5nIDnoNSYKFH5A9zU7RlHc%7EbLK705YZkkjygqSM9V09XJZvxK9iheOtw5dhIVN8TpQCiv46IoKCOCLl-dPI-PkjYSpeDFmQhGnqWz6jAMmvcqSpzPf8w_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉한국방송🦆",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YBTV-1朝鲜语
@@ -63,9 +63,9 @@ https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.co
 #EXTINF:-1 group-title="🐉한국방송🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs골프
-http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU2MTUyOTIsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkM2NkM2Y2Mi1kODFkLTRjZWYtOTlmNS1iOTBiZGQ5Mzc5YmQiLCJpYXQiOjE3MjU2MDgwOTJ9.oRd8hi6CqxhUWlVsTfgDLnahz6DCcZNxlMt1zv4o22I
+http://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU2MjY1MzksInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmNWY3NjkyMC00ZTMwLTQyYWEtYWMxMy0wMTNkYmZlNzY4MzEiLCJpYXQiOjE3MjU2MTkzMzl9.BAAWIflSEooTYeBFdqDvYoT2Oi6ytuNVyHVqpwEVt04
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs골프2
-http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU2MTUzMDYsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZDRmYWNiOTYtNTU0OC00MTQ1LTgzMzYtNGQ3ZTkwODNmNWZjIiwiaWF0IjoxNzI1NjA4MTA2fQ.w7sR0otPlU7fZ07zah3LRjZUclopJBCTYMkYNz8w1jw
+http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjU2MjY1NTIsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNjQ2YmYzMzgtNGRmOC00MTY0LTg1NjctODU0ODVlMjVmMTg4IiwiaWF0IjoxNzI1NjE5MzUyfQ.uBAF58kokmB--ZSYQ8mDA0WGQV64B_9GUijE_qiA1lM
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
