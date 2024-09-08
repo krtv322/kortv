@@ -270,6 +270,11 @@ http://210.92.207.38:40001
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국영화2024🦆",은하수
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0410-%EC%9D%80%ED%95%98%EC%88%98-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T071451Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270410-%25EC%259D%2580%25ED%2595%2598%25EC%2588%2598-2024.mp4&X-Amz-Signature=c034452843019f037459f0dcde57363944fefe1f729a401cefec663f2dbc496d
 #EXTINF:-1 group-title="🐉한국영화2024🦆",핸섬가이즈
 https://svipsvip.ffzyread1.com/20240822/30716_a45f8db3/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",설계자
