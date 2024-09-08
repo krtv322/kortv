@@ -271,12 +271,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국영화2024🦆",드라이브
-https://vz-563234ff-cfb.b-cdn.net/ca017980-e69d-40f6-b762-9a59b2104122/720p/video.m3u8
-#EXTINF:-1 group-title="🐉한국영화2024🦆",뒤주
-https://vz-cec22b46-d88.b-cdn.net/bcdn_token=PMuMTBkifAbO1WaJTyYQ3jSaU9qOsBz0IWJ_FrR31vM&expires=1726150840&token_path=%2F/356e6397-bf35-4ee8-a4c0-d47188a34742/play_720p.mp4
+#EXTINF:-1 group-title="🐉한국영화2024🦆",양치기
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0612-%EC%96%91%EC%B9%98%EA%B8%B0-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103307Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270612-%25EC%2596%2591%25EC%25B9%2598%25EA%25B8%25B0-2024.mp4&X-Amz-Signature=43c23bad1b1dff9a198fef8c4755446137d7ab4114b7f670c8c92b5cdd6a94ee
+#EXTINF:-1 group-title="🐉한국영화2024🦆",더 납작 엎드릴게요
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0710-%EB%8D%94%20%EB%82%A9%EC%9E%91%20%EC%97%8E%EB%93%9C%EB%A6%B4%EA%B2%8C%EC%9A%94-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103045Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270710-%25EB%258D%2594%2520%25EB%2582%25A9%25EC%259E%2591%2520%25EC%2597%258E%25EB%2593%259C%25EB%25A6%25B4%25EA%25B2%258C%25EC%259A%2594-2024.mp4&X-Amz-Signature=314a79fb466f6011783474cbf17822e2c434a21516934209aca42e6689df9c6b
 #EXTINF:-1 group-title="🐉한국영화2024🦆",리볼버
 https://svip.high21-playback.com/20240908/38713_3899ca1d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",은하수
@@ -289,6 +287,12 @@ https://svipsvip.ffzy-online5.com/20240816/31439_a91a50a0/2000k/hls/mixed.m3u8
 https://svip.high21-playback.com/20240815/38237_f101e10b/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",크로스
 https://svipsvip.ffzy-online5.com/20240809/31204_7850e0be/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",IN OCTOBER
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0706-IN%20OCTOBER-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103358Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270706-IN%2520OCTOBER-2024.mp4&X-Amz-Signature=7961e43f7c46b778dd31834d3563bffa1a1900dc8a20bc174dabfec65afea41a
+#EXTINF:-1 group-title="🐉한국영화2024🦆",카브리올레
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0619-%EC%B9%B4%EB%B8%8C%EB%A6%AC%EC%98%AC%EB%A0%88-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103454Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270619-%25EC%25B9%25B4%25EB%25B8%258C%25EB%25A6%25AC%25EC%2598%25AC%25EB%25A0%2588-2024.mp4&X-Amz-Signature=59bb96a4d1e4c3ef98de7212fa35c0b7affd838c22263c4f857cfa1391a2ecf4
+#EXTINF:-1 group-title="🐉한국영화2024🦆",드라이브
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0612-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103547Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270612-%25EB%2593%259C%25EB%259D%25BC%25EC%259D%25B4%25EB%25B8%258C-2024.mp4&X-Amz-Signature=81db655bb512cc651eccb9d07361f464d883a4a415c064ed94a18e58f74224cd
 #EXTINF:-1 group-title="🐉한국영화2024🦆",당신이 잠든 사이
 https://svipsvip.ffzyread1.com/20240805/30119_68e9e51f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",데드맨
@@ -1289,8 +1293,8 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆",SNL 코리아 리부트 5
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202409/0907/SNL%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%A6%AC%EB%B6%80%ED%8A%B8%20%EC%8B%9C%EC%A6%8C6-240907-E02.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103654Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27SNL%2520%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2520%25EB%25A6%25AC%25EB%25B6%2580%25ED%258A%25B8%2520%25EC%258B%259C%25EC%25A6%258C6-240907-E02.mp4&X-Amz-Signature=38b2de2cf06ef0e24fa8927590671ef055a11f98d9704e3bc9580a56f8e58829
 #EXTINF:-1 group-title="🐉한국예능🦆",240908 노래하는 대한민국
 https://joovideo.cfd/static/streaming-playlists/hls/b161256d-9126-4911-85f1-9cd500f8e562/36710721-e932-4719-a1b8-c92940e36dba-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",전국노래자랑 제2226회
@@ -1328,7 +1332,7 @@ https://www.managahaspn.com/20240907/VruSWCQA//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",니돈내산 독박투어3 제3회
 https://www.managahaspn.com/20240907/lcBoW7hX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",산따라 물따라 딴따라 제15회
-https://ontvkorea.com/static/streaming-playlists/hls/91090eff-35b0-4a5d-bd11-0a3c3e57b7f0/988bdbf5-914d-45fd-af74-4831bb8268d6-master.m3u8
+https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202409/0907/%EC%82%B0%EB%94%B0%EB%9D%BC%20%EB%AC%BC%EB%94%B0%EB%9D%BC%20%EB%94%B4%EB%94%B0%EB%9D%BC-240907-E15.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103745Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25EC%2582%25B0%25EB%2594%25B0%25EB%259D%25BC%2520%25EB%25AC%25BC%25EB%2594%25B0%25EB%259D%25BC%2520%25EB%2594%25B4%25EB%2594%25B0%25EB%259D%25BC-240907-E15.mp4&X-Amz-Signature=6966c94a48e9841b37ba2a97541cb1468ee3c3f08c90bd4725d7288efb711eb9
 #EXTINF:-1 group-title="🐉한국예능🦆",놀라운 토요일 - 도레미 마켓 제331회
 https://svip.high25-playback.com/20240908/5149_89a4d350/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",손대면 핫플 동네멋집 시즌2 제1회
