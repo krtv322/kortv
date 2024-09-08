@@ -1291,8 +1291,10 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆",240908 열린 음악회
+https://asia.joovideo.cfd/static/streaming-playlists/hls/7c66b196-14ea-4587-a032-f6b3c0aec6c8/56e6b56f-3130-4dd5-a752-a9d60a7c41f7-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",사장님 귀는 당나귀 귀 제273회
+https://asia.joovideo.cfd/static/streaming-playlists/hls/f6209114-cdc3-4b35-bbe2-1ab8bdefe415/31c6e6a3-f607-40f1-b382-4d1a508f5585-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",SNL 코리아 리부트 5 2회
 https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202409/0907/SNL%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%A6%AC%EB%B6%80%ED%8A%B8%20%EC%8B%9C%EC%A6%8C6-240907-E02.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T103654Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27SNL%2520%25EC%25BD%2594%25EB%25A6%25AC%25EC%2595%2584%2520%25EB%25A6%25AC%25EB%25B6%2580%25ED%258A%25B8%2520%25EC%258B%259C%25EC%25A6%258C6-240907-E02.mp4&X-Amz-Signature=38b2de2cf06ef0e24fa8927590671ef055a11f98d9704e3bc9580a56f8e58829
 #EXTINF:-1 group-title="🐉한국예능🦆",SNL 코리아 리부트 5 1회
