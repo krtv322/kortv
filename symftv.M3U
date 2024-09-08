@@ -271,8 +271,8 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화2024🦆",리볼버
+https://svip.high21-playback.com/20240908/38713_3899ca1d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",은하수
 https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2024/0410-%EC%9D%80%ED%95%98%EC%88%98-2024.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20240908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240908T071451Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%270410-%25EC%259D%2580%25ED%2595%2598%25EC%2588%2598-2024.mp4&X-Amz-Signature=c034452843019f037459f0dcde57363944fefe1f729a401cefec663f2dbc496d
 #EXTINF:-1 group-title="🐉한국영화2024🦆",핸섬가이즈
@@ -328,6 +328,23 @@ https://vip.ffzyread.com/20240126/22675_cdfab943/3000k/hls/mixed.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉최신영화2024🦆",再见,朋友 HD中字
+https://svip.high21-playback.com/20240908/38724_3fba1047/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",时尚休闲装 HD中字
+https://svip.high21-playback.com/20240908/38723_8aed1f40/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",青丘缘起 HD国语
+https://svip.high21-playback.com/20240908/38719_4211b1bd/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",寡妇胜过与坏人为伍 HD中字
+https://svip.high21-playback.com/20240908/38715_a15a8742/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",贪壑难填 HD中字
+https://svip.high21-playback.com/20240908/38709_08b60602/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",死亡乐章 HD中字
+https://v.cdnlz12.com/20240908/16831_37ce12d0/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",特殊替身 HD国语
+https://svip.high21-playback.com/20240908/38699_53da22ae/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",白水恋曲
 https://svip.high21-playback.com/20240907/38677_9de1fc30/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",居内西·桑德尔梅姆·格雷
@@ -561,6 +578,28 @@ https://svip.high21-playback.com/20240824/38401_68346de4/2000k/hls/mixed.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 10회
+https://svip.high24-playback.com/20240908/5369_f194bb46/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 9회
+https://yzzy.play-cdn19.com/20240110/13968_0d0f91f9/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 8회
+https://yzzy.play-cdn19.com/20231228/11271_ce53c12f/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 7회
+https://svip.high1-playback.com/20231214/9314_d4d020c5/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 6회
+https://svip.high1-playback.com/20231214/9315_08202a8b/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 5회
+https://svip.high20-playback.com/20231104/3617_9bd2c3c0/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 4회
+https://svip.high20-playback.com/20231104/3618_54cbd026/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 3회
+https://yzzy.play-cdn19.com/20231017/5903_c0825c58/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 2회
+https://svip.high1-playback.com/20231005/1808_491bac92/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 1회
+https://svip.high1-playback.com/20230925/723_6fd82e36/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",우씨왕후 4회
 https://svip.high22-playback.com/20240829/8912_40d88927/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",우씨왕후 3회
@@ -592,7 +631,7 @@ https://svip.high24-playback.com/20240818/3686_3bcc2d74/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 1회
 https://svip.high25-playback.com/20240818/2910_14af547c/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 12회
-https://www.segyen.com/20240907/ZadVg47g/1000kb/hls/index.m3u8
+https://svip.high25-playback.com/20240908/5148_97252d73/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 11회
 https://svip.high24-playback.com/20240907/5204_b561d09d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",나쁜 기억 지우개 10회
@@ -700,7 +739,7 @@ https://svip.high24-playback.com/20240825/4278_ce38e12c/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",새벽 2시의 신데렐라 1회
 https://svip.high25-playback.com/20240825/3577_41bd5d77/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 45회
-https://ontvkorea.com/static/streaming-playlists/hls/a7fb070b-0041-4fbb-9075-ea0f5662897c/f9cc287d-4d3b-4123-bee7-2190cbf9084c-master.m3u8
+https://svip.high25-playback.com/20240908/5141_40358b7e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 44회
 https://svipsvip.ffzy-online5.com/20240902/32076_3ac35a71/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 43회
@@ -1241,6 +1280,17 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆",240908 노래하는 대한민국
+https://joovideo.cfd/static/streaming-playlists/hls/b161256d-9126-4911-85f1-9cd500f8e562/36710721-e932-4719-a1b8-c92940e36dba-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",전국노래자랑 제2226회
+https://joovideo.bond/static/streaming-playlists/hls/c5fb9a39-8ee4-49e3-a442-3d35cadbfcfc/f00ef022-80c9-4627-b8bf-c9675f6d4cf0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆",신비한TV 서프라이즈 제1130회
+https://ontvkorea.com/static/streaming-playlists/hls/c799b44b-f1b5-4a8c-a15c-6f5ab782ddbd/dd8a4ff7-bb8f-44fd-820c-befdc44c13c8-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",240908 TV 동물농장
 https://joovideo.icu/static/streaming-playlists/hls/40ade5cb-e79e-4fb2-8739-2da296a919fb/23508aec-e498-48e8-8d10-54d12cb9a270-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",240908 팡팡터지는 정보쇼 알맹이
@@ -1264,7 +1314,7 @@ https://ontvkorea.com/static/streaming-playlists/hls/22ddc8df-9061-49eb-8a17-402
 #EXTINF:-1 group-title="🐉한국예능🦆",강적들 제552회
 https://ontvkorea.com/static/streaming-playlists/hls/64ace63c-f4cc-4491-948f-55401d698db5/175a1943-a553-4e25-a368-6f5b6255281d-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",아는 형님 제449회 - 빠니보틀 & 원지 & 채코제
-https://joovideo.cfd/static/streaming-playlists/hls/b5aed9be-3e43-4249-9a50-6096a08cb000/7f3e15ec-84f5-4bc1-a597-4b37427283dc-master.m3u8
+https://svip.high22-playback.com/20240908/10142_d7ba9e56/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",살림하는 남자들 시즌2 제358회
 https://www.managahaspn.com/20240907/Cz6ZyZml/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",내 아이의 사생활 제1회
@@ -1274,7 +1324,7 @@ https://www.managahaspn.com/20240907/lcBoW7hX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",산따라 물따라 딴따라 제15회
 https://ontvkorea.com/static/streaming-playlists/hls/91090eff-35b0-4a5d-bd11-0a3c3e57b7f0/988bdbf5-914d-45fd-af74-4831bb8268d6-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",놀라운 토요일 - 도레미 마켓 제331회
-https://www.managahaspn.com/20240907/10GE5bNr/1000kb/hls/index.m3u8
+https://svip.high25-playback.com/20240908/5149_89a4d350/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",손대면 핫플 동네멋집 시즌2 제1회
 https://www.managahaspn.com/20240907/LqZg2NJM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",불후의 명곡 제671회 - 명사 특집 이순재 편
@@ -1282,7 +1332,7 @@ https://www.managahaspn.com/20240907/FfjG6TgO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",무쇠소녀단 제1회 첫방송
 https://www.managahaspn.com/20240907/155uBsuH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",놀면 뭐하니? 제247회
-https://www.managahaspn.com/20240907/zOK5cGtn/1000kb/hls/index.m3u8
+https://svipsvip.ffzyread1.com/20240908/31346_fa2b5214/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",240907 차트를 달리는 남자
 https://ontvkorea.com/static/streaming-playlists/hls/dc89f16f-033b-4d34-85e1-28019562d0d7/16f01d87-dad9-40bd-b03b-32ff69d86fe5-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆",240907 국악한마당
