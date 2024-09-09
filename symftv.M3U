@@ -278,8 +278,6 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🐉한국영화2024🦆",드라이브
 https://hd.ijycnd.com/play/lej3O5la/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화2024🦆",은하수
-https://v5.tlkqc.com/wjv5/202408/26/6pD2M0Fmzc77/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",화녀
 https://v10.dious.cc/20240330/66038biR/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",고장난 가족
@@ -358,8 +356,17 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉최신영화2024🦆",사도인
-https://www.yeetoo.xyz/video/m3u8//2571e918/index.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉최신영화2024🦆",单身汉帕维
+https://svip.high21-playback.com/20240909/38727_d3b79dce/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",滑板車 
+https://svip.high21-playback.com/20240909/38728_8905c2d2/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",帕特内尔
+https://svip.high21-playback.com/20240909/38731_4318b8b6/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",三人桌 
+https://svip.high21-playback.com/20240909/38733_3628a404/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",再见,朋友 HD中字
 https://svip.high21-playback.com/20240908/38724_3fba1047/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",时尚休闲装 HD中字
@@ -607,8 +614,8 @@ https://svip.high21-playback.com/20240824/38401_68346de4/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆",프래자일 (2024) 1회
+https://svip.high22-playback.com/20240908/10241_70798b38/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 10회
 https://svip.high24-playback.com/20240908/5369_f194bb46/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",사장돌마트 9회
@@ -637,6 +644,8 @@ https://svip.high22-playback.com/20240829/8913_0a353a73/2000k/hls/mixed.m3u8
 https://svip.high22-playback.com/20240829/8914_a22b38ac/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",우씨왕후 1회
 https://svip.high22-playback.com/20240829/8915_85c172ad/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",손해 보기 싫어서 5회
+https://svip.high22-playback.com/20240909/10300_f58eec90/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",손해 보기 싫어서 4회
 https://svip.high25-playback.com/20240904/4701_2885cf1a/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",손해 보기 싫어서 3회
@@ -646,9 +655,9 @@ https://svip.high25-playback.com/20240828/3755_b2876ffd/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",손해 보기 싫어서 1회
 https://svip.high25-playback.com/20240827/3683_c3b21866/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 8회
-https://joovideo.icu/static/streaming-playlists/hls/f6b4ef3f-da49-46fc-b3b1-2fa39fba820b/d9e38cc2-a57e-4a0d-be4b-e9c773d031b3-master.m3u8
+https://svip.high24-playback.com/20240908/5439_da9b5fb8/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 7회
-https://joovideo.icu/static/streaming-playlists/hls/5a53fe7b-3072-4adc-abed-a82f38c68890/8d191c21-5d92-4ffc-ace6-027fe9925099-master.m3u8
+https://svip.high22-playback.com/20240907/10109_111bd3eb/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 6회
 https://svip.high24-playback.com/20240901/4711_13932992/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",엄마 친구 아들 5회
@@ -728,7 +737,7 @@ https://svip.high25-playback.com/20240713/605_b5c652a4/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",굿파트너 1회
 https://svip.high25-playback.com/20240712/539_ef72e79b/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",가족X멜로 10회
-https://joovideo.cfd/static/streaming-playlists/hls/c657bb06-c94f-460a-96a5-20ec56981776/6930bc68-4f8a-4f45-8340-f1a7b8d7fddb-master.m3u8
+https://svip.high22-playback.com/20240908/10242_0a2e59dc/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",가족X멜로 9회
 https://svip.high24-playback.com/20240907/5295_44143111/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",가족X멜로 8회
@@ -748,9 +757,9 @@ https://svip.high24-playback.com/20240812/2651_8d63b72e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",가족X멜로 1회
 https://svip.high22-playback.com/20240810/6243_f6e55110/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",DNA러버 8회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/8f80b24d-a30a-4c18-8fc2-fe12288ef4f7/d484db19-4746-445e-8b6a-a1c7931ff878-master.m3u8
+https://svipsvip.ffzyread1.com/20240908/31379_02ff9da8/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",DNA러버 7회
-https://joovideo.icu/static/streaming-playlists/hls/6ba26df6-7dae-4af1-af08-198900a6ccef/222fc7ad-a703-4432-b4ac-67d798d6fb8a-master.m3u8
+https://svipsvip.ffzyread1.com/20240907/31335_6dfbdd27/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",DNA러버 6회
 https://svipsvip.ffzyread1.com/20240901/31142_c6447365/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",DNA러버 5회
@@ -764,7 +773,7 @@ https://svipsvip.ffzyread1.com/20240818/30614_7831250d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",DNA러버 1회
 https://svipsvip.ffzyread1.com/20240817/30568_55368d97/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",새벽 2시의 신데렐라 6회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/def747b3-7e94-4038-bd4c-30666417129a/7c63b187-95fd-4cab-aa3f-672fc898f5d9-master.m3u8
+https://svip.high24-playback.com/20240908/5434_ae23da2e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",새벽 2시의 신데렐라 5회
 https://svip.high24-playback.com/20240907/5285_7b275de7/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",새벽 2시의 신데렐라 4회
@@ -776,7 +785,7 @@ https://svip.high24-playback.com/20240825/4278_ce38e12c/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",새벽 2시의 신데렐라 1회
 https://svip.high25-playback.com/20240825/3577_41bd5d77/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 46회
-https://www.moowootv.com/video/m3u8//37d45972/index.m3u8
+https://svip.high24-playback.com/20240909/5456_606d4214/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 45회
 https://svip.high25-playback.com/20240908/5141_40358b7e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 44회
@@ -793,6 +802,8 @@ https://svip.high22-playback.com/20240819/7259_26b27bb6/2000k/hls/mixed.m3u8
 https://svip.high24-playback.com/20240818/3598_a16fdbd9/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 38회
 https://svip.high24-playback.com/20240812/2664_3253be1f/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 109회
+https://www.sosotour.xyz/video/m3u8//560e0301/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 108회
 https://svip.high25-playback.com/20240907/5001_824c1406/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 107회
@@ -819,6 +830,8 @@ https://svip.high22-playback.com/20240824/7914_a8b26e5d/2000k/hls/mixed.m3u8
 https://svip.high25-playback.com/20240823/3354_e895e647/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 96회
 https://svip.high24-playback.com/20240822/3889_e9cf8618/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 51회
+https://www.moowootv.com/video/m3u8//6b87c778/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 50회
 https://svip.high25-playback.com/20240907/5003_80975bcf/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 49회
@@ -845,6 +858,8 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제81회
+https://asia.joovideo.cfd/static/streaming-playlists/hls/a06580b7-6152-4e18-abbd-7227eda97421/9b12bb53-9076-452f-8975-9e17eeb15a8c-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제80회
 https://svip.high24-playback.com/20240907/5199_09531613/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제79회
@@ -1320,6 +1335,12 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆", 회장님네 사람들 8회
+https://www.zemnatv.com/video/m3u8//c5b3a6a9/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 무엇이든 물어보살 11회
+https://www.zeminatv.com/video/m3u8//bff1d7f3/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 한번 더 체크타임 4회
+https://www.jroad.xyz/video/m3u8//8108751d/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 별의별걸: 추구미는 핫걸 12회
 https://www.jroad.xyz/video/m3u8//810709c9/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 심야괴담회 시즌4 4회
