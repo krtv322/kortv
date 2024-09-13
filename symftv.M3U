@@ -198,6 +198,8 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",韩·HotPlusTV
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",아리랑티비
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc넷
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서경방송
@@ -269,6 +271,15 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화2024🦆",무도실무관
+https://vip.ffzy-video.com/20240913/2301_2b45c629/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",파일럿
+https://m3u8.0ee0.com/vedio2/20240912/1726156579267/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",풍기
+https://m3u8.0ee0.com/vedio2/20240913/1726157050142/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",믿을 수 있는 사람
+https://m3u8.0ee0.com/vedio/20240809/1723139870935/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",우리와 상관없이
 https://rvlzhfoat7kb.cdn-jupiter.com/hls2/01/04796/tj2whvga0sg1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=hNApdzCvweiB2fZvqSzLggguOi7pKWdvKqiN8gwoqJk&s=1726134941&e=129600&f=23983848&srv=05swc0p9qksp&i=0.4&sp=500&p1=05swc0p9qksp&p2=05swc0p9qksp&asn=16509
 #EXTINF:-1 group-title="🐉한국영화2024🦆",빈틈없는 사이
@@ -376,7 +387,16 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉최신영화2024🦆",丑人儿
+https://svipsvip.ffzyread1.com/20240913/31547_b849b10a/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",猎犬行动
+https://v.cdnlz12.com/20240913/16906_1f7fff80/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",扎职3
+https://svip.high21-playback.com/20240913/38793_82a0d6bc/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",长安秘闻录之聂隐娘
+https://svip.high21-playback.com/20240913/38807_956416c5/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",神奇旅行社
+https://svip.high21-playback.com/20240913/38806_81bee2c5/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",大鱼2之海岛鱼怪
 https://vip.ffzy-video.com/20240912/2225_443dec30/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",被盗的和平
@@ -903,6 +923,8 @@ https://svip.high22-playback.com/20240819/7259_26b27bb6/2000k/hls/mixed.m3u8
 https://svip.high24-playback.com/20240818/3598_a16fdbd9/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",미녀와 순정남 38회
 https://svip.high24-playback.com/20240812/2664_3253be1f/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 112회
+https://svip.high25-playback.com/20240913/6219_72c890f7/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 111회
 https://svip.high22-playback.com/20240912/10553_fb628a4d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 110회
@@ -935,6 +957,10 @@ https://svip.high22-playback.com/20240824/7914_a8b26e5d/2000k/hls/mixed.m3u8
 https://svip.high25-playback.com/20240823/3354_e895e647/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 96회
 https://svip.high24-playback.com/20240822/3889_e9cf8618/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 55회
+https://www.managahaspn.com/20240913/ZMe9MNqJ/index.m3u8?skipl=1
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 54회
+https://svipsvip.ffzyread1.com/20240913/31520_30b316f9/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 53회
 https://svip.high22-playback.com/20240912/10504_11e6b373/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 52회
@@ -967,6 +993,10 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제85회
+https://www.managahaspn.com/20240913/blPpxKlF/index.m3u8?skipl=1
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제84회
+https://svip.high25-playback.com/20240913/6220_a37c8e37/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제83회
 https://svip.high24-playback.com/20240912/5601_425e5c7a/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제82회
@@ -1453,10 +1483,10 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 240913 케이팝업 차트쇼 IN JAPAN
+https://joovideo.cfd/static/webseed/20de213d-f841-40ef-a3c3-1cec14ea7ced-450.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆", 240913 뮤직뱅크
+https://joovideo.icu/static/streaming-playlists/hls/61774ba3-8bea-49c6-999c-d9b2bf7031c3/8a9455e5-de47-4811-8aa9-a651475f3b56-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 미스쓰리랑 제20회
 https://asia.joovideo.cfd/static/streaming-playlists/hls/1ca75993-d5c9-47d2-9e81-3d6cfac82190/e1e59a2f-1dd6-48fa-81bf-f3a32d2526b6-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 이혼숙려캠프 제5회
@@ -2197,8 +2227,7 @@ http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 #EXTINF:-1 group-title="🐉한국방송테스트🦆",KBS NEWS
 https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1724983903&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNDk4MzkwM319fV19&Signature=bDSRrhNaQyzLM2BiobU3k~IUy4eB9iICSCKDRPwKNNrllh~RanBgWCV2diwfGdUuE7cjflRKxk-ZI6GEQYoBCVMcHHdUw4uTQfPlL74upYCtP5iRkFn5Bzpi2S24SlIhZsXAQ1QCBmF4D64m1DDiiBJZVw~gIlt~Jrq6tbTWUO3UAdXjJEg-tI0iYYlFdIbRfHSs~evIrOb1C7tIDqL0pHGIvFO4upjnQVzcIXPNV~APgQX58ZHftkZcqsvYTW1Aasl0ZnfvC1i5fDmBcQ-W1tJc-89VCMgrX474NHX9aJw2dODLgDTycjzdFVRu3oVEnE2SgVmOte2XQj8~licExA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉한국방송테스트🦆",아리랑티비
-https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
