@@ -284,6 +284,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화2024🦆",킬링 로맨스
+https://m3u8.0ee0.com/vedio/20240810/1723284537178/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",행복의 나라
 https://m3u8.0ee0.com/vedio2/20240919/1726759790148/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",서울의 봄
@@ -351,7 +355,7 @@ https://m3u8.0ee0.com/vedio/20240816/1723791589416/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",설계자
 https://svipsvip.ffzy-online5.com/20240816/31439_a91a50a0/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",하이재킹
-https://svip.high21-playback.com/20240815/38237_f101e10b/2000k/hls/mixed.m3u8
+https://m3u8.0ee0.com/vedio/20240730/1722341900370/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",크로스
 https://m3u8.0ee0.com/vedio/20240824/1724469656746/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",IN OCTOBER
@@ -361,7 +365,7 @@ https://www.yeetoo.xyz/video/m3u8//f5c80a5b/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",귀신골목
 https://www.yeetoo.xyz/video/m3u8//bf071655/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",당신이 잠든 사이
-https://svip.high21-playback.com/20240803/38005_315b5b52/2000k/hls/mixed.m3u8
+https://m3u8.0ee0.com/vedio/20240809/1723211685241/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",데드맨
 https://v.cdnlz12.com/20240704/15498_a25087a0/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",탈주
@@ -1385,8 +1389,16 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 240922 신비한TV 서프라이즈 제1132회
+https://asia.joovideo.cfd/static/streaming-playlists/hls/4e5c687c-edcb-4660-b5ab-90de0835235a/38601a2f-7e72-4288-aec7-0c525b6d8f5b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240922 팡팡터지는 정보쇼 알맹이
+https://joovideo.cfd/static/streaming-playlists/hls/1cb65f06-dc7d-417e-813a-fc5da3bf1b2c/8cab9d1b-3403-4f7d-9ae9-7e0d5a4800d9-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240922 TV 동물농장
+https://asia.joovideo.cfd/static/streaming-playlists/hls/ebfe1e15-2170-4171-a7af-87895baf6262/ef065a8e-baf2-4c49-9405-aac09c0d0244-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240922 연애의 참견 시즌3 THE 드라마 제27회
+https://ontvkorea.com/static/streaming-playlists/hls/cc318be2-a026-4d16-8788-4e18161c19f5/22bb6cfd-1ba1-4d9e-b09e-4c99f04d9654-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240922 이경규의 경이로운 습관 제3회
+https://joovideo.cfd/static/streaming-playlists/hls/e59d25fb-5427-4020-83e2-41a283677d50/38fbbd57-7f66-44ee-aa91-2e0b9357f665-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240918 추석특집 나는 자연인이다
 https://ontvkorea.com/static/streaming-playlists/hls/36ac58d0-48b9-4d96-8860-a405fa69f46d/1e8b6c8c-342f-4363-9fc6-a536a9e01b8b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240921 전지적 참견 시점 제315회
