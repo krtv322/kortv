@@ -285,6 +285,15 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화2024🦆",카운트
+https://m3u8.0ee0.com/vedio/20240814/1723600713812/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",대외비
+https://m3u8.0ee0.com/vedio/20240814/1723599074167/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",보호자
+https://m3u8.0ee0.com/vedio/20240814/1723610296559/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화2024🦆",소울메이트
+https://m3u8.0ee0.com/vedio/20240814/1723583999504/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",비공식작전
 https://m3u8.0ee0.com/vedio/20240813/1723543655120/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화2024🦆",옥수역귀신
@@ -421,9 +430,16 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉최신영화2024🦆",더 마블스
+https://m3u8.0ee0.com/vedio/20240814/1723594762272/out.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",넥스트 골 윈즈
+https://m3u8.0ee0.com/vedio/20240814/1723586836552/out.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",탈옥: 사랑의 도주 （넷플릭스）
+https://m3u8.0ee0.com/vedio2/20240926/1727358608288/out.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",이혼을 위하여 （넷플릭스）
+https://m3u8.0ee0.com/vedio2/20240926/1727358092978/out.m3u8
+#EXTINF:-1 group-title="🐉최신영화2024🦆",엘런 디제너러스: 승인 요청 （넷플릭스）
+https://m3u8.0ee0.com/vedio2/20240926/1727358092978/out.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",누구도 널 지켜주지 않아
 https://m3u8.0ee0.com/vedio/20240811/1723389097679/out.m3u8
 #EXTINF:-1 group-title="🐉최신영화2024🦆",미싱: 루시 블랙맨 실종 사건
