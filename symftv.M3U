@@ -284,10 +284,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",여름이 끝날 무렵의 라트라비아타
+https://m3u8.0ee0.com/vedio2/20240929/1727541215215/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",한국이 싫어서
+https://m3u8.0ee0.com/vedio2/20240929/1727541757666/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",교섭
 https://m3u8.0ee0.com/vedio/20240814/1723575180542/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",카운트
@@ -437,6 +437,8 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆",윌과 하퍼 （넷플릭스）
+https://m3u8.0ee0.com/vedio2/20240928/1727509619304/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",방콕 브레이킹: 천국과 지옥 （넷플릭스）
 https://m3u8.0ee0.com/vedio2/20240927/1727439355324/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",킬러 히트
@@ -1546,6 +1548,26 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 신비한TV 서프라이즈 제1133회
+https://ontvkorea.com/static/streaming-playlists/hls/c12f4e8b-eb81-42a0-b087-9b3477e9901c/af357f5b-0f49-48ef-92ac-22c48bc4e0c0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 차이나는 클라스 위대한 질문 제23회
+https://joovideo.cfd/static/streaming-playlists/hls/c4c1391e-2904-4081-92d0-294c2ce2a8c3/a51f2bc7-c9ab-4bc1-8972-34d44b65d3e2-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 팡팡터지는 정보쇼 알맹이
+https://joovideo.cfd/static/streaming-playlists/hls/0cebfec6-2073-4e83-b5e2-f81a17b6c413/d574277e-9fad-4c4c-bc97-19ecad330d7e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 한국영화 클래식
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/dae7dfaf-a059-4480-8daa-6dc28fd01917/bb4c0385-2dee-47e1-9c78-16f05767a347-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 연애의 참견 시즌3 THE 드라마 제28회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/e204a1cc-dd64-450a-8499-598544786a68/9cad266f-3af3-4db3-8eef-9b5cb1679c5b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 TV 동물농장 제1190회
+https://ontvkorea.com/static/streaming-playlists/hls/bfe816a0-3e42-48d1-b4fc-71fd85ceac22/93eecde3-7132-461e-a669-5e92399b58e6-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240929 이경규의 경이로운 습관 제4회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/e9dcc819-dcd6-4b3f-928c-a37465c14a8c/1e9e5bde-ceb1-408b-a3b2-3cea362d28d3-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 240928 전지적 참견 시점 제316회
+https://www.segyen.com/20240928/jblhDi5f/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240928 속풀이쇼 동치미 제619회 - 지지리 궁상떠는 당신이랑 못 살겠어!
 https://www.segyen.com/20240928/bM0DlFQ8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240928 콘서트 7080+ (플러스) 제11회
