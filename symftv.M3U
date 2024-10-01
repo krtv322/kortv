@@ -284,6 +284,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국영화🦆",막걸리가 알려줄거야
+https://m3u8.0ee0.com/vedio2/20241001/1727761475580/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",3억: 살인게임
+https://m3u8.0ee0.com/vedio2/20241001/1727760649632/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",여름이 끝날 무렵의 라트라비아타
 https://m3u8.0ee0.com/vedio2/20240929/1727541215215/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",한국이 싫어서
@@ -1587,6 +1591,35 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 스테이지 파이터 제2회
+https://ontvkorea.com/static/streaming-playlists/hls/c79c5224-5ea9-4bd7-99db-4456958b4a52/acd00e62-48e6-49fc-9112-9210cb544f81-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 정글밥 제7회
+https://www.segyen.com/20241001/RBhriGHO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 벌거벗은 세계사 제171회
+https://www.segyen.com/20241001/Ew0j3ISb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 강철부대더블유 제1회
+https://www.segyen.com/20241001/yAT64KpX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 한일톱텐쇼 제19회
+https://www.segyen.com/20241001/tTzUKppZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 연애의 참견 시즌3 제244회
+https://www.segyen.com/20241001/Z7aHKOvU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 신발 벗고 돌싱포맨 제154회
+https://www.segyen.com/20241001/cGf2yCd1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 청소광 브라이언 제7회
+https://www.zemnatv.com/video/m3u8//29a1630a/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 김창옥쇼3 제3회
+https://www.segyen.com/20241001/KXDDUHAI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 몸신의 탄생 제2회
+https://joovideo.cfd/static/streaming-playlists/hls/754f8194-7480-46b4-be3f-0417ec8d0cf9/bb9de91b-142e-4452-8248-2c8a2ddf883b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 엄지의 제왕 제610회 - 질병의 도화선, 산성 독소 해독하는 법
+https://ontvkorea.com/static/streaming-playlists/hls/fad3cc13-7755-48ef-9276-60337ceeec26/9d4d671a-8c97-4248-8897-197976c9ed0c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 이웃집 찰스
+https://ontvkorea.com/static/streaming-playlists/hls/e7d76aa8-6762-4343-a813-d8daa57e4ad3/e2bce3db-dfa3-4c62-b0e7-47d64f7e917f-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241001 아이돌스토어K 제1회
+https://joovideo.cfd/static/streaming-playlists/hls/1f311087-00d3-4956-b1b3-db517c78252c/7236171c-7e9e-41cc-926e-74619fffad44-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240930 최강야구 제100회
 https://www.segyen.com/20240930/GHKWj8lS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 240930 조선의 사랑꾼 제60회
