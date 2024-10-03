@@ -92,6 +92,8 @@ https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1728120
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1728120323&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjgxMjAzMjN9fX1dfQ__&Signature=me6bwaYAoNNUOTKu952XRQJj9cbjs09G~WiSwZHF0TlEia1yfa5j1uMe40XprqkzOf-nVkKdlKtPx1-PY29FLXRrjdpREM6TpgZS0bakbXMY6d0g67jBn7k~uB2XcTFFqezp~lXnMcop~budzLoV94KOgs0wpjaYaO7Xzfelff~vIiTLiMhzuQZWh8aZ83MCpFk5~1BXnjV74eyKiaA3B~RiHOI9jnwSBTp1Y3jZUj4wbc2gJzgV65JuGUXV-CdDcr9AJ2yjAn8STm3r8aScDmIgommTI1eu6l38FE60PQ05VV-83~5IwSov1-qyYxvcU-Zm3p4WtfmkY2QwueTDdA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",핑크퐁
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
+#EXTINF:-1 group-title="🐉한국방송🦆",베베핀
+https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/99ef47c0-8be8-463c-a761-fa5c6352ee1a/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",키즈타임
 https://d2tt54zlwwxv7v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9go3fzcjcsn6y/AcornTV_KR.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",뽀요티비
@@ -447,9 +449,9 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 https://m3u8.0ee0.com/vedio2/20240929/1727596395957/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",사랑을 알려줘
 https://m3u8.0ee0.com/vedio2/20240929/1727596924238/out.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆",틴과 티나
+#EXTINF:-1 group-title="🐉외국영화🦆",틴과 티나 （넷플릭스）
 https://m3u8.0ee0.com/vedio/20240817/1723900661944/out.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆",오버홀
+#EXTINF:-1 group-title="🐉외국영화🦆",오버홀 （넷플릭스）
 https://m3u8.0ee0.com/vedio/20240817/1723902600363/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",범죄의 장인 （넷플릭스）
 https://m3u8.0ee0.com/vedio/20240817/1723903701612/out.m3u8
@@ -1606,8 +1608,8 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241002 아빠하고 나하고 제42회
+https://www.segyen.com/20241002/naPYGCze/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241002 스튜디오 K
 https://joovideo.bond/static/streaming-playlists/hls/19334434-eaa0-4b8a-a793-52b45152b24f/955c35ea-a2a5-4efb-aeec-cd5d5d0f3167-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241002 나는 SOLO 나는 솔로 제169회
