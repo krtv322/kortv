@@ -2861,54 +2861,7 @@ http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
 
 
 
-#EXTINF:-1 group-title="중국방송",CCTV1
-http://58.17.48.228:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV2
-http://221.0.78.198:1681/hls/10202/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV3
-http://112.123.206.32:808/hls/3/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV4
-http://221.0.78.198:1681/hls/10204/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV5
-http://58.17.48.228:808/hls/5/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV5+
-http://221.0.78.198:1681/hls/10217/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV6
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
-#EXTINF:-1 group-title="중국방송",CCTV7
-http://58.17.48.228:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV8
-http://58.17.48.228:808/hls/8/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV9
-http://58.17.48.228:808/hls/9/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV10
-http://58.17.48.228:808/hls/10/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV11
-http://58.17.48.228:808/hls/11/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV12
-http://58.17.48.228:808/hls/12/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV13
-http://112.123.206.32:808/hls/13/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV14
-http://60.12.183.46:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="중국방송",CCTV15
-http://58.17.48.228:808/hls/15/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV16
-http://58.17.48.228:808/hls/25/index.m3u8
-#EXTINF:-1 group-title="중국방송",CCTV17
-http://58.17.48.228:808/hls/26/index.m3u8
-#EXTINF:-1 group-title="중국방송",CHC动作电影
-http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1 group-title="중국방송",CHC家庭影院
-http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1 group-title="중국방송",金鹰卡通
-http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 group-title="중국방송",金鹰卡通
-http://111.61.236.247:9081/hls/66/index.m3u8
-#EXTINF:-1 group-title="중국방송",TVBS欢乐
-http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 group-title="중국방송",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+
 
 
 
