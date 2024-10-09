@@ -642,12 +642,14 @@ https://m3u8.0ee0.com/vedio/20240817/1723874614719/out.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 241009 조립식 가족 제2회
+https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 241009 조립식 가족 제1회 첫방송
+https://www.segyen.com/20241009/O2CmMWNj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이: 최종 리허설
 https://ontvkorea.com/static/streaming-playlists/hls/25d0fbc0-99df-44ac-9893-5863f3a66e90/cc48a0fb-4da1-436e-badf-210eb4ecfb54-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제3회
+https://www.segyen.com/20241009/kA5FtpX2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제2회
 https://www.segyen.com/20241008/hrAyCQnV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제1회 첫방송
@@ -666,6 +668,8 @@ https://www.segyen.com/20241005/ArVMNpJR/1000kb/hls/index.m3u8
 https://www.segyen.com/20240929/VBuS3rJE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제1회 첫방송
 https://www.segyen.com/20240928/cCvqWaPi/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제5회
+https://www.segyen.com/20241009/59csk6OG/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제4회
 https://www.segyen.com/20241003/VvcBqH6q/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제3회
@@ -726,6 +730,10 @@ https://svip.high22-playback.com/20240912/10544_40fbe12b/2000k/hls/mixed.m3u8
 https://svip.high22-playback.com/20240912/10545_26ff42fd/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",내 손끝에 너의 온도가 닿을 때 제1회
 https://svip.high22-playback.com/20240912/10546_7fe73d71/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제12회
+https://www.segyen.com/20241009/oUdkzy1L/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제11회
+https://www.segyen.com/20241009/MzhAGhxM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제10회
 https://www.segyen.com/20241002/LK5BTBPi/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제9회
@@ -1090,6 +1098,8 @@ https://svip.high22-playback.com/20240824/7914_a8b26e5d/2000k/hls/mixed.m3u8
 https://svip.high25-playback.com/20240823/3354_e895e647/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 96회
 https://svip.high24-playback.com/20240822/3889_e9cf8618/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 68회
+https://www.segyen.com/20241009/vA8xCYZJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 67회
 https://www.segyen.com/20241007/LL8g0U7H/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 66회
@@ -1150,6 +1160,8 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제100회
+https://www.segyen.com/20241009/DFzxcs3y/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제99회
 https://www.segyen.com/20241008/Txk9gpLJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제98회
@@ -1700,10 +1712,36 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 고딩엄빠 5 제17회
+https://www.segyen.com/20241009/AwtJ8XjV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 미스쓰리랑 제24회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/05062f2b-e310-4485-bf2b-5f52a5d815c1/80bf73e3-4b69-4191-a25a-006efeeb9b3c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 라디오스타 제885회
+https://ontvkorea.com/static/streaming-playlists/hls/6b8d8910-bdfd-4107-9314-4161c68f8538/0e390ade-8bfc-4400-9ee8-8f397199220e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 나는 SOLO 나는 솔로 제170회
+https://ontvkorea.com/static/streaming-playlists/hls/56a9093d-2569-4a20-acf9-72e10eae0789/c1861cfc-7698-4d20-a460-4b27b9eb6131-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 스튜디오 K
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/6e495a48-800c-4f52-8266-45eafbcb7973/cdce94ab-b27b-415d-b7d2-f87f400782e4-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 골 때리는 그녀들 - 세계관의 확장 제12회
+https://ontvkorea.com/static/streaming-playlists/hls/ae9f5b02-beb5-4617-bbc5-71cb652ce0b4/1e1e383b-e1a6-46a8-9e27-d32b426215c5-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 요즘 남자 라이프 - 신랑수업 제134회
+https://www.segyen.com/20241009/MvT3VxeY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 왔다 내손주
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/dd0466dd-72ef-4cfc-beb7-63670481d85c/43e6109f-6fd7-4d3e-a509-f84d0ee5e183-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 짠남자 제3회
+https://ontvkorea.com/static/streaming-playlists/hls/7b5f185b-9e7b-4e9e-be05-8552ca35c74b/80716c6e-94b4-4438-860e-64f12bc031ad-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 유 퀴즈 온 더 블럭 제265회
+https://www.segyen.com/20241009/1fsPkCi6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 2024 퀴즈 온 코리아
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/6f210ba7-7bec-4b2c-9fb3-ab6297aa6dee/6c40ab6f-4f7e-42cb-8bc9-030b68e69138-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 주간 아이돌 제684회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/c9357d22-d782-4620-a6d6-ad54842da31e/f9032fba-1c75-4da0-8cab-89f6feda976b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 쇼챔피언
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/ab99a57e-4ccf-4a84-8229-61954f85c1ec/1de7e135-3aab-4931-9cec-3850115d1de8-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 꿀잼 영화가 좋다 베스트
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/92e564af-047a-4671-99bc-a46f42dae7b5/b5f73d17-0ca8-4073-8afd-39a5f814c06f-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241009 최고의 처방 미라클 푸드
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/b04e0735-e583-451c-8b0c-cafd5f5cabab/feece5d2-9995-459b-9826-e18bebba904f-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241008 TV예술무대 통영국제음악제
 https://ww418.ontvkorea.com/static/streaming-playlists/hls/a85e001d-e149-4430-9f67-c7bc8f1df53c/5ae0eacb-4a5b-4ca2-912c-9dad95ea94fa-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241008 스테이지 파이터 제3회
