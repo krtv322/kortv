@@ -208,6 +208,8 @@ https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",아리랑티비
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",K-POP
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc넷
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서경방송
@@ -2877,6 +2879,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&b
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK大坂 総合
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK教育 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",WOWOWシネマ
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",WOWOWプライム
@@ -2893,6 +2897,14 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",ムービープラス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 2 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 3 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="🐉일본방송🦮",JSPORTS 4 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",钓りビジョン
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",歌谣ポップスチャンネル
@@ -2941,6 +2953,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",CGN日本
+https://cgntvlive-944.acs.wecandeo.com/ms/2850/944/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",日本QVC Japan
@@ -2965,6 +2979,10 @@ http://142.171.31.242:5002/cs10.m3u8?token=guoziyun&gid=10&channel=zhongying
 http://142.171.31.242:5002/cs11.m3u8?token=guoziyun&gid=11&channel=zhongying
 #EXTINF:-1 group-title="🐉일본방송🦮",映画
 http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK WORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TBSテレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
@@ -4681,3 +4699,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
+
