@@ -294,6 +294,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆",아이를 위한 아이
+https://m3u8.0ee0.com/vedio/20240806/1722948833591/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",빅토리
 https://svipsvip.ffzyread1.com/20241002/32148_c5fb163f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",미션 파서블
@@ -455,6 +459,14 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆",언더 랩스2
+https://m3u8.0ee0.com/vedio/20240806/1722953322783/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",또 다른 365일 （넷플릭스）
+https://m3u8.0ee0.com/vedio/20240806/1722948564809/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",비욘드 유니버스 （넷플릭스）
+https://m3u8.0ee0.com/vedio/20240806/1722958929251/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",블랙아웃: 사라진 기억
+https://m3u8.0ee0.com/vedio/20240806/1722956129617/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",미스터 트러블 （넷플릭스）
 https://m3u8.keibalv.com/20241008/FyYnzZqk/4177kb/hls/index.m3u8?sign=ef24e553ab801e4f368d5c1b8989ba90e2057acb52a3c65adaee525572c2e4ab1aa21ab1d49f82dc17d2f041f671f725
 #EXTINF:-1 group-title="🐉외국영화🦆",예외: Buas
