@@ -2979,6 +2979,8 @@ https://joovideo.icu/static/streaming-playlists/hls/210bffac-ba78-4392-8c90-6562
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
 #EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7
+#EXTINF:-1 tvg-id="JORXDTV.jp",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7
 #EXTINF:-1 group-title="🐉일본방송🦮",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7
 #EXTINF:-1 group-title="🐉일본방송🦮",TV Osaka (544p)
