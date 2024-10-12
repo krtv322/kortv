@@ -296,6 +296,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆",전,란
+https://s8-e1.etcbbd.xyz/ppot/_definst_/mp4:s16/live/jq-zl-720p-02E42AFAE.mp4/chunklist.m3u8?vendtime=1728902151&vhash=ELovOXw_3AS99mKH2X7leOgcTfoxdY_LaCWsYtgIjtY=&vCustomParameter=0_2406.da12.280.c100.8221.2f44.b4e0.ab4f_KR_0_0&lb=eb205b7f9905a9b3fcf93f96568557b1&proxy=SpWjPJ4kPNHZOc9aBdXvUdnpE2rbCIvbT6DYOcKkU7bwV7CuBMKnBcLqOs9YPYvuUNfyEPmMifYNCheniJ4pbpmyNfyEPmMifYNCheniJ4q5pmyNA
 #EXTINF:-1 group-title="🐉한국영화🦆",아이를 위한 아이
 https://m3u8.0ee0.com/vedio/20240806/1722948833591/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",빅토리
@@ -1749,8 +1753,8 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241012 사연 있는 쌀롱하우스 제172회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/8740d733-1227-42a2-aad3-daba2145d3db/1975d281-c22f-4b20-957d-d637ee101eaf-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241011 독립영화관
 https://ww999.ontvkorea.com/static/streaming-playlists/hls/472b91ee-05e4-4cb1-a820-b9df2381b982/ce891218-46b0-4d95-b45e-070bb1526f58-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241011 트랄랄라 유랑단 제2회
