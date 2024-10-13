@@ -461,8 +461,8 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆",小丑2：双重妄想 Joker: Folie à Deux
+https://v7.tlkqc.com/wjv7/202410/06/hHp1aV1te279/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",危机航线
 https://v.gsuus.com/play/9aA4Lr7e/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",疯狂的麦克斯：狂暴女神 Furiosa: A Mad Max Saga
@@ -487,8 +487,6 @@ https://v.gsuus.com/play/Pe9ZpnJa/index.m3u8
 https://v.gsuus.com/play/1aMr205b/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",入侵者们的晚餐 侵入者たちの晩餐
 https://v10.dious.cc/20240104/OKX5XEYG/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆",志愿军：存亡之战
-https://v5.tlkqc.com/wjv5/202410/07/9qS0XXzjqq77/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",爆款好人
 https://v.gsuus.com/play/lejDwMBb/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",出入平安 
@@ -809,10 +807,12 @@ https://m3u8.0ee0.com/vedio/20240817/1723874614719/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제2회
+https://www.humortown.net/20241013/fPvfE330/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제1회 첫방송
 https://www.segyen.com/20241012/L3Z6rocb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제2회
+https://www.segyen.com/20241013/3x9ZCUar/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제1회 첫방송
 https://www.segyen.com/20241012/nvU0cEON/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 241011 이토록 친밀한 배신자 제2회
@@ -853,6 +853,8 @@ https://www.segyen.com/20241005/iiANd64y/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241003/cl8H71J4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사장님의 식단표 제1회
 https://www.managahaspn.com/20241003/wwcBvHdR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제6회
+https://www.segyen.com/20241013/AEv0ikx3/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제5회
 https://www.segyen.com/20241012/MOdfargH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제4회
@@ -915,9 +917,11 @@ https://www.segyen.com/20240916/YXQCc8RQ/1000kb/hls/index.m3u8
 https://www.segyen.com/20240909/YraE59m2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",사랑 후에 오는 것들 3회
 https://www.segyen.com/20241004/eQCMyHjb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",240914 OPENing(오프닝) 2024 아름다운 우리 여름 제2회
+#EXTINF:-1 group-title="🐉한국드라마🦆", OPENing(오프닝) 2024 제7회
+https://www.humortown.net/20241013/4oASq6FH/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", OPENing(오프닝) 2024 아름다운 우리 여름 제2회
 https://www.managahaspn.com/20240915/UIIdD5Y5/index.m3u8?skipl=1
-#EXTINF:-1 group-title="🐉한국드라마🦆",240914 OPENing(오프닝) 2024 아름다운 우리 여름 제1회
+#EXTINF:-1 group-title="🐉한국드라마🦆", OPENing(오프닝) 2024 아름다운 우리 여름 제1회
 https://www.managahaspn.com/20240914/Yu4LYLgw/index.m3u8?skipl=1
 #EXTINF:-1 group-title="🐉한국드라마🦆",내 손끝에 너의 온도가 닿을 때 제6회
 https://svip.high22-playback.com/20240912/10548_b6c626e4/2000k/hls/mixed.m3u8
@@ -1918,9 +1922,48 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 한 번쯤 이혼할 결심 제13회
+https://www.segyen.com/20241013/ZFBikYnS/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 개그콘서트 제1093회
+https://www.segyen.com/20241013/3OURSyNF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 이제 만나러 갑니다 제666회
+https://www.segyen.com/20241013/4GkWTZbN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 거인의 어깨 제13회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/c38d3304-ec33-48ed-a686-969744a71420/18974d03-6732-49f7-8712-0d6918d3f262-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 심야괴담회4 제14회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/7a551143-c9e8-428a-be0b-94c6e78cd7ac/0cf50e97-5e31-48b5-9b8a-76e274fdca44-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 미운 우리 새끼 제413회
+https://www.segyen.com/20241013/kohaP7A2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 슈퍼맨이 돌아왔다 제553회
+https://www.segyen.com/20241013/6qXdGG4r/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 극한투어 제4회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/cbd7e31b-3dc3-424e-ae0a-503aa18aafd1/5a602112-79a5-4a1c-a808-bc5284051203-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 시골에 간 도시 Z 제6회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/0ccbd63b-f6c8-4b7d-a3d3-73ec1382c402/85e14a39-6147-425e-a3eb-48d995c0660e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 성적을 부탁해 티처스 제30회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/ca9f715c-da47-484e-8311-47ae8f83232f/5235450a-dbed-4db4-b849-767922945f92-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 백패커2 제20회
+https://www.segyen.com/20241013/0PwERjqx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 뭉쳐야 찬다3 제51회
+https://www.segyen.com/20241013/vN841RbW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 식객 허영만의 백반기행 제266회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/42f0de92-8a13-4b86-90ce-eb9befd7cc1f/abcb00a6-a7e2-47f6-841e-19d95f4c06d2-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 맨 인 블랙박스
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/9d16204f-d07a-41f7-a7c2-289674d66281/4aed7a6d-0211-4e67-ba0d-9bd7e7e339f3-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 1박 2일 시즌4 제245회
+https://www.segyen.com/20241013/BL1tD0gv/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 복면가왕 제469회
+https://www.segyen.com/20241013/MHMXCZgs/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 런닝맨 제723회 - 불굴의 유지어터
+https://www.segyen.com/20241013/LiirpPp3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 열린 음악회 제1498회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/bb24d260-06cf-4204-aaf3-e0ac661c1a5d/c2d6c1cb-c320-40cd-bedd-8f75d3b923a7-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 알토란 제523회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/d491ebe9-70dc-47d4-9935-f8f5c6672839/6d1880e1-0bef-47bb-8027-0a77c9991c1d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 노래하는 대한민국 제48회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/9d58aedb-27a7-4e8e-8720-65a42b68f012/d6b70fe7-1178-47e0-90d7-48119d1366e6-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241013 전국노래자랑
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/8c84663a-4a80-416f-a279-fb1dc3344252/33ad1ef4-8632-4aae-9b1d-94a3d796f346-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241012 그것이 알고 싶다 - 우연과 운명의 교차점 - 영월 군등치 청테이프 살인 사건
 https://www.segyen.com/20241012/qlR8qSQk/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241013 출발 비디오 여행 제1263회
