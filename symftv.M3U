@@ -9,8 +9,8 @@ http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🐉한국방송🦆",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",SBS UBC
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBSCJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://www.hwado.net/webtv/public/21_573058EB.php
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
@@ -24,7 +24,6 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjkwMzY3OTV9.B1DlaXXN7beQebXnwZ65sPIkzTk-5_Pz7i7SndR983U
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
 https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyOTAyODQ2NH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Fs9sDM0p8VwM-GCf4On6j%7E4Np36%7EWDR76aMIAq-yScplFwh-ENJu8ckzfWwBEX5amvLUJab-MmNJthwPyCCNC49QG-PK%7E60MpqesT-4N2YBuaUKvtFav6C8nK7P3zuOfgCB9hslSnEU%7EVdMSkO-uiTfNdysX6dbcIKBdZoXZ8yo_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
@@ -235,8 +234,8 @@ http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",SBSCJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS UBC
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS CJB 5G
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV (406p) [Not 24/7]
