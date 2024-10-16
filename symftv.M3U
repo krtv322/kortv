@@ -295,10 +295,10 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",유포자들
+https://m3u8.0ee0.com/vedio/20240807/1723033897617/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",귀못
+https://m3u8.0ee0.com/vedio/20240807/1723028581341/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",정직한 후보2
 https://m3u8.0ee0.com/vedio/20240806/1722954778727/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",육사오
@@ -470,6 +470,14 @@ https://www.noltta.com/video/m3u8//01c22d71/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆",	테이크오버 （넷플릭스）
+https://m3u8.0ee0.com/vedio/20240807/1723026995125/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	더 트랩트 13: 태국 동굴 조난 사건（넷플릭스）
+https://m3u8.0ee0.com/vedio/20240807/1723015226782/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	아테나 （넷플릭스）
+https://m3u8.0ee0.com/vedio/20240807/1723018381747/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	마이 네임 이즈 벤데타 （넷플릭스）
+https://m3u8.0ee0.com/vedio/20240807/1723014703394/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",리스 페레이라: 어른 （넷플릭스）
 https://m3u8.0ee0.com/vedio/20240807/1723014416654/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",길레인 맥스웰: 괴물이 된 사교계 명사 （넷플릭스）
@@ -838,6 +846,10 @@ https://svipsvip.ffzyread1.com/20241010/32371_4a5f2f97/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20241010/32370_1af762c8/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제1회
 https://svipsvip.ffzyread1.com/20241010/32371_4a5f2f97/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제4회
+https://www.humortown.net/20241016/Rqx5cfDr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제3회
+https://www.segyen.com/20241016/G3kdPrLF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제2회
 https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제1회 첫방송
@@ -848,6 +860,8 @@ https://www.segyen.com/20241011/CyOOlkLl/1000kb/hls/index.m3u8
 https://www.segyen.com/20241004/eQCMyHjb/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이: 최종 리허설
 https://ontvkorea.com/static/streaming-playlists/hls/25d0fbc0-99df-44ac-9893-5863f3a66e90/cc48a0fb-4da1-436e-badf-210eb4ecfb54-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제8회
+https://www.segyen.com/20241016/MHrr7ZNL/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제7회
 https://www.segyen.com/20241015/SP6IndIc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제6회
@@ -880,6 +894,8 @@ https://www.segyen.com/20241005/ArVMNpJR/1000kb/hls/index.m3u8
 https://www.segyen.com/20240929/VBuS3rJE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제1회 첫방송
 https://www.segyen.com/20240928/cCvqWaPi/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제7회
+https://www.humortown.net/20241016/WeBfs7Ja/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제6회
 https://www.segyen.com/20241010/j27EKSdp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제5회
@@ -956,6 +972,10 @@ https://svip.high22-playback.com/20240912/10544_40fbe12b/2000k/hls/mixed.m3u8
 https://svip.high22-playback.com/20240912/10545_26ff42fd/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",내 손끝에 너의 온도가 닿을 때 제1회
 https://svip.high22-playback.com/20240912/10546_7fe73d71/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제14회
+https://www.humortown.net/20241016/ENzTqpAB/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제13회
+https://www.humortown.net/20241016/J3iVuxi4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제12회
 https://www.segyen.com/20241009/oUdkzy1L/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제11회
@@ -1324,6 +1344,8 @@ https://svip.high22-playback.com/20240824/7914_a8b26e5d/2000k/hls/mixed.m3u8
 https://svip.high25-playback.com/20240823/3354_e895e647/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",수지맞은 우리 96회
 https://svip.high24-playback.com/20240822/3889_e9cf8618/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 72회
+https://www.humortown.net/20241016/JLj3obJm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 71회
 https://www.segyen.com/20241014/P0mLXZ8N/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 70회
@@ -1392,6 +1414,8 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제105회
+https://www.humortown.net/20241016/pze3Ukb9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제104회
 https://www.segyen.com/20241015/cE0KiG8y/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제103회
@@ -1950,6 +1974,40 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 스튜디오 K 제224회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/f98f1700-78d3-4a95-ba5b-a3f4bcf21e00/4d3be039-fbb1-44b6-adb9-091da209761a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 미스쓰리랑 제25회
+https://www.segyen.com/20241016/huwL9CCQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 전설의 취사병 제3회
+https://www.managahaspn.com/20241016/Fn9g9Slr/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 나는 SOLO 나는 솔로 제171회
+https://www.segyen.com/20241016/DWB0JFX4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 고딩엄빠 5 제18회
+https://www.segyen.com/20241016/pQ2SktwQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 요즘 남자 라이프 - 신랑수업 제135회
+https://www.segyen.com/20241016/2inLgnsK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 골 때리는 그녀들 - 세계관의 확장 제13회
+https://www.segyen.com/20241016/EztFYPH1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 왔다 내손주
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/81e63dff-a243-4104-ab9c-edc2919ed6bb/e8b55fc1-775e-49dd-a07d-74872183a8cb-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 유 퀴즈 온 더 블럭 제265회
+https://www.segyen.com/20241016/wSN3Lw8s/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 짠남자 제4회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/cc6021a7-fd15-4f6d-9e5a-2441383d277a/de9b921f-4d8e-4b2a-8a0e-ba11f7b2458c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 벌거벗은 한국사 제130회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/1a3953d7-2591-4a56-96a5-8cbd156544cc/94099da1-12bc-4a4a-99ad-aa2aa1977f97-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 퍼펙트 라이프
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/cf8570fc-c398-4c6d-a085-d1db6019d61d/492d1a9a-bf92-4d0e-9d33-455ff50baef2-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 주간 아이돌
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/4ccbf76c-5a8e-47b8-9acc-98d4d6339336/e2b64139-272a-47b2-9fa4-cb37b24d0988-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 꿀잼 영화가 좋다
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/bd51b2db-8f5d-47be-bebf-2b6fc860bac7/df59bba7-ecd4-41fe-9f14-c8e8baf0267f-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241016 최고의 처방 미라클 푸드
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/5d9fcf6a-6ac9-4c31-8d2e-1fe1c8632f93/a7d01af6-47bb-4901-b098-84c2732265a2-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241015 스테이지 파이터 제4회
 https://ww418.ontvkorea.com/static/streaming-playlists/hls/9bc120fb-fe1c-4b2b-b4d7-455231b154f4/675376f0-0f52-4cdd-a3b9-753db565ef85-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241015 이제 혼자다 제6회
