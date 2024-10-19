@@ -3347,6 +3347,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/aa427408-ee4f-4bc5-a0e2-d1d
 
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK G
 http://r3jx.djtmewibu.com/nhkg/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX1
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX2
@@ -3549,8 +3551,6 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TBS
 https://tbs4.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
 #EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
