@@ -220,6 +220,8 @@ http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 #EXTINF:-1 group-title="🐉한국방송🦆",D LIVETV
 http://112.214.255.201/hls/ch02/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbs1
 http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS부산
@@ -3405,16 +3407,22 @@ https://ontvkorea.com/static/streaming-playlists/hls/aa427408-ee4f-4bc5-a0e2-d1d
 
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK G
 http://r3jx.djtmewibu.com/nhkg/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",ntv
+http://r3jx.djtmewibu.com/ntv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",abc
+http://r3jx.djtmewibu.com/abc/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX1
 http://r3jx.djtmewibu.com/mx1/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX2
 http://r3jx.djtmewibu.com/mx2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",SUN TV
-http://r3jx.djtmewibu.com/suntv/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tss
 http://r3jx.djtmewibu.com/tss/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Teletama
+http://r3jx.djtmewibu.com/tvs/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",AT-X
 http://r3jx.djtmewibu.com/at-x/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",bs11
+http://r3jx.djtmewibu.com/bs11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ东京
@@ -3889,7 +3897,10 @@ https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉스포츠🦆",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆",SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
 #EXTINF:-1 group-title="🐉스포츠🦆",일본골프
@@ -3904,8 +3915,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉스포츠🦆",BILLIARDS TV
 https://d2zve2l62bwzcf.cloudfront.net/h264/billiard/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",TBS
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",欧洲体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",曼联官方 MUTV
