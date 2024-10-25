@@ -3714,8 +3714,7 @@ https://ontvkorea.com/static/streaming-playlists/hls/aa427408-ee4f-4bc5-a0e2-d1d
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://116.227.10.196:2048/rtp/239.45.3.145:5140$1920x1080
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
@@ -3744,8 +3743,6 @@ http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$
 http://116.227.10.196:2048/rtp/239.45.3.210:5140$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CHC高清电影
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",淘剧场
@@ -3758,7 +3755,8 @@ http://114.252.225.255:8000/rtp/239.3.1.250:8001$1920x1080
 http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
 #EXTINF:-1 group-title="🐉중국방송🦆",经典电影
 http://113.251.73.45:5555/rtp/235.254.198.114:1732$1920x1080
-
+#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
+http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 
 
 
