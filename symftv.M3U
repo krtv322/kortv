@@ -13,8 +13,8 @@ http://123.140.197.22/stream/1/play.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://www.hwado.net/webtv/public/21_573058EB.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",티비조선
@@ -254,8 +254,8 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC춘천
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC JEZ
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc
