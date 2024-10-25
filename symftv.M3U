@@ -3718,8 +3718,6 @@ https://ontvkorea.com/static/streaming-playlists/hls/aa427408-ee4f-4bc5-a0e2-d1d
 
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://113.57.20.158:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",风云足球
-http://122.189.103.254:8010/rtp/228.0.0.236:6108$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",魅力足球
 http://223.10.39.207:8083/rtp/239.1.1.75:8075$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",超级体育
@@ -3728,34 +3726,18 @@ http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/10000000010000
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-#EXTINF:-1 group-title="🐉중국방송🦆",快乐垂钓
-http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC高清电影
-http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",淘剧场
 http://114.252.225.255:8000/rtp/239.3.1.95:8001$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",淘娱乐
 http://114.252.225.255:8000/rtp/239.3.1.100:8001$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",淘电影
 http://114.252.225.255:8000/rtp/239.3.1.250:8001$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",黑莓电影
-http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
 #EXTINF:-1 group-title="🐉중국방송🦆",经典电影
 http://113.251.73.45:5555/rtp/235.254.198.114:1732$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",山东体育
-http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",江苏体育
-http://58.215.3.254:8686/rtp/239.49.8.117:8000$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",安徽综艺体育
-http://114.107.2.37:2000/rtp/238.1.79.41:4440$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",五星体育
-http://116.227.10.196:2048/rtp/239.45.3.210:5140$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",高尔夫网球
 http://112.234.23.81:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
-http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 
 
 
