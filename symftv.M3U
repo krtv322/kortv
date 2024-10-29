@@ -5283,7 +5283,12 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 
 
 
-
+#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TBS
+https://tbs4.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ东京
@@ -5392,14 +5397,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",Music ON TV!
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
-https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",TBS
-https://tbs4.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK G
 http://vthanh.utako.moe/4E656B6F_g/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK E
