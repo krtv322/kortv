@@ -4917,36 +4917,22 @@ https://m3u8.tjihua.com/vedio/20240818/1723976004699/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-1
-http://112.234.23.81:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-1
 http://122.139.47.206:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-2
-http://112.234.23.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-2
 http://122.139.47.206:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-3
 http://122.139.47.206:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-3
-http://112.234.23.81:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-4
-http://112.234.23.81:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-4
 http://122.139.47.206:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-5
 http://122.139.47.206:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-5
-http://112.234.23.81:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-5+
-http://119.163.57.184:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-6
 http://122.139.47.206:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-6
-http://112.234.23.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-7
 http://122.139.47.206:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-7
-http://112.234.23.81:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-8
 http://122.139.47.206:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-9
@@ -4963,14 +4949,8 @@ http://122.139.47.206:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=
 http://122.139.47.206:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-15
 http://122.139.47.206:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV-16
-http://61.138.128.226:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV-17
 http://123.138.22.30:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",世界地理
-http://112.234.23.81:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",兵器科技
-http://112.234.23.81:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://112.234.23.81:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
@@ -4978,23 +4958,19 @@ http://122.139.47.206:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
 http://122.139.47.206:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://112.234.23.81:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
 http://112.234.23.81:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
-http://112.234.23.81:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
-http://112.234.23.81:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
 http://112.234.23.81:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
-http://112.234.23.81:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://112.234.23.81:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
-http://112.234.23.81:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://112.234.23.81:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
 http://122.139.47.206:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
@@ -5009,32 +4985,14 @@ http://122.139.47.206:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=
 http://122.139.47.206:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
 http://112.234.23.81:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://112.234.23.81:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://112.234.23.81:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
 http://112.234.23.81:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
-http://112.234.23.81:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://112.234.23.81:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://122.139.47.206:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
 http://112.234.23.81:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://58.220.219.14:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",风云音乐
-http://112.234.23.81:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",第一剧场
-http://112.234.23.81:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",风云剧场
-http://112.234.23.81:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",怀旧剧场
-http://112.234.23.81:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",高尔夫网球
-http://112.234.23.81:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",风云足球
-http://112.234.23.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",魅力足球
 http://223.10.39.207:8083/rtp/239.1.1.75:8075$1920x1080
 #EXTINF:-1 group-title="🐉중국방송🦆",超级体育
