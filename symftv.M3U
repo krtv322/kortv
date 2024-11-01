@@ -4853,7 +4853,28 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 
 
 
-
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK G
+http://tv.utako.moe/nhkg/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK E
+http://tv.utako.moe/nhke/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",ntv
+http://tv.utako.moe/ntv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV 
+http://tv.utako.moe/fuji/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TBS
+http://tv.utako.moe/tbs/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tv_asah
+http://tv.utako.moe/asahi/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tvtokyo
+http://tv.utako.moe/tvtokyo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX
+http://tv.utako.moe/mx1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TOKYO MX2
+http://tv.utako.moe/mx2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",AT-X
+http://tv.utako.moe/at-x/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",bs11
+http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TBS
