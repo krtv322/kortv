@@ -1373,6 +1373,8 @@ https://www.segyen.com/20241005/iiANd64y/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241003/cl8H71J4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사장님의 식단표 제1회
 https://www.managahaspn.com/20241003/wwcBvHdR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제12회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/5ec45409-1bff-49b5-949a-eeb38ced9565/8317e1c3-012d-4b79-b277-c28251a7da27-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제11회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/ce9e4a2f-8894-48ad-afea-ce5c1f29792b/07fa221d-1326-4ba4-ab51-158e963da4ee-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제10회
@@ -2652,10 +2654,20 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 극한투어 제7회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/85df3c9d-697e-44f8-80cd-18bdece2b694/8be8d0d1-27e2-47d2-8ec7-97cba6891fa0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 백패커2 제23회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/b9a857c4-a710-4fde-834b-09ddbf5a226b/8a33f748-6e7f-4617-8830-1e419155e766-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 뭉쳐야 찬다3 제54회
+https://www.segyen.com/20241103/1IUMobHa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 복면가왕 제471회
+https://www.segyen.com/20241103/Ly6TGvWV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 맨 인 블랙박스
+https://ontvkorea.com/static/streaming-playlists/hls/0440d88c-fabd-4109-b8b5-6aa15195bb75/ace4327f-92d7-4207-b40d-3e6431462b76-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 이슈 픽 쌤과 함께 제206회 - 미국대선기획
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/2c919b2f-6a0c-4000-9d25-6050dcac3951/643b5667-e384-4e9c-bc82-2988c2af3691-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 런닝맨 제726회 - 속이면 산다!
+https://ontvkorea.com/static/streaming-playlists/hls/c7d3e19b-d5b9-4856-816a-cb404fa1dd54/15536901-b0ed-40b4-9e46-8848c846e28a-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 1박 2일 시즌4 제248회
 https://www.segyen.com/20241103/YUcOeIlW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 열린 음악회 제1501회
