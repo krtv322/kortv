@@ -329,8 +329,8 @@ https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",페스터
+https://m3u8.tjihua.com/vedio3/20241103/1730618652155/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",새끼손가락
 https://m3u8.tjihua.com/vedio3/20241014/1728890974953/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",막걸리가 알려줄거야
@@ -567,6 +567,8 @@ https://m3u8.tjihua.com/vedio/20240818/1723981515340/out.m3u8
 https://m3u8.tjihua.com/vedio/20240805/1722854127956/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",해적: 도깨비 깃발
 https://m3u8.tjihua.com/vedio3/20241101/1730463010861/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",타짜 전설의 땁
+https://m3u8.tjihua.com/vedio3/20241103/1730618149743/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",타짜: 원 아이드 잭
 https://m3u8.tjihua.com/vedio3/20241101/1730461535156/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",타짜
@@ -611,8 +613,14 @@ https://m3u8.tjihua.com/vedio3/20241022/1729576970308/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241029/1730190783462/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",노리개: 그녀의 눈물
 https://m3u8.tjihua.com/vedio/20240816/1723815521428/out.m3u8
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",손
+https://m3u8.tjihua.com/vedio3/20241103/1730617266537/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",치외법권
+https://m3u8.tjihua.com/vedio3/20241103/1730622729502/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",이장과 군수
+https://m3u8.tjihua.com/vedio3/20241103/1730622022644/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",신체모음.zip
+https://m3u8.tjihua.com/vedio3/20241103/1730620144476/out.m3u8
 
 
 
@@ -2624,6 +2632,30 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 1박 2일 시즌4 제248회
+https://www.segyen.com/20241103/YUcOeIlW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 열린 음악회 제1501회
+https://ontvkorea.com/static/streaming-playlists/hls/ccb80402-b961-494f-b567-f8a7552fcf88/d04d605a-2a8c-4388-9e0e-1e2ec5d46750-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 알토란 제514회 - 가을 감칠맛의 끝판왕 새우의 모든 것
+https://ontvkorea.com/static/streaming-playlists/hls/df452dba-17c1-4d78-8b6f-d1b1ab53a9d1/b8e2196c-8185-44eb-b59b-e7b9f5b3d779-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 노래하는 대한민국 제51회
+https://ontvkorea.com/static/streaming-playlists/hls/d9f51e2b-0787-40c1-a607-9da7b78fe2b6/beed4df2-a3a0-4324-bc9f-44e822a6b6be-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 출발 비디오 여행 제1266회
+https://ontvkorea.com/static/streaming-playlists/hls/9a2bdb59-f80c-4dd1-8e1f-3c6e2f950dbc/231307fd-455a-4ceb-a8b2-fea4f87efba2-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 사장님 귀는 당나귀 귀 제280회
+https://ontvkorea.com/static/streaming-playlists/hls/9afa694b-6fc6-4db4-97ee-77b15e37d812/5ef12e20-5e41-401d-a164-a9caf02229a4-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 SBS 인기가요 제1249회
+https://ontvkorea.com/static/streaming-playlists/hls/9afa694b-6fc6-4db4-97ee-77b15e37d812/5ef12e20-5e41-401d-a164-a9caf02229a4-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 전국노래자랑 제2234회
+https://ontvkorea.com/static/streaming-playlists/hls/ccb80402-b961-494f-b567-f8a7552fcf88/d04d605a-2a8c-4388-9e0e-1e2ec5d46750-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 팡팡터지는 정보쇼 알맹이
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/2ef747db-156a-4de2-b834-f60c2daa415e/158e7e00-a662-45fd-8bc2-513e42598084-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 TV 동물농장
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/ae28c092-0807-485e-b6da-7708b2aec6cf/96b19f96-8e65-42d8-89e3-74970e63df23-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 연애의 참견 시즌3 THE 드라마 제3회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/06640ed1-614e-4dd5-9ed0-6736c3cd3165/8b3155b4-7e46-4abd-8d87-8eb8eaeadd10-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 이경규의 경이로운 습관 제9회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/470aefa2-c248-4c9a-9b4e-d8131ec0118b/212166f7-dddc-4b14-bdd9-d7b5d8d449f0-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241102 SNL 코리아 리부트 시즌6 제8회
 https://www.soratv2.com/20241102/1GPEn8OI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241102 나라는 가수 인 스페인 제1회 첫방송
