@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="🐉한국방송구매위챗:Livetv322🦆",한국방송구매문의:Livetv322 (위챗)
-https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
+https://live1.botv.kr/liveapi/livefile/id/1730589061271.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:Livetv322🦆",아틀레티코 산루이스vs푸에블라 FC
+https://live2.botv.kr/liveapi/livefile/id/1730588859963.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbs1
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS1대구
@@ -24,9 +26,9 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzA1NDg4MjR9.gWsFT5mUMAlET8yoAbMf-OU2qHVX0vJ8QuwXcO-U6es
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzA2MzUyMjJ9.kA9T0jj3VxcCzMqdXpnYIjliJkjm6urYHAIIdaw8w04
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDU0MTU1Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=PuF23pzm4OdfT3%7ENA7wfEP1S1u6RvHYSyVzVUlYgYkmHQxq3IsFlj6FsBW41rvzKBvbSBjsqCa-pUN54e0nZmQRpEkZOk8FAD58EHooYqxk-6XN6uHN1t8giRIoL3aRlJDwN6gz-pse1-2e3Dhx4yJoT7Ob9Z2pdavxaEbYdNF8_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDYyNzkzNn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=HzrSX%7EgANZngj53vTfN-XkXgxcSaqyE67n-5WMnKm9gSDjp5gnzYYiyJ3oHxdc8oEGeLx2eN4N26zGxWuURzclQYgtFEV%7EE-VSkzKitaGfwr1NBJt-vNr4s2lFQJJ%7ElWDz5sSiOQBuzZXCJ0CwUEq%7E7lMWvpyXK%7EwpLzRvBPupg_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉한국방송🦆",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YBTV-1朝鲜语
@@ -75,7 +77,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1730678038&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDY3ODAzOH19fV19&Signature=KR8SyLA4zLi0eIy4RymNsgbRkLPsjpnyYyO2LNTN3L-Aa4~BhYC2yVQOBbQTkYMZsHv-txaEOq7u5R0ilIXEZmcRQT6WOP59R2mRgwWk0FfWAJuiwLnzqBDC99VP3kVAni1eYx0CkMYFtt97qIr4cqEsiP09gSePBkZC6uE3~dd3D8C6Y3H~aQF6TL7SpCNOOoz5eI3mSQRcZ5uqkCUa~Eq49zzDprYf85sc7b2UqXA3Mb331C7DZP7mM-2aAlf2J5ZGQdyoXl0Q26Wim18RStcwuvnIudl4J0TJZWaHDii7-ohWf1cGbdXTMNk2zpxtutELcOR1JBwUVhMnznvaPQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1730762525&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDc2MjUyNX19fV19&Signature=Zs8V-XnY-e-Gfq66bYZPA6k9q2iyb~fkwWsVcDiYqFKPmbfd-3yyoueM0i19oQzMMupe35c7h5Ru-iFbbccIvTdWzhr-w3QLUytyoqPmQZTuvGHame8YoLnFU2ooZSO0ORoMzCC-fl7FmFnJMzlNzZeVl-Spji2QAd9-LUHwJqNpjSR49KQR-T3EipwIK3HV2u5TTz36u~y79Ansav9gOuzGpPW3ZwaAYze49io-p4EgQpvO~8qwJMmGFvg0XEj1O46pGKf7R4s1eQQmXgVbhCrtUIisNz7fri-NHG-z-C2MkNs2LB5~kByXIfLESAMbL6NHXM9DiX3TZgUf9njIEA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",도시어부
@@ -83,9 +85,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1730677957&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDY3Nzk1N319fV19&Signature=nAz6S~-L5HHeDb2tc9Zgzu4PmfKpjgoOSQk5KPJi29SDyc10XGUvRPomx3zkNurBYQuKNl-HaDentf7SjWUZ7bud0r4KBcIhxse6rUDzwEtU0ezFaLnFxUSHjlHApwq1zJW4-lCX6jWP2UTOg7kdsVjXYthoLQmpZBbk0LBQeVEtHFutMugYHEQtB1nHQRT3wgMYdidribRjQj6703VQ9OjVMfV3sdj1zA-rzwaMCeyzomT7XcJANBRfdMN07ZdxrNoW042qgPQYLnMVzB7gsnmbNNup-9IovJE~5ADdBjWRGlesKmBfOW5TpqoLkrB9rUfb2h-Q-TFlWjwTFk~6Hw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1730762454&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDc2MjQ1NH19fV19&Signature=ADubZTZFXvvAgwtLTTxyQVpZfPQmzHR3PaaH3ZV4MJUk9iREOxU--vdoqSFDxRrnwjbZ8GKbMfGN-5iY3YqeiIVnzb1vQQM98TFxMgrqyqGU7C~4hvAs-jGHEI4tgtDTzMt7HMbg6AH1n23lIpNAOP7krxwFYy5u-yqTqPDWmUdV0OeX~YV2hVngcegDQMwIOGgBqjbcWzj3ivMmaKIxSnCA8rKpid72aNxYaEuwwHV-wmGPJlNmysK9Ka0THbm4bK3598ZUP426zIfpEj~Qit6UaJWwPJHX9z7AoIlJSbfUK8L4epqqK6Zfb4hAWidMG9748xjom9zIjU5UK6ZjsQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS어린이만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1730677983&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzA2Nzc5ODN9fX1dfQ__&Signature=m3a-IkSA4eRFbpwSQDOmH2cTtAE84H-8cXla~1ByO9PrtKTsyq0tdUJkRGX1~-OFxly0n99uC30bYj7ea83hjNbQVb6sCV9TYcoROFDO7hTtNQSz2DRoLAAQnmY4cLXSl~4-IilB~VC3~UVmhbTcYodCEkxGaJNM96gFmhdKbwRupC87RM0iqYGzO3YZ0bFCBcTSG25sI2nSkk-D~6Vw8jUqXMGoXod4Hfkq9T4bkbEZY1uqPgGgH6qsC~qVW5p6PgriK5c1JJwRLBkVuAhhG58-bsDLTW6bxrNGw0nT1JTcNw2pd~IPBKIheCZczy~ixJHhWVBfwxYEbS~YsPsGuw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1730762468&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzA3NjI0Njh9fX1dfQ__&Signature=UjdqdNmMfZihmcFdum8AKJn-LJjxSomt6Rz3B9jTycx0UblCcFWhj4Cj~tw461oWUT2zQhd4nYNjlRmJ9OaVnIjSx2b6O9VxGQYDkQLa88LAiGGq0QyF4KgRQ03uDwkZ9UYFJ8rfr8yFWXmCyeC8VKc7qzEMRupTS9JJkQxWoWfbX7U9pJabxAqNrAXi76eUoOZF8ZW9IfbWYiw0U7Px6OgDWNvny8Z6fYniZpF6f0jcynLOkiiaycAb7NITFTicXvE2CxcpVv5Z3F15YGunSTew8E9GFjj0OHZqCJCiOX6RUp9K66zgypYBNs5a4YwgoqRgHaUkBqlquFEtBY~nNg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",핑크퐁
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
@@ -569,6 +571,12 @@ https://m3u8.tjihua.com/vedio3/20241028/1730098671702/out.m3u8
 https://m3u8.tjihua.com/vedio/20240811/1723370748732/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",데시벨
 https://m3u8.tjihua.com/vedio/20240807/1723026009618/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",해무
+https://m3u8.tjihua.com/vedio3/20241022/1729576970308/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",#살아있다
+https://m3u8.tjihua.com/vedio3/20241029/1730190783462/out.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆",노리개: 그녀의 눈물
+https://m3u8.tjihua.com/vedio/20240816/1723815521428/out.m3u8
 
 
 
@@ -576,6 +584,31 @@ https://m3u8.tjihua.com/vedio/20240807/1723026009618/out.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆",	톰 파파: 앞으론 탄탄대로
+https://m3u8.tjihua.com/vedio3/20241102/1730543645112/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	이벨린의 비범한 인생
+https://m3u8.tjihua.com/vedio3/20241102/1730541781530/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	Hijack ’93
+https://m3u8.tjihua.com/vedio3/20241102/1730543906254/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	마사
+https://m3u8.tjihua.com/vedio3/20241102/1730542855618/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	올리비아 로드리고: 거츠 월드 투어
+https://m3u8.tjihua.com/vedio3/20241102/1730542259938/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	펌킨
+https://m3u8.tjihua.com/vedio3/20241102/1730543337631/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	돈 무브
+https://m3u8.tjihua.com/vedio3/20241102/1730541389706/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	아불시계승인 : 난 상속자가 아니야
+https://m3u8.tjihua.com/vedio3/20241102/1730534366972/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	타임 컷
+https://m3u8.tjihua.com/vedio3/20241102/1730541017476/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	Raising the Costa Concordia
 https://m3u8.tjihua.com/vedio3/20241101/1730460768862/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	최후의 호흡
@@ -1104,6 +1137,12 @@ https://m3u8.0ee0.com/vedio/20240823/1724383022863/out.m3u8
 https://m3u8.0ee0.com/vedio/20240817/1723874051926/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",더 유니온 （넷플릭스）
 https://m3u8.0ee0.com/vedio/20240817/1723874614719/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",'핀치' - Finch
+https://m3u8.tjihua.com/vedio3/20241102/1730534161918/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",네가 없는 시간
+https://m3u8.tjihua.com/vedio3/20241102/1730529959418/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",이스케이프 룸
+https://m3u8.tjihua.com/vedio3/20241102/1730534582469/out.m3u8
 
 
 
@@ -1127,6 +1166,9 @@ https://m3u8.tjihua.com/vedio3/20241024/1729776660813/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제2회
 https://m3u8.tjihua.com/vedio3/20241017/1729170192398/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제1회
+https://m3u8.tjihua.com/vedio3/20241024/1729748211116/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제7회
+https://m3u8.tjihua.com/vedio3/20241102/1730561551921/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제6회
 https://m3u8.tjihua.com/vedio3/20241027/1730043418547/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제5회
@@ -1139,6 +1181,8 @@ https://www.humortown.net/20241019/f0gBzKud/1000kb/hls/index.m3u8
 https://www.humortown.net/20241013/fPvfE330/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제1회 첫방송
 https://www.segyen.com/20241012/L3Z6rocb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제7회
+https://m3u8.tjihua.com/vedio3/20241102/1730557076821/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제6회
 https://m3u8.tjihua.com/vedio3/20241027/1730039229933/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제5회
@@ -1151,6 +1195,8 @@ https://www.segyen.com/20241019/kqKbC0yo/1000kb/hls/index.m3u8
 https://www.segyen.com/20241013/3x9ZCUar/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제1회 첫방송
 https://www.segyen.com/20241012/nvU0cEON/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 이토록 친밀한 배신자 제7회
+https://m3u8.tjihua.com/vedio3/20241102/1730558220966/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 이토록 친밀한 배신자 제6회
 https://m3u8.tjihua.com/vedio3/20241101/1730473037800/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 이토록 친밀한 배신자 제5회
@@ -1179,6 +1225,10 @@ https://m3u8.tjihua.com/vedio3/20241017/1729144539723/out.m3u8
 https://m3u8.tjihua.com/vedio2/20241010/1728547622890/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 좋거나 나쁜 동재 제1회
 https://m3u8.tjihua.com/vedio2/20241010/1728547314781/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제8회
+https://www.humortown.net/20241102/vR1PixX1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제7회
+https://www.humortown.net/20241102/J6vde5he/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제6회
 https://www.segyen.com/20241024/GVQWy0Ci/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제5회
@@ -1257,6 +1307,8 @@ https://www.segyen.com/20241005/iiANd64y/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241003/cl8H71J4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사장님의 식단표 제1회
 https://www.managahaspn.com/20241003/wwcBvHdR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제11회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/ce9e4a2f-8894-48ad-afea-ce5c1f29792b/07fa221d-1326-4ba4-ab51-158e963da4ee-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제10회
 https://m3u8.tjihua.com/vedio3/20241027/1730043770970/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제9회
@@ -1277,54 +1329,8 @@ https://www.segyen.com/20241005/ArVMNpJR/1000kb/hls/index.m3u8
 https://www.segyen.com/20240929/VBuS3rJE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제1회 첫방송
 https://www.segyen.com/20240928/cCvqWaPi/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제12회
-https://m3u8.tjihua.com/vedio3/20241031/1730389236738/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제11회
-https://m3u8.tjihua.com/vedio3/20241030/1730298447561/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제10회
-https://m3u8.tjihua.com/vedio3/20241024/1729780540836/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제9회
-https://m3u8.tjihua.com/vedio3/20241023/1729696784174/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제8회
-https://www.segyen.com/20241017/2KFUSmwF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제7회
-https://www.humortown.net/20241016/WeBfs7Ja/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제6회
-https://www.segyen.com/20241010/j27EKSdp/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제5회
-https://www.segyen.com/20241009/59csk6OG/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제4회
-https://www.segyen.com/20241003/VvcBqH6q/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제3회
-https://www.segyen.com/20241002/DVkXsYzs/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제2회
-https://www.segyen.com/20240926/qkgwlDE4/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제1회 첫방송
-https://www.managahaspn.com/20240925/unlEJa86/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제12회
-https://m3u8.tjihua.com/vedio3/20241029/1730214423337/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제11회
-https://m3u8.tjihua.com/vedio3/20241030/1730291658201/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제10회
-https://m3u8.tjihua.com/vedio3/20241022/1729609082273/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제9회
-https://www.humortown.net/20241021/zhzdEcS1/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제8회
-https://www.humortown.net/20241015/P4eazAQV/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제7회
-https://www.humortown.net/20241014/d0LR5FDC/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제6회
-https://www.segyen.com/20241008/gmmCnS1c/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제5회
-https://www.segyen.com/20241007/fRVmhiL8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제4회
-https://www.segyen.com/20241001/32KcgFYJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제3회
-https://www.segyen.com/20240930/1MN1wzWe/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제2회
-https://www.managahaspn.com/20240924/6mTKI8cM/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제1회 첫방송
-https://www.managahaspn.com/20240923/VKx5c5yd/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",지옥에서온 판사 제14회
+https://m3u8.tjihua.com/vedio3/20241102/1730559517673/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",지옥에서온 판사 제13회
 https://m3u8.tjihua.com/vedio3/20241101/1730474473732/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",지옥에서온 판사 제12회
@@ -1573,8 +1579,56 @@ https://www.managahaspn.com/20240912/Yj2EdO4Z/index.m3u8?skipl=1
 https://www.managahaspn.com/20240912/YESelYhd/index.m3u8?skipl=1
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제2회
 https://www.segyen.com/20240912/E2syMCrl/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제12회
+https://m3u8.tjihua.com/vedio3/20241029/1730214423337/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제11회
+https://m3u8.tjihua.com/vedio3/20241030/1730291658201/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제10회
+https://m3u8.tjihua.com/vedio3/20241022/1729609082273/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제9회
+https://www.humortown.net/20241021/zhzdEcS1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제8회
+https://www.humortown.net/20241015/P4eazAQV/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제7회
+https://www.humortown.net/20241014/d0LR5FDC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제6회
+https://www.segyen.com/20241008/gmmCnS1c/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제5회
+https://www.segyen.com/20241007/fRVmhiL8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제4회
+https://www.segyen.com/20241001/32KcgFYJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제3회
+https://www.segyen.com/20240930/1MN1wzWe/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제2회
+https://www.managahaspn.com/20240924/6mTKI8cM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",나의 해리에게 제1회 첫방송
+https://www.managahaspn.com/20240923/VKx5c5yd/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",강매강 제1회
 https://www.segyen.com/20240912/TLfi2Bca/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제12회
+https://m3u8.tjihua.com/vedio3/20241031/1730389236738/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제11회
+https://m3u8.tjihua.com/vedio3/20241030/1730298447561/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제10회
+https://m3u8.tjihua.com/vedio3/20241024/1729780540836/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제9회
+https://m3u8.tjihua.com/vedio3/20241023/1729696784174/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제8회
+https://www.segyen.com/20241017/2KFUSmwF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제7회
+https://www.humortown.net/20241016/WeBfs7Ja/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제6회
+https://www.segyen.com/20241010/j27EKSdp/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제5회
+https://www.segyen.com/20241009/59csk6OG/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제4회
+https://www.segyen.com/20241003/VvcBqH6q/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제3회
+https://www.segyen.com/20241002/DVkXsYzs/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제2회
+https://www.segyen.com/20240926/qkgwlDE4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 개소리 제1회 첫방송
+https://www.managahaspn.com/20240925/unlEJa86/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 히어로는 아닙니다만 제12회
 https://m3u8.tjihua.com/vedio/20240828/1724855696817/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 히어로는 아닙니다만 제11회
@@ -2536,16 +2590,52 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 SNL 코리아 리부트 시즌6 제8회
+https://www.soratv2.com/20241102/1GPEn8OI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 나라는 가수 인 스페인 제1회 첫방송
+https://www.managahaspn.com/20241102/pw1KB8Wi/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 전지적 참견 시점 제321회
+https://www.segyen.com/20241102/HPIAoFf5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 속풀이쇼 동치미 제624회 - 바람 난 남자랑 살아보셨어요?
+https://www.segyen.com/20241102/VDem14NK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 콘서트 7080+ (플러스) 제16회
+https://ontvkorea.com/static/streaming-playlists/hls/072a71f9-a2ba-4c87-a21b-ce255468754d/2bb1c535-d0e0-4f91-a7c1-9a827547bb0b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 아는 형님 제457회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/f51bb250-2d74-4b6c-8e3b-4662915fef57/8976d6d1-4aa1-4f29-99e4-c941f6a4c8c3-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 살림하는 남자들 시즌2 제366회
+https://ontvkorea.com/static/streaming-playlists/hls/050353de-b258-40c8-baec-1b077f896f3b/4cc7e102-6951-426f-b56b-3e12ffbee392-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 강적들 제560회
+https://ontvkorea.com/static/streaming-playlists/hls/eb5d0895-fcb7-4977-abd8-973f4b93a10a/e004baca-d1c0-4e76-b7aa-9cf801a1a6ee-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 니돈내산 독박투어 시즌3 제11회
+https://ontvkorea.com/static/streaming-playlists/hls/7ebf5a5b-9cc7-4e35-beac-5a39fcd6bd9c/2b62535a-cc1b-448b-b9be-86e55c3129ed-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 내 아이의 사생활 제9회
+https://ontvkorea.com/static/streaming-playlists/hls/0539b940-5fc2-466d-9cc4-1b88a5c457ad/ae5821b6-13b5-43f5-8317-6da468373146-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 가보자GO 3 제7회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/fc542c08-634a-487b-b711-f2c2d9f8b9df/8ac49d73-6f13-4fb5-b193-21cef2be85ff-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 놀라운 토요일 - 도레미 마켓
+https://ontvkorea.com/static/streaming-playlists/hls/15a44762-439f-402b-91e1-8712ce2df27f/9d3c119c-3f3e-4328-8257-7d69ad17ae31-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 지구마불 우승여행 제2회
+https://ontvkorea.com/static/streaming-playlists/hls/46e98261-231b-4287-a0d6-15eb4a0a3581/40f1603e-3bee-4c5e-a5be-46dd18da2c6a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 놀면 뭐하니? 제255회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/8b95bf4f-09a6-4277-ae3c-7daaa2010fbb/a1118d26-8c27-4901-a929-bee75ee9bddb-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 무쇠소녀단 제9회
+https://ontvkorea.com/static/streaming-playlists/hls/6140740b-56fe-4327-bbb3-2122817b3f37/429a4567-b0e6-4f52-b0f2-90395fc96837-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 불후의 명곡 제679회 - 청춘 마이크 특집
+https://ontvkorea.com/static/streaming-playlists/hls/b74b36f5-bc7f-44b0-bc80-f4b40e7836cf/d9a751d0-e6d0-49bc-9e3f-3aaf904464ff-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 손대면 핫플 동네멋집2 제9회
+https://ontvkorea.com/static/streaming-playlists/hls/6bb67b65-609a-4062-a60c-c044e1d7b619/4c8b3988-e34e-490a-96b8-bf3bb97dadd5-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 접속 무비월드
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/aad8c58b-584e-4392-a958-eaefec98cd0c/86edc78e-ca73-4b4b-981b-c32970036dd8-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 영화가 좋다
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/ee8d1d70-24d9-488f-967f-84447553c4f9/800eedf4-cf60-4c6b-8cd5-c88016dacd5b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 차트를 달리는 남자 제411회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/2c159318-4601-4a20-bf49-ccb9fc407ab3/29bb5184-e57a-4acd-8c1e-1f107f1d4f1f-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 쇼 음악중심 제874회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/6a357f7e-6449-474a-a42d-3f4a37b35df7/d1168421-a3a4-46bc-ae51-0dfa76a18585-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 글로벌 건강쇼 땡큐 제1회 첫방송
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/3fbbf87d-987d-41dc-93f0-895f287f764f/455c42e5-41c9-42c1-bc48-31c60410c543-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241102 탐나는 TV
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/1a2f1cbf-4a7e-4436-bb3a-2119cda1fd02/23af4a51-e3a9-4eee-8298-236ba8699c02-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241101 나 혼자 산다 제569회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/c66402c7-a20a-4e45-9609-2e1a49765234/4497aa32-668c-4bac-9923-8737b1a4568b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241101 더 리슨 : 우리함께다시 제14회
@@ -4245,6 +4335,10 @@ https://m3u8.tjihua.com/vedio/20240828/1724834666546/out.m3u8
 https://m3u8.tjihua.com/vedio/20240828/1724834572541/out.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆", 프린세스 파워 시즌 3 1회
 https://m3u8.tjihua.com/vedio/20240828/1724834310841/out.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆", 우리의 계절은
+https://m3u8.tjihua.com/vedio3/20241102/1730530366838/out.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆", 이벨린의 비범한 인생
+https://m3u8.tjihua.com/vedio3/20241102/1730541781530/out.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆", 넥스트 젠
 https://m3u8.tjihua.com/vedio3/20241101/1730450066903/out.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆", 게드전기: 어스시의 전설
