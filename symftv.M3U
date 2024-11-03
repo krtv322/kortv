@@ -1229,6 +1229,8 @@ https://www.humortown.net/20241019/f0gBzKud/1000kb/hls/index.m3u8
 https://www.humortown.net/20241013/fPvfE330/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정숙한 세일즈 제1회 첫방송
 https://www.segyen.com/20241012/L3Z6rocb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제8회
+https://m3u8.tjihua.com/vedio3/20241103/1730643774358/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제7회
 https://m3u8.tjihua.com/vedio3/20241102/1730557076821/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이 제6회
@@ -2630,12 +2632,12 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 더 딴따라 제1회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/1b2c0a10-34c7-4ad9-8a55-e6c1d294e188/d638bb5b-35cf-4cee-b512-476a31bcc969-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 미운 우리 새끼 제416회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/6a640ff5-3c51-4dac-a1ac-f869f941f0f9/5b191634-2af1-4942-a8ea-841a00837cbb-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241103 거인의 어깨 제16회
+https://ww999.ontvkorea.com/static/streaming-playlists/hls/3db2a7de-e7e2-4a99-9654-142249fa99a1/ffdfe1e3-ce5b-4d22-acda-1583c1387f1b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 극한투어 제7회
 https://ww999.ontvkorea.com/static/streaming-playlists/hls/85df3c9d-697e-44f8-80cd-18bdece2b694/8be8d0d1-27e2-47d2-8ec7-97cba6891fa0-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 백패커2 제23회
