@@ -3,7 +3,7 @@
 https://live2.botv.kr/liveapi/livefile/id/1730728599915.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",잠셰드푸르 FC VS 첸나이 FC(생중계)
 https://live1.botv.kr/liveapi/livefile/id/1730728552153.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스턴 유나이티드 FC 0-1 멜버른 시티 FC(생중계)
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스턴 유나이티드 FC 0-1 멜버른 시티 FC(재방송)
 https://live1.botv.kr/live/20241104/1730706993290/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",밴쿠버 화이트캡스 FC 3-0 LA FC(재방송)
 https://live2.botv.kr/live/20241104/1730687246286/record.m3u8
@@ -1339,6 +1339,8 @@ https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
 https://www.segyen.com/20241009/O2CmMWNj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이: 최종 리허설
 https://ontvkorea.com/static/streaming-playlists/hls/25d01fbc0-99df-44ac-9893-5863f3a66e90/cc48a0fb-4da1-436e-badf-210eb4ecfb54-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제21회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdda4d72-97e5-4272-85d3-97d5df18c2f2/e8a25ac7-749d-41de-94a9-b8a38ffac19d-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제20회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/4efb4bce-61bc-4399-b655-8541bcaa56e3/9d31e5df-e62d-4416-8b09-2579ca8c9be6-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제19회
@@ -1439,6 +1441,8 @@ https://www.segyen.com/20240927/n5HluDZw/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20240921/t9yv1OQz/index.m3u8?skipl=1
 #EXTINF:-1 group-title="🐉한국드라마🦆",지옥에서온 판사 제1회
 https://www.managahaspn.com/20240921/wsaTetS1/index.m3u8?skipl=1
+#EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 83회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/c1592d75-44df-4eaa-8c7f-4e92a1447577/6d7b768d-8719-41dd-85c9-7102e50b5a66-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 82회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/f12dd5f9-97c3-4ebf-88b3-d97e24436c51/641a0411-9a07-40f9-9b4c-c56173dcbfb0-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 81회
@@ -1529,6 +1533,8 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제115회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/e712534a-cbbb-4167-afd6-6298b5e8a871/be7cc496-b848-4263-8f16-d0c0d2b01a22-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제114회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/350f4b7b-8746-4fa6-bf0f-d726392e179c/c4fd0e22-4767-458c-a563-2302fa63d0d1-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",용감무쌍 용수정 제113회
@@ -2665,12 +2671,12 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241104 한번 더 체크타임
+https://ontvkorea.com/static/streaming-playlists/hls/d8ae3daf-6035-4cbb-883e-34fc512435c3/4b6a16af-4069-48e8-968d-76565e3795d9-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241104 히든 아이 제6회
+https://ontvkorea.com/static/streaming-playlists/hls/cdbf575f-f37a-48b0-b86c-8320a831082a/d88eb771-c8d6-45ad-b7f6-f3804faa848b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241104 이젠 사랑할 수 있을까 제1회 첫방송
+https://ontvkorea.com/static/streaming-playlists/hls/7d674d9f-7dc6-4352-b260-50801e998bde/41892576-20a6-4522-8229-32fad9deea5b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 개그콘서트 제1096회
 https://www.segyen.com/20241103/Q0XcSAPr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241103 이제 만나러 갑니다 제669회
