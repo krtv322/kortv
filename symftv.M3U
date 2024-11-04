@@ -1,12 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아스테라스 VS OFI 크레타(생중계)
-https://live2.botv.kr/liveapi/livefile/id/1730734500337.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",FK 믈라도스트 루차니 VS 스파르타크 수보티차(생중계)
-https://live1.botv.kr/liveapi/livefile/id/1730734217908.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알 와슬 FC VS 알사드 SC(생중계)
-https://live2.botv.kr/liveapi/livefile/id/1730728599915.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",잠셰드푸르 FC VS 첸나이 FC(생중계)
-https://live1.botv.kr/liveapi/livefile/id/1730728552153.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",IFK 노르셰핑 1-0 AIK 포트볼(재방송)스웨덴 1부 2024-11-05 03:10
+https://live2.botv.kr/live/20241105/1730743816126/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알 힐랄 3-0 에스테글랄 FC(재방송)아시아 챔피언스 2024-11-05 03:00
+https://live1.botv.kr/live/20241105/1730743401666/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",FC 코펜하겐 2-2 실케보르 IF(재방송)덴마크 1부 2024-11-05 03:00
+https://live2.botv.kr/live/20241105/1730743438230/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파르마 칼초 1913 0-1 제노아 CFC(재방송)세리에 A 2024-11-05 02:30
+https://live1.botv.kr/live/20241105/1730743470873/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",엠폴리 1-0 코모 1907(재방송)세리에 A 2024-11-05 02:30
+https://live2.botv.kr/live/20241105/1730743501685/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르세폴리스 FC 1-1 알가라파 SC(재방송)아시아 챔피언스 2024-11-05 00:59
+https://live2.botv.kr/live/20241105/1730735829166/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알 아흘리 SC 5-1 알 쇼르타(IRQ)(재방송)아시아 챔피언스 2024-11-05 00:59
+https://live1.botv.kr/live/20241105/1730735776826/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알 와슬 FC 1-1 알사드 SC(재방송)아시아 챔피언스 2024-11-04 23:00
+https://live2.botv.kr/live/20241104/1730728599915/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스턴 유나이티드 FC 0-1 멜버른 시티 FC(재방송)
 https://live1.botv.kr/live/20241104/1730706993290/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",밴쿠버 화이트캡스 FC 3-0 LA FC(재방송)
