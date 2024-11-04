@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스턴 유나이티드 FC VS 멜버른 시티 FC(생중계)
-https://live1.botv.kr/liveapi/livefile/id/1730706993290.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알 와슬 FC VS 알사드 SC(생중계)
+https://live2.botv.kr/liveapi/livefile/id/1730728599915.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스턴 유나이티드 FC 0-1 멜버른 시티 FC(생중계)
+https://live1.botv.kr/live/20241104/1730706993290/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",밴쿠버 화이트캡스 FC 3-0 LA FC(재방송)
 https://live2.botv.kr/live/20241104/1730687246286/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",휴스턴 다이너모 FC 1-1 시애틀 사운더스 FC(재방송)
@@ -90,7 +92,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzA3MjE2MjF9.s53ttxtnfRWUG-evqcH-pHwdKGYhH_i_bUCqy0KKq5A
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzA3NjQ4MDR9.YMRVU96utnZAzp0AL3ucsULaJrLyV3egTK4tNrvt7BM
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
 https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDcxNDQwMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=Pr-EOb7-h4s8Qzv%7EUDtIOv9O381meclj%7E1PdS1HpQyUdKPUUfQDM4viE%7EuXAPBtf9xukE6r%7E6XMkPvf1WQHXTwMbBQ9gN1CzgQoKbvFUEl24EliyGOuCVHYqu0l0tbvRBBWGmWoBjUGW17wPhOsz2nzCo90kdAyuK7lZ36EqVZU_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 group-title="🐉한국방송🦆",延边卫视
