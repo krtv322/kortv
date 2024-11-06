@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",남딘 FC 4-2 탐파인스 로버스 FC (생중계) AFC아시안컵 2024-11-06 21:00
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",나사프 카르시 vs 알 후세인 SC (생중계) AFC아시안컵 2024-11-06 23:00
+https://live2.botv.kr/liveapi/livefile/id/1730901527553.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알틴 아시르 FK vs 알 타원 (생중계) AFC아시안컵 2024-11-06 23:00
+https://live1.botv.kr/liveapi/livefile/id/1730901491818.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",남딘 FC 3-2 탐파인스 로버스 FC (재방송) AFC아시안컵 2024-11-06 21:00
 https://live2.botv.kr/liveapi/livefile/id/1730894533253.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",방콕 유나이티드 FC 4-2 리만 (생중계) AFC아시안컵 2024-11-06 21:00
-https://live1.botv.kr/liveapi/livefile/id/1730894498568.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",방콕 유나이티드 FC 4-1 리만 (재방송) AFC아시안컵 2024-11-06 21:00
+https://live1.botv.kr/live/20241106/1730894498568/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",포항 스틸러스 4-2 산둥 타이산 (재방송) 아시아 챔피언스 2024-11-06 19:00
 https://live1.botv.kr/live/20241106/1730886819314/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",요코하마 F 마리노스 5-0 부리람 유나이티드 FC (종료) 아시아 챔피언스 2024-11-06 19:00
