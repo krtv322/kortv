@@ -1332,7 +1332,8 @@ https://m3u8.tjihua.com/vedio3/20241105/1730818039750/out.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 페이스미 제1회
+https://www.segyen.com/20241106/xR73xIVQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 강남 비-사이드 제2회
 https://m3u8.tjihua.com/vedio3/20241106/1730882696203/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 강남 비-사이드 제1회
@@ -2793,10 +2794,10 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241106 슈퍼맨이 돌아왔다 제547회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/7c89e94c-59fd-414d-91da-e28b29d93a34/3608cb80-fbc3-4765-8c00-cce03358d0c9-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241106 여권들고 등짝 스매싱 제9회
+https://ontvkorea.com/static/streaming-playlists/hls/041a03d6-178a-43f9-ae0c-a1e839a5d847/884dfb2d-0c79-418d-a34e-a9158e0aad3f-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241106 주간 아이돌
 https://ontvkorea.com/static/streaming-playlists/hls/13bbb75e-302e-416c-ac3d-d40e3e80a4a7/58438772-fe7e-4df1-8976-a294c277001b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241106 쇼챔피언
