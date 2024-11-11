@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",RCD 마요르카 vs AT 마드리드 (생중계) 라리가 2024-11-10 00:15
-https://live1.botv.kr/liveapi/livefile/id/1731251557843.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아우크스부르크 vs TSG 1899 호펜하임 (생중계) 분데스리가 2024-11-10 23:30
-https://live1.botv.kr/liveapi/livefile/id/1731248767233.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",OGC 니스 vs 릴 OSC (생중계) 리그앙 2024-11-10 23:00
-https://live2.botv.kr/liveapi/livefile/id/1731247018520.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 vs 입스위치 타운 (생중계) EPL 2024-11-10 23:00
-https://live1.botv.kr/liveapi/livefile/id/1731247048961.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",노팅엄 포레스트 vs 뉴캐슬 유나이티드 (생중계) EPL 2024-11-10 23:00
-https://live2.botv.kr/liveapi/livefile/id/1731247327399.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 유나이티드 vs 레스터 시티 (생중계) EPL 2024-11-10 23:00
-https://live2.botv.kr/liveapi/livefile/id/1731247143853.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",AS 로마 vs 볼로냐 FC (생중계) 세리에 A 2024-11-10 23:00
-https://live2.botv.kr/liveapi/livefile/id/1731246979334.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",트벤테 vs AFC 아약스 (생중계) 에레디비지에 2024-11-10 22:30
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",RCD 마요르카 0-1 AT 마드리드 (재방송)) 라리가 2024-11-10 00:15
+https://live1.botv.kr/live/20241111/1731251557843/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",VfB 슈투트가르트 2-3 프랑크푸르트 (재방송) 분데스리가 2024-11-10 01:30
+https://live1.botv.kr/live/20241111/1731255987137/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아우크스부르크 0-0 TSG 1899 호펜하임 (재방송) 분데스리가 2024-11-10 23:30
+https://live1.botv.kr/live/20241110/1731248767233/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",스타드 렌 FC 0-2 툴루즈 FC (재방송) 리그앙 2024-11-10 00:59
+https://live2.botv.kr/live/20241111/1731254895123/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",몽펠리에 HSC 3-1 스타드 브레스트 29 (재방송) 리그앙 2024-11-10 00:59
+https://live2.botv.kr/live/20241111/1731254756583/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",르아브르 AC 0-3 스타드 드 랭스 (재방송) 리그앙 2024-11-10 00:59
+https://live1.botv.kr/live/20241111/1731254727365/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",OGC 니스 2-2 릴 OSC (재방송) 리그앙 2024-11-10 23:00
+https://live2.botv.kr/live/20241110/1731247018520/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",첼시 1-1 아스널 (재방송) EPL 2024-11-10 01:30
+https://live2.botv.kr/live/20241111/1731256021520/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 1-2 입스위치 타운 (재방송) EPL 2024-11-10 23:00
+https://live1.botv.kr/live/20241110/1731247048961/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",노팅엄 포레스트 1-3 뉴캐슬 유나이티드 (재방송) EPL 2024-11-10 23:00
+https://live2.botv.kr/live/20241110/1731247327399/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 유나이티드 3-0 레스터 시티 (재방송) EPL 2024-11-10 23:00
+https://live2.botv.kr/live/20241110/1731247143853/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",AS 로마 2-3 볼로냐 FC (재방송) 세리에 A 2024-11-10 23:00
+https://live2.botv.kr/live/20241110/1731246979334/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",트벤테 vs AFC 아약스 (재방송) 에레디비지에 2024-11-10 22:30
 https://live2.botv.kr/liveapi/livefile/id/1731245250886.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SC 헤렌벤 vs 고 어헤드 이글스 (생중계) 에레디비지에 2024-11-10 22:30
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SC 헤렌벤 vs 고 어헤드 이글스 (재방송) 에레디비지에 2024-11-10 22:30
 https://live1.botv.kr/liveapi/livefile/id/1731245222178.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레알 베티스 2-2 셀타 비고 (재방송) 라리가 2024-11-10 22:00
 https://live1.botv.kr/live/20241110/1731243393688/record.m3u8
