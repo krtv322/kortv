@@ -1619,9 +1619,9 @@ https://m3u8.tjihua.com/vedio3/20241113/1731491742798/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 페이스미 제3회
 https://m3u8.tjihua.com/vedio3/20241113/1731505886524/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제12회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/7abc8817-015b-4afa-9c77-4b691b83305f/345aac2d-7770-4da3-b223-20c348f58a1f-720.m3u8
+https://m3u8.tjihua.com/vedio3/20241113/1731510411299/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제11회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/97c5823f-18c0-46e7-a42a-bd3e06744e06/396982b5-993a-43df-9406-1f60615a75e6-master.m3u8
+https://m3u8.tjihua.com/vedio3/20241113/1731511770656/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제28회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/5afd3fb6-1ca4-4c12-93f8-2df978de9c2b/aaab501d-86fc-4854-8a74-fcc0d24e1a3e-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제90회
@@ -3218,8 +3218,16 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 스튜디오 K
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/9e6e950f-0912-4a66-92a5-d350b9d9c663/8b3b7dd6-ab1f-4f07-ad4b-5befbd95ca9c-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 미스쓰리랑
+https://www.soratv2.com/20241113/nPDFU1u8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 라디오스타 제889회
+https://www.soratv2.com/20241113/IdSzj4UJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 고딩엄빠 5 제21회
+https://www.soratv2.com/20241113/tJMtiNxZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 나는 SOLO 나는 솔로 제175회
+https://www.soratv2.com/20241113/IJIyuBlc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241113 생로병사의 비밀 - 강박장애, 완벽하지 않아도 괜찮아
 https://ww747.ontvkorea.com/static/streaming-playlists/hls/bda0f0fb-635e-4bab-ab4e-56f97fd787aa/197a8316-d51b-40af-8b6f-75ea83a5de11-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241113 나는 자연인이다 - 40년 철길 인생, 산으로 가다! 자연인 이봉갑
