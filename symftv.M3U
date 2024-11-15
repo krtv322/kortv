@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",코스타리카 vs 파나마 (생중계) CON NL2024-11-15
 https://live2.botv.kr/liveapi/livefile/id/1731636638411.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",자메이카 vs 미국 (생중계) CON NL2024-11-15 10:00
-https://live2.botv.kr/liveapi/livefile/id/1731634605149.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",벨리즈 vs 프랑스령 기아나 (생중계) CON NL2024-11-15 10:00
-https://live1.botv.kr/liveapi/livefile/id/1731634573318.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",보네르 vs 엘살바도르 (생중계) CON NL2024-11-15 10:00
-https://live1.botv.kr/liveapi/livefile/id/1731634656180.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",자메이카 0-1 미국 (재방송) CON NL2024-11-15 10:00
+https://live2.botv.kr/live/20241115/1731634605149/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",벨리즈 2-1 프랑스령 기아나 (재방송) CON NL2024-11-15 10:00
+https://live1.botv.kr/live/20241115/1731634573318/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",보네르 0-1 엘살바도르 (재방송) CON NL2024-11-15 10:00
+https://live1.botv.kr/live/20241115/1731634656180/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파라과이 2-1 아르헨티나 (재방송) WCPSA 2024-11-15 08:30
 https://live1.botv.kr/live/20241115/1731626900794/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아랍에미리트 3-0 키르기스스탄 (재방송) FIFA WCQL 2024-11-14 
