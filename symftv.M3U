@@ -1,10 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",카자흐스탄 vs 오스트리아 (생중계) UEFA 네이션스리그 2024-11-15 00:00
-https://live1.botv.kr/liveapi/livefile/id/1731596250343.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",쿠웨이트 vs 대한민국 (생중계) FIFA WCQL 2024-11-14 23:00
-https://live2.botv.kr/liveapi/livefile/id/1731593286207.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",바레인 vs 중국 (생중계) FIFA WCQL 2024-11-14 23:00
-https://live1.botv.kr/liveapi/livefile/id/1731593260348.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파라과이 vs 아르헨티나 (생중계) WCPSA 2024-11-15 08:30
+https://live1.botv.kr/liveapi/livefile/id/1731626900794.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아랍에미리트 3-0 키르기스스탄 (재방송) FIFA WCQL 2024-11-14 
+https://live1.botv.kr/live/20241115/1731600769169/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",카타르 3-2 우즈베키스탄 (재방송) FIFA WCQL 2024-11-14 
+https://live2.botv.kr/live/20241115/1731600729867/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",이라크 0-0 요르단 (재방송) FIFA WCQL 2024-11-14 
+https://live1.botv.kr/live/20241115/1731600704711/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",오만 1-0 팔레스타인 (재방송) FIFA WCQL 2024-11-14 
+https://live2.botv.kr/live/20241115/1731599928271/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",카자흐스탄 0-2 오스트리아 (재방송) UEFA 네이션스리그 2024-11-15 00:00
+https://live1.botv.kr/live/20241114/1731596250343/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",바레인 0-1 중국 (재방송) FIFA WCQL 2024-11-14 23:00
+https://live1.botv.kr/live/20241114/1731593260348/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",호주 0-0 사우디아라비아 (재방송) FIFA WCQL 2024-11-14 18:10
 https://live1.botv.kr/live/20241114/1731575191546/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",누블렌세 2-1 마갈라네스 (재방송) 칠레 컵 2024-11-14 08:30
@@ -3243,6 +3251,51 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 다큐멘터리K
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/d7b40c64-07ed-44ce-a72a-30370ffc03dd/a4b53a2d-07f8-428c-ab54-95394ed0f627-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 동물의 왕국
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/3f134397-b8a1-4f9a-8c56-fa2865d4a732/431f0b1b-696e-4462-96f8-122995f29285-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 사건파일 24, 사사건건
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/6dd20c78-3fe1-49ee-b749-b9fbf7714206/59472334-d78c-4699-9c56-76cb256e115e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 SBS 8 뉴스
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/72630122-4a61-4962-8693-f414fe67dae6/823e1b95-3201-413a-99b5-db0ddf8b0cbf-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 세계테마기행
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/0fe89373-8f57-4482-9e82-f7d8e3965903/3940c42d-b636-44f8-af42-c8d4955ddbb9-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 돌싱글즈 6 제10회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/9b78b376-bb97-4717-a356-d532176aa584/5e6bcd96-7290-4436-b716-91e11a22002b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 TV조선 대학가요제 제6회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/5dbd330d-d2d9-48ef-b196-15c22c443166/cebea9c6-1cec-4319-9e90-5d1bb89e5684-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 나는 SOLO 그 후 사랑은 계속된다(나솔사계) 제87회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/19ca7fdf-e5a7-4778-ab32-3fa7747167e9/a09ee195-cac1-434d-b74f-a37c126175bd-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 구해줘 홈즈 제274회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/5ab80832-cb00-4c62-aa8a-a15affff9792/f0a73081-12d3-4efc-b3f9-0912b426b0fd-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 2024 우리음악인축제 - SONG CAMP
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/0a514095-78e2-45cb-91d9-2ed466cae3d0/541eec32-3889-4c96-980b-4dcaa157fccb-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 끝내주는 부부 제8회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/157c039d-d3c0-402b-942c-6eb2cb4d6ec9/ac5a6a8d-0599-4cd8-ae76-62d5557ecc1a-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 다시 갈 지도 제134회
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/5d484f79-dc60-464c-b5c1-f97abf6cba04/4cd47df2-fa79-40ed-9d26-53140f633889-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 텐트 밖은 유럽 로맨틱 이탈리아 제5회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/e3377e5c-1b96-4e00-8a1b-9e3feb3757b6/b44daf05-0c3e-4967-8f4f-6e723f9f4857-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 이혼숙려캠프 제13회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/df1aeb6f-a754-4fbb-bca4-84813f9f7d8a/7261fc83-e66f-49cf-a2c9-fe87fc7fe0b2-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 와 진짜 세상에 이런일이 제5회
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/15aa7f2c-5d46-4f6a-820e-c3b029f993e0/651ae6a6-041e-431e-97f8-f5c886215b20-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 어서와~ 한국은 처음이지? 시즌2 제340회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/5620c368-2f0c-4c7e-9bd7-b8511a5636c6/a45d74b7-0da3-4f46-af01-19e20ea793c9-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 실화탐사대 제288회
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/5a785f14-1dfe-4b97-89d7-a42770824685/c2c0a627-5cb2-492b-bf0b-bb8090c557aa-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 박원숙의 같이 삽시다 시즌3 제187회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/5f2b3965-8e0a-4c10-88d5-eb2291accffa/f5b1639f-59c1-48f6-98b7-156104078ad8-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 남의 나라 살아요 선 넘은 패밀리 제58회
+https://ww418.ontvkorea.com/static/streaming-playlists/hls/dcd76e2f-75cf-4854-a1fb-093b60dad5ec/fa2de14e-564e-4016-8624-20bcdba318d9-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 알콩달콩
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/8bb90772-a34d-4859-a517-39b9e8f46b91/755c63ae-cb66-4ef5-a9a0-562b48c914b0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241114 놓친 예능 따라잡기
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/c5e7d0f0-a2b3-415f-b588-f37837527ae0/2a07f2ab-2e02-46e4-b688-c5daf99f9c50-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241113 70억의 선택 제119회
+https://ww747.ontvkorea.com/static/streaming-playlists/hls/9cae38b6-5407-4fab-bf7c-664aaf0fd89d/8af7aaa0-34a0-45be-8809-51f33192624f-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241113 스튜디오 K
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/9e6e950f-0912-4a66-92a5-d350b9d9c663/8b3b7dd6-ab1f-4f07-ad4b-5befbd95ca9c-720.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241113 미스쓰리랑
@@ -4421,594 +4474,10 @@ https://ww999.ontvkorea.com/static/streaming-playlists/hls/4ccbf76c-5a8e-47b8-9a
 https://ww999.ontvkorea.com/static/streaming-playlists/hls/bd51b2db-8f5d-47be-bebf-2b6fc860bac7/df59bba7-ecd4-41fe-9f14-c8e8baf0267f-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241016 최고의 처방 미라클 푸드
 https://ww999.ontvkorea.com/static/streaming-playlists/hls/5d9fcf6a-6ac9-4c31-8d2e-1fe1c8632f93/a7d01af6-47bb-4901-b098-84c2732265a2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 스테이지 파이터 제4회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/9bc120fb-fe1c-4b2b-b4d7-455231b154f4/675376f0-0f52-4cdd-a3b9-753db565ef85-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 이제 혼자다 제6회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/f1afd775-d670-40a6-8727-6a35255297a0/0fdf5f52-fdb4-4912-89d2-fd09da0957f8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 벌거벗은 세계사 제173회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/8f52d947-49f4-4a52-9a39-33652c998118/2b2c6339-1c39-4c2f-a819-105784f3feeb-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 한일톱텐쇼 제21회
-https://ontvkorea.com/static/streaming-playlists/hls/c8f7e949-0759-4975-b5b2-ce501db7aa63/5e9a9162-a7b3-4993-8c4e-340520d5a073-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 강철부대W 제3회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/5692c62c-847f-4e14-9141-a6676de56309/1a90feda-10a0-4d3f-adc0-232318e21939-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 신발 벗고 돌싱포맨 제156회
-https://www.segyen.com/20241015/1SlHXqPJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 연애의 참견 시즌3 제246회
-https://www.segyen.com/20241015/LetRRVRA//1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 아이돌스토어K 제3회
-https://www.managahaspn.com/20241015/UgKaDV2o/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 다 컸는데 안 나가요 제3회
-https://www.managahaspn.com/20241015/7LDJiikZ/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 지구를 닦는 남자들 제1회 첫방송
-https://www.managahaspn.com/20241015/Oi530xff/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 몸신의 탄생 제4회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/1d26106e-4ede-46f4-b5c7-5a11a6f09ed4/2e6ac60d-fa03-40da-94e2-e66deb94ff39-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 엄지의 제왕 제612회 - 이것만 알아도 발병률 줄인다 대장암 위험 인자
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/272e86eb-a969-4af9-a9ce-dc7ba569fcff/2cebf8f3-143d-4bfc-8c76-a3a6c8383384-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 백팩프렌즈 제2회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/40986b5b-2abd-4fd8-98f8-bada4700a44b/4100ada4-57dd-409c-abcc-5579f16abc22-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 이웃집 찰스
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/83975b7b-4cb2-4cd4-bee6-47bfd4d54d72/2c0dadd6-74b8-4d4d-8362-5bcaf9cd7640-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 더 쇼 - 가을 소풍 in 금산
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/79bcf64e-67b6-4ee1-ae06-220d08437896/18011e64-3dab-4cf8-b6f8-c90fc3a2d1c7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241015 너의 몸소리가 들려 제2회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/ce31f926-6dd9-4f1e-8461-a506b1630ce3/7093942e-4dcc-4b09-a1e4-0796d635c783-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 최강야구 제102회
-https://www.segyen.com/20241014/mG3xc1eF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 오은영 리포트 결혼지옥 제95회
-https://www.segyen.com/20241014/0HIpLgZU/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 생존왕 제2회
-https://www.segyen.com/20241014/ifwK1f9r/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 동상이몽 시즌2 너는 내 운명 제360회
-https://www.segyen.com/20241014/UEPLCRy0/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 가요무대 제1869회
-https://www.managahaspn.com/20241014/YY3NxY1S/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 탐정들의 영업비밀 제28회
-https://www.managahaspn.com/20241014/NNuP5S7e/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 한일로맨스 혼전연애 제4회
-https://www.segyen.com/20241014/qlISwT8n/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 프리한19 제438회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/7a0a59e3-58ac-4f40-906a-2d8ba70b7f6c/5fd0d8df-492b-4629-a2f2-bd77671da1d9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 푹 쉬면 다행이야 제23회
-https://ontvkorea.com/static/streaming-playlists/hls/17034870-746c-4d71-9024-1d8acca3138c/41b01fd7-4dae-4a6c-ae68-647699e6ff46-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 톡파원 25시 제113회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/ae36240c-a915-41ea-87dd-c88cc4b2d2f5/da32f667-7f5a-458e-968e-bdda6bc92f9e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 생활의 달인
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/4bf747cd-7e95-42b9-8392-c51a6a843412/6161a3a3-1c22-4436-9e5d-04e628727da5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 싱크로유 제5회
-https://www.managahaspn.com/20241014/JJOfdy0I/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 김창옥쇼3 제5회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/b80c0120-a88a-465e-aa3b-87b88d901f6d/3ae10ff8-9bfd-4f43-afba-7ec4e3ca9c65-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 선상의 더트롯쇼
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/c5a58061-4f13-4a4a-adaf-ab9c4c1e7736/688eea7c-90b1-4886-872f-d84125d2fd80-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 무엇이든 물어보살 제287회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/a7e0dfb4-6b5f-47bd-a10a-a67fc6ce0f0d/77c40104-ea1a-407d-a6b4-d1ae98d7e990-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 한번 더 체크타임
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/3a6fb8ec-a77a-4c00-80d6-baf265d4c53f/8e84a672-d7b8-431e-9804-a33d9e335768-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241014 2024 MAMA AWARDS 노미네이션
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/cef9271a-8f45-4191-8c47-813e820b0c2e/ef771160-579b-4e32-bde2-d3a58c1190c5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 한 번쯤 이혼할 결심 제13회
-https://www.segyen.com/20241013/ZFBikYnS/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 개그콘서트 제1093회
-https://www.segyen.com/20241013/3OURSyNF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 이제 만나러 갑니다 제666회
-https://www.segyen.com/20241013/4GkWTZbN/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 거인의 어깨 제13회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/c38d3304-ec33-48ed-a686-969744a71420/18974d03-6732-49f7-8712-0d6918d3f262-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 심야괴담회4 제14회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/7a551143-c9e8-428a-be0b-94c6e78cd7ac/0cf50e97-5e31-48b5-9b8a-76e274fdca44-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 미운 우리 새끼 제413회
-https://www.segyen.com/20241013/kohaP7A2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 슈퍼맨이 돌아왔다 제553회
-https://www.segyen.com/20241013/6qXdGG4r/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 극한투어 제4회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/cbd7e31b-3dc3-424e-ae0a-503aa18aafd1/5a602112-79a5-4a1c-a808-bc5284051203-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 시골에 간 도시 Z 제6회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/0ccbd63b-f6c8-4b7d-a3d3-73ec1382c402/85e14a39-6147-425e-a3eb-48d995c0660e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 성적을 부탁해 티처스 제30회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/ca9f715c-da47-484e-8311-47ae8f83232f/5235450a-dbed-4db4-b849-767922945f92-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 백패커2 제20회
-https://www.segyen.com/20241013/0PwERjqx/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 뭉쳐야 찬다3 제51회
-https://www.segyen.com/20241013/vN841RbW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 식객 허영만의 백반기행 제266회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/42f0de92-8a13-4b86-90ce-eb9befd7cc1f/abcb00a6-a7e2-47f6-841e-19d95f4c06d2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 맨 인 블랙박스
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/9d16204f-d07a-41f7-a7c2-289674d66281/4aed7a6d-0211-4e67-ba0d-9bd7e7e339f3-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 1박 2일 시즌4 제245회
-https://www.segyen.com/20241013/BL1tD0gv/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 복면가왕 제469회
-https://www.segyen.com/20241013/MHMXCZgs/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 런닝맨 제723회 - 불굴의 유지어터
-https://www.segyen.com/20241013/LiirpPp3/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 열린 음악회 제1498회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/bb24d260-06cf-4204-aaf3-e0ac661c1a5d/c2d6c1cb-c320-40cd-bedd-8f75d3b923a7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 알토란 제523회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/d491ebe9-70dc-47d4-9935-f8f5c6672839/6d1880e1-0bef-47bb-8027-0a77c9991c1d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 노래하는 대한민국 제48회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/9d58aedb-27a7-4e8e-8720-65a42b68f012/d6b70fe7-1178-47e0-90d7-48119d1366e6-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 전국노래자랑
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/8c84663a-4a80-416f-a279-fb1dc3344252/33ad1ef4-8632-4aae-9b1d-94a3d796f346-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 그것이 알고 싶다 - 우연과 운명의 교차점 - 영월 군등치 청테이프 살인 사건
-https://www.segyen.com/20241012/qlR8qSQk/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 출발 비디오 여행 제1263회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/55ab0ac6-4482-46bc-a999-188eebf7e724/4c5a261f-2c3b-482c-aa4e-064f921b1a9b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 신비한TV 서프라이즈 제1135회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/9b3f2da5-eb87-4320-b62d-0ebe44ee8d76/1046fe52-2c2f-4844-ad9a-3cfa67060788-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 팡팡터지는 정보쇼 알맹이
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/97e3ac5f-94a1-4f87-a12d-d8e6184b2f97/4aa559a0-98e0-4498-b9ec-477586b0cecc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 TV 동물농장 제1192회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/adcfb708-3c01-447a-8b23-9014f01c0fcb/24579751-d084-4322-b3ab-0d4a2e86f407-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241013 이경규의 경이로운 습관 제6회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/d1d8027a-92ef-4755-9f43-360ed79b551f/f46a690f-d7be-42d6-accb-8b6c43b7cbc9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 전지적 참견 시점 제318회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/3d1338d4-d97e-43ec-954c-ab8bb8998b82/a4f2b0a3-bbbb-48f9-944a-bb612aca941f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 속풀이쇼 동치미 제621회 - 당신, 말 좀 그만하면 안 돼?
-https://www.segyen.com/20241012/9jn3APTv/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 콘서트 7080+ (플러스) 제13회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/8ccdd5d2-5692-4a9f-9394-c6ef2a8940e1/6f3f421a-f313-4853-924f-c86d0e804c45-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 스쿨 SCOOL 제3회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/aba01887-e979-4632-9e8b-266dc4572d53/9c2757d7-b29e-4cee-ae56-ff502af30042-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 주말은 오지
-https://www.managahaspn.com/20241012/fTo92ZHq/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 강적들 제558회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/c2d2eeda-997c-431a-89db-b81302e95a17/9ff6de14-afcc-40b3-a6c5-4f2491532617-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 가보자GO 시즌3 제4회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/527f8f4a-486d-48d2-8630-eda534406495/e5aa6212-a0e9-4e81-8ce6-f00d4e0de5e2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 살림하는 남자들 시즌2 제363회
-https://www.segyen.com/20241012/XrvmISlF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 니돈내산 독박투어 시즌3 제8회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/27398649-a4d5-46bf-af92-43f2a2c73346/1d46015c-e4cf-4fdc-89ca-642026c04be9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 아는 형님 제454회 - 김성령 & 김소연 & 김선영 & 이세희
-https://www.segyen.com/20241012/7e0rFHPc/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 내 아이의 사생활 제6회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/28bb0b07-ea9a-40a8-a462-33147db97c53/f981a9e3-f735-4f8f-9b4d-82c2a25253a3-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 놀라운 토요일 - 도레미 마켓 제336회
-https://www.segyen.com/20241012/yanscNCT/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 진심누나 제2회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/5ffbd030-c2c6-4e17-a40a-5b863a9d50e3/3f4712b3-a8c3-4eed-9bb3-2ad1e7d29500-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 불후의 명곡 제676회
-https://www.segyen.com/20241012/xVFIA9x5/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 손대면 핫플 동네멋집2 제6회
-https://www.segyen.com/20241012/tZ9Uw7IS/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 놀면 뭐하니? 제252회
-https://ontvkorea.com/static/streaming-playlists/hls/6058b684-a82a-4d6e-a04f-4e59064b1f04/14ee68e5-9686-4488-809b-96271a4ed282-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 무쇠소녀단 제6회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/da146e09-568f-4618-a018-edcd49a091bd/a3546d4a-9233-46e6-bb26-d5e30d22928b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 차트를 달리는 남자
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/faca5dd9-63d2-47dd-98b3-2b5da0df420b/061a2a81-d546-4197-8327-4baba42b8244-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 탐나는 TV
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/2d4cf7f1-d826-4f24-a7d0-c9fe24efd09e/46a838ae-7169-484f-adb7-1bb08e039e1f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 국악한마당
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/10c81a23-cd46-4c3f-944f-643c10fd1bf4/e9a6bb5f-8b58-4c32-ac84-e443e7f35eea-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 쇼 음악중심 제871회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/0fbaa8d3-ab72-446c-af7f-8ab976eb79d2/164c7ab1-707f-474f-b6e5-6c18e0714ee8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 영동대로 K-POP 콘서트
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/6cda0037-fb37-451e-b9fb-22d934869a7a/3e5c2bc5-3628-4491-b0d8-4cfd2664e96f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 영화가 좋다
-https://ontvkorea.com/static/streaming-playlists/hls/589cb341-3abb-43ac-b446-a89c44007e53/e4e95cda-4391-437b-af93-0833546697df-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 동물은 훌륭하다 제3회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/a4bb3ce9-ea1c-4014-9dbd-e8cd31d9f930/bf2d33bf-7dec-43d8-a350-a068d07d5397-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 접속 무비월드
-https://ontvkorea.com/static/streaming-playlists/hls/4599f953-4117-4b0f-aa85-9ab2960cfe51/a64b9630-b022-42c5-8041-77b9e0411b32-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 오늘부터 인생2막 제5회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/fb8fba40-8217-401d-a536-c61a0d6fe3b7/02f0bf3d-2718-423d-880b-545d74ffe25d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241012 사연 있는 쌀롱하우스 제172회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/8740d733-1227-42a2-aad3-daba2145d3db/1975d281-c22f-4b20-957d-d637ee101eaf-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 독립영화관
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/472b91ee-05e4-4cb1-a820-b9df2381b982/ce891218-46b0-4d95-b45e-070bb1526f58-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 트랄랄라 유랑단 제2회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/19e793d6-50eb-4759-a09d-f12a4bfb7b65/423d5345-2219-490b-a693-1f06ac109cf8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 남의 나라 살아요 선 넘은 패밀리 제54회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/1765eef4-84f0-4d4b-b0b6-2cff9db58a51/26bae951-eede-4fec-b824-52df0b90acb5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 더 시즌즈 - 이영지의 레인보우 제3회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/9f73a59f-995f-45e0-bd92-f591a44043ee/98e3b3fd-1fb7-4524-8267-8a863c578f9e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 여왕벌게임 제5회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/b24a31b1-2f4a-44fd-90b5-c80ef4a82bc9/587ae7bb-bd13-412a-a0cd-e3044500955c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 용감한 형사들 4 제5회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/4e6c8a9a-b5a6-420a-8ab3-327dd449dd9d/0954292f-cd67-4c87-ae99-1b8b189566f8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 찐먹쇼 나는 먹방러 제4회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/0a72a379-1991-4820-9c21-82d9b5cace7a/48f98e1a-b4ad-4e14-b7a1-1dbc59b079c2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 전현무계획 2 제1회 첫방송
-https://ontvkorea.com/static/streaming-playlists/hls/63c5574c-8316-4b87-908b-2245d3e27521/ad38e870-4dc2-4dc8-a331-e8a386d8e65b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 삼시세끼 Light (라이트) 제4회
-https://www.segyen.com/20241011/vxVwEANB/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 이십세기 힛-트쏭 제235회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/b1f96de3-e6fa-4f96-9335-90785504e570/0b3610c1-daa4-4bcc-9f7f-63e95be93141-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 요즘 육아 금쪽같은 내새끼 제211회
-https://www.segyen.com/20241011/7KqEK4bV/index.m3u8?skipl=1
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 THE 맛있는 녀석들 제17회
-https://www.managahaspn.com/20241011/Mev3Zsug/index.m3u8?skipl=1
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 동네스타K4 제29회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/d79bfdb0-87aa-4831-b79a-c475c5c254aa/dbc9e6a7-d969-4377-8efb-1076707b5758-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 ENA 케이팝업 차트쇼 제5회
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/84a42265-1c41-40bd-b75d-8161f4e7152a/d7e3069d-d2aa-417b-8e70-e39f7b598349-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 RAP:PUBLIC (랩퍼블릭) 제4회
-https://www.managahaspn.com/20241010/oBS5Dlx6/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 뮤직뱅크 인 벨기에 스페셜
-https://ww999.ontvkorea.com/static/streaming-playlists/hls/5a29700d-99d6-4c31-8d70-c81d435f8daf/5166f0eb-1777-4c67-be55-fb7d4fcac9cd-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241011 프리한 닥터M 제172회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/30d8d975-fed6-46f2-b789-086d02f0ed6a/5c7bd609-b977-4cc6-867a-468f854cb17b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 로드 투 킹덤 : ACE OF ACE 제4회
-https://ontvkorea.com/static/streaming-playlists/hls/138a63cd-7642-4ae1-ad81-80c2f5ae6f6b/62fde98c-a908-4464-a8e3-1347d6d4614c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 TV조선 대학가요제 제1회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/e6c82536-67c7-4444-9fc5-920265425b52/ea98a024-5622-445f-ba0f-31799345aafc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 이혼숙려캠프 센 언니 스페셜 제1회
-https://www.segyen.com/20241010/lBQKQoRQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 아빠는 꽃중년 제24회
-https://www.segyen.com/20241010/bKxvaXoF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 나는 SOLO 그 후 사랑은 계속된다 제82회
-https://www.segyen.com/20241010/AsHpf2IU/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 돌싱글즈 6 제5회
-https://www.segyen.com/20241010/jklaQFtu/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 끝내주는 부부 제3회
-https://ontvkorea.com/static/streaming-playlists/hls/b35d150d-167a-491b-971b-87cbaf538794/f2f21f3f-4349-4afb-aba3-ad26602fbe0d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 꼬리에 꼬리를 무는 그날 이야기 제146회
-https://www.segyen.com/20241010/NPHQbACW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 어서와~ 한국은 처음이지? 시즌2 제335회
-https://www.segyen.com/20241010/QnAXAQWb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 언니네 산지직송 제13회
-https://www.segyen.com/20241010/iZ15kkP7/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 끝사랑 제8회
-https://www.segyen.com/20241010/zBEhFAof/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 박원숙의 같이 삽시다 시즌3 제182회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/8658938c-8e3a-4f03-928f-c2452ddd8d7d/ddb89738-1387-41eb-8375-4fba44a79e09-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 실화탐사대 제284회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/4cced31c-6b56-48c5-81e4-8eb88143685e/f56907e6-8920-45b4-8fc3-42c475f77d3e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 엠카운트다운
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/801b91a0-bb7c-4dea-b70b-523d84a351a9/1a7eda45-7367-47f7-a8f8-523553634995-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 놓친 예능 따라잡기
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/0435a208-768b-410d-8933-63bf61929abc/33d9b9bb-006e-4da0-977f-32eea2bcbbb8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241010 70억의 선택 제117회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/4d1daf25-e6ab-4922-a558-2272cac68be7/45d6ffdf-af38-4a13-be53-1fedae621e45-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 고딩엄빠 5 제17회
-https://www.segyen.com/20241009/AwtJ8XjV/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 미스쓰리랑 제24회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/05062f2b-e310-4485-bf2b-5f52a5d815c1/80bf73e3-4b69-4191-a25a-006efeeb9b3c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 라디오스타 제885회
-https://ontvkorea.com/static/streaming-playlists/hls/6b8d8910-bdfd-4107-9314-4161c68f8538/0e390ade-8bfc-4400-9ee8-8f397199220e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 나는 SOLO 나는 솔로 제170회
-https://ontvkorea.com/static/streaming-playlists/hls/56a9093d-2569-4a20-acf9-72e10eae0789/c1861cfc-7698-4d20-a460-4b27b9eb6131-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 스튜디오 K
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/6e495a48-800c-4f52-8266-45eafbcb7973/cdce94ab-b27b-415d-b7d2-f87f400782e4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 골 때리는 그녀들 - 세계관의 확장 제12회
-https://ontvkorea.com/static/streaming-playlists/hls/ae9f5b02-beb5-4617-bbc5-71cb652ce0b4/1e1e383b-e1a6-46a8-9e27-d32b426215c5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 요즘 남자 라이프 - 신랑수업 제134회
-https://www.segyen.com/20241009/MvT3VxeY/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 왔다 내손주
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/dd0466dd-72ef-4cfc-beb7-63670481d85c/43e6109f-6fd7-4d3e-a509-f84d0ee5e183-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 짠남자 제3회
-https://ontvkorea.com/static/streaming-playlists/hls/7b5f185b-9e7b-4e9e-be05-8552ca35c74b/80716c6e-94b4-4438-860e-64f12bc031ad-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 유 퀴즈 온 더 블럭 제265회
-https://www.segyen.com/20241009/1fsPkCi6/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 2024 퀴즈 온 코리아
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/6f210ba7-7bec-4b2c-9fb3-ab6297aa6dee/6c40ab6f-4f7e-42cb-8bc9-030b68e69138-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 주간 아이돌 제684회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/c9357d22-d782-4620-a6d6-ad54842da31e/f9032fba-1c75-4da0-8cab-89f6feda976b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 쇼챔피언
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/ab99a57e-4ccf-4a84-8229-61954f85c1ec/1de7e135-3aab-4931-9cec-3850115d1de8-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 꿀잼 영화가 좋다 베스트
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/92e564af-047a-4671-99bc-a46f42dae7b5/b5f73d17-0ca8-4073-8afd-39a5f814c06f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241009 최고의 처방 미라클 푸드
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/b04e0735-e583-451c-8b0c-cafd5f5cabab/feece5d2-9995-459b-9826-e18bebba904f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 TV예술무대 통영국제음악제
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/a85e001d-e149-4430-9f67-c7bc8f1df53c/5ae0eacb-4a5b-4ca2-912c-9dad95ea94fa-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 스테이지 파이터 제3회
-https://ontvkorea.com/static/streaming-playlists/hls/f2032b8a-0cf5-4836-88be-d7348dc437ed/96e6f555-38a5-42fc-ac28-f4f80b781b6c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 벌거벗은 세계사 제172회
-https://www.segyen.com/20241008/AFsvaaAo/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 연애의 참견 시즌3 제245회
-https://www.segyen.com/20241008/v3PSoeCg/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 강철부대W 제2회
-https://www.segyen.com/20241008/0G8YaTm0/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 이제 혼자다 제5회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/c1d1529f-7547-43a1-80f5-b67a493069e5/d7f6827b-e4ba-4c55-a5a8-56ec256cd5a7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 한일톱텐쇼 제20회
-https://ontvkorea.com/static/streaming-playlists/hls/24549b93-c873-4e1b-a3ef-4404f4398861/11909f4d-5637-4631-9a51-61858e1c0ba8-720-fragmented.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 정글밥 제8회
-https://www.segyen.com/20241008/NhAMDvW2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 전설의 취사병 제2회
-https://ww418.ontvkorea.com/static/streaming-playlists/hls/953d85c0-0bf8-4116-87a9-d69977ab33d7/f32189e3-d374-4d98-8fe4-b77a65dd561e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 신발 벗고 돌싱포맨 제155회
-https://www.segyen.com/20241008/Dl0pKLTk/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 청소광 브라이언 제8회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/205a3359-b526-4d8a-81d8-089f0c19f351/b50f85b2-659b-48d7-b822-af27c0a44452-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 다 컸는데 안 나가요 제2회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/6eb6a486-1365-478e-89bd-197ed7b6025b/4ff93d5f-db91-4b30-83e9-e4b9c6ae0450-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 김창옥쇼3 제4회
-https://www.segyen.com/20241008/mIT0a3nu/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 엄지의 제왕 제611회 - 더부룩한 속이 살을 찌운다? 속 편한 다이어트 법
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/eede6fd8-1c89-4a6d-90c2-b7c3930f36f8/8fd02ca8-ceba-4582-a125-a698a01bb440-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 몸신의 탄생 제3회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/971e0f78-6987-45bc-8d20-d72ecca6b4ab/cc66bd5b-8547-49bc-b520-f2532d5ada39-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 이웃집 찰스
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/b57bccda-df4b-4139-a4de-f6262221aeb8/17948946-c16b-4db8-929b-000c78c17e33-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 백팩프렌즈 제1회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/5bbe1db2-a5e0-4f87-aac1-86656163c195/9dc2acef-5cd7-4883-b176-000cad6ceac1-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 너의 몸소리가 들려 제1회 첫방송
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/f414daee-d4ac-4ad9-bf30-60cbbc98339e/e107896d-7aac-4012-b4ea-a82632da5c8b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241008 아이돌스토어K 제2회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/c7fddb45-3bc0-4d08-b0a5-06af16ca8633/81acc6ec-1b96-44c0-9aac-e9a354704565-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 최강야구 제101회
-https://www.segyen.com/20241007/jGkUmq4e/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 오은영 리포트 결혼지옥 제94회
-https://www.segyen.com/20241007/kQ8i2JaT/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 동상이몽 시즌2 너는 내 운명 제359회
-https://www.segyen.com/20241007/56ula0bz/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 생존왕 제1회 첫방송
-https://www.segyen.com/20241007/0S7fM0Jw/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 한일로맨스 혼전연애 제3회
-https://www.segyen.com/20241007/yq3i7GPJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 탐정들의 영업비밀 29회
-https://ontvkorea.com/static/streaming-playlists/hls/2a5b9be7-2bf8-4ee5-a97c-9018b5858b30/67f16536-3079-43fb-b851-288c9d3f89dc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 가요무대 제1868회
-https://asia.joovideo.cfd/static/webseed/8c3d9689-c388-4b22-83f9-f84d3309b9a2-450.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 프리한19 제437회
-https://asia.joovideo.cfd/static/webseed/3aa40613-4269-417c-8f9b-719f051fcdc2-450.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 푹 쉬면 다행이야 제22회
-https://www.segyen.com/20241007/o6sAtGD4/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 싱크로유 제4회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/cf9a107e-5793-494b-924a-a08bf2b6b608/f9329cbe-6ac7-4d5f-bf0e-745ec9f57358-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 생활의 달인 제952회
-https://asia.joovideo.cfd/static/webseed/2c75f798-bc0d-4c4b-8050-a1c1b4f32a0d-450.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 한번 더 체크타임
-https://asia.joovideo.cfd/static/webseed/155f0606-c0c1-40e2-a45b-22542618fb90-360.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 생활의 달인 제952회
-https://asia.joovideo.cfd/static/webseed/2c75f798-bc0d-4c4b-8050-a1c1b4f32a0d-450.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 무엇이든 물어보살 제286회
-https://www.segyen.com/20241007/terr5DGo/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 놓친 예능 따라잡기
-https://joovideo.bond/static/streaming-playlists/hls/bfe72119-9c0d-4b30-bc80-f70a3d85f09e/5a455384-b63c-4a20-b37a-adcacf321573-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241007 슈퍼콩서트
-https://joovideo.bond/static/streaming-playlists/hls/6ba5321a-9992-432c-a8c1-6c23270a3dbc/a48d7410-1c78-48e1-9c19-97a85ff5aa2d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 긍정왕 김땅콩 제2회
-https://joovideo.bond/static/streaming-playlists/hls/b284922f-f9d6-45c7-ae3b-a610d48411f3/dfb519fa-2176-44ab-8e50-69c698552e56-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 극한투어 제3회
-https://joovideo.bond/static/streaming-playlists/hls/bf7cc844-551f-46e2-be4f-74b35620a167/18e40f5f-237d-4b39-96a9-8a9d7f2f0ee3-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 이제 만나러 갑니다 제665회
-https://joovideo.cfd/static/streaming-playlists/hls/ac850ae2-5231-43e1-b7b9-a2d2eab155a2/a4a33fa1-83a1-4c42-9084-eee1355f66c9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 심야괴담회4 제13회
-https://joovideo.cfd/static/streaming-playlists/hls/72f48c24-7d46-490b-be3d-e8ff9525343d/b3cbc24c-3806-4fa8-b03e-0bc49fabaccf-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 개그콘서트
-https://joovideo.cfd/static/streaming-playlists/hls/072af919-f848-49d0-95d0-a1c9a2ffbb16/3175bc45-93ab-45e0-97b3-5d974caaf767-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 한 번쯤 이혼할 결심 제12회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/d179f954-0153-48da-a0eb-8f330de5183d/c4529be4-010b-4195-a342-e59b186f9372-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 거인의 어깨 제12회
-https://joovideo.bond/static/streaming-playlists/hls/4947527f-5625-4e17-97b8-02885122db7f/8948fdb3-3a8a-4483-950e-81c959cd4ecf-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 최강식탁 제9회
-https://joovideo.bond/static/streaming-playlists/hls/3ceedc07-8766-4da1-851a-af2a283b9b2c/9c75a35c-f300-47ef-8bf4-ff2d68c9aebc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 미운 우리 새끼 제412회
-https://www.segyen.com/20241006/sfg6QCLj/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 슈퍼맨이 돌아왔다 제552회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/e66d1747-fb33-49a0-8067-372f7c6e4308/2e531ac2-24fa-4338-a354-a56ac97d694b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 태어난 김에 음악일주 제8회
-https://joovideo.bond/static/streaming-playlists/hls/cfc00214-303f-4cdc-91f4-902f51e3dd0b/025a0625-7236-4bff-a78b-e9500bce3108-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 백패커2 제19회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/87b0c610-58f7-49b5-b866-f72574ec79e3/a01dfb09-ae0e-4e1a-ad9f-2b786e6b01c0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 시골에 간 도시 Z 제5회
-https://joovideo.cfd/static/streaming-playlists/hls/83e41766-7035-4e0e-b9f2-37ce187afb31/63a9fae2-4015-498e-a36c-e732aaa0a5d1-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 성적을 부탁해 티처스 제29회
-https://joovideo.bond/static/streaming-playlists/hls/7d4d8498-bc0a-4fc3-89c9-4e4577a4b155/a4d32362-bde3-4902-866e-48ed7a9c5e3b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 맨 인 블랙박스
-https://asia.joovideo.cfd/static/streaming-playlists/hls/548a4b52-4a72-4c2f-a557-b4a9044b4c2c/31fbfd9b-fa74-4c37-b49a-40f8ce13cf2a-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 식객 허영만의 백반기행
-https://joovideo.bond/static/streaming-playlists/hls/10e56004-2c2b-42fa-97da-2feb5aacda6b/2739ee59-8a3b-4e7b-9e8b-3ef756106e50-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 뭉쳐야 찬다3 제50회
-https://www.segyen.com/20241006/shb1c8Ej/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 이슈 픽 쌤과 함께
-https://joovideo.bond/static/streaming-playlists/hls/0a293176-1fba-4f75-b863-199a0a2b7b64/ea5ccde1-925e-4ba9-a482-d710612ca8f2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 1박 2일 시즌4 제244회
-https://www.segyen.com/20241006/LlAOVOoW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 복면가왕 제468회
-https://www.segyen.com/20241006/LlAOVOoW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 런닝맨 제722회 - 이 구역의 골목 대장
-https://www.segyen.com/20241006/26lOhLi3/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 복면가왕 제468회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/3a1c77e1-f706-4a37-a7c9-d3590f9c8d4c/ab2c3ab9-777f-4be9-ad50-04eafb50c7e4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 열린 음악회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/f267511e-fde5-4de3-acaf-2aee22bfc9df/5bf6fa32-f274-468c-b0f2-b7eb89229d43-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 출발 비디오 여행
-https://ontvkorea.com/static/streaming-playlists/hls/55cc4482-9f49-4526-a745-ab136e16e361/bbd953d5-6801-43ed-853e-f673a081d592-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 알토란 - 씹고 뜯고 맛보는 갈비 한 상
-https://asia.joovideo.cfd/static/streaming-playlists/hls/81c66c89-be2d-4228-a2d9-4a69eec1a5f6/6f865458-7186-4e14-a6ff-1e631c234f1d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 사장님 귀는 당나귀 귀 제277회
-https://ontvkorea.com/static/streaming-playlists/hls/1e9a7c55-1e7e-4ee4-9318-2de8872d7d3f/4a1e867d-93e6-4a42-9489-f52a414d06c2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 SBS 인기가요 제1246회
-https://joovideo.bond/static/streaming-playlists/hls/c8d98738-67a2-40b1-8cbc-a7145c58f4b7/d9cd0d8a-dbd1-4196-92c5-df8d23b5dc5b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 노래하는 대한민국 제47회
-https://joovideo.bond/static/streaming-playlists/hls/567c1812-9c73-4746-8d06-a121da5ab5d4/dbf9cc5d-d716-47a0-8f0e-295f5acdc9ce-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 전국노래자랑 제2230회
-https://joovideo.bond/static/web-videos/15c6065c-83d4-41db-8c4e-69faac0455ee-360.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 신비한TV 서프라이즈 제1134회
-https://ontvkorea.com/static/streaming-playlists/hls/cb17fa86-e5bd-4cc4-90db-c3695f95fcef/83f6b67c-477d-40cc-9c1b-456619bfbf2b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 팡팡터지는 정보쇼 알맹이
-https://joovideo.bond/static/streaming-playlists/hls/23baa9a2-979f-413e-9338-5b96471d2267/bcd71116-4579-424e-9f72-719f226934b0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 연애의 참견 시즌3 THE 드라마 제29회
-https://joovideo.bond/static/streaming-playlists/hls/81310658-1780-44e7-bcf3-1faf0695a57b/2bdde615-8aae-43ae-9199-d2c885cf624e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 한국영화 클래식
-https://joovideo.bond/static/streaming-playlists/hls/501a5a2a-9268-4f2e-b95e-8f8907b806ed/7be9f0ea-0d63-4536-9287-04f6271c9064-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 TV 동물농장 제1191회
-https://ontvkorea.com/static/streaming-playlists/hls/6a9eab36-357b-4928-bed0-7b297fe7957d/fb3bb5b7-d0a2-49a5-88ee-4aaf986b999c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241006 이경규의 경이로운 습관 제5회
-https://joovideo.bond/static/streaming-playlists/hls/d5c7c4b1-67b3-45df-b708-f891b635a755/1ed3284c-de35-4b6f-a860-d815c3bd799b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 전지적 참견 시점 제317회
-https://www.segyen.com/20241005/dNXUV2F7/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 속풀이쇼 동치미 제620회 - [한일가왕 특집] 일본에서 온 여자, 한국에서 온 남자
-https://www.segyen.com/20241005/ovGgMMUP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 콘서트 7080+ (플러스) 제12회
-https://joovideo.cfd/static/streaming-playlists/hls/aa13e68c-83bf-4e88-b283-cd119b492599/d6dd2235-f17d-4217-a966-b4f52eb80431-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 스쿨 SCOOL 제2회
-https://joovideo.cfd/static/streaming-playlists/hls/41715a18-d31c-48cd-b593-8f47cd615146/013189f7-5f13-4038-9de1-23284646a49a-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 강적들 제556회
-https://joovideo.cfd/static/streaming-playlists/hls/90052ed7-6edf-46de-9afc-01af9e3b9b5a/0c309995-8760-4703-be3d-351ace309fa4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 살림하는 남자들 시즌2 제362회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/12c8db88-4f88-4cba-98c6-d63ef6565b89/1ea90903-fab3-4d75-b9bd-182023cf2f2a-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 주말은 오지 제8회
-https://joovideo.cfd/static/streaming-playlists/hls/2b36cb47-09be-472f-b9c6-0e4773ea6b58/a2e4f984-7ed8-4753-a971-015ee24ce4f9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 아는 형님 제453회 - ARrC
-https://asia.joovideo.cfd/static/streaming-playlists/hls/ce141993-76af-440f-9e74-19702b23c0c3/246add39-5513-4288-90ed-df78f91c56f5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 내 아이의 사생활 제5회
-https://joovideo.cfd/static/streaming-playlists/hls/e1b57a76-2790-4a6f-9e9e-720598173c93/31ba1c44-b0fa-4c55-949f-47f8875ef4a5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 니돈내산 독박투어3
-https://ontvkorea.com/static/streaming-playlists/hls/af5052df-b08b-452e-9b3d-173cc6a8e451/d7cc2b70-a10b-4ccb-aa2c-196fbb273439-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 가보자GO 3 제3회
-https://joovideo.cfd/static/streaming-playlists/hls/57c3aa52-b1e5-484c-935e-c242fb532674/c452faa9-1307-46ab-b62b-c97e33cda5e6-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 놀라운 토요일 - 도레미 마켓 제335회
-https://www.segyen.com/20241005/ehBSxhZC/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 진심누나 제1회 첫방송
-https://joovideo.cfd/static/streaming-playlists/hls/0d9d38f3-b245-4970-a577-efdd91c3fb9b/8bceb655-6f4a-4fa9-8e9d-130e2c1642c5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 손대면 핫플 동네멋집2 제5회
-https://joovideo.cfd/static/streaming-playlists/hls/f3ee7f03-97e4-4ad9-b860-95852d62bc8c/06d9ab79-0f57-495e-a73f-5cb882371278-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 불후의 명곡 제675회 - 2024 국군의 날 특집
-https://joovideo.cfd/static/streaming-playlists/hls/06bc1aa3-081c-4fc1-86e7-51983a6845e3/c822967e-d496-4d2d-9588-1e4195582318-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 놀면 뭐하니? 제251회
-https://www.segyen.com/20241005/f2TeLQdR/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 EBS 스페이스 공감
-https://joovideo.bond/static/streaming-playlists/hls/5099ae01-f43f-49d0-ae15-3964cbc325d5/01a01df0-cdbc-4351-899a-689b2d121413-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 무쇠소녀단 제5회
-https://joovideo.bond/static/streaming-playlists/hls/0b2024c4-e51b-46aa-93d1-d0baa8cf64c0/e97e6823-74f2-46ac-9f1d-87f68a0de177-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 쇼 음악중심
-https://joovideo.bond/static/streaming-playlists/hls/b31ceb8e-dbda-4ea6-b5ef-5489b8a014d6/0ccec691-41fb-4187-97a7-190914dd7956-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 차트를 달리는 남자 제407회
-https://joovideo.bond/static/streaming-playlists/hls/2d6ddfe2-5054-4c7f-a3e6-191a20f013c8/aea15e6a-36ee-4258-8c0b-d14fdeb6bb42-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 한글날 기획 국악한마당
-https://joovideo.bond/static/streaming-playlists/hls/4c6ea400-2d94-444b-b157-ab7b41721e7d/f1c7b555-6c22-42d7-8950-ec99d41ee254-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 영화가 좋다
-https://joovideo.bond/static/streaming-playlists/hls/1ff8ca1d-776f-40fb-9fb1-24c61ff66b1f/d8fe10bd-10eb-430e-9f93-2ec7df1c8951-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 접속 무비월드
-https://ontvkorea.com/static/streaming-playlists/hls/c8d44aea-6c26-4a99-9dee-7ea1071b3632/0662d628-6349-4ab2-8449-1f7cf9c319d4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 오늘부터 인생2막 제4회
-https://joovideo.bond/static/streaming-playlists/hls/7e5a9caf-cc44-4905-9df2-8b18cce5bf24/159e130e-7f52-4fc4-a22e-61e06618e3cd-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241005 사연 있는 쌀롱하우스
-https://joovideo.bond/static/streaming-playlists/hls/203b8181-e873-496d-8a40-6199414a8f1d/ca6378e1-52c8-4bcb-a35c-6651baf8ab51-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 독립영화관
-https://joovideo.bond/static/streaming-playlists/hls/ea851d87-390d-4c80-992d-87dff9dd7ebb/6b2ec3b5-cb8b-4a00-86f2-16d62c7a8e0b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 나 혼자 산다 제565회
-https://joovideo.bond/static/streaming-playlists/hls/5a14361f-9956-4233-ab66-80a5a18eab60/4d36b592-d745-4aa0-b1b1-4c7251ba69f4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 더 시즌즈 : 이영지의 레인보우 제2회
-https://joovideo.bond/static/streaming-playlists/hls/8cc37414-6ab2-4d59-8675-23dba648720b/08d98d21-5347-4cae-ae35-108a08ad7363-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 남의 나라 살아요 선 넘은 패밀리 제53회
-https://joovideo.bond/static/streaming-playlists/hls/391cb888-d9ed-4690-a76d-2612d1cd868d/e915c7de-7640-415a-af04-0a590413f4de-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 여왕벌게임 제4회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/1f6f325f-3e42-4b49-83dd-e513f38bcee5/584fccd9-efc9-45c5-aef6-f8aa7997bda6-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 My name is 가브리엘 제14회
-https://ontvkorea.com/static/streaming-playlists/hls/d69cc26d-b203-4b5f-a4d5-cd67a130140b/7296549a-4906-423f-b97f-a708eda6bf26-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 트랄랄라 유랑단 제1회 첫방송
-https://joovideo.bond/static/streaming-playlists/hls/2b9a9505-42e3-4c64-b2f7-373e0b572e68/fdd4d843-1a9a-4380-a0b9-5ac4af44b6e7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 이영지의 레인보우 제2회
-https://joovideo.bond/static/streaming-playlists/hls/8cc37414-6ab2-4d59-8675-23dba648720b/08d98d21-5347-4cae-ae35-108a08ad7363-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 찐먹쇼 나는 먹방러 제3회
-https://joovideo.bond/static/streaming-playlists/hls/f2fee29b-104b-46a5-a886-a2a6e88d12ff/3bf579b9-4095-44ab-948e-740f4c5599bc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 용감한 형사들 4 제4회
-https://ontvkorea.com/static/streaming-playlists/hls/2f30a284-2581-436a-a1b1-6131fa60a79c/78058272-8804-48c4-bf65-8e312e5d4ff0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 삼시세끼 Light 제3회
-https://www.segyen.com/20241004/rxqDyxu9/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 THE 맛있는 녀석들 제483회
-https://ontvkorea.com/static/streaming-playlists/hls/c1c99524-299c-4557-8f82-2495c8ce0910/5fd952f2-c25e-4eb5-9886-2d4a202ef498-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 요즘 육아 금쪽같은 내새끼 제210회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/b5a440bb-7232-48bf-b1b6-65643e5627f5/0777819f-4811-41c0-ae37-eac6ad93d92d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 이십세기 힛-트쏭 제234회
-https://joovideo.bond/static/streaming-playlists/hls/599cc7e9-bada-4816-8107-3ee623dc00bc/69361365-143e-4b03-8895-e82d93b68b44-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 동네스타K4 제27회
-https://joovideo.bond/static/streaming-playlists/hls/f47b8b74-8379-4738-a40f-30579257072b/1e8c0d0a-9af0-4a1d-9262-d016dc0f53c2-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241004 뮤직뱅크
-https://joovideo.bond/static/streaming-playlists/hls/a8e4d38a-e464-42d1-a64a-fe7ce700bdda/2afa9d91-ba7c-4b6c-a43f-8d9f1de207c0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 프리한 닥터M 제171회
-https://joovideo.bond/static/streaming-playlists/hls/0fbfdb23-a639-4184-a76d-e217c17f8705/b7f1701a-c554-4c87-8e4b-6666307484e6-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 돌싱글즈 6 제4회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/2c79f637-e0ff-48e6-a13e-6ecddb4657b9/4f507572-420f-4776-bfae-73f96c15f7df-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 미스쓰리랑 제23회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/c0ecb3b0-702f-4e77-8e80-e2375790ff5c/f5291dca-292b-4157-a8e4-fba9177ead98-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 이혼숙려캠프 제8회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/e48e5f72-9009-45fa-aeb8-00158e85ac5e/0cd57d3f-65a3-4cc7-916c-c4d93dfcfcf7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 나는 SOLO 그 후 사랑은 계속된다 제81회
-https://www.segyen.com/20241003/v827QNlL/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 끝내주는 부부 제2회
-https://joovideo.bond/static/streaming-playlists/hls/94fbc342-cc2a-4974-946b-4fa104a2706e/86dc51d8-587b-4465-b786-ab89d2cdd2c9-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 다시 갈 지도 제128회
-https://joovideo.bond/static/streaming-playlists/hls/e2ac09de-4271-4461-be6f-d7d3b27f2124/0af4f7ab-5b3e-4c12-a385-fe7e34ac76e5-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 구해줘 홈즈 제269회
-https://joovideo.bond/static/streaming-playlists/hls/36e08bec-3d99-4bf2-921f-832089d6d29e/8982f05d-8c8b-45ad-b4d2-713f76b7a7de-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 언니네 산지직송 제12회
-https://www.segyen.com/20241003/C84DCeal/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 꼬리에 꼬리를 무는 그날 이야기
-https://joovideo.bond/static/streaming-playlists/hls/4fc8a676-7dce-427d-8923-930325128daf/f0c4fb61-f539-49ca-ad06-34fa8815cba1-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 아빠는 꽃중년 제23회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/c4613d4c-eed8-4c60-955a-907a3c64b6e1/05959d6c-04ed-468b-8d02-c57581a86ae4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 로드 투 킹덤 - ACE OF ACE 제3회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/f3cea743-25c9-48be-b522-d2573d19c1c1/3a198650-d4d8-4bf3-8cf3-d9a26b23a1c4-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 어서와~ 한국은 처음이지? 시즌2 제334회
-https://joovideo.bond/static/streaming-playlists/hls/f1c16253-a2d8-47c1-bef6-0c3a69f9eb0a/70e83352-5f2d-448f-ab44-bf1fee6c9f0a-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 끝사랑 제7회
-https://www.segyen.com/20241003/CuR4HDKn/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 물려줄 결심 제3회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/61add289-f19a-4701-b70a-1c43a5ee00c7/8b3d5aaf-fb55-41bd-80e6-382e6b852160-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 실화탐사대 제283회
-https://ontvkorea.com/static/streaming-playlists/hls/8386901e-9bfb-43a7-aec7-d3c0b48303a1/cf2fbe1a-09ff-42fd-9a02-836c23157287-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 박원숙의 같이 삽시다 시즌3 제181회
-https://www.segyen.com/20241003/tMpvN2mk/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241003 알콩달콩
-https://joovideo.bond/static/streaming-playlists/hls/838eb604-63bf-4361-8ba0-4e34867f51a0/588efbb6-2e44-4db8-8dd2-79e7f4da945e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 아빠하고 나하고 제42회
-https://www.segyen.com/20241002/naPYGCze/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 스튜디오 K
-https://joovideo.bond/static/streaming-playlists/hls/19334434-eaa0-4b8a-a793-52b45152b24f/955c35ea-a2a5-4efb-aeec-cd5d5d0f3167-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 나는 SOLO 나는 솔로 제169회
-https://www.segyen.com/20241002/sVv4EZt9/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 라디오스타 제884회 - "주말만 패밀리" 특집
-https://asia.joovideo.cfd/static/streaming-playlists/hls/ad112363-83e3-4594-83ae-f32cddde376c/619471ef-003b-4f82-ace2-72ec35482a97-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 고딩엄빠 5 제16회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/db9296d9-2786-4ab0-87cd-4a051df271e4/37f3f53b-d95d-470c-8061-161feee7bfc0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 골 때리는 그녀들 - 세계관의 확장 제11회
-https://asia.joovideo.cfd/static/streaming-playlists/hls/ba0bf56c-ab45-43a9-8856-f133c1cf397c/a3a08091-ebdc-4de9-8210-c94cd7900db0-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 요즘 남자 라이프 - 신랑수업
-https://asia.joovideo.cfd/static/streaming-playlists/hls/ae8d0da2-0b65-41c4-b0b8-8baa7fe9b4e9/12786866-3a90-42b9-964a-04878a74f131-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 왔다 내손주
-https://asia.joovideo.cfd/static/streaming-playlists/hls/bc44d664-5f31-4cc3-a877-5f95c4624ce1/6ffb8cbb-0d8f-4356-a3de-193e26ae922d-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 유 퀴즈 온 더 블럭 제263회
-https://www.segyen.com/20241002/xbfNtOnR/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 짠남자 제2회
-https://ontvkorea.com/static/streaming-playlists/hls/a217a85a-3c9c-4eaa-bb65-53cc619d6fcd/8797e87b-0c17-4f56-a51f-e49864f9a1f7-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 태군노래자랑 2 제24회
-https://www.zemnatv.com/video/m3u8//2cacca49/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 퍼펙트 라이프
-https://joovideo.bond/static/streaming-playlists/hls/a0e432e8-c032-4fc7-8c7c-075647edf66c/9bb2366a-5cd0-469b-b02e-4c09f5300900-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 박군 밥상차렷 제5회
-https://joovideo.cfd/static/webseed/9e955303-ddfb-4a86-8bee-1ff470918521-450.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 주간 아이돌
-https://joovideo.bond/static/streaming-playlists/hls/0d8c8d0a-b6ab-4dc6-b96e-f0a1b0fae667/ff3e7a25-f3c1-46a7-9839-1194aab7f379-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 쇼챔피언
-https://joovideo.bond/static/streaming-playlists/hls/57e05bd2-65d3-4863-8354-50ea837e12bd/94a94fad-f4cd-491d-8359-b52a3d6e527f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 최고의 처방 미라클 푸드
-https://joovideo.cfd/static/webseed/7c3a0832-228a-43c6-9398-85bc44ee4109-360.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆", 241002 TV예술무대 통영국제음악제
-https://joovideo.cfd/static/streaming-playlists/hls/156c5e42-8f6f-461b-81f3-548b70855ad3/685ed954-5025-459d-9712-07a439336ccc-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 스테이지 파이터 제2회
-https://ontvkorea.com/static/streaming-playlists/hls/c79c5224-5ea9-4bd7-99db-4456958b4a52/acd00e62-48e6-49fc-9112-9210cb544f81-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 정글밥 제7회
-https://www.segyen.com/20241001/RBhriGHO/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 벌거벗은 세계사 제171회
-https://www.segyen.com/20241001/Ew0j3ISb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 강철부대더블유 제1회
-https://www.segyen.com/20241001/yAT64KpX/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 한일톱텐쇼 제19회
-https://www.segyen.com/20241001/tTzUKppZ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 연애의 참견 시즌3 제244회
-https://www.segyen.com/20241001/Z7aHKOvU/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 신발 벗고 돌싱포맨 제154회
-https://www.segyen.com/20241001/cGf2yCd1/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 청소광 브라이언 제7회
-https://www.zemnatv.com/video/m3u8//29a1630a/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 김창옥쇼3 제3회
-https://www.segyen.com/20241001/KXDDUHAI/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 몸신의 탄생 제2회
-https://joovideo.cfd/static/streaming-playlists/hls/754f8194-7480-46b4-be3f-0417ec8d0cf9/bb9de91b-142e-4452-8248-2c8a2ddf883b-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 엄지의 제왕 제610회 - 질병의 도화선, 산성 독소 해독하는 법
-https://ontvkorea.com/static/streaming-playlists/hls/fad3cc13-7755-48ef-9276-60337ceeec26/9d4d671a-8c97-4248-8897-197976c9ed0c-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 이웃집 찰스
-https://ontvkorea.com/static/streaming-playlists/hls/e7d76aa8-6762-4343-a813-d8daa57e4ad3/e2bce3db-dfa3-4c62-b0e7-47d64f7e917f-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆", 241001 아이돌스토어K 제1회
-https://joovideo.cfd/static/streaming-playlists/hls/1f311087-00d3-4956-b1b3-db517c78252c/7236171c-7e9e-41cc-926e-74619fffad44-master.m3u8
+
+
+
+
 
 
 
