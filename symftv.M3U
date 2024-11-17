@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아제르바이잔 2-0 에스토니아 (생중계) UEFA 네이션스리그 1 2024-11-16
-https://live1.botv.kr/liveapi/livefile/id/1731765340742.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",안도라 0-1 몰도바 (재방송)) UEFA 네이션스리그 2024-11-17
+https://live1.botv.kr/live/20241117/1731776256675/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",튀르키예 0-0 웨일스 (재방송)) UEFA 네이션스리그 2024-11-17
+https://live2.botv.kr/live/20241117/1731776212369/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",에티오피아 0-2 탄자니아 (재방송)) 네이션스컵 2024-11-17
+https://live1.botv.kr/live/20241117/1731772864935/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",몬테네그로 0-2 아이슬란드 (재방송)) UEFA 네이션스리그 1 2024-11-17
+https://live2.botv.kr/live/20241117/1731776476480/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",조지아 1-1 우크라이나 (재방송)) UEFA 네이션스리그 1 2024-11-17
+https://live1.botv.kr/live/20241117/1731776173147/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아제르바이잔 0-0 에스토니아 (재방송) UEFA 네이션스리그 1 2024-11-16
+https://live1.botv.kr/live/20241116/1731765340742/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SD 에이바르 2-0 라싱 페롤 (재방송) 라리가2 1 2024-11-16
 https://live2.botv.kr/live/20241116/1731761760276/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",주빌로 이와타 3-4 요코하마 F 마리노스 (재방송) J리그 1 2024-11-16
