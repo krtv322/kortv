@@ -5957,6 +5957,10 @@ http://vthanh.utako.moe/4/index.m3u8
 http://vthanh.utako.moe/6/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
 http://vthanh.utako.moe/10/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
+http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",nhk_bs
 http://vthanh.utako.moe/8/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",animax
@@ -6099,10 +6103,6 @@ http://tv.utako.moe/asahi_testsignal/index.m3u8
 http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
 http://tv.utako.moe/mx1_testsignal/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
-http://tv.utako.moe/mx2_testsignal/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
-http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",bs11
 http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",at-x
