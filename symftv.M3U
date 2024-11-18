@@ -382,6 +382,10 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzE5NzQ0MTF9.-yUKXU1PppPRGbMkk8Pj-AGygOJbKkVy_vRO9MdbGNI
+#EXTINF:-1 tvg-id="OCN.kr" group-title="🐉한국방송🦆",OCN (576p)
+http://202.60.106.14:8080/207/playlist.m3u8
+#EXTINF:-1 tvg-id="OCN.kr" group-title="🐉한국방송🦆",OCN2 (576p)
+http://202.60.106.14:21585/207/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
 https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMTk2NTgzMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=CXMd6QyyCOKbupj3fSmnHU%7EoFnc63awQVQBJXsDvDF0yMxeQl%7EV%7EZjlrYr5-AEEtpC19n%7EWMKdCuaUYRnTmL50hiDVoN4PuK-kS7Sla9%7Evniuc2ukkREqGJ2bcl1xEjPv4AmCjZor86raoS8hQtqrbpTkfwIlDWYzO7R7PT%7Ek3s_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
