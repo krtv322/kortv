@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SC 코린치안스 vs 크루제이루 EC (생중계) CON NL 2024-11-20
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SC 코린치안스 vs 크루제이루 EC (생중계) 브라질 세리 A 2024-11-20
 https://live1.botv.kr/liveapi/livefile/id/1732112484179.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",멕시코 4-0 온두라스 (재방송) CON NL 2024-11-20
 https://live1.botv.kr/live/20241120/1732069694449/record.m3u8
@@ -441,9 +441,9 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzIwNjA4MDh9.iTywRC2cfm4NxvztBOqbXTUSnXFLBIGkQjWaIiCAjZ8
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzIxNDcyMTh9.hE4DJ33spkDfCxkqw1Q7Sl66w7fasc3rLylTe5K4Tkk
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
-https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjAzMTkzN30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=ZHarAKMoqymZTG-SBCMW3zI83lmfTW1Wl--6jk2AZedHnulReX7Cmvmrf4LPn%7EpAW7knnQ6NSzH4KOwsfLupXIXMi-noWFplr4gA2Gb%7E83Z7EBvNDg6ddlYM3Qj34Kd6uyc%7EiWPZ5hInb3RwnxDLF7osaqFDR94mQD0yqX%7EqT1g_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+https://jtbclive-cdn.jtbc.co.kr/mobileweb/newmoweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjE0MDAyMH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=IDWRJbS22pd-655Kge1yv6wXhJ0gjngn6A5KQ9mCep6Cxuh4Hi0Adn%7E2Ro6fIwgeOmaKdhe3wn2d5MKAxGEN0hD8Ymv66x7IEK6vVZsd0XxT33Hn%7EqCqgj38Dl8jFsHr3RmO8oWTF5eUnaNYnluXeHHff3HL9w1CAIc5e5R-SMs_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -495,7 +495,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1732179396&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjE3OTM5Nn19fV19&Signature=Gg9ylZwaPpVTx2leLJQjCSP8I5QYALpDKAWLpuOKu1d9TyWigHQwkd34sWqsiT33hdGw3LxAwx8UyyxdcLZ~2tnNaw5TpL7BaXqgEbfvopHOPCWemp6Z8q6MosOdvEmwh0eYZnzR~iVwo-~jTg0OY5FhKB62b9PIQfqoQUkGsU809el4D9c-w0pfqyPgvecE6Ph8Scp6VgWcPdL-DPpxtQVJGJwtPR9RBzSx8bCcXkSFsimSXHFoSl3-OUJ-OtI0rnm4JgqSbbW80ijI3BBsDy8JwQlOv4VxRoTTWrS4mViR-z2~BCKWD3~oWlLLo0-HoCdLoNRqIbV9bCf5zaP61w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1732286128&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjI4NjEyOH19fV19&Signature=lScmGYnUcJQCp~iEiL51bm0gX7MLNFpLkeWnR1PD8LedQkErlk-l~bhnW-VF6oaVNOx9kdWE8a~kU8O3aaD~j6iG2Ht2EbKDemrjQOSAwTaO81tKoE4uoS5Er0HvfEkY6MU161fuIWLjT5w-bCNoIohPtH39el1l2wXDmEoz~o4TMC5YeZro8tHyjYMcAmEctdvhrPSnNOvATNwYub~h0g7Cgfkbj7dv6nXZSHGojvP7Ek~0me2YMn1Gi3sCkWdCzuqvsJvMf3aIZ40zshS0U-h2mVZwQ5wY2IqBed-XnhhEwlsPCRosm9zcoLruHEUGt9A-y-PK70q53Z8s9nrroA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",도시어부
@@ -503,9 +503,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1732179330&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjE3OTMzMH19fV19&Signature=Q4ma7J73gqpaUlNfVJYc0DmJQ0hjOt1Ek8kif0vEtVpN20xTbFkXbp1o-V14BuSw1N-8GS0HpaWYmtyd8YfF-LC6Uh90NbZOAVx~asuRmnWX-0jUSmGEfrt7rDplGm~YtaUVTLI5OV~wy0P8iGsX6AJCCIFuZg0IiSTgSLHQEEhCzkgeu5FgRJmBvTflPMm2NVAURY~wxAYkkNHRlaU4zZuaDSYbs2CV9jsGx-nxmadURHRiudMPcA-LuBZn6sjt5l2YUGx1zgAry~oa-OFyChWWsE-mOIpwjzjliIsDJ4mBdB2Qelh9gLGIognMsMc3G1DsrV0Um70xsKUXuGfUww__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1732286049&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjI4NjA0OX19fV19&Signature=i332UlCwD7FNy7rtsfxox8oWI-wbvG9-J8ezngEtgPDjN86R5fZ-B5SopPBFrfrGtGQ6EDR38dQa2kM56wQaj5ABcoGpc18BRF67UkQYtouqrKZ7sd5oh8IvlrjzUmmVNuV3takdTap~VW01oQePC81OHz2QeK8gHoqyUA4dst36IZvJcr8n2lNVSOyqjCPsgY~wleTmHirT-0NHkulaTpSRUQHUtfbZat7JZgkxHUIgdId56cNn6tgFcwNI~6Bq1hLpBtHhhgO3PIf-o~qClyPJJmMpe-zNXbaIUildamvHL8M1MUUju~vdNuiypyA4LV8VV~0k07mfI1J1v5aLRQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS어린이만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1732179339&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzIxNzkzMzl9fX1dfQ__&Signature=hc-vwwy30HLHfPj5~mPdK0kF3Iau~Z3e6BcLy14ldFBW62ZAPx8svZ-1~-BtOFgtuoQHZH~m17nHrtzYwGxWzXFQfoSdFzedDiD9v~zUNUuCHbpPwPUdEM1wOzo2B3vGGyHVoYWQLO3lPLMX0qIcHm72Baq874G3SpSim0PF5fimGH4gr-UHXPz3ehdZCchHqC6-aGgSTT97TTOKb0c6K0CJ2pg7fFa4auSGyRiVnG-lgqCfoy1CFUlETq-QSdcfeYWoKs8sMsDHPvrUP0ygY1yFApVzimnYMTb-07FzaOeq7XnHoVyblCqc0EPcHxac~YDBZzh~TPhmKtMuT-bvyg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1732286092&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzIyODYwOTJ9fX1dfQ__&Signature=WJls9mUWMGU-8jOSMUS-1ym~PTtbJwRH0Dw0CfHEH~BbLsz79HMpoctfzEzfGDam4PzrZAnKolFLEvg4NQeit02R9Nf~ZIRhCIQSXsNgQNmw48FApZo4iPkw~LX-s1TWGsASKhQXHbFsj08KYqFrQUT2IlXMwunxiztGq60klwSiXTPHirxH82QJiYNw-iAmjpFs2CyBz2iHCvRP2HYe5Ak3wApNBIWgx2ZEQhWI~hhDESngHAttpnoiAPDvY77FjWPXmiw-Zbjmtp38eGGqdriSlllfm34R1YmOUubk0dhfPKPyltDaMPsKih~QWhADTS9UEYkIPIPp5e1-QdJltA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",핑크퐁
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
