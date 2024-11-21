@@ -6342,18 +6342,28 @@ http://vthanh.utako.moe/7/index.m3u8
 http://vthanh.utako.moe/4/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tv_tokyo
 http://vthanh.utako.moe/6/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
+#EXTINF:-1 group-title="🐉일본방송🦮",bs11
 http://vthanh.utako.moe/10/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
+http://vthanh.utako.moe/12/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
 http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
 http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",nhk_bs
 http://vthanh.utako.moe/8/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
+http://tv.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1
+http://tv.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2
+http://tv.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3
+http://tv.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4
+http://tv.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",animax
 http://vthanh.utako.moe/9/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",bs11
-http://vthanh.utako.moe/12/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",at-x
 http://vthanh.utako.moe/11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",일본골프
