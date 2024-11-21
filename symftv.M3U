@@ -1779,10 +1779,10 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제14회
+https://m3u8.tjihua.com/vedio3/20241121/1732118783170/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제13회
-https://joovideo.cfd/static/streaming-playlists/hls/761cc9fa-35dc-4d9d-ba4e-81cc11f09c68/c0197371-f2c0-4b8a-99cb-45a693338443-360.m3u8
+https://m3u8.tjihua.com/vedio3/20241121/1732121002781/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제33회
 https://www.segyen.com/20241120/6IAp3feA//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제95회
@@ -3506,6 +3506,22 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 미스쓰리랑 제30회
+https://www.segyen.com/20241120/cRYzLD6X/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 라디오스타 제890회
+https://joovideo.cfd/static/streaming-playlists/hls/6026e24d-1df6-416d-8b17-9ce8e170c144/9fce4ce4-08c7-4690-aeb4-e2b538dcf39b-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 왔다! 내 손주 6회
+https://www.managahaspn.com/20241120/jr1Qut4J/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 고딩엄빠 5 제22회
+https://joovideo.cfd/static/streaming-playlists/hls/11d49280-1f66-45ba-9083-d3dc24c02fb5/459597c4-1f8d-45a7-b3f7-21758585c569-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 나는 SOLO 나는 솔로 제176회
+https://joovideo.cfd/static/streaming-playlists/hls/9d2943ee-2e9e-4e9a-a829-a1d69c3c89a3/63f56d3d-c5e7-4082-9d19-7e536af4703c-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241120 골 때리는 그녀들 세계관의 확장 제18회
+https://joovideo.cfd/static/streaming-playlists/hls/7ae23234-0971-422d-906f-afcd2ed1d249/17b8b37b-e734-40fb-9c26-5f4a3231ee2a-360.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241120 한국기행 28회
 https://www.managahaspn.com/20241120/9hg7MUxY/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241120 나는 자연인이다 - 황토집 간판 달았습니다 자연인 김우식
