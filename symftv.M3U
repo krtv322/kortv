@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",AT 마드리드 VS 알라베스 (생중계) 라리가 2024-11-23
+https://live2.botv.kr/liveapi/livefile/id/1732375038467.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",본머스 VS 브라이턴 & 호브 앨비언 (생중계) EPL 2024-11-23
 https://live2.botv.kr/liveapi/livefile/id/1732373743903.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",애스턴 빌라 VS 크리스탈 팰리스 (생중계) EPL 2024-11-23
@@ -29,14 +31,14 @@ https://live1.botv.kr/liveapi/livefile/id/1732372190636.m3u8
 https://live1.botv.kr/liveapi/livefile/id/1732370965338.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",발렌시아 VS 레알 베티스 (생중계) 라리가 2024-11-23
 https://live2.botv.kr/liveapi/livefile/id/1732366776988.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레스터 시티 VS 첼시 (생중계) EPL 2024-11-23
-https://live2.botv.kr/liveapi/livefile/id/1732364887880.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",셰필드 웬즈데이 VS 카디프 시티 (생중계) 잉글랜드 챔피언쉽 2024-11-23
-https://live1.botv.kr/liveapi/livefile/id/1732364859516.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",코번트리 시티 VS 셰필드 유나이티드 (생중계) 잉글랜드 챔피언쉽 2024-11-23
-https://live2.botv.kr/liveapi/livefile/id/1732364831282.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브리스톨 시티 FC VS 번리 (생중계) 잉글랜드 챔피언쉽 2024-11-23
-https://live2.botv.kr/liveapi/livefile/id/1732364806216.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레스터 시티 1-2 첼시 (재방송) EPL 2024-11-23
+https://live2.botv.kr/live/20241123/1732364887880/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",셰필드 웬즈데이 1-1 카디프 시티 (재방송) 잉글랜드 챔피언쉽 2024-11-23
+https://live1.botv.kr/live/20241123/1732364859516/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",코번트리 시티 2-2 셰필드 유나이티드 (재방송) 잉글랜드 챔피언쉽 2024-11-23
+https://live2.botv.kr/live/20241123/1732364831282/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브리스톨 시티 FC 0-1 번리 (재방송) 잉글랜드 챔피언쉽 2024-11-23
+https://live2.botv.kr/live/20241123/1732364806216/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브리즈번 로어 FC 2-3 애들레이드 유나이티드 FC (재방송) 호주 1부 2024-11-23
 https://live2.botv.kr/live/20241123/1732341687710/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",감바 오사카 0-1 비셀 고베 (재방송) 일본 일왕배 2024-11-23
