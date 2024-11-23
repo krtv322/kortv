@@ -1708,10 +1708,10 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 괴리와 냉소 제1회 첫방송
+https://joovideo.cfd/static/streaming-playlists/hls/454df3c3-6257-46cd-bf88-54b4ac01c989/69e9895c-978a-42a0-a221-267b34a35160-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 열혈사제2 제5회
-https://ww25.ontvkorea.com/static/streaming-playlists/hls/9156898c-e071-4655-81cd-3037a2d8e143/7a966100-3d7d-4795-8aea-cdb0d293a248-master.m3u8
+https://m3u8.tjihua.com/vedio3/20241122/1732288797618/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제35회
 https://ontvkorea.com/static/streaming-playlists/hls/462f7d00-ae21-4d26-91b6-b37f5e21cf2f/6b49309d-38ad-4c4d-9e44-5cd1e8a87660-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제97회
@@ -3456,8 +3456,26 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 한국기행
+https://joovideo.cfd/static/streaming-playlists/hls/3d03eb56-d245-434e-926a-c7a95c6a7051/3829bb01-9a69-4f80-b552-fb0103d8c9b4-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 세상에 나쁜 개는 없다
+https://ww25.ontvkorea.com/static/streaming-playlists/hls/e21d90ce-e34e-47b1-98c7-371635627359/3f2ded9a-77c6-4ce6-a09e-c12c72ae6b68-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 강철지구 제7회
+https://joovideo.cfd/static/streaming-playlists/hls/e829280f-9299-4880-88d3-bf58b3a5cac5/60a2f00e-f1ea-4dad-89b7-38ff56e7c5ef-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 나 혼자 산다 제572회
+https://joovideo.cfd/static/streaming-playlists/hls/104bf95e-79d1-4a1c-bdee-6af48a314b8f/988ec1d7-91cd-4c92-aac6-bd39f4b6004f-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 독립영화관
+https://ontvkorea.com/static/streaming-playlists/hls/bc774f24-31f3-40c0-8e3e-77a371e085f0/4faeea72-0a47-4a42-ab47-75793955fa69-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 에너미X 제2회
+https://www.managahaspn.com/20241122/zuW93JEA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 더 시즌즈 - 이영지의 레인보우 제9회
+https://joovideo.cfd/static/streaming-playlists/hls/a56b650f-ca0a-4c8a-922e-3ac32d489729/0a8cb8bb-305a-4a09-ad25-53225cfe4b4a-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 용감한 형사들 4 제11회
+https://ontvkorea.com/static/streaming-playlists/hls/eff08b21-d835-4b63-a7ab-ac9d4c5ac6a5/595c2aca-3205-4801-acaa-6cfd2aafc8ab-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 찐먹쇼 나는 먹방러 제10회
+https://joovideo.cfd/static/streaming-playlists/hls/14a72158-4850-4297-9f6f-29ed9db6b96e/3b2fc4b5-587d-435b-a844-e61018d61883-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241122 전현무계획 2 제7회
+https://ontvkorea.com/static/streaming-playlists/hls/3ca7e056-b19b-4b3d-836e-9b3570e95dce/d3ac9e78-c3bc-487e-a586-3f21df9583e5-720.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241122 삼시세끼 Light 10회
 https://www.soratv2.com/20241122/TSF1RN24/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241122 MU:CON 2024 1회
