@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",서울 이랜드 FC 1-3 전남 드래곤즈 (생중계) K리그 2 2024-11-24
+https://live1.botv.kr/liveapi/livefile/id/1732434207503.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맥아서 FC 0-1 오클랜드 FC (재방송) 호주 1부 2024-11-24
+https://live2.botv.kr/live/20241124/1732424262381/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",대구 FC 1-3 인천 유나이티드 FC (재방송) K리그 1 2024-11-24
+https://live2.botv.kr/live/20241124/1732424195936/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",대전 시티즌 2-1 제주 유나이티드 FC (재방송) K리그 1 2024-11-24
+https://live1.botv.kr/live/20241124/1732424235846/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",광주 FC 1-1 전북현대모터스 (재방송) K리그 1 2024-11-24
+https://live1.botv.kr/live/20241124/1732424164370/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",LA FC 1-1 시애틀 사운더스 FC (재방송) 메이저리그사커 2024-11-24
+https://live1.botv.kr/live/20241124/1732419769513/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",뉴욕 시티 FC 0-2 뉴욕 레드불스 (재방송) 메이저리그사커 2024-11-23
 https://live1.botv.kr/live/20241124/1732400501203/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",RC 랑스 1-3 올림피크 마르세유 (재방송) 리그앙 2024-11-23
@@ -287,7 +299,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzI0NDk2MjF9.OoZHa46maja6HRYMp06eSsaywe2aP_McZaX9uXdO93Q
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzI0OTI3NTR9.WWfRNGRYtAzI9X_FnViBIl0AcJXNcRLMPJ2SAyGx_UU
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
