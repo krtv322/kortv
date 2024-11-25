@@ -313,7 +313,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzI1MzYwMjR9.kM3NWQWbsEqHLlHyvv2Yyo0ypMqGyjxX8n8R4q03sSU
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzI1NzkyMTV9.h8tffJjZbv5Y3H8uJ8YLPKFGvqFgJ7K_whpFv5uGt9g
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -6477,12 +6477,7 @@ http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=
 
 
 
-#EXTINF:-1 group-title="🐉일본방송🦮",NHKG
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
+
 #EXTINF:-1 group-title="🐉일본방송🦮",nhkg_tokyo
 http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
@@ -6635,6 +6630,12 @@ http://vthanh.utako.moe/8/index.m3u8
 http://vthanh.utako.moe/9/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",at-x
 http://vthanh.utako.moe/11/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHKG
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
 
