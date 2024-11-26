@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",샤르자 FC VS FC 이스티클롤 (생중계) 아시아 챔피언스 2024-11-26
+https://live1.botv.kr/liveapi/livefile/id/1732629399641.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",부리람 유나이티드 FC VS 가와사키 프론탈레 (생중계) 아시아 챔피언스 2024-11-26
 https://live1.botv.kr/liveapi/livefile/id/1732622068359.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",산둥 타이산 VS 조호르 다룰 FC (생중계) 아시아 챔피언스 2024-11-26
 https://live2.botv.kr/liveapi/livefile/id/1732622099516.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",비셀 고베 VS 센트럴 코스트 마리너스 FC (생중계) 아시아 챔피언스 2024-11-26
-https://live1.botv.kr/liveapi/livefile/id/1732615015145.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",울산HD VS 상하이 하이강 (생중계) 아시아 챔피언스 2024-11-26
-https://live2.botv.kr/liveapi/livefile/id/1732615044966.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",비셀 고베 3-2 센트럴 코스트 마리너스 FC (재방송) 아시아 챔피언스 2024-11-26
+https://live1.botv.kr/live/20241126/1732615015145/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",울산HD 1-3 상하이 하이강 (재방송) 아시아 챔피언스 2024-11-26
+https://live2.botv.kr/live/20241126/1732615044966/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",베네치아 FC 0-1 US 레체 (재방송) 세리에 A 2024-11-25
 https://live2.botv.kr/live/20241126/1732563820881/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",뉴캐슬 유나이티드 0-2 웨스트햄 (재방송) EPL 2024-11-25
