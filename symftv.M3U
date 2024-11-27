@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",탐파인스 로버스 FC vs 방콕 유나이티드 FC (생중계) 아시아 챔피언스 2024-11-27
-https://live1.botv.kr/liveapi/livefile/id/1732708478945.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",남딘 FC vs 리만 (생중계) 아시아 챔피언스 2024-11-27
-https://live2.botv.kr/liveapi/livefile/id/1732708444964.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",요코하마 F 마리노스 vs 포항 스틸러스 (생중계) 아시아 챔피언스 2024-11-27
-https://live1.botv.kr/liveapi/livefile/id/1732701421540.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",광주 FC vs 상하이 선화 (생중계) 아시아 챔피언스 2024-11-27
-https://live2.botv.kr/liveapi/livefile/id/1732701445724.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",탐파인스 로버스 FC 1-0 방콕 유나이티드 FC (재방송) 아시아 챔피언스 2024-11-27
+https://live1.botv.kr/live/20241127/1732708478945/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",남딘 FC 3-0 리만 (재방송) 아시아 챔피언스 2024-11-27
+https://live2.botv.kr/live/20241127/1732708444964/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",요코하마 F 마리노스 2-0 포항 스틸러스 (재방송) 아시아 챔피언스 2024-11-27
+https://live1.botv.kr/live/20241127/1732701421540/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",광주 FC 1-0 상하이 선화 (재방송) 아시아 챔피언스 2024-11-27
+https://live2.botv.kr/live/20241127/1732701445724/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",바이에른 뮌헨 1-0 파리 생제르맹 (재방송) UEFA 챔피언스리그 2024-11-27
 https://live2.botv.kr/live/20241127/1732651567190/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 시티 3-3 페예노르트 (재방송) UEFA 챔피언스리그 2024-11-27
@@ -972,6 +972,15 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆",	안녕, 내 뻐끔거리는 단어들
+https://m3u8.tjihua.com/vedio3/20241127/1732641966476/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	촉저반탄
+https://m3u8.tjihua.com/vedio3/20241127/1732646211703/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	촉산봉마전
+https://m3u8.tjihua.com/vedio3/20241127/1732651499318/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	바람에 속삭이다
 https://m3u8.tjihua.com/vedio3/20241126/1732588925914/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	메이비 베이비 2
@@ -1703,13 +1712,22 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제3회
-https://ontvkorea.com/static/streaming-playlists/hls/11cd084c-9824-4e95-924b-d23f2b7a2a91/38be6063-63b9-487b-b42a-745bd70aaaa5-720.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 취하는 로맨스 제8회
-https://m3u8.tjihua.com/vedio3/20241126/1732633295725/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제38회
+https://joovideo.site/static/streaming-playlists/hls/aeae35d8-f41d-435d-ad1d-3d8f192fd080/ed1b4103-24fd-475d-ba08-c9d288cd0249-360.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제100회
+https://joovideo.site/static/streaming-playlists/hls/a8e2c4db-1029-4455-8867-a173e2baaea4/fb4d7940-dfe5-4e32-b410-3092f3cc336c-360.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 친절한 선주씨 제8회
+https://joovideo.site/static/streaming-playlists/hls/0b5b6cec-f82d-4b3a-9fbc-c2fb23696f67/fc9f7d40-6c8a-481c-a172-d983b9c101a9-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 16회
+https://m3u8.tjihua.com/vedio3/20241127/1732721095347/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 15회
+https://m3u8.tjihua.com/vedio3/20241127/1732720481473/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 페이스 미 7회
+https://m3u8.tjihua.com/vedio3/20241127/1732713861373/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 강남 비-사이드 8회
+https://m3u8.tjihua.com/vedio3/20241127/1732697365682/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 강남 비-사이드 7회
+https://m3u8.tjihua.com/vedio3/20241127/1732696697880/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 좀비버스 시즌 2 7회
 https://m3u8.tjihua.com/vedio3/20241126/1732594229999/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 좀비버스 시즌 2 6회
@@ -1724,14 +1742,6 @@ https://m3u8.tjihua.com/vedio3/20241126/1732593212155/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241126/1732592894899/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 좀비버스 시즌 2 1회
 https://m3u8.tjihua.com/vedio3/20241126/1732592724892/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 가석방 심사관 이한신 4회
-https://m3u8.tjihua.com/vedio3/20241126/1732627821451/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제37회
-https://joovideo.cfd/static/streaming-playlists/hls/2c0c5067-5b0e-4673-ba69-070cbbf55aaf/94f16751-ab29-4584-ae58-c69dea56f3e0-360.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제99회
-https://joovideo.cfd/static/streaming-playlists/hls/3d6254ad-bab7-4485-9c09-25664f2ea19b/6286902d-03ba-4fc4-adee-57a744339d4a-master.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 친절한 선주씨 제7회
-https://joovideo.cfd/static/streaming-playlists/hls/bca7d316-11aa-4cdf-aeff-c9b3de5b1ea5/377aeb15-ce82-41bc-aded-a384ee4f30f9-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제2회
 https://m3u8.tjihua.com/vedio3/20241124/1732458510374/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제1회 첫방송
@@ -1748,12 +1758,16 @@ https://joovideo.cfd/static/streaming-playlists/hls/2ec05579-87d6-4aac-af56-579c
 https://m3u8.tjihua.com/vedio3/20241123/1732373670888/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 지금 거신 전화는 제1회
 https://m3u8.tjihua.com/vedio3/20241122/1732287064146/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 가석방 심사관 이한신 4회
+https://m3u8.tjihua.com/vedio3/20241126/1732627821451/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 가석방 심사관 이한신 3회
 https://m3u8.tjihua.com/vedio3/20241125/1732541680509/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 가석방 심사관 이한신 2회
 https://m3u8.tjihua.com/vedio3/20241119/1732023629273/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 가석방 심사관 이한신 제1회
 https://m3u8.tjihua.com/vedio3/20241118/1731941480505/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 친절한 선주씨 제7회
+https://joovideo.cfd/static/streaming-playlists/hls/bca7d316-11aa-4cdf-aeff-c9b3de5b1ea5/377aeb15-ce82-41bc-aded-a384ee4f30f9-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 친절한 선주씨 제6회
 https://ontvkorea.com/static/streaming-playlists/hls/40a5603c-3c26-4443-806a-2eabab67b7cd/e80a21cf-2ed3-4545-b4f2-81ea5fd9eb2f-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 친절한 선주씨 제5회
@@ -1808,6 +1822,8 @@ https://www.humortown.net/20241114/7wfGeCh2/1000kb/hls/index.m3u8
 https://www.humortown.net/20241114/QWXpc821/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제1회
 https://www.humortown.net/20241114/0nNTqYqO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제3회
+https://ontvkorea.com/static/streaming-playlists/hls/11cd084c-9824-4e95-924b-d23f2b7a2a91/38be6063-63b9-487b-b42a-745bd70aaaa5-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제2회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdd7a496-c72a-4ae3-b945-bfe68f458d4d/987c28e9-91fd-4f59-8d10-25efc387299c-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제1회
@@ -1848,6 +1864,8 @@ https://m3u8.tjihua.com/vedio3/20241113/1731502360986/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241106/1730882696203/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 강남 비-사이드 제1회
 https://m3u8.tjihua.com/vedio3/20241106/1730883316310/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 취하는 로맨스 제8회
+https://m3u8.tjihua.com/vedio3/20241126/1732633295725/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 취하는 로맨스 7회
 https://m3u8.tjihua.com/vedio3/20241125/1732548167157/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 취하는 로맨스 6회
@@ -1932,6 +1950,8 @@ https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
 https://www.segyen.com/20241009/O2CmMWNj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이: 최종 리허설
 https://ontvkorea.com/static/streaming-playlists/hls/25d01fbc0-99df-44ac-9893-5863f3a66e90/cc48a0fb-4da1-436e-badf-210eb4ecfb54-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제37회
+https://joovideo.cfd/static/streaming-playlists/hls/2c0c5067-5b0e-4673-ba69-070cbbf55aaf/94f16751-ab29-4584-ae58-c69dea56f3e0-360.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제36회
 https://ontvkorea.com/static/streaming-playlists/hls/cfdc9d37-53e7-48ce-acfd-b903e0940009/494762d6-7fe9-4577-9a5c-cec6f039cd56-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제35회
@@ -2076,6 +2096,8 @@ https://www.humortown.net/20241109/T35qHLYk/1000kb/hls/index.m3u8
 https://www.humortown.net/20241109/XlKFQ7GQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제1회
 https://www.humortown.net/20241109/EXr8HzLl/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제99회
+https://joovideo.cfd/static/streaming-playlists/hls/3d6254ad-bab7-4485-9c09-25664f2ea19b/6286902d-03ba-4fc4-adee-57a744339d4a-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제98회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/c2fc4f55-1989-4fd3-bec3-6be2d48a7be0/6f577294-fc07-4c2d-9e5f-447f7eae2ded-360.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제97회
@@ -3511,6 +3533,51 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 JTBC 사건 반장
+https://joovideo.site/static/streaming-playlists/hls/40161fab-811a-478c-bedb-3efdc95acfd8/ed519d74-da7f-45b9-ad59-1d2e10839535-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 MBC 뉴스데스크, SBS 8 뉴스
+https://joovideo.site/static/streaming-playlists/hls/2d8f97c1-4ca5-495a-b967-7a8917cdb8ca/87376a8e-c916-4271-bb2d-fe3b614c2d26-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 세계테마기행, 한국기행
+https://joovideo.site/static/streaming-playlists/hls/59581c7d-87be-4224-8ac4-35061edb73d2/13e237f3-2d8b-4a6d-90db-f4c02dac0895-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 나는 자연인이다 - 밥심으로, 20년! 자연인 장석오
+https://joovideo.site/static/streaming-playlists/hls/dd4169de-c02b-4069-b111-f1ce62ee7fc8/23829f9a-29ff-4eb5-9a27-bfca39fb59f3-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 미스쓰리랑 13회
+https://www.soratv2.com/20241127/hoFvdTiL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 라디오스타 제892회
+https://joovideo.site/static/streaming-playlists/hls/6832a116-d158-4a3d-85a0-8c58a70881d5/26b5992e-29c8-4667-84ba-8253b558534c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 나는 SOLO 나는 솔로 제177회
+https://joovideo.site/static/streaming-playlists/hls/a8eb542c-29c2-4c3b-a6bd-3c1e7a07ae98/7d82b837-0eac-4a09-b2d4-255d5fe07a83-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 왔다 내손주
+https://joovideo.cfd/static/streaming-playlists/hls/e006e5d6-1f98-4dfa-ade4-e8d63604e4c1/a7876a1a-bb76-41de-baf5-e474c5346f8d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 고딩엄빠 5 제23회
+https://joovideo.cfd/static/streaming-playlists/hls/5f04e9f2-1056-476a-92f3-0b6f1409cf31/2957bd34-d80c-4edd-9b42-6ffbfc0e06ed-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 골 때리는 그녀들 세계관의 확장 제19회
+https://joovideo.site/static/streaming-playlists/hls/78d9bc2d-a044-4fbb-9c4f-ca946ba2cfb7/bcb9a3d0-41df-428f-9e88-81caa1e10145-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 요즘 남자 라이프 - 신랑수업 제141회
+https://joovideo.site/static/streaming-playlists/hls/90562cc5-c5be-4dd6-b9c0-c031fb38920d/58a5e2a9-c2d0-4e52-a39c-aaee696343f2-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 유 퀴즈 온 더 블럭 제272회
+https://joovideo.site/static/streaming-playlists/hls/f6942117-c5c6-444d-a0c0-4a27b9dd4135/e6e9508c-8341-474d-a669-d37b87b4c12a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 시골마을 이장우 제1회 첫방송
+https://joovideo.site/static/streaming-playlists/hls/73a819b5-42ea-4c39-bfcd-a0349e51489b/e3dd42ab-e16c-4f4b-81fc-94bdc3c2af97-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 슈퍼맨이 돌아왔다 제559회
+https://joovideo.site/static/streaming-playlists/hls/4a5fcae5-432a-47d3-ae68-6ff1fe6b29c2/13f01e10-e019-443e-821c-43e23174b0d4-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 여권들고 등짝 스매싱 제12회
+https://joovideo.site/static/streaming-playlists/hls/ddeb2407-6cc5-4541-b8de-38c6d5e8eeb6/f18409e0-9476-45a9-a229-543b05017a58-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 갈 데까지 간다 제5회
+https://joovideo.site/static/streaming-playlists/hls/79bf8376-1bbb-4d7b-a541-733dcb0f6ac2/3135121e-97de-46b6-afd2-0a586576af38-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 퍼펙트 라이프 제217회
+https://joovideo.site/static/streaming-playlists/hls/6ad77655-ac2b-4400-9079-9a05e4e40531/da3a3258-ad4a-482c-8233-edea5273b4aa-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 주간 아이돌
+https://joovideo.site/static/streaming-playlists/hls/521e6dbe-b416-4901-994a-6e954b3d98b8/ee2fdb65-35aa-4bc0-be36-41fe30e1153a-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 꿀잼 영화가 좋다
+https://joovideo.site/static/streaming-playlists/hls/070ab183-829c-41b9-98a4-336956591e52/ae7de4b2-1acc-48ef-ab50-7488fbdbd91a-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 신의 레시피 제6회
+https://joovideo.cfd/static/streaming-playlists/hls/0d86ff96-c535-4cb6-9180-1c53760e06b0/2455bebf-368a-42f7-b027-a3ad0272c350-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 RAP:PUBLIC (랩퍼블릭) 제10회
+https://www.managahaspn.com/20241127/qOx1wZqa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241127 최고의 처방 미라클 푸드
+https://joovideo.cfd/static/streaming-playlists/hls/6bd70c14-2932-4ad2-9deb-a5df9242ac3a/effddcb9-0c2d-4c66-88f6-84b142a2be4e-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241126 한문철의 블랙박스 리뷰 제105회
 https://ww999.ontvkorea.com/static/streaming-playlists/hls/2fe8f45c-7b23-4cde-846f-73bf68ae9fe8/981f329f-863a-4dd5-8a9c-4aa0a95f9043-450.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241126 핑퐁스타즈 제1회 첫방송
