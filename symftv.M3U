@@ -6940,14 +6940,6 @@ http://tv.utako.moe/mx2_testsignal/index.m3u8
 http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
 http://tv.utako.moe/bsntva11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1
-http://tv.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2
-http://tv.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3
-http://tv.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4
-http://tv.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK E
 http://vthanh.utako.moe/2/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",ntv
@@ -7104,7 +7096,14 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:2
 https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK G
 http://vthanh.utako.moe/1/index.m3u8
-
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1
+http://tv.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2
+http://tv.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3
+http://tv.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4
+http://tv.utako.moe/js4/index.m3u8
 
 
 
