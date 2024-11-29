@@ -6886,44 +6886,6 @@ https://m3u8.tjihua.com/vedio/20240818/1723976004699/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://112.234.23.81:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
-http://112.234.23.81:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://112.234.23.81:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
-http://112.234.23.81:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",魅力足球
-http://223.10.39.207:8083/rtp/239.1.1.75:8075$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",超级体育
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=no$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",精品体育
-http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",广州竞赛
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-#EXTINF:-1 group-title="🐉중국방송🦆",淘剧场
-http://114.252.225.255:8000/rtp/239.3.1.95:8001$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",淘娱乐
-http://114.252.225.255:8000/rtp/239.3.1.100:8001$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",淘电影
-http://114.252.225.255:8000/rtp/239.3.1.250:8001$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",经典电影
-http://113.251.73.45:5555/rtp/235.254.198.114:1732$1920x1080
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC影迷电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="🐉일본방송🦮",NHKG
