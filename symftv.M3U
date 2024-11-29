@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",스타드 드 랭스 0-2 RC 랑스 (재방송) 리그앙 2024-11-30
+https://live1.botv.kr/live/20241130/1732909420334/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",FC 장크트파울리 3-1 홀슈타인 킬 (재방송) 분데스리가 2024-11-30
+https://live1.botv.kr/live/20241130/1732909303262/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SC 헤렌벤 1-1 RKC 발베이크 (재방송) 에레디비지에 2024-11-30
+https://live1.botv.kr/live/20241130/1732906803198/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 유나이티드 3-2 AS FK 보되/글림트 (재방송) AFC아시안컵 2024-11-29
 https://live1.botv.kr/live/20241129/1732824276153/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 2-2 AS 로마 (재방송) AFC아시안컵 2024-11-29
@@ -339,6 +345,18 @@ https://live1.botv.kr/live/20241109/1731164278271/record.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",멤피스 그리즐리스 VS 뉴올리언즈 펠리컨즈(생중계) NBA 2024-11-30
+https://live1.botv.kr/liveapi/livefile/id/1732917680375.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",애틀랜타 호크스 117-101 클리블랜드 캐벌리어스(재방송) NBA 2024-11-30
+https://live1.botv.kr/live/20241130/1732909365811/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",샬럿 호넷츠 98-99 뉴욕 닉스(재방송) NBA 2024-11-30
+https://live2.botv.kr/live/20241130/1732899778137/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",골든스테이트 워리어즈 101-105 오클라호마시티 썬더(재방송) NBA 2024-12-28
 https://live1.botv.kr/live/20241128/1732763284434/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",유타 재즈 103-122 덴버 너겟츠(재방송) NBA 2024-12-28
