@@ -786,8 +786,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",데드라인
+https://m3u8.tjihua.com/vedio4/20241201/1733032111717/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",폭설
 https://m3u8.tjihua.com/vedio4/20241130/1732954939382/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",아마존 활명수
@@ -1132,6 +1132,17 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆",	인형 뽑기
+https://m3u8.tjihua.com/vedio4/20241130/1732980246173/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	브레이킹 더 스카이 3 : 악 제거
+https://m3u8.tjihua.com/vedio3/20241130/1732973872296/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	수산의 봉인된 악마의 전설
+https://m3u8.tjihua.com/vedio3/20241130/1732978712922/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	손오공: 칠성복마
 https://m3u8.tjihua.com/vedio4/20241129/1732892152683/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	아나콘다2
@@ -1879,18 +1890,8 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆", 옥씨부인전 제1회
-https://m3u8.tjihua.com/vedio4/20241201/1732982911709/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 지금 거신 전화는 제3회
-https://m3u8.tjihua.com/vedio3/20241130/1732978607724/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 열혈사제 시즌 2 제8회
-https://m3u8.tjihua.com/vedio3/20241130/1732979388163/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제19회
-https://m3u8.tjihua.com/vedio3/20241130/1732981747145/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제5회
-https://m3u8.tjihua.com/vedio4/20241130/1732971033412/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제6회
+https://m3u8.tjihua.com/vedio3/20241201/1733056160688/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제3회
 https://m3u8.tjihua.com/vedio3/20241130/1732976798615/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제2회
@@ -1908,7 +1909,9 @@ https://joovideo.cfd/static/streaming-playlists/hls/e5a1e47e-9e20-45d0-9dc5-4230
 #EXTINF:-1 group-title="🐉한국드라마🦆", 괴리와 냉소 제1회 첫방송
 https://joovideo.cfd/static/streaming-playlists/hls/454df3c3-6257-46cd-bf88-54b4ac01c989/69e9895c-978a-42a0-a221-267b34a35160-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 옥씨부인전 제1회
-https://joovideo.cfd/static/streaming-playlists/hls/2ec05579-87d6-4aac-af56-579c3477e0d2/6f68fecf-caa8-49d6-8d86-a017eed5cb12-master.m3u8
+https://m3u8.tjihua.com/vedio4/20241201/1732982911709/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 지금 거신 전화는 제3회
+https://m3u8.tjihua.com/vedio3/20241130/1732978607724/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 지금 거신 전화는 제3회
 https://m3u8.tjihua.com/vedio4/20241129/1732892485620/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 지금 거신 전화는 제2회
@@ -1959,6 +1962,8 @@ https://www.humortown.net/20241118/x1BLmEOA//1000kb/hls/index.m3u8
 https://www.humortown.net/20241118/2WOA3i1x/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 수상한 본부장 제1회
 https://www.humortown.net/20241118/5qWHQS4v/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제5회
+https://m3u8.tjihua.com/vedio4/20241130/1732971033412/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제4회
 https://m3u8.tjihua.com/vedio3/20241124/1732451589196/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제3회
@@ -1989,6 +1994,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/11cd084c-9824-4e95-924b-d23
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdd7a496-c72a-4ae3-b945-bfe68f458d4d/987c28e9-91fd-4f59-8d10-25efc387299c-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제1회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdd7a496-c72a-4ae3-b945-bfe68f458d4d/987c28e9-91fd-4f59-8d10-25efc387299c-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 열혈사제 시즌 2 제8회
+https://m3u8.tjihua.com/vedio3/20241130/1732979388163/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 열혈사제2 제7회
 https://m3u8.tjihua.com/vedio3/20241129/1732894279178/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 열혈사제2 제6회
@@ -2223,6 +2230,8 @@ https://www.segyen.com/20241005/iiANd64y/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241003/cl8H71J4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사장님의 식단표 제1회
 https://www.managahaspn.com/20241003/wwcBvHdR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제19회
+https://m3u8.tjihua.com/vedio3/20241130/1732981747145/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제18회
 https://m3u8.tjihua.com/vedio3/20241125/1732464279307/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제17회
