@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",몽펠리에 HSC vs 릴 OSC (생중계) 리그앙 2024-12-1
+https://live1.botv.kr/liveapi/livefile/id/1733061697242.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토리노 FC vs SSC 나폴리 (생중계) 세리에 A 2024-12-1
+https://live2.botv.kr/liveapi/livefile/id/1733061670399.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파르마 칼초 1913 vs SS 라치오C (생중계) 세리에 A 2024-12-1
+https://live1.botv.kr/liveapi/livefile/id/1733061644582.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",첼시 VS 애스턴 빌라 (생중계) EPL 2024-12-1
 https://live1.botv.kr/liveapi/livefile/id/1733059640960.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 VS 풀럼 (생중계) EPL 2024-12-1
@@ -1890,6 +1896,15 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆", 241201 다리미 패밀리 제20회
+https://ontvkorea.com/static/streaming-playlists/hls/0989bc2b-2470-4301-84cc-e13f18c3c3f2/5da59013-a117-4871-a6ac-44212b396f2d-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제6회
 https://m3u8.tjihua.com/vedio3/20241201/1733056160688/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제3회
@@ -3747,6 +3762,33 @@ https://svip.high1-playback.com/20240609/50901_da2e6ecb/2000k/hls/mixed.m3u8
 https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241201 TV 동물농장 제1199회
+https://ontvkorea.com/static/streaming-playlists/hls/50dbad1e-b117-4556-b4d1-e165071bd497/e7646f14-0a5a-49f1-8a5c-f656d5dd1494-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241201 팡팡터지는 정보쇼 알맹이
+https://joovideo.cfd/static/streaming-playlists/hls/6b436a39-c1f2-4663-83c1-72977d4f0b1a/b7937b0a-ba66-4dd7-9ba1-d8f362d9534d-360.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241130 극한 직업
 https://joovideo.cfd/static/streaming-playlists/hls/a359e92a-608e-4733-ade7-0724735f3829/775ebb55-3661-4071-83a9-588540e8a1fd-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241130 그것이 알고 싶다 제1422회
