@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",서울 이랜드 FC VS 전북현대모터스 (생중계) K리그 1 2024-12-1
-https://live2.botv.kr/liveapi/livefile/id/1733036284176.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",대구 FC VS 충남아산 (생중계) K리그 1 2024-12-1
-https://live2.botv.kr/liveapi/livefile/id/1733029131851.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",볼로냐 FC 3-0 베네치아 FC (재방송) 세리에 A 2024-12-1
 https://live1.botv.kr/live/20241201/1732995729909/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",AC 밀란 3-0 엠폴리 (재방송) 세리에 A 2024-12-1
@@ -494,7 +490,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzMwNTQ1MDF9.FZS2DfqF9x_02Xtso5fFoafBgIxmSaO5-xbxN_u6ci0
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzMwOTc3MTB9.CSdxkMsGvkVS3WrEJDNG2gq2STBqegeSLlw4PFLwtak
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
