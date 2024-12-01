@@ -1,23 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",몽펠리에 HSC vs 릴 OSC (생중계) 리그앙 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733061697242.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토리노 FC vs SSC 나폴리 (생중계) 세리에 A 2024-12-1
-https://live2.botv.kr/liveapi/livefile/id/1733061670399.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파르마 칼초 1913 vs SS 라치오C (생중계) 세리에 A 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733061644582.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",첼시 VS 애스턴 빌라 (생중계) EPL 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733059640960.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 VS 풀럼 (생중계) EPL 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733059353272.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 유나이티드 VS 에버턴 (생중계) EPL 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733059834642.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",트벤테 VS 고 어헤드 이글스 (생중계) 에레디비지에 2024-12-1
-https://live1.botv.kr/liveapi/livefile/id/1733059472936.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",AZ 알크마르 VS 헤라클레스 알멜로 (생중계) 에레디비지에 2024-12-1
-https://live2.botv.kr/liveapi/livefile/id/1733059408413.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",비야레알 VS 지로나 FC (생중계) 라리가 2024-12-1
-https://live2.botv.kr/liveapi/livefile/id/1733057805399.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",올림피크 마르세유 2-1 AS 모나코 (재방송) 리그앙 2024-12-1
+https://live2.botv.kr/live/20241202/1733082137352/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",르아브르 AC 0-1 앙제 SCO (재방송) 리그앙 2024-12-1
+https://live1.botv.kr/live/20241202/1733069807304/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",툴루즈 FC 2-0 AJ 오세르 (재방송) 리그앙 2024-12-1
+https://live2.botv.kr/live/20241202/1733069775238/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",올랭피크 리옹 1-4 OGC 니스 (재방송) 리그앙 2024-12-1
+https://live2.botv.kr/live/20241202/1733069842362/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",US 레체 1-1 유벤투스 (재방송) 세리에 A 2024-12-1
+https://live1.botv.kr/live/20241202/1733082166429/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레알 소시에다드 2-0 레알 베티스 (재방송) 라리가 2024-12-1
+https://live2.botv.kr/live/20241202/1733083320316/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",라요 바예카노 1-2 아틀레틱 빌바오 (재방송) 라리가 2024-12-1
+https://live1.botv.kr/live/20241202/1733074037943/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레알 마드리드 2-0 헤타페 CF (재방송) 라리가 2024-12-1
+https://live2.botv.kr/live/20241202/1733065841946/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",FC 하이덴하임 0-4 프랑크푸르트 (재방송) 분데스리가 2024-12-1
+https://live2.botv.kr/live/20241202/1733070736623/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",마인츠 2-0 TSG 1899 호펜하임 (재방송) 분데스리가 2024-12-1
+https://live1.botv.kr/live/20241201/1733063377826/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",리버풀 FC 2-0 맨체스터 시티 (재방송) EPL 2024-12-1
+https://live1.botv.kr/live/20241202/1733069743221/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",몽펠리에 HSC 1-2 릴 OSC (재방송) 리그앙 2024-12-1
+https://live1.botv.kr/live/20241201/1733061697242/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토리노 FC 0-2 SSC 나폴리 (재방송) 세리에 A 2024-12-1
+https://live2.botv.kr/live/20241201/1733061670399/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파르마 칼초 1913 3-1 SS 라치오 (재방송) 세리에 A 2024-12-1
+https://live1.botv.kr/live/20241201/1733061644582/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",첼시 3-0 애스턴 빌라 (재방송) EPL 2024-12-1
+https://live1.botv.kr/live/20241201/1733059640960/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토트넘 홋스퍼 1-1 풀럼 (재방송) EPL 2024-12-1
+https://live1.botv.kr/live/20241201/1733059353272/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",맨체스터 유나이티드 4-0 에버턴 (재방송) EPL 2024-12-1
+https://live1.botv.kr/live/20241201/1733059834642/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",비야레알 2-2 지로나 FC (재방송) 라리가 2024-12-1
+https://live2.botv.kr/live/20241201/1733057805399/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",우디네세 칼초 2-0 제노아 CFC (재방송) 세리에 A 2024-12-1
 https://live1.botv.kr/live/20241201/1733052413788/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",볼로냐 FC 3-0 베네치아 FC (재방송) 세리에 A 2024-12-1
@@ -409,6 +427,17 @@ https://live1.botv.kr/live/20241109/1731164278271/record.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",클리블랜드 캐벌리어스 vs 보스턴 셀틱스(생중계) NBA 2024-12-2
+https://live2.botv.kr/liveapi/livefile/id/1733093748827.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴욕 닉스 vs 뉴올리언즈 펠리컨즈(생중계) NBA 2024-12-2
+https://live2.botv.kr/liveapi/livefile/id/1733093785754.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",토론토 랩터스 vs 마이애미 히트(생중계) NBA 2024-12-2
+https://live1.botv.kr/liveapi/livefile/id/1733093812674.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",피닉스 선즈 113-105 골든스테이트 워리어즈(재방송) NBA 2024-12-1
 https://live1.botv.kr/live/20241201/1733018401478/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",유타 재즈 94-106 댈러스 매버릭스(재방송) NBA 2024-12-1
