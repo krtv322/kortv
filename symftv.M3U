@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르세폴리스 FC VS 알 쇼르타(IRQ) (생중계) 아시아 챔피언스 2024-12-2
+https://live1.botv.kr/liveapi/livefile/id/1733148081359.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",올림피크 마르세유 2-1 AS 모나코 (재방송) 리그앙 2024-12-1
 https://live2.botv.kr/live/20241202/1733082137352/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",르아브르 AC 0-1 앙제 SCO (재방송) 리그앙 2024-12-1
@@ -3808,10 +3810,10 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 히든 아이 제10회
+https://joovideo.cfd/static/streaming-playlists/hls/fc5d9d98-e449-442d-a7f6-9697217311f7/df03e6f7-da8c-40fe-9ac7-e265fed12b3b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 이젠 사랑할 수 있을까 제5회
+https://joovideo.cfd/static/streaming-playlists/hls/f50b9a51-b893-40f5-8dd0-4087038ea698/0e16e709-e214-4a93-8cc7-eba24c0957a8-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241201 이제 만나러 갑니다 제673회
 https://joovideo.cfd/static/streaming-playlists/hls/b73c593d-30a3-4b74-9929-2d089081a49b/3338c6cd-b8ca-49df-9d04-33ece8250e4b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241201 개그콘서트
