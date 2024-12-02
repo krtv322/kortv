@@ -1179,10 +1179,10 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆",	스노우 시스터
+https://m3u8.tjihua.com/vedio3/20241201/1733058599771/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	시칸다르의 운명
+https://m3u8.tjihua.com/vedio4/20241201/1733059158842/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	인형 뽑기
 https://m3u8.tjihua.com/vedio4/20241130/1732980246173/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	브레이킹 더 스카이 3 : 악 제거
@@ -3810,6 +3810,16 @@ https://svip.high1-playback.com/20240609/50902_77a41641/2000k/hls/mixed.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 세계테마기행, 한국기행
+https://joovideo.cfd/static/streaming-playlists/hls/37c1ca86-762d-4748-9b5c-1833444e5554/9145157b-489a-4875-9f2e-453556f393cb-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 MBC 뉴스데스크, SBS 8 뉴스
+https://joovideo.cfd/static/streaming-playlists/hls/cebece81-9bff-4752-b8de-fcd871d0447e/00b83d05-cb9f-4be4-b1f8-befa16a2dc4a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 동물의 왕국
+https://joovideo.cfd/static/streaming-playlists/hls/a8107b4a-3b9f-4228-b4ce-cc948c699640/acdf3ecf-f5b1-4535-bf70-e0f3390c9ddb-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241202 6시 내고향, 고향민국
+https://joovideo.cfd/static/streaming-playlists/hls/e6279454-94b0-4f40-871d-8b68860384f2/ab201763-c470-4683-939d-4015a30dcf96-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241202 히든 아이 제10회
 https://joovideo.cfd/static/streaming-playlists/hls/fc5d9d98-e449-442d-a7f6-9697217311f7/df03e6f7-da8c-40fe-9ac7-e265fed12b3b-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241202 이젠 사랑할 수 있을까 제5회
