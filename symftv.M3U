@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",알웨흐닷 VS 샤르자 FC (생중계) AFC아시안컵 2024-12-3
+https://live1.botv.kr/liveapi/livefile/id/1733234260202.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",파크타코르 타슈켄트 VS 알 아인 FC (생중계) 아시아 챔피언스 2024-12-3
 https://live1.botv.kr/liveapi/livefile/id/1733234221529.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",상하이 하이강 VS 광주 FC (생중계) 아시아 챔피언스 2024-12-3
-https://live2.botv.kr/liveapi/livefile/id/1733227032501.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",조호르 다룰 FC VS 부리람 유나이티드 FC (생중계) 아시아 챔피언스 2024-12-3
-https://live1.botv.kr/liveapi/livefile/id/1733227156610.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",포항 스틸러스 VS 비셀 고베 (재방송) 아시아 챔피언스 2024-12-3
-https://live1.botv.kr/liveapi/livefile/id/1733219765694.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",상하이 하이강 1-1 광주 FC (재방송) 아시아 챔피언스 2024-12-3
+https://live2.botv.kr/live/20241203/1733227032501/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",조호르 다룰 FC 0-0 부리람 유나이티드 FC (재방송) 아시아 챔피언스 2024-12-3
+https://live1.botv.kr/live/20241203/1733227156610/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",포항 스틸러스 3-1 비셀 고베 (재방송) 아시아 챔피언스 2024-12-3
+https://live1.botv.kr/live/20241203/1733219765694/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",센트럴 코스트 마리너스 0-4 VS 요코하마 F 마리노스 (재방송) 아시아 챔피언스 2024-12-3
 https://live1.botv.kr/live/20241203/1733213127845/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",세비야 FC 1-1 CA 오사수나 (재방송) 라리가 2024-12-3
