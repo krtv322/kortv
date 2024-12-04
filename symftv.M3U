@@ -464,12 +464,32 @@ https://live1.botv.kr/live/20241109/1731164278271/record.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",클리블랜드 캐벌리어스 vs 워싱턴 위저즈 (생중계) NBA 2024-12-3
-https://live1.botv.kr/liveapi/livefile/id/1733270152977.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",샬럿 호넷츠 vs 필라델피아 76ers (생중계) NBA 2024-12-3
-https://live2.botv.kr/liveapi/livefile/id/1733270208865.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",디트로이트 피스톤스 vs 밀워키 벅스 (생중계) NBA 2024-12-3
-https://live2.botv.kr/liveapi/livefile/id/1733270420990.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 127-105 포틀랜드 트레인 블레이저스 (재방송) NBA 2024-12-4
+https://live2.botv.kr/live/20241204/1733282763620/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",덴버 너겟츠 119-115 골든스테이트 워리어즈 (재방송) NBA 2024-12-4
+https://live2.botv.kr/live/20241204/1733280961129/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",새크라멘토 킹스 120-111 휴스턴 로켓츠 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733280989651/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",피닉스 선즈 104-93 샌안토니오 스퍼스 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733277386764/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",댈러스 매버릭스 121-116 멤피스 그리즐리스 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733276438126/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",오클라호마시티 썬더 133-106 유타 재즈 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733274210725/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴욕 닉스 121-106 올랜도 매직 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733272860755/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",토론토 랩터스 122-111 인디애나 페이셔스 (재방송) NBA 2024-12-4
+https://live2.botv.kr/live/20241204/1733272932719/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",클리블랜드 캐벌리어스 118-87 워싱턴 위저즈 (재방송) NBA 2024-12-4
+https://live1.botv.kr/live/20241204/1733270152977/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",샬럿 호넷츠 104-110 필라델피아 76ers (재방송) NBA 2024-12-4
+https://live2.botv.kr/live/20241204/1733270208865/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",디트로이트 피스톤스 107-128 밀워키 벅스 (재방송) NBA 2024-12-4
+https://live2.botv.kr/live/20241204/1733270420990/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",미네소타 팀버울브스 109-80 LA 레이커스 (재방송) NBA 2024-12-3
 https://live2.botv.kr/live/20241203/1733187719462/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",시카고 불스 128-102 브루클린 네츠 (재방송) NBA 2024-12-3
@@ -600,7 +620,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzMzMTM3Nzl9.gOjfveYx1a_hWyEatJ746f5Pp9ni0UrryOyoE_PicHw
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzMzNTcwMzR9.iP8cUTI3xo22-o-FF2kgYCMSwvq3ykyhj0vcAI1_1kM
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
