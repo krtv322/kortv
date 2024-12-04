@@ -606,8 +606,8 @@ http://123.140.197.22/stream/1/play.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://www.hwado.net/webtv/public/21_573058EB.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun (720p)
@@ -847,8 +847,8 @@ http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbc SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1732636770&h=c8a4a47a1629e095c607a83b87c5d695
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC YES
