@@ -645,24 +645,24 @@ http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",Mubeat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+#EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",뉴키드
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBCGOLF
 http://211.110.63.98/jtbcgolf1/_definst_/9248DE5262A73AF4018ADD682BE64A9C33D45DF7C51B8D2E9BC57F064361365D/chunklist_w1712801991.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBCGOLFSPOT
 http://www.hwado.net/webtv/catv/58.php
 #EXTINF:-1 group-title="🐉한국방송🦆",스크린골프존
-http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_502_A730A10A.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",프로야구 5경기
-https://hdtvicn1ss6.uplus.co.kr/vod/63201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",뉴키드
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 group-title="🐉한국방송🦆",서진이네
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_268_DACDF61E.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",콩콩팥팥
@@ -700,11 +700,11 @@ https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.co
 #EXTINF:-1 group-title="🐉한국방송🦆",카 시티 어드벤츠
 https://8ba1efed105d4785a1a3cf6756574fd7.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h740e05qtkqx9/aa723320-8260-456b-bdb4-715877bfc06a/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",미스터빈
-https://amg00627-amg00627c27-samsung-au-3944.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanko-samsungau/cb7f3e1a7b746fdacbcb3d6c81f944aa8e0162815d35d0323aa000c672cb495982bafbc1ea18ee4a03e24094385631004262d519ce64669e802ef716776c69108a99b265d992026eeb86092e21a3321855e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fde84345c66cbfb10c2bc47914a5db5dccd71ba583d2498a15d224a412999bf696db12d3838c62a802e4790b5b7424d4d878c3cc0ae58cc83c6bc5721a5374208e0275ee345ead750137cbf0deab6dbf38c19b20801258d162b97cf4fb0ef6c873c3c05da9acc1b22acd9bb4b63c4829a3eda585f57742d5ef59b29bbf2124e3913d7644c168d72c615ffa989945d1904cc4f64b81c5bc4aa062959fb9bdcb29db11458e521aea8d9eb92e4b4f2c37078948aea0a0ba43d255a7d41a2d504c0bf8d40584ceee573e664091931efa275be88bc5d3844e0cc36e4d0eb320c10d51258c157c6ce928ce9f3e47803245d0666ab50b63c00ad79018d88b97a50a32bedb8765fa6ce4ba4392d50abb62315c4de2a0751115022d9ebe263e317fc257ed9c9fb2204753ba85b894aa6431093d18451fcbb3b702fca0f4694c468f035c231e7630990bd165da7a392326db11dea94939c5312823e2a8284e180bb2cda28a93d9da4ed62e8597e558cf5a9aef5ceb633023ee4960725ed26b3bd3335b429928/168/848x480_1686360/index.m3u8
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1315_E0B49DF3.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",바오 패밀리
 https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",명탐정코난
-https://8ba1efed105d4785a1a3cf6756574fd7.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h740e05qtkqx9/8f03de54-180b-4bb9-9a48-5d99ba45c3ea/0.m3u8
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1313_A98FA8CA.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",TED
 https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🐉한국방송🦆",GugakTV 국악방송 (1080p)
