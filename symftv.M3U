@@ -3,26 +3,12 @@
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK LaLigaTV FHD
-http://doubleclicktv.live/70376812/52663544/276875
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Viaplay Sports UK 1 HD
-http://doubleclicktv.live/70376812/52663544/276869
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK LFC TV FHD
-http://doubleclicktv.live/70376812/52663544/276843
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Sky Sports Football FH
-http://doubleclicktv.live/70376812/52663544/276827
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Sky Sports Racing FHD
-http://doubleclicktv.live/70376812/52663544/276820
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Premier Sport 1 (IRE)
-http://doubleclicktv.live/70376812/52663544/276788
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",USA Fox Soccer Plus
-http://doubleclicktv.live/70376812/52663544/916
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르십 반둥 vs 저장 뤼청 (생중계) AFC아시안컵 2024-12-5
-https://live2.botv.kr/liveapi/livefile/id/1733399830266.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",라이언 시티 세일러스 FC vs 포트 FC (생중계) AFC아시안컵 2024-12-5
-https://live1.botv.kr/liveapi/livefile/id/1733399861893.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르십 반둥 3-4 저장 뤼청 (재방송) AFC아시안컵 2024-12-5
+https://live2.botv.kr/live/20241205/1733399830266/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",라이언 시티 세일러스 FC 5-2 포트 FC (재방송) AFC아시안컵 2024-12-5
+https://live1.botv.kr/live/20241205/1733399861893/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",무앙통 유나이티드 FC 1-0 전북현대모터스 (재방송) AFC아시안컵 2024-12-5
 https://live2.botv.kr/live/20241205/1733392598273/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",다이나믹 허브 세부 0-4 슬랑오르 FC (재방송) AFC아시안컵 2024-12-5
@@ -6243,6 +6229,20 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆",UK LaLigaTV FHD
+http://doubleclicktv.live/70376812/52663544/276875
+#EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports UK 1 HD
+http://doubleclicktv.live/70376812/52663544/276869
+#EXTINF:-1 group-title="🐉스포츠🦆",UK LFC TV FHD
+http://doubleclicktv.live/70376812/52663544/276843
+#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Football FH
+http://doubleclicktv.live/70376812/52663544/276827
+#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Racing FHD
+http://doubleclicktv.live/70376812/52663544/276820
+#EXTINF:-1 group-title="🐉스포츠🦆",UK Premier Sport 1 (IRE)
+http://doubleclicktv.live/70376812/52663544/276788
+#EXTINF:-1 group-title="🐉스포츠🦆",USA Fox Soccer Plus
+http://doubleclicktv.live/70376812/52663544/916
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Lgux6Ik.png",NBC Golf (480p)
 https://tx1.nexgen.bz/GOLF/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Golf Channel
