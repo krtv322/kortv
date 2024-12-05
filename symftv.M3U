@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",皇马RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르십 반둥 vs 저장 뤼청 (생중계) AFC아시안컵 2024-12-5
 https://live2.botv.kr/liveapi/livefile/id/1733399830266.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",라이언 시티 세일러스 FC vs 포트 FC (생중계) AFC아시안컵 2024-12-5
@@ -491,7 +494,8 @@ https://live1.botv.kr/live/20241109/1731164278271/record.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (480p)
+https://tx2.nexgen.bz/NBA/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 80-108 미네소타 팀버울브스 (재방송) NBA 2024-12-5
 https://live2.botv.kr/live/20241205/1733369178912/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 104-119 애틀랜타 호크스 (재방송) NBA 2024-12-5
@@ -6520,30 +6524,85 @@ https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Lgux6Ik.png",NBC Golf (480p)
+https://tx1.nexgen.bz/GOLF/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9eXFZya.jpeg",IMPACT Plus! (1080p)
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="Entertainment;Sports" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9oyc88J.png",Adventure Sports TV (1080p)
+https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",AfroSport Nigeria
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG (432p)
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/dCXl0rq.png",CampusLore (720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/TQFWEIS.png",Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Q3WjH1Q.png",Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/7k8ar1Z.png",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/mPGtwAP.png",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/7Xndgxk.png",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/736QREy.png",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/VTrKSxt.png",Poker Night in America (1080p)
+https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Q55HX1O.png",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/PGm944g.png",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/GT0Yi2T.png",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/XO8u1V7.png",TNA Wrestling (1080p)
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ELXmaqg.png",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png",Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/D4mZ8ll.png",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",JTBCGOLFSPOT
-http://www.hwado.net/webtv/catv/58.php
-#EXTINF:-1 group-title="🐉스포츠🦆",JSPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉스포츠🦆",JSPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉스포츠🦆",JSPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉스포츠🦆",JSPORTS 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="🐉스포츠🦆",BILLIARDS TV
-https://d2zve2l62bwzcf.cloudfront.net/h264/billiard/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",欧洲体育2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",曼联官方 MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",皇马RMTV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",国外体育6
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",Swerve Sports
@@ -6554,10 +6613,6 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="🐉스포츠🦆",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="🐉스포츠🦆",台湾体育1
-rtmp://9hv9.mine.nu/sat/md011
-#EXTINF:-1 group-title="🐉스포츠🦆",台湾体育3
-rtmp://9hv9.mine.nu/sat/md021
 #EXTINF:-1 group-title="🐉스포츠🦆",DAZN体育-1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🐉스포츠🦆",DAZN体育-2
