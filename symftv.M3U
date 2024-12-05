@@ -290,12 +290,9 @@ https://live1.botv.kr/live/20241120/1732033693307/record.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",USA NBA TV
-http://doubleclicktv.live/70376812/52663544/885
+
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (480p)
 https://tx2.nexgen.bz/NBA/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",UK TNT Sport 4 50FPS
-http://doubleclicktv.live/70376812/52663544/276799
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 80-108 미네소타 팀버울브스 (재방송) NBA 2024-12-5
 https://live2.botv.kr/live/20241205/1733369178912/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 104-119 애틀랜타 호크스 (재방송) NBA 2024-12-5
@@ -6207,14 +6204,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 
 #EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆",USA UFC Channel
-http://doubleclicktv.live/70376812/52663544/833
-#EXTINF:-1 group-title="🐉스포츠🦆",USA WWE
-http://doubleclicktv.live/70376812/52663544/828
-#EXTINF:-1 group-title="🐉스포츠🦆",WWE Network,
-http://doubleclicktv.live/70376812/52663544/276834
-#EXTINF:-1 group-title="🐉스포츠🦆",UFC FIGHT PASS
-http://doubleclicktv.live/70376812/52663544/276831
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9eXFZya.jpeg",IMPACT Plus! (1080p)
@@ -6229,6 +6218,14 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆",USA UFC Channel
+http://doubleclicktv.live/70376812/52663544/833
+#EXTINF:-1 group-title="🐉스포츠🦆",USA WWE
+http://doubleclicktv.live/70376812/52663544/828
+#EXTINF:-1 group-title="🐉스포츠🦆",WWE Network,
+http://doubleclicktv.live/70376812/52663544/276834
+#EXTINF:-1 group-title="🐉스포츠🦆",UFC FIGHT PASS
+http://doubleclicktv.live/70376812/52663544/276831
 #EXTINF:-1 group-title="🐉스포츠🦆",UK LaLigaTV FHD
 http://doubleclicktv.live/70376812/52663544/276875
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports UK 1 HD
@@ -6243,6 +6240,10 @@ http://doubleclicktv.live/70376812/52663544/276820
 http://doubleclicktv.live/70376812/52663544/276788
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Fox Soccer Plus
 http://doubleclicktv.live/70376812/52663544/916
+#EXTINF:-1 group-title="🐉스포츠🦆",USA NBA TV
+http://doubleclicktv.live/70376812/52663544/885
+#EXTINF:-1 group-title="🐉스포츠🦆",UK TNT Sport 4 50FPS
+http://doubleclicktv.live/70376812/52663544/276799
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Lgux6Ik.png",NBC Golf (480p)
 https://tx1.nexgen.bz/GOLF/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Golf Channel
