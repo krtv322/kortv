@@ -6204,8 +6204,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 
 #EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9eXFZya.jpeg",IMPACT Plus! (1080p)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
@@ -6214,10 +6214,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",USA UFC Channel
 http://doubleclicktv.live/70376812/52663544/833
 #EXTINF:-1 group-title="🐉스포츠🦆",USA WWE
