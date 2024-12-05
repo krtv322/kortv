@@ -3,6 +3,8 @@
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK LaLigaTV FHD
+http://doubleclicktv.live/70376812/52663544/276875
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르십 반둥 vs 저장 뤼청 (생중계) AFC아시안컵 2024-12-5
@@ -6190,10 +6192,14 @@ https://tx1.nexgen.bz/GOLF/index.m3u8
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2 (576p) [Not 24/7]
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9oyc88J.png",Adventure Sports TV (1080p)
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",AfroSport Nigeria
@@ -6208,12 +6214,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/q8BENJg.png",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV (720p)
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/7k8ar1Z.png",M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network
@@ -6270,6 +6270,8 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🐉스포츠🦆",DAZN体育-2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN
 http://doubleclicktv.live/70376812/52663544/919
 #EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN 2
@@ -6430,8 +6432,6 @@ http://doubleclicktv.live/70376812/52663544/276818
 http://doubleclicktv.live/70376812/52663544/276817
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Xtra  FHD
 http://doubleclicktv.live/70376812/52663544/276877
-#EXTINF:-1 group-title="🐉스포츠🦆",UK LaLigaTV FHD
-http://doubleclicktv.live/70376812/52663544/276875
 #EXTINF:-1 group-title="🐉스포츠🦆",UK MUTV FHD
 http://doubleclicktv.live/70376812/52663544/276873
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports 1 FHD
