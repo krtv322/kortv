@@ -6331,7 +6331,7 @@ https://tx1.nexgen.bz/GOLF/index.m3u8
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="Entertainment;Sports" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2 (576p) [Not 24/7]
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2 (576p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
