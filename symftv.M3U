@@ -5,6 +5,18 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK LaLigaTV FHD
 http://doubleclicktv.live/70376812/52663544/276875
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Viaplay Sports UK 1 HD
+http://doubleclicktv.live/70376812/52663544/276869
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK LFC TV FHD
+http://doubleclicktv.live/70376812/52663544/276843
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Sky Sports Football FH
+http://doubleclicktv.live/70376812/52663544/276827
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Sky Sports Racing FHD
+http://doubleclicktv.live/70376812/52663544/276820
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",UK Premier Sport 1 (IRE)
+http://doubleclicktv.live/70376812/52663544/276788
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",USA Fox Soccer Plus
+http://doubleclicktv.live/70376812/52663544/916
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",페르십 반둥 vs 저장 뤼청 (생중계) AFC아시안컵 2024-12-5
@@ -292,10 +304,12 @@ https://live1.botv.kr/live/20241120/1732033693307/record.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",USA NBA TV
+http://doubleclicktv.live/70376812/52663544/885
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (480p)
 https://tx2.nexgen.bz/NBA/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",UK TNT Sport 4 50FPS
+http://doubleclicktv.live/70376812/52663544/276799
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 80-108 미네소타 팀버울브스 (재방송) NBA 2024-12-5
 https://live2.botv.kr/live/20241205/1733369178912/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 104-119 애틀랜타 호크스 (재방송) NBA 2024-12-5
@@ -6184,10 +6198,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 
 #EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆",USA UFC Channel
+http://doubleclicktv.live/70376812/52663544/833
+#EXTINF:-1 group-title="🐉스포츠🦆",USA WWE
+http://doubleclicktv.live/70376812/52663544/828
+#EXTINF:-1 group-title="🐉스포츠🦆",WWE Network,
+http://doubleclicktv.live/70376812/52663544/276834
+#EXTINF:-1 group-title="🐉스포츠🦆",UFC FIGHT PASS
+http://doubleclicktv.live/70376812/52663544/276831
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Lgux6Ik.png",NBC Golf (480p)
-https://tx1.nexgen.bz/GOLF/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9eXFZya.jpeg",IMPACT Plus! (1080p)
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/ZPYK5jr.png",Combate Global
@@ -6200,6 +6220,12 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/Lgux6Ik.png",NBC Golf (480p)
+https://tx1.nexgen.bz/GOLF/index.m3u8
+#EXTINF:-1 group-title="🐉스포츠🦆",USA Golf Channel
+http://doubleclicktv.live/70376812/52663544/897
+#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Golf FHD HE
+http://doubleclicktv.live/70376812/52663544/276826
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/9oyc88J.png",Adventure Sports TV (1080p)
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",AfroSport Nigeria
@@ -6282,28 +6308,10 @@ http://doubleclicktv.live/70376812/52663544/920
 http://doubleclicktv.live/70376812/52663544/922
 #EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN
 http://doubleclicktv.live/70376812/52663544/923
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 1
-http://doubleclicktv.live/70376812/52663544/930
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 2
-http://doubleclicktv.live/70376812/52663544/929
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 3
-http://doubleclicktv.live/70376812/52663544/928
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 4
-http://doubleclicktv.live/70376812/52663544/927
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 5
-http://doubleclicktv.live/70376812/52663544/926
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 6
-http://doubleclicktv.live/70376812/52663544/925
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN College Extra 7
-http://doubleclicktv.live/70376812/52663544/924
 #EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN SEC Network
 http://doubleclicktv.live/70376812/52663544/921
-#EXTINF:-1 group-title="🐉스포츠🦆",USA ESPN SEC+
-http://doubleclicktv.live/70376812/52663544/823
 #EXTINF:-1 group-title="🐉스포츠🦆",USA NFL Network
 http://doubleclicktv.live/70376812/52663544/868
-#EXTINF:-1 group-title="🐉스포츠🦆",USA NBA TV
-http://doubleclicktv.live/70376812/52663544/885
 #EXTINF:-1 group-title="🐉스포츠🦆",USA MLB Network
 http://doubleclicktv.live/70376812/52663544/891
 #EXTINF:-1 group-title="🐉스포츠🦆",USA MLB Strike Zone
@@ -6316,8 +6324,6 @@ http://doubleclicktv.live/70376812/52663544/915
 http://doubleclicktv.live/70376812/52663544/914
 #EXTINF:-1 group-title="🐉스포츠🦆",USA ACC Network
 http://doubleclicktv.live/70376812/52663544/975
-#EXTINF:-1 group-title="🐉스포츠🦆",USA Golf Channel
-http://doubleclicktv.live/70376812/52663544/897
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Fight Network
 http://doubleclicktv.live/70376812/52663544/918
 #EXTINF:-1 group-title="🐉스포츠🦆",USA CBS Sports Network
@@ -6326,32 +6332,8 @@ http://doubleclicktv.live/70376812/52663544/934
 http://doubleclicktv.live/70376812/52663544/837
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Tennis Channel  2
 http://doubleclicktv.live/70376812/52663544/328632
-#EXTINF:-1 group-title="🐉스포츠🦆",USA UFC Channel
-http://doubleclicktv.live/70376812/52663544/833
-#EXTINF:-1 group-title="🐉스포츠🦆",USA WWE
-http://doubleclicktv.live/70376812/52663544/828
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Bein Sports
 http://doubleclicktv.live/70376812/52663544/940
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports 4
-http://doubleclicktv.live/70376812/52663544/947
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports 5
-http://doubleclicktv.live/70376812/52663544/946
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports 6
-http://doubleclicktv.live/70376812/52663544/945
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports 7
-http://doubleclicktv.live/70376812/52663544/944
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports 8
-http://doubleclicktv.live/70376812/52663544/943
-#EXTINF:-1 group-title="🐉스포츠🦆",USA Bein Sports en Espanol UHD
-http://doubleclicktv.live/70376812/52663544/942
-#EXTINF:-1 group-title="🐉스포츠🦆",USA BeIN Sports La Liga
-http://doubleclicktv.live/70376812/52663544/941
-#EXTINF:-1 group-title="🐉스포츠🦆",USA Bein Sports Xtra
-http://doubleclicktv.live/70376812/52663544/939
-#EXTINF:-1 group-title="🐉스포츠🦆",USA Fox Soccer Plus
-http://doubleclicktv.live/70376812/52663544/916
-#EXTINF:-1 group-title="🐉스포츠🦆",USA Fox Sports Netbase
-http://doubleclicktv.live/70376812/52663544/910
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Fox Sports Sun (South Florida)
 http://doubleclicktv.live/70376812/52663544/904
 #EXTINF:-1 group-title="🐉스포츠🦆",USA Fubo Sports Network
@@ -6398,8 +6380,6 @@ http://doubleclicktv.live/70376812/52663544/276802
 http://doubleclicktv.live/70376812/52663544/276801
 #EXTINF:-1 group-title="🐉스포츠🦆",UK TNT Sport 3 50FPS
 http://doubleclicktv.live/70376812/52663544/276800
-#EXTINF:-1 group-title="🐉스포츠🦆",UK TNT Sport 4 50FPS
-http://doubleclicktv.live/70376812/52663544/276799
 #EXTINF:-1 group-title="🐉스포츠🦆",UK TNT Sport 5
 http://doubleclicktv.live/70376812/52663544/276890
 #EXTINF:-1 group-title="🐉스포츠🦆",UK TNT Sport 6
@@ -6436,8 +6416,6 @@ http://doubleclicktv.live/70376812/52663544/276877
 http://doubleclicktv.live/70376812/52663544/276873
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports 1 FHD
 http://doubleclicktv.live/70376812/52663544/276870
-#EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports UK 1 HD
-http://doubleclicktv.live/70376812/52663544/276869
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports 2  FHD
 http://doubleclicktv.live/70376812/52663544/276866
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Viaplay Sports UK 2 HD
@@ -6446,60 +6424,20 @@ http://doubleclicktv.live/70376812/52663544/276865
 http://doubleclicktv.live/70376812/52663544/276862
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Racing TV HD
 http://doubleclicktv.live/70376812/52663544/276861
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 1
-http://doubleclicktv.live/70376812/52663544/276858
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 2
-http://doubleclicktv.live/70376812/52663544/276857
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 3
-http://doubleclicktv.live/70376812/52663544/276856
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 4
-http://doubleclicktv.live/70376812/52663544/276855
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 5
-http://doubleclicktv.live/70376812/52663544/276854
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 6
-http://doubleclicktv.live/70376812/52663544/276853
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 7
-http://doubleclicktv.live/70376812/52663544/276852
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 8
-http://doubleclicktv.live/70376812/52663544/276851
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 9
-http://doubleclicktv.live/70376812/52663544/276850
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 10
-http://doubleclicktv.live/70376812/52663544/276849
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 11
-http://doubleclicktv.live/70376812/52663544/276848
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 12
-http://doubleclicktv.live/70376812/52663544/276847
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 13
-http://doubleclicktv.live/70376812/52663544/276846
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 14
-http://doubleclicktv.live/70376812/52663544/276845
-#EXTINF:-1 group-title="🐉스포츠🦆",BBC Red Button 15
-http://doubleclicktv.live/70376812/52663544/276844
-#EXTINF:-1 group-title="🐉스포츠🦆",UK LFC TV FHD
-http://doubleclicktv.live/70376812/52663544/276843
 #EXTINF:-1 group-title="🐉스포츠🦆",UK BT Sport Mosaic 1
 http://doubleclicktv.live/70376812/52663544/276840
 #EXTINF:-1 group-title="🐉스포츠🦆",UK BT Sport Mosaic 2
 http://doubleclicktv.live/70376812/52663544/276835
-#EXTINF:-1 group-title="🐉스포츠🦆",WWE Network,
-http://doubleclicktv.live/70376812/52663544/276834
 #EXTINF:-1 group-title="🐉스포츠🦆",CBS Sports Network
 http://doubleclicktv.live/70376812/52663544/276833
 #EXTINF:-1 group-title="🐉스포츠🦆",Willow Cricket
 http://doubleclicktv.live/70376812/52663544/276832
-#EXTINF:-1 group-title="🐉스포츠🦆",UFC FIGHT PASS
-http://doubleclicktv.live/70376812/52663544/276831
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Arena FHD
 http://doubleclicktv.live/70376812/52663544/276830
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Cricket FHD
 http://doubleclicktv.live/70376812/52663544/276829
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports F1 FHD HEVC
 http://doubleclicktv.live/70376812/52663544/276828
-#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Football FH
-http://doubleclicktv.live/70376812/52663544/276827
-#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Golf FHD HE
-http://doubleclicktv.live/70376812/52663544/276826
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Main Event
 http://doubleclicktv.live/70376812/52663544/276825
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Mix FHD HEV
@@ -6510,8 +6448,6 @@ http://doubleclicktv.live/70376812/52663544/276823
 http://doubleclicktv.live/70376812/52663544/276822
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Premier League
 http://doubleclicktv.live/70376812/52663544/276821
-#EXTINF:-1 group-title="🐉스포츠🦆",UK Sky Sports Racing FHD
-http://doubleclicktv.live/70376812/52663544/276820
 #EXTINF:-1 group-title="🐉스포츠🦆",Sky Red Button 01
 http://doubleclicktv.live/70376812/52663544/276816
 #EXTINF:-1 group-title="🐉스포츠🦆",Sky Red Button 02
@@ -6550,8 +6486,6 @@ http://doubleclicktv.live/70376812/52663544/276792
 http://doubleclicktv.live/70376812/52663544/276791
 #EXTINF:-1 group-title="🐉스포츠🦆",Sky Red Button 19
 http://doubleclicktv.live/70376812/52663544/276790
-#EXTINF:-1 group-title="🐉스포츠🦆",UK Premier Sport 1 (IRE)
-http://doubleclicktv.live/70376812/52663544/276788
 #EXTINF:-1 group-title="🐉스포츠🦆",UK Premier Sport 2 (IRE)
 http://doubleclicktv.live/70376812/52663544/276787
 
