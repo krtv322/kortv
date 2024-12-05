@@ -831,10 +831,12 @@ https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/pl
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="🐉한국방송🦆",BTN TV (1080p)
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",바둑티비
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",블링플러스
-https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS News (1080p) [Not 24/7]
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmMzEyODcwJiY0OTU5OTUwJiYzMTI4NzA0OTU5OTUwRDAmJmY/hdntl=exp=1733441538~acl=*%2Fentry%2F*~data=hdntl~hmac=42d5f1d7e2bf99e1538d629b94d57c8baa7c9b63f334290b3d5e096e629640af/chunklist_1080.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",Yonhap News TV (1080p)
+https://ythls.armelin.one/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
 #EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="🐉한국방송🦆",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",韩·HotPlusTV
@@ -843,8 +845,6 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",K-POP
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",mbc넷
-http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서경방송
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🐉한국방송🦆",KBS World
