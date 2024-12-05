@@ -491,11 +491,18 @@ https://live1.botv.kr/live/20241109/1731164278271/record.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 80-108 미네소타 팀버울브스 (재방송) NBA 2024-12-5
+https://live2.botv.kr/live/20241205/1733369178912/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 104-119 애틀랜타 호크스 (재방송) NBA 2024-12-5
+https://live1.botv.kr/live/20241205/1733360734765/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",마이애미 히트 134-93 LA 레이커스 (재방송) NBA 2024-12-5
+https://live2.botv.kr/live/20241205/1733359061873/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 130-120 디트로이트 피스톤스 (재방송) NBA 2024-12-5
+https://live1.botv.kr/live/20241205/1733359087139/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",브루클린 네츠 99-90 인디애나 페이셔스 (재방송) NBA 2024-12-5
+https://live2.botv.kr/live/20241205/1733359111571/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers 102-106 올랜도 매직 (재방송) NBA 2024-12-5
+https://live1.botv.kr/live/20241205/1733359140723/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 클리퍼스 127-105 포틀랜드 트레인 블레이저스 (재방송) NBA 2024-12-4
 https://live2.botv.kr/live/20241204/1733282763620/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",덴버 너겟츠 119-115 골든스테이트 워리어즈 (재방송) NBA 2024-12-4
@@ -648,7 +655,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM0MDAyMzN9.kFMBEH5FiMbXnQZhPM5HJMrX4DQndV0Wr6g98_lPI3U
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM0NDM0Mjd9.f9XyVOfmFHIPb8DzisoRrKElRu189yy1hWYgN0aIElQ
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
