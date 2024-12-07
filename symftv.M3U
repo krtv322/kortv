@@ -317,12 +317,21 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 vs 밀워키 벅스 (생중계) NBA 2024-12-7
-https://live1.botv.kr/liveapi/livefile/id/1733531426352.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",애틀랜타 호크스 vs LA 레이커스 (생중계) NBA 2024-12-7
-https://live2.botv.kr/liveapi/livefile/id/1733531450189.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers vs 올랜도 매직 (생중계) NBA 2024-12-7
-https://live2.botv.kr/liveapi/livefile/id/1733529758191.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",골든스테이트 워리어즈 90-107 미네소타 팀버울브스 (재방송) NBA 2024-12-7
+https://live1.botv.kr/live/20241207/1733540253458/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",포틀랜드 트레인 블레이저스 99-141 유타 재즈 (재방송) NBA 2024-12-7
+https://live1.botv.kr/live/20241207/1733540277188/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",시카고 불스 123-132 인디애나 페이셔스 (재방송) NBA 2024-12-7
+https://live2.botv.kr/live/20241207/1733533535711/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 111-105 밀워키 벅스 (재방송) NBA 2024-12-7
+https://live1.botv.kr/live/20241207/1733531426352/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",애틀랜타 호크스 134-132 LA 레이커스 (재방송) NBA 2024-12-7
+https://live2.botv.kr/live/20241207/1733531450189/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers 102-94 올랜도 매직 (재방송) NBA 2024-12-7
+https://live2.botv.kr/live/20241207/1733529758191/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",골든스테이트 워리어즈 99-93 휴스턴 로켓츠 (재방송) NBA 2024-12-6
 https://live1.botv.kr/live/20241206/1733453826910/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴올리언즈 펠리컨즈 126-124 피닉스 선즈 (재방송) NBA 2024-12-6
@@ -503,7 +512,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM1NzMxMzd9.erDMke1eGe_pmmhADsembbIEi8iNoPsi6bnLytBYXSM
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM2MTYzNjB9.KZ8HPA_98PZy2aiIFcSqtP-knia4apiCZuePiD2YJN0
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
