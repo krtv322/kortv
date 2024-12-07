@@ -314,7 +314,14 @@ https://live1.botv.kr/live/20241120/1732033693307/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (480p)
 https://tx2.nexgen.bz/NBA/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers vs 올랜도 매직 (생중계) NBA 2024-12-6
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 vs 밀워키 벅스 (생중계) NBA 2024-12-7
+https://live1.botv.kr/liveapi/livefile/id/1733531426352.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",애틀랜타 호크스 vs LA 레이커스 (생중계) NBA 2024-12-7
+https://live2.botv.kr/liveapi/livefile/id/1733531450189.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers vs 올랜도 매직 (생중계) NBA 2024-12-7
 https://live2.botv.kr/liveapi/livefile/id/1733529758191.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",골든스테이트 워리어즈 99-93 휴스턴 로켓츠 (재방송) NBA 2024-12-6
 https://live1.botv.kr/live/20241206/1733453826910/record.m3u8
