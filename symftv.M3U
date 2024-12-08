@@ -623,6 +623,12 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆",오늘부터 1일
+https://m3u8.tjihua.com/vedio4/20241208/1733638917834/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",대도시의 사랑법
 https://m3u8.tjihua.com/vedio4/20241203/1733204886715/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",데드라인
@@ -1746,11 +1752,10 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제5회
 https://m3u8.tjihua.com/vedio4/20241207/1733581283324/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제21회
-https://joovideo.cfd/static/streaming-playlists/hls/698186f1-311a-4710-b836-167e5b53501c/d28a58f1-f7ea-4586-901f-3334440df298-master.m3u8
+https://m3u8.tjihua.com/vedio4/20241208/1733588238456/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 오늘도 지송합니다 제1회 첫방송
 https://m3u8.tjihua.com/vedio4/20241205/1733405841764/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 키스라이팅 제1회 첫방송
@@ -4736,12 +4741,12 @@ https://ww999.ontvkorea.com/static/streaming-playlists/hls/47a2f887-737a-48ee-bb
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉애니메이션🦆", 극장판 모노노케: 우중망령
+https://m3u8.tjihua.com/vedio4/20241206/1733488566547/out.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆", 그해 크리스마스에는
+https://m3u8.tjihua.com/vedio4/20241206/1733489189426/out.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆", 미라클 월드 런던: 시간의 끝에서
+https://m3u8.tjihua.com/vedio4/20241206/1733489560996/out.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆", 극장판 마크로스 Δ 절대LIVE!!!!!!
 https://m3u8.tjihua.com/vedio3/20241124/1732463758394/out.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆", 레오
