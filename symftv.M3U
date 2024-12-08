@@ -8,8 +8,8 @@ https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아틀레틱 빌바오 VS 비야레알 (생중계) 라리가 2024-12-8
+https://live2.botv.kr/liveapi/livefile/id/1733670677563.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",VfL 볼프스부르크 VS 마인츠 (생중계) 분데스리가 2024-12-8
 https://live1.botv.kr/liveapi/livefile/id/1733668078187.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",엘라스 베로나 FC VS 엠폴리 (생중계) 세리에 A 2024-12-8
@@ -22,10 +22,10 @@ https://live2.botv.kr/liveapi/livefile/id/1733666365375.m3u8
 https://live1.botv.kr/liveapi/livefile/id/1733666402594.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",RC 랑스 VS 몽펠리에 HSC (생중계) 리그앙 2024-12-8
 https://live1.botv.kr/liveapi/livefile/id/1733666454126.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",CD 레가네스 VS 레알 소시에다드 (생중계) 라리가 2024-12-8
-https://live1.botv.kr/liveapi/livefile/id/1733662735952.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",ACF 피오렌티나 VS 칼리아리 칼초 (생중계) 세리에 A 2024-12-8
-https://live1.botv.kr/liveapi/livefile/id/1733657441679.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",CD 레가네스 0-3 레알 소시에다드 (재방송) 라리가 2024-12-8
+https://live1.botv.kr/live/20241208/1733662735952/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",ACF 피오렌티나 1-0 칼리아리 칼초 (재방송) 세리에 A 2024-12-8
+https://live1.botv.kr/live/20241208/1733657441679/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",앙제 SCO 0-3 올랭피크 리옹 (재방송) 리그앙 2024-12-8
 https://live1.botv.kr/live/20241208/1733602426659/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",OGC 니스 2-1 르아브르 AC (재방송) 리그앙 2024-12-8
@@ -1762,10 +1762,21 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제5회
-https://m3u8.tjihua.com/vedio4/20241207/1733581283324/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제21회
-https://m3u8.tjihua.com/vedio4/20241208/1733588238456/out.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제6회
+https://ontvkorea.com/static/streaming-playlists/hls/8487019b-5faf-4baf-b312-b76531ce18ea/e2434047-9fbb-4e1b-a834-d4162217ce36-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제22회
+https://www.segyen.com/20241208/uWr8QyjZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제8회
+https://m3u8.tjihua.com/vedio4/20241208/1733666029855/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제7회
+https://m3u8.tjihua.com/vedio4/20241208/1733666475403/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 오늘도 지송합니다 제1회 첫방송
 https://m3u8.tjihua.com/vedio4/20241205/1733405841764/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 키스라이팅 제1회 첫방송
@@ -1788,6 +1799,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/afa626b8-96e6-4f79-baaa-b68
 https://joovideo.cfd/static/streaming-playlists/hls/84c0168a-a063-4096-9be7-c7c6c3043d51/7aabb069-b656-4aee-8edc-85624f21a0ee-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 신데렐라 게임 제1회 첫방송
 https://ontvkorea.com/static/streaming-playlists/hls/e38fa7f4-55f5-4552-8c31-c717d51e964b/24431a65-2cdb-44b5-a74b-5ff4ec1bf4e6-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제5회
+https://m3u8.tjihua.com/vedio4/20241207/1733581283324/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제4회
 https://m3u8.tjihua.com/vedio3/20241201/1733064036768/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제3회
@@ -1886,22 +1899,6 @@ https://m3u8.tjihua.com/vedio3/20241123/1732365971701/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241117/1731848712325/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제1회 첫방송
 https://m3u8.tjihua.com/vedio3/20241116/1731761471865/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제8회
-https://www.humortown.net/20241118/prLToPTP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제7회
-https://www.humortown.net/20241118/JPmY09vN/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제6회
-https://www.humortown.net/20241118/b9aFnbnr/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제5회
-https://www.humortown.net/20241118/KiSmxfJg/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제4회
-https://www.humortown.net/20241114/8SYCfrv0/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제3회
-https://www.humortown.net/20241114/7wfGeCh2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제2회
-https://www.humortown.net/20241114/QWXpc821/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제1회
-https://www.humortown.net/20241114/0nNTqYqO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제4회
 https://ontvkorea.com/static/streaming-playlists/hls/619db9df-bfdf-490a-a52e-a6f48f6f9175/47824b18-9ead-4843-adef-3ba50e48fcb7-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제3회
@@ -1984,78 +1981,6 @@ https://m3u8.tjihua.com/vedio3/20241111/1731337469344/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241105/1730820613406/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 취하는 로맨스 제1회
 https://m3u8.tjihua.com/vedio3/20241104/1730734270677/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제8회
-https://m3u8.tjihua.com/vedio3/20241107/1730982348613/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제7회
-https://m3u8.tjihua.com/vedio3/20241107/1730982179746/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제6회
-https://m3u8.tjihua.com/vedio3/20241031/1730378878430/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제5회
-https://m3u8.tjihua.com/vedio3/20241031/1730378716818/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제4회
-https://m3u8.tjihua.com/vedio3/20241024/1729775121641/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제3회
-https://m3u8.tjihua.com/vedio3/20241024/1729776660813/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제2회
-https://m3u8.tjihua.com/vedio3/20241017/1729170192398/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제1회
-https://m3u8.tjihua.com/vedio3/20241024/1729748211116/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제12회
-https://www.segyen.com/20241114/ckKqYKuT/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제11회
-https://www.segyen.com/20241114/DwFxUIxF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제10회
-https://www.segyen.com/20241107/w6K2kzfg/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제9회
-https://www.segyen.com/20241107/o4JFDOqS/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제8회
-https://www.humortown.net/20241102/vR1PixX1/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제7회
-https://www.humortown.net/20241102/J6vde5he/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제6회
-https://www.segyen.com/20241024/GVQWy0Ci/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제5회
-https://www.segyen.com/20241024/MI8xZorZ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제4회
-https://www.segyen.com/20241017/kPqep9va/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제3회
-https://www.segyen.com/20241017/QN8gv5Ud/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제2회
-https://svipsvip.ffzyread1.com/20241010/32370_1af762c8/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제1회
-https://svipsvip.ffzyread1.com/20241010/32371_4a5f2f97/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 16회
-https://m3u8.tjihua.com/vedio3/20241127/1732721095347/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 15회
-https://m3u8.tjihua.com/vedio3/20241127/1732720481473/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제14회
-https://m3u8.tjihua.com/vedio3/20241121/1732118783170/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제13회
-https://m3u8.tjihua.com/vedio3/20241121/1732121002781/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제12회
-https://m3u8.tjihua.com/vedio3/20241113/1731510411299/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제11회
-https://m3u8.tjihua.com/vedio3/20241113/1731511770656/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제10회
-https://m3u8.tjihua.com/vedio3/20241107/1730958579756/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제9회
-https://m3u8.tjihua.com/vedio3/20241107/1730957802140/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제8회
-https://m3u8.tjihua.com/vedio3/20241030/1730302330111/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제7회
-https://m3u8.tjihua.com/vedio3/20241030/1730303590844/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제6회
-https://m3u8.tjihua.com/vedio3/20241024/1729700029123/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제5회
-https://m3u8.tjihua.com/vedio3/20241024/1729746280761/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제4회
-https://www.humortown.net/20241016/Rqx5cfDr/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제3회
-https://www.segyen.com/20241016/G3kdPrLF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제2회
-https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제1회 첫방송
-https://www.segyen.com/20241009/O2CmMWNj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 정년이: 최종 리허설
 https://ontvkorea.com/static/streaming-playlists/hls/25d01fbc0-99df-44ac-9893-5863f3a66e90/cc48a0fb-4da1-436e-badf-210eb4ecfb54-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼하자 맹꽁아 제44회
@@ -2164,6 +2089,8 @@ https://www.segyen.com/20241005/iiANd64y/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241003/cl8H71J4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사장님의 식단표 제1회
 https://www.managahaspn.com/20241003/wwcBvHdR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제21회
+https://m3u8.tjihua.com/vedio4/20241208/1733588238456/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제20회
 https://m3u8.tjihua.com/vedio3/20241201/1733068653344/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제19회
@@ -2204,24 +2131,6 @@ https://www.segyen.com/20241005/ArVMNpJR/1000kb/hls/index.m3u8
 https://www.segyen.com/20240929/VBuS3rJE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제1회 첫방송
 https://www.segyen.com/20240928/cCvqWaPi/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제9회
-https://www.humortown.net/20241110/6W2F2ynC/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제8회
-https://www.humortown.net/20241110/k8OG4cb5/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제7회
-https://www.humortown.net/20241110/na8vXkP9/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제6회
-https://www.humortown.net/20241110/2rsQHrQ0/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제5회
-https://www.humortown.net/20241109/RipGMkLT/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제4회
-https://www.humortown.net/20241109/eLmZNiCP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제3회
-https://www.humortown.net/20241109/T35qHLYk/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제2회
-https://www.humortown.net/20241109/XlKFQ7GQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제1회
-https://www.humortown.net/20241109/EXr8HzLl/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제102회
 https://m3u8.tjihua.com/vedio3/20241202/1733149363640/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 스캔들 제101회
@@ -2352,6 +2261,112 @@ https://svipsvip.ffzyread1.com/20240824/30788_142d9bb6/2000k/hls/mixed.m3u8
 https://svipsvip.ffzyread1.com/20240823/30727_39fafc9e/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆",스캔들 38회
 https://svipsvip.ffzyread1.com/20240822/30698_0cbb7737/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제8회
+https://www.humortown.net/20241118/prLToPTP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제7회
+https://www.humortown.net/20241118/JPmY09vN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제6회
+https://www.humortown.net/20241118/b9aFnbnr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제5회
+https://www.humortown.net/20241118/KiSmxfJg/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제4회
+https://www.humortown.net/20241114/8SYCfrv0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제3회
+https://www.humortown.net/20241114/7wfGeCh2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제2회
+https://www.humortown.net/20241114/QWXpc821/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 0교시는 인싸타임 제1회
+https://www.humortown.net/20241114/0nNTqYqO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제9회
+https://www.humortown.net/20241110/6W2F2ynC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제8회
+https://www.humortown.net/20241110/k8OG4cb5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제7회
+https://www.humortown.net/20241110/na8vXkP9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제6회
+https://www.humortown.net/20241110/2rsQHrQ0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제5회
+https://www.humortown.net/20241109/RipGMkLT/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제4회
+https://www.humortown.net/20241109/eLmZNiCP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제3회
+https://www.humortown.net/20241109/T35qHLYk/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제2회
+https://www.humortown.net/20241109/XlKFQ7GQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 차곡차곡 사랑하고 있습니다 제1회
+https://www.humortown.net/20241109/EXr8HzLl/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제8회
+https://m3u8.tjihua.com/vedio3/20241107/1730982348613/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제7회
+https://m3u8.tjihua.com/vedio3/20241107/1730982179746/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제6회
+https://m3u8.tjihua.com/vedio3/20241031/1730378878430/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제5회
+https://m3u8.tjihua.com/vedio3/20241031/1730378716818/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제4회
+https://m3u8.tjihua.com/vedio3/20241024/1729775121641/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제3회
+https://m3u8.tjihua.com/vedio3/20241024/1729776660813/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제2회
+https://m3u8.tjihua.com/vedio3/20241017/1729170192398/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 태권도의 저주를 풀어줘 제1회
+https://m3u8.tjihua.com/vedio3/20241024/1729748211116/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제12회
+https://www.segyen.com/20241114/ckKqYKuT/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제11회
+https://www.segyen.com/20241114/DwFxUIxF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제10회
+https://www.segyen.com/20241107/w6K2kzfg/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제9회
+https://www.segyen.com/20241107/o4JFDOqS/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제8회
+https://www.humortown.net/20241102/vR1PixX1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제7회
+https://www.humortown.net/20241102/J6vde5he/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제6회
+https://www.segyen.com/20241024/GVQWy0Ci/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제5회
+https://www.segyen.com/20241024/MI8xZorZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제4회
+https://www.segyen.com/20241017/kPqep9va/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제3회
+https://www.segyen.com/20241017/QN8gv5Ud/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제2회
+https://svipsvip.ffzyread1.com/20241010/32370_1af762c8/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 기이한 로맨스 제1회
+https://svipsvip.ffzyread1.com/20241010/32371_4a5f2f97/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 16회
+https://m3u8.tjihua.com/vedio3/20241127/1732721095347/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 15회
+https://m3u8.tjihua.com/vedio3/20241127/1732720481473/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제14회
+https://m3u8.tjihua.com/vedio3/20241121/1732118783170/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제13회
+https://m3u8.tjihua.com/vedio3/20241121/1732121002781/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제12회
+https://m3u8.tjihua.com/vedio3/20241113/1731510411299/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제11회
+https://m3u8.tjihua.com/vedio3/20241113/1731511770656/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제10회
+https://m3u8.tjihua.com/vedio3/20241107/1730958579756/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제9회
+https://m3u8.tjihua.com/vedio3/20241107/1730957802140/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제8회
+https://m3u8.tjihua.com/vedio3/20241030/1730302330111/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제7회
+https://m3u8.tjihua.com/vedio3/20241030/1730303590844/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제6회
+https://m3u8.tjihua.com/vedio3/20241024/1729700029123/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제5회
+https://m3u8.tjihua.com/vedio3/20241024/1729746280761/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제4회
+https://www.humortown.net/20241016/Rqx5cfDr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제3회
+https://www.segyen.com/20241016/G3kdPrLF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제2회
+https://www.segyen.com/20241009/cXbx7IFF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆", 조립식 가족 제1회 첫방송
+https://www.segyen.com/20241009/O2CmMWNj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 트렁크 제8회
 https://m3u8.tjihua.com/vedio3/20241129/1732883619376/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 트렁크 제7회
@@ -2961,6 +2976,13 @@ https://www.segyen.com/20240817/Kml66zMw/index.m3u8?skipl=1
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241208 사장님 귀는 당나귀 귀 제285회
+https://ontvkorea.com/static/streaming-playlists/hls/fc0bbcc5-cd48-4848-9bce-2fb8825a2ea0/59349b2d-596f-464a-b050-e3046ece338e-720.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 스타라이트 보이즈 2회
 https://www.managahaspn.com/20241207/88ccrQVt/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241208 TV 동물농장 제1200회
