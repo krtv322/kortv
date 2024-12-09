@@ -1793,12 +1793,12 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆", 옥씨부인전 제3회
+https://m3u8.tjihua.com/vedio4/20241208/1733669399190/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 사랑은 외나무 다리에서 제6회
-https://ontvkorea.com/static/streaming-playlists/hls/8487019b-5faf-4baf-b312-b76531ce18ea/e2434047-9fbb-4e1b-a834-d4162217ce36-master.m3u8
+https://m3u8.tjihua.com/vedio4/20241208/1733668006313/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 다리미 패밀리 제22회
-https://www.segyen.com/20241208/uWr8QyjZ/1000kb/hls/index.m3u8
+https://m3u8.tjihua.com/vedio4/20241208/1733673270871/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제8회
 https://m3u8.tjihua.com/vedio4/20241208/1733666029855/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", 결혼해YOU 제7회
@@ -3000,6 +3000,15 @@ https://www.segyen.com/20240817/Kml66zMw/index.m3u8?skipl=1
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆", 241208 심야괴담회 시즌4 9회
+https://www.managahaspn.com/20241208/C2TGdeU1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241208 이제 만나러 갑니다 제675회
+https://joovideo.cfd/static/streaming-playlists/hls/a8fbc924-29a6-49d0-be1a-059906b11ee1/92fb5f79-b2df-4dd4-9ca1-c32367c7d69d-360.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆", 241208 개그콘서트
+https://ontvkorea.com/static/streaming-playlists/hls/8f598411-c090-40bc-b66f-309d7edf770d/15ccdd8f-766f-4979-aa4a-9a9b351632d8-720.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 탐사기획 스트레이트 8회
 https://www.managahaspn.com/20241208/GXDbGymx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆", 241208 KBS 뉴스 9, SBS 8 뉴스
