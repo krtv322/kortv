@@ -679,8 +679,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆",개그맨
+https://m3u8.tjihua.com/vedio4/20241210/1733813834840/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",오늘부터 1일
 https://m3u8.tjihua.com/vedio4/20241208/1733638917834/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",대도시의 사랑법
@@ -1033,6 +1033,18 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆",	마리아
+https://m3u8.tjihua.com/vedio4/20241209/1733747587438/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	엄마랑 캠프라니!
+https://m3u8.tjihua.com/vedio4/20241209/1733747181447/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	우리만의 작은 비밀
+https://m3u8.tjihua.com/vedio4/20241206/1733490563295/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	넌센스 크리스마스 쇼: 사브리나 카펜터
+https://m3u8.tjihua.com/vedio4/20241209/1733746869897/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	사상 최대 암호화폐 도난 사건
+https://m3u8.tjihua.com/vedio4/20241209/1733748044246/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆",	피아노 레슨: 레거시 앤 비전
+https://m3u8.tjihua.com/vedio4/20241209/1733748398813/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	기각소녀
 https://m3u8.tjihua.com/vedio4/20241206/1733497176529/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	저격자2
