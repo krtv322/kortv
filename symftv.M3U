@@ -7,8 +7,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 
-
-
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",샤흐타르 도네츠크 1-5 바이에른 뮌헨 (재방송) UEFA 챔피언스리그 2024-12-11
+https://live1.botv.kr/live/20241211/1733860980907/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",아탈란타 BC 2-3 인레알 마드리드 (재방송) UEFA 챔피언스리그 2024-12-11
 https://live1.botv.kr/live/20241211/1733860879204/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",레버쿠젠 1-0 인터 밀란 (재방송) UEFA 챔피언스리그 2024-12-11
@@ -238,6 +238,14 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",오클라호마시티 썬더 118-104 댈러스 매버릭스 (재방송) NBA 2024-12-11
+https://live2.botv.kr/live/20241211/1733883985489/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 114-109 올랜도 매직 (재방송) NBA 2024-12-11
+https://live1.botv.kr/live/20241211/1733875334350/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",토론토 랩터스 108-113 뉴욕 닉스 (재방송) NBA 2024-12-10
 https://live1.botv.kr/live/20241210/1733790778437/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 레이커스 107-98 포틀랜드 트레인 블레이저스 (재방송) NBA 2024-12-9
@@ -411,7 +419,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM5MTg0MjF9.Z_a-Uuy7ANbDRSezMuiC0P1h9ZtRxFWEcS9UxyXtTXs
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzM5NjE1NTV9.f24r3qQ5Sz8IyhK_YGQeRKP3zJigwYIqC5CJ5s6-sNo
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -1044,8 +1052,8 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆",	신용문객잔 : 영웅각성
+https://m3u8.tjihua.com/vedio4/20241210/1733824344244/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	마리아
 https://m3u8.tjihua.com/vedio4/20241209/1733747587438/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	엄마랑 캠프라니!
