@@ -262,9 +262,9 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴욕 닉스 vs 애틀랜타 호크스 (생중계) NBA 2024-12-12
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",휴스턴 로켓츠 91-90 골든스테이트 워리어즈 (재방송) NBA 2024-12-12
+https://live1.botv.kr/live/20241212/1733970359580/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴욕 닉스 100-108 애틀랜타 호크스 (재방송) NBA 2024-12-12
 https://live1.botv.kr/liveapi/livefile/id/1733961615284.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",오클라호마시티 썬더 118-104 댈러스 매버릭스 (재방송) NBA 2024-12-11
 https://live2.botv.kr/live/20241211/1733883985489/record.m3u8
@@ -443,7 +443,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQwMDQ4MjJ9.9mRUG0GbxiYaqxtXuA5SpVxUeVUrJXoViK5b4OShhFY
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQwNDgwMTB9.PbYNWz9kMQfMp4fXsQDR0-9FUt2oHWE5OPQld4aYIoI
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
