@@ -473,9 +473,9 @@ http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
-#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🐉한국방송🦆",SBS JIBS (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://kenpark76.github.io/logo/SBS.png" group-title="🐉한국방송🦆",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Srsw4Mi.png",kbc SBS
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png",kbc SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 http://www.hwado.net/webtv/public/21_573058EB.php
@@ -798,21 +798,21 @@ https://m3u8.tjihua.com/vedio3/20241115/1731652585976/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241114/1731562509912/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/2XkmblX1FB1v4Pb9GQlmhSe861e.jpg",더러운 돈에 손대지 마라
 https://m3u8.tjihua.com/vedio3/20241107/1730966128252/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",페스터
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/mpYz2B2CvvYXjLHwh0mhoDAOb2k.jpg",페스터
 https://m3u8.tjihua.com/vedio3/20241103/1730618652155/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",새끼손가락
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/aJoBXc0DdCY0STFXEQs2EErfUvh.jpg",새끼손가락
 https://m3u8.tjihua.com/vedio3/20241014/1728890974953/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",막걸리가 알려줄거야
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/1R4dyaKxvL32gZGshh8pwbEFdno.jpg",막걸리가 알려줄거야
 https://m3u8.tjihua.com/vedio2/20241001/1727761475580/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",탈출: 프로젝트 사일런스
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://images.justwatch.com/poster/317927285/s718/talchul-project-silence.jpg",탈출: 프로젝트 사일런스
 https://m3u8.tjihua.com/vedio/20240809/1723204923517/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",양치기
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/6Mrd5uW0avNHk6exugj6oMiONAY.jpg",양치기
 https://m3u8.tjihua.com/vedio/20240818/1723947127174/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",세기말의 사랑
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://images.justwatch.com/poster/310335787/s718/love-at-the-end-of-the-century.jpg",세기말의 사랑
 https://m3u8.tjihua.com/vedio/20240808/1723110069940/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",목스박
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://images.justwatch.com/poster/312103582/s718/.jpg",목스박
 https://m3u8.tjihua.com/vedio/20240809/1723188979583/out.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆",은하수
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://images.justwatch.com/poster/311619462/s718/.jpg",은하수
 https://m3u8.tjihua.com/vedio/20240809/1723189319744/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆",한 밤의 판타지아
 https://m3u8.tjihua.com/vedio2/20240915/1726381906393/out.m3u8
