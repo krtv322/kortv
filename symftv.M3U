@@ -312,6 +312,12 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴올리언즈 펠리컨즈 109-111 새크라멘토 킹스 (재방송) NBA 2024-12-13
+https://live2.botv.kr/live/20241213/1734052425308/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 123-99 디트로이트 피스톤스 (재방송) NBA 2024-12-13
+https://live2.botv.kr/live/20241213/1734049838699/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",마이애미 히트 114-104 토론토 랩터스 (재방송) NBA 2024-12-13
+https://live1.botv.kr/live/20241213/1734049906762/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",휴스턴 로켓츠 91-90 골든스테이트 워리어즈 (재방송) NBA 2024-12-12
 https://live1.botv.kr/live/20241212/1733970359580/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴욕 닉스 100-108 애틀랜타 호크스 (재방송) NBA 2024-12-12
@@ -493,8 +499,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN2.png",YTN2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQwOTEyMjJ9.aFEV-YWBpf0-hb-otfYpFmRkSjJtQ-6JjyaNfDe1uHw
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆",조선방송 (576p)
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQxMzQ0MDJ9.qCXzHCBi7HG1r_Q0zgZicGCr1gkFPPLKXrCCPkQFap0
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
@@ -506,17 +512,17 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS Drama (480p)
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS Joy (480p)
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
 http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",kbslife
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",kbslife
 http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",kbsstory
+#EXTINF:-1 group-title="🐉한국방송🦆"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",kbsstory
 http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbsnews
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",Korean Song Channel (720p)
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",Mubeat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
@@ -552,7 +558,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS KIDS
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS KIDS
 https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1734221537&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDIyMTUzN319fV19&Signature=B4J~VUX55DiTEtrDaVWZwdgj~RBgcYLxp95~UlZhoyffge2KHSILDePvvAdB7eJQx5pOS57zcJBBqf8lrWpwcATRnYkevwDEsnzEtlLConRFvFOKsbHTOCUZojcsSOcvqH2lNm9gskKWSzQqJ00iE~5s~nH3jD85rxc7X5C2-~v3v0kFJLYuFVBl6yrH9yBabMdwg~Om4PgkqLMo6YySXzI2~LwoW-Vgnw4zoRC3DvD4pdgsL7EgC64DoAtIFUiIOuO0-D3uG2zpYgi64RjbAO3khNtSg8lcsMhcCxt8lNZ7Js3RStDJkQdQi9EkJVbffQgR2aygDK1-JQEOyJd~yA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS어린이만화동산
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1734221557&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQyMjE1NTd9fX1dfQ__&Signature=ikmaFhqvDLiK9~wAXz0VqCGsuzsZjj4ptaAIvT-V-sreR2hlCQVJe8e4Ky7NPHDGVmxMV8WVaqdwMS9XyCpgNw3FD3rPviAcfYrImWPAJLcfx8ke2xhRYya8Oz3nUTNmw5a5GcG1UqEvyNpKGiMi1FFU2RjZb6o9Rd~EgnfvaW65n4BJ9h4bb0o7gUdhoFYj25jr36YATAZYVPDqZcTacJRZKYxVgOO7oQkRGO75MtKniCXtB-FN5lyX1-6irVLMGZvJMJNCksgBz587AE9VDBrmuryroWJc9stYRT8ACzW66NRvH9MYBfQ1Ez4FfjXyDUnWtN~Qket~TpRWefQ04w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
