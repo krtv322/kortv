@@ -5,8 +5,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",ESPN
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
+
 
 
 
@@ -6498,7 +6497,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 
 
 
-
+#EXTINF:-1 group-title="🐉스포츠🦆",ESPN
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",美国摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
