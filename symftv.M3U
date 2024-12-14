@@ -323,10 +323,23 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",클리블랜드 캐벌리어스 vs 위룽 다이노스 (생중계) NBA 2024-12-14
-https://live1.botv.kr/liveapi/livefile/id/1734134637393.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers vs 인디애나 페이셔스 (생중계) NBA 2024-12-14
-https://live1.botv.kr/liveapi/livefile/id/1734134169787.m3u8
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",포틀랜드 트레인 블레이저스 116-118 샌안토니오 스퍼스 (재방송) NBA 2024-12-14
+https://live2.botv.kr/live/20241214/1734146018264/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",유타 재즈 126-134 피닉스 선즈 (재방송) NBA 2024-12-14
+https://live1.botv.kr/live/20241214/1734143492228/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",덴버 너겟츠 120-98 LA 클리퍼스 (재방송) NBA 2024-12-14
+https://live2.botv.kr/live/20241214/1734141613869/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",멤피스 그리즐리스 135-119 브루클린 네츠 (재방송) NBA 2024-12-14
+https://live1.botv.kr/live/20241214/1734137992913/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",미네소타 팀버울브스 97-87 LA 레이커스 (재방송) NBA 2024-12-14
+https://live1.botv.kr/live/20241214/1734137946603/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",시카고 불스 109-95 샬럿 호넷츠 (재방송) NBA 2024-12-14
+https://live2.botv.kr/live/20241214/1734137970325/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",클리블랜드 캐벌리어스 115-105 위룽 다이노스 (재방송) NBA 2024-12-14
+https://live1.botv.kr/live/20241214/1734134637393/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",필라델피아 76ers 107-121 인디애나 페이셔스 (재방송) NBA 2024-12-14
+https://live1.botv.kr/live/20241214/1734134169787/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",뉴올리언즈 펠리컨즈 109-111 새크라멘토 킹스 (재방송) NBA 2024-12-13
 https://live2.botv.kr/live/20241213/1734052425308/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",보스턴 셀틱스 123-99 디트로이트 피스톤스 (재방송) NBA 2024-12-13
@@ -514,7 +527,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN2.png",YTN2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQxNzc2MjR9.g8uSRj84nTV4uwwI7DPxWx-G6SzPSt9AmxvV4RSD9JY
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQyMjA4MTV9.1kNr4JTELN2AUWT83bxGVmnGDnIcTbnj4D0eX2NW7fY
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -783,6 +796,13 @@ https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.co
 https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -1141,10 +1161,10 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://images.justwatch.com/poster/321612697/s718/maria-2024.jpg",	마리아
+https://m3u8.tjihua.com/vedio5/20241213/1734092664347/out.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://pic0.iqiyipic.com/image/20241212/88/6d/v_179111980_m_601_en_m1_260_360.jpg",	불차전 : 돈이 모자라진 않아
+https://m3u8.tjihua.com/vedio4/20241213/1734099187879/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	절지도망
 https://m3u8.tjihua.com/vedio4/20241212/1733983963522/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆",	신용문객잔 : 영웅각성
@@ -1766,18 +1786,8 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241108-1/4482ed4413e9d5eb9e6f38187ab0afb8.jpg", 열혈사제 시즌 2 제10회
-https://m3u8.tjihua.com/vedio4/20241213/1734102388339/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제5회
-https://m3u8.tjihua.com/vedio4/20241213/1734102758219/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241129-1/eae1f680fa4713546afbb2320f0b29af.jpg", 가족계획 제4회
-https://m3u8.tjihua.com/vedio5/20241213/1734093561543/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제47회
-https://www.segyen.com/20241213/rPr0WpmO/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제10회
-https://www.segyen.com/20241213/4hKvXiN6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제23회
+https://ontvkorea.com/static/streaming-playlists/hls/0056f872-5154-4be8-a40a-f8cef4c78022/5c0d6a43-07d1-4417-b1e3-822730a4cd34-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://t56.ani114.com/data/file/tv_drama/thumb-239051639_FuKTB3Ln_af9174878f5d916ceae5dbc7923d2542f9b0dd3c_170x200.jpg", 수상한 그녀 1-2회 미리보기
 https://ontvkorea.com/static/streaming-playlists/hls/84332e08-173b-4bee-9630-89800c01ad62/f062d04b-63fb-44b3-b5d1-9cab5dcbb5db-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/469837_cHZDdpcJQrWbsCS_1733404696/0", 오늘도 지송합니다 제2회
@@ -1798,6 +1808,8 @@ https://www.humortown.net/20241204/TFgrwYhE/1000kb/hls/index.m3u8
 https://www.humortown.net/20241204/feOfW8nr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/942385_k8f5lWSQRHKVM7L_1733300651/0", 조명가게 (2024) 1회
 https://www.humortown.net/20241204/EIwXBvic/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제10회
+https://www.segyen.com/20241213/4hKvXiN6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제9회
 https://ontvkorea.com/static/streaming-playlists/hls/895812cf-b23b-406a-b017-116c1dffb8ed/59682df1-7002-480e-9c12-9bfd57ef67a1-720.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제8회
@@ -1828,6 +1840,8 @@ https://m3u8.tjihua.com/vedio3/20241130/1732976798615/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241124/1732458510374/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/c040869158128ab2c0d9e0b0a7e3ef3b.jpg", 사랑은 외나무 다리에서 제1회 첫방송
 https://m3u8.tjihua.com/vedio3/20241123/1732371736414/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241129-1/eae1f680fa4713546afbb2320f0b29af.jpg", 가족계획 제4회
+https://m3u8.tjihua.com/vedio5/20241213/1734093561543/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241129-1/eae1f680fa4713546afbb2320f0b29af.jpg", 가족계획 제3회
 https://m3u8.tjihua.com/vedio4/20241206/1733488418728/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241129-1/eae1f680fa4713546afbb2320f0b29af.jpg", 가족계획 제2회
@@ -1846,6 +1860,8 @@ https://m3u8.tjihua.com/vedio4/20241208/1733669399190/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241201/1733063158188/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/5e6ad039146b635f0b24f9e012f70bc5.jpg", 옥씨부인전 제1회
 https://m3u8.tjihua.com/vedio4/20241201/1732982911709/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제5회
+https://m3u8.tjihua.com/vedio4/20241213/1734102758219/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제4회
 https://m3u8.tjihua.com/vedio3/20241130/1732978607724/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제3회
@@ -1940,6 +1956,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/11cd084c-9824-4e95-924b-d23
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdd7a496-c72a-4ae3-b945-bfe68f458d4d/987c28e9-91fd-4f59-8d10-25efc387299c-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆", KBS 드라마 스페셜 2024 제1회
 https://ww25.ontvkorea.com/static/streaming-playlists/hls/fdd7a496-c72a-4ae3-b945-bfe68f458d4d/987c28e9-91fd-4f59-8d10-25efc387299c-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241108-1/4482ed4413e9d5eb9e6f38187ab0afb8.jpg", 열혈사제 시즌 2 제10회
+https://m3u8.tjihua.com/vedio4/20241213/1734102388339/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241108-1/4482ed4413e9d5eb9e6f38187ab0afb8.jpg", 열혈사제 시즌 2 제9회
 https://m3u8.tjihua.com/vedio4/20241206/1733497539846/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241108-1/4482ed4413e9d5eb9e6f38187ab0afb8.jpg", 열혈사제 시즌 2 제8회
@@ -2022,6 +2040,8 @@ https://m3u8.tjihua.com/vedio3/20241111/1731337469344/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241105/1730820613406/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241104-1/5256d0f01027fc541488c2123118070f.jpg", 취하는 로맨스 제1회
 https://m3u8.tjihua.com/vedio3/20241104/1730734270677/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제47회
+https://www.segyen.com/20241213/rPr0WpmO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 46회
 https://www.humortown.net/20241210/cwE2atjQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제45회
@@ -2995,6 +3015,39 @@ https://www.segyen.com/20240817/Kml66zMw/index.m3u8?skipl=1
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/media-io/2022/6/23/landscape_this_is_po.55293040.jpg?width=384", 241214 시사쇼 정치다
+https://joovideo.cfd/static/streaming-playlists/hls/a2683dd7-d50b-4f1a-91c0-8bc4242c55ac/0b77879f-a085-4025-a15b-fec1ec6f7b95-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2021/03/05/Q3Z1614929709028-152-152.png", 241214 SBS 뉴스토리
+https://joovideo.cfd/static/streaming-playlists/hls/1a7b4af8-b6b8-48b4-adf0-30cc4179049e/34d2d38f-9c54-495e-89d3-bc357658b799-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tvlimit.xyz/upload/vod/20241019-1/e8737cb3060fe8984fdaf8efcc10dc16.jpg", 241214 JTBC 뉴스룸 63회
+https://www.managahaspn.com/20241214/MbaVBAkc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tvlimit.xyz/upload/vod/20241116-1/9fc6b6558dd0351ec7911f4fe6c860e4.jpg", 241214 대학전쟁 시즌2 제6회
+https://www.managahaspn.com/20241214/SNub3ofo/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tvlimit.xyz/upload/vod/20241116-1/9fc6b6558dd0351ec7911f4fe6c860e4.jpg", 241214 대학전쟁 시즌2 제5회
+https://www.managahaspn.com/20241214/vl03XIve/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240817-1/90280c4c59ed5995894f8f78b6a6542d.jpg", 241214 불후의 명곡 제685회 - 아티스트 노사연 & 최성수 편 2부
+https://joovideo.cfd/static/streaming-playlists/hls/b277beb2-4267-4085-8ae2-e966404bb5ad/2a0839d4-ced5-4804-9a49-54ff67b7b5a0-450.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/1da0a4bb5ccc144d904bede9d4f24654.jpg", 241214 달려라 불꽃소녀 제4회
+https://ontvkorea.com/static/streaming-playlists/hls/3e2bfc87-cb7f-4117-9768-4fbe3b349399/3c460f29-dd3c-48b1-87dd-0e2cafe7746a-720.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241130-1/02dec3f460651de75aa0b85739f75363.jpg", 241214 토요일은밥이쏜다(토밥쏜다) 제3회
+https://joovideo.cfd/static/streaming-playlists/hls/4cb07c96-6feb-4480-ba44-81ecf7c860f7/44980ca4-400c-43fd-8bea-0b27fc7328ae-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/public/2018/03/5/18/8/52/952e4acc-8761-46a0-aef5-001d7b081379.jpg", 241214 EBS 스페이스 공감
+https://joovideo.cfd/static/streaming-playlists/hls/0915dd3a-0220-4d7a-9bdf-31c626760153/cda3587f-a999-4707-9d52-5ff2d3d215a8-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 241214 영화가 좋다
+https://www.managahaspn.com/20241214/j7GAbIV4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2024/08/30/lDH1724996215809-152-152.png", 241214 오늘부터 인생2막 제14회
+https://joovideo.cfd/static/streaming-playlists/hls/9bc1ef5a-2b40-4a4c-8fad-2c09472f23bb/aa2b6ed9-78f9-45c8-89db-cd0e84c7ec59-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2024/08/26/WwQ1724649671942-152-152.png", 241213 유니버스리그 제4회
+https://joovideo.cfd/static/streaming-playlists/hls/52d1068b-dcb0-4988-8f08-220bd856ce69/50473f47-9f7b-4d3a-9bd9-4b3e7d5e2a34-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/168ebba31dafd8749f54c09766ee102f.jpg", 241213 나 혼자 산다 제574회
 https://www.segyen.com/20241213/fjfL8aFu/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/project7/Img/site/Main/202410220133206693.jpg", 241213 프로젝트7 제10회
