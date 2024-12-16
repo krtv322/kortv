@@ -264,20 +264,20 @@ https://tx2.nexgen.bz/NBA/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",워싱턴 위저즈 vs 보스턴 셀틱스 (생중계) NBA 2024-12-16
-https://live1.botv.kr/liveapi/livefile/id/1734303553438.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",올랜도 매직 vs 뉴욕 닉스 (생중계) NBA 2024-12-16
-https://live2.botv.kr/liveapi/livefile/id/1734303602691.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",인디애나 페이셔스 vs 뉴올리언즈 펠리컨즈 (생중계) NBA 2024-12-16
-https://live2.botv.kr/liveapi/livefile/id/1734301990351.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",LA 레이커스 133-143 멤피스 그리즐리스 (재방송) NBA 2024-12-16
+https://live1.botv.kr/live/20241216/1734316861211/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",골든스테이트 워리어즈 133-143 댈러스 매버릭스 (재방송) NBA 2024-12-16
+https://live1.botv.kr/live/20241216/1734312385469/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",피닉스 선즈 116-109 포틀랜드 트레인 블레이저스 (재방송) NBA 2024-12-16
+https://live2.botv.kr/live/20241216/1734310953457/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",샌안토니오 스퍼스 92-106 미네소타 팀버울브스 (재방송) NBA 2024-12-16
+https://live1.botv.kr/live/20241216/1734307328493/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",워싱턴 위저즈 98-112 보스턴 셀틱스 (재방송) NBA 2024-12-16
+https://live1.botv.kr/live/20241216/1734303553438/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",올랜도 매직 91-100 뉴욕 닉스 (재방송) NBA 2024-12-16
+https://live2.botv.kr/live/20241216/1734303602691/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",인디애나 페이셔스 119-104 뉴올리언즈 펠리컨즈 (재방송) NBA 2024-12-16
+https://live2.botv.kr/live/20241216/1734301990351/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",오클라호마시티 썬더 111-96 휴스턴 로켓츠 (재방송) NBA 2024-12-15
 https://live2.botv.kr/live/20241215/1734226127593/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）농구생중계🦆",밀워키 벅스 110-102 애틀랜타 호크스 (재방송) NBA 2024-12-15
@@ -384,7 +384,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQzNTA0Mjd9.IxsDwsGlsWcOnIpEuTY4rcpXxDF9feb4hknzvJfig8U
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQzOTM1OTF9.rMXQW7rIkOVV6WBQIZpm8RIp1kuuQu5p5RuLu8e9Hbw
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
