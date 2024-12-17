@@ -403,7 +403,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQ0ODAwMDh9.9u5ytCjQMKkjRsPQh2EgJWiWXdI9l_ysknsi3P4hkvU
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",tvn
-https://vviptv.com/live/m3u8.php?target=live1007&proxy=1
+https://vviptv.com/m3u8/sstream/4gr4nhcbqgraurmttgh4n4aufqp48g7d1cios4mubqbay.wslivehls.com/beststream/live1007/playlist.m3u8?wsSecret=1795fe7b4bb2cd84a2a2c519b3abd7ac&wsTime=1734450351&wsSession=2fca92887b774cea6d82bbd6-173445032177161&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png,jtbc
 https://vviptv.com/m3u8/sstream/6gr4nhcbqgo4nhctogcssr3muqt3zehufcfs1hamoqy.wslivehls.com/beststream/live1009/playlist.m3u8?wsSecret=83c93be7a9188b55ec97aefd9dfa1a3c&wsTime=1734449744&wsSession=de0b0b783f3da4aaf8b49630-173444971469104&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://img.newspim.com/news/2019/07/30/1907301657160980.jpg",OCN
