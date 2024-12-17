@@ -402,12 +402,6 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
 https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQ0ODAwMDh9.9u5ytCjQMKkjRsPQh2EgJWiWXdI9l_ysknsi3P4hkvU
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",tvn
-https://vviptv.com/m3u8/sstream/4gr4nhcbqgraurmttgh4n4aufqp48g7d1cios4mubqbay.wslivehls.com/beststream/live1007/playlist.m3u8?wsSecret=1795fe7b4bb2cd84a2a2c519b3abd7ac&wsTime=1734450351&wsSession=2fca92887b774cea6d82bbd6-173445032177161&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png,jtbc
-https://vviptv.com/m3u8/sstream/6gr4nhcbqgo4nhctogcssr3muqt3zehufcfs1hamoqy.wslivehls.com/beststream/live1009/playlist.m3u8?wsSecret=83c93be7a9188b55ec97aefd9dfa1a3c&wsTime=1734449744&wsSession=de0b0b783f3da4aaf8b49630-173444971469104&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://img.newspim.com/news/2019/07/30/1907301657160980.jpg",OCN
-https://vviptv.com/m3u8/sstream/6gr4nhcbqgo4nhcjwgcssr3muqt3zehufcfs1hamoqy.wslivehls.com/beststream/live1014/playlist.m3u8?wsSecret=b371174acf2fe2e1779b49a911eabb94&wsTime=1734449455&wsSession=b90d5a7d3df01c6321c14022-173444942606695&wsIPSercert=0d65a3cc0c5fdfb95268b61e9fe67151&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
