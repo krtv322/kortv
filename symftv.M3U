@@ -411,24 +411,6 @@ https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2016/0918/small73213233b2a32b0d5839d7e32ad63a861474464985.jpg",吉林卫视
-http://117.161.12.116/live/program/live/jlws/1300000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122028616.jpg",CCTV-1
-http://117.161.12.116/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122415328.jpg",CCTV-3
-http://117.161.12.116/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122518526.jpg",CCTV-5
-http://117.161.12.116/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2014/0722/20140722110316660.jpg",CCTV-5+
-http://117.161.12.116/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417121648885.jpg",CCTV-6
-http://117.161.12.116/live/program/live/cctv6hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121053223686.jpg",CCTV-8
-http://117.161.12.116/live/program/live/cctv8hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/0417/20150417122151660.jpg",CCTV-新闻
-http://117.161.12.116/live/program/live/cctvxw/1300000/mnf.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.haoqu99.com/d/file/2015/1121/20151121054259469.jpg",CCTV-少儿
-http://117.161.12.116/live/program/live/cctvse/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
