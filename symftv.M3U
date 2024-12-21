@@ -13,22 +13,45 @@ https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",홀슈타인 킬 vs 아우크스부르크 (생중계) 분데스리가 2024-12-21
-https://live1.botv.kr/liveapi/livefile/id/1734791847908.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SV 베르더 브레멘 vs 우니온베를린 (생중계) 분데스리가 2024-12-21
-https://live2.botv.kr/liveapi/livefile/id/1734791780179.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",VfB 슈투트가르트 vs FC 장크트파울리 (생중계) 분데스리가 2024-12-21
-https://live1.botv.kr/liveapi/livefile/id/1734791679144.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",TSG 1899 호펜하임 vs 묀헨글라트바흐 (생중계) 분데스리가 2024-12-21
-https://live1.botv.kr/liveapi/livefile/id/1734791757224.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",프랑크푸르트 vs 마인츠 (생중계) 분데스리가 2024-12-21
-https://live1.botv.kr/liveapi/livefile/id/1734791696837.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토리노 FC vs 볼로냐 FC (생중계) 세리에 A 2024-12-21
-https://live1.botv.kr/liveapi/livefile/id/1734789495137.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",헤타페 CF vs RCD 마요르카 (생중계) 라리가 2024-12-21
-https://live2.botv.kr/liveapi/livefile/id/1734785766642.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",애스턴 빌라 vs 맨체스터 시티 (생중계) EPL 2024-12-21
-https://live2.botv.kr/liveapi/livefile/id/1734784041483.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",제노아 CFC 2-1 SSC 나폴리 (재방송) 세리에 A 2024-12-21
+https://live1.botv.kr/live/20241222/1734800313857/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",셀타 비고 0-1 레알 소시에다드 (재방송) 라리가 2024-12-21
+https://live2.botv.kr/live/20241222/1734794824492/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",홀슈타인 킬 vs 아우크스부르크 (재방송) 분데스리가 2024-12-21
+https://live2.botv.kr/live/20241221/1734723173685/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브렌트퍼드 FC 0-2 노팅엄 포레스트 (재방송) EPL 2024-12-21
+https://live1.botv.kr/live/20241222/1734793371666/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",웨스트햄 1-1 브라이턴 & 호브 앨비언 (재방송) EPL 2024-12-21
+https://live2.botv.kr/live/20241222/1734794566383/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",입스위치 타운 0-5 뉴캐슬 유나이티드 (재방송) EPL 2024-12-21
+https://live2.botv.kr/live/20241222/1734794627233/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",홀슈타인 킬 5-1 아우크스부르크 (재방송) 분데스리가 2024-12-21
+https://live1.botv.kr/live/20241221/1734791847908/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SV 베르더 브레멘 4-1 우니온베를린 (재방송) 분데스리가 2024-12-21
+https://live2.botv.kr/live/20241221/1734791780179/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",VfB 슈투트가르트 0-1 FC 장크트파울리 (재방송) 분데스리가 2024-12-21
+https://live1.botv.kr/live/20241221/1734791679144/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",TSG 1899 호펜하임 1-2 묀헨글라트바흐 (재방송) 분데스리가 2024-12-21
+https://live1.botv.kr/live/20241221/1734791757224/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",프랑크푸르트 1-3 마인츠 (재방송) 분데스리가 2024-12-21
+https://live1.botv.kr/live/20241221/1734791696837/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",토리노 FC 0-2 볼로냐 FC (재방송) 세리에 A 2024-12-21
+https://live1.botv.kr/live/20241221/1734789495137/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",헤타페 CF 0-1 RCD 마요르카 (재방송) 라리가 2024-12-21
+https://live2.botv.kr/live/20241221/1734785766642/record.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",애스턴 빌라 2-1 맨체스터 시티 (재방송) EPL 2024-12-21
+https://live2.botv.kr/live/20241221/1734784041483/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",지로나 FC 3-0 레알 바야돌리드 (재방송) 라리가 2024-12-21
 https://live1.botv.kr/live/20241221/1734724737294/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",엘라스 베로나 FC 0-1 AC 밀란 (재방송) 세리에 A 2024-12-21
@@ -493,7 +516,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQ4MjU1NzV9.EYEuLYTcp6VPR49Sf-FHfpUYaSPi7p74LKhgHLP20Ss
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzQ4Njg4MjZ9.BclYAvEU9AtZxOK9tMPOOlL0Z1Us-Suz6bGP_XUW7-s
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -547,7 +570,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1734914793&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDkxNDc5M319fV19&Signature=IQpr2UUqoptHYnM4Ric8qRe8Vf8EAlPt1TLySpwN829CFf5A0hlWF8gHIiAa0~YJtl9cLOIxrj0Oh8NNS34iulty-vCA~wWp4Bebq8VEKxa-a6LwmMa-i2ZoOKo9xojtc2nKYwBs24pcXT8sOveDlsvZIe91SHBVg79lvSCF~WnBqAq239XHw2GuW~aJS1GCWe3XKmmzDhqM85jp6hfnoxCJ9pJI4j1KPHnBGKA0CmYHse6216lh9OzRPyS8mIpGPLshq6vbbi8WdZRsIzQwLgm2D-opZi2fap7P2E3aMdhk4BbjtjX0x2K8ZKxOvnWVx9~ZWuYNr-Eyz2GBTIITsA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1734990388&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDk5MDM4OH19fV19&Signature=izPJhMz4tl50Z6Z0Z57pAslv2PgZ65u4X9r-61j-eDseyNuTHVYzZzuwOVFiAQls4BFSD4J~KRB4gGx2bg7AjSuFXb7bctqbeqGnze~usjUw8iL9PpJ9B45ObUFZwBT7Y1~YoJXUE8G89A9uN1GxpxgGpZd~PVTdm1thPh-TL4c7rVHxB7NLKJNmda7~9EbEB2XK6ZiJ2AxrEDh9f5y~7ImsGwSxRaoaPm1ZX6Uv0z1zVhdLvrc7l8nCzlag6-1s9JxRmBVBGGPrzHfHBL5yJbTUDrwHkYDg7dnVbESuhrBOCc5Puu96mZVkeRbyw16JiaOzpMubSH94vkKGXU3Pyw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",벌거벗은 세계사
 https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
@@ -557,9 +580,9 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1734914475&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDkxNDQ3NX19fV19&Signature=DE9WBHyVDmFQtgA9pSnmTJktPYNdbaRMGHpeOu7ZipmCEKyVUg-loHiRfJIYxAbCbEoknFYhxNDXheWGrc1ISlRiFO0UrTBztT7JScJR8kzpZsqYizXI-1c1bJlDPEDfjC4vOIOmeA55zYqXE0uhKdfszD2n~v3HOXrxhTFX5gd7v3FOe9RdLgPQTg3Y7egk4vs-zjbLMKA~iXYELGj1ByLX39mQPNkAHHcbJmyGjT1nnmPoh6y9r1IP8USQ5G9CzKso6XPqA9d-SnQ5edCrz2j0r-j3MIbCRk2tAkBvDALKjd47fUGOopC6q2MKkXc6drjYmBPX-2xqheJbeU5ZcQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1734990347&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDk5MDM0N319fV19&Signature=h-~p2pPADsqwgAF9qGi6~u80VsRzMw6xWrNo6Vr3dQgBRi6XBBpCsvhv1eRaofKExjRM3izLhwIKBQaYZeRcNlTeWw0ggjWgjm-8MnxMUqbsTyKDX2TpQiANEI0afR2DBpoOXrqH8EX0HIeH9bTLOiffFMvVw~MqdhtLQZEXWk3eujhaMiLGjI-NKdnWG2bE0IE~XTUv8mAS4dLxCEcyTZ3MSFU~VkVRB8g~zwrIwO7BQjkaHNwgYxEj00AJ0~oIPLFdhp4riel5eWR8NruhgnIi6gRWdTBoNRU6fnX5ufG8eiw1y-0RQDTqt6mP9UJMNu5qonHP9VU3ux9bkJLXfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS어린이만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1734914698&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ5MTQ2OTh9fX1dfQ__&Signature=VWlkkh3K6B-6uVzLBCTFKlkcw3IFhlJdUGl5pCH829LbIdW~wmYPjIt7nYgKTVjnJq0bdYe~QT~HRvpT~aoMvvUzM51KRvHCvFMhaoY1aZntAuv5APrCe07Gk~Ni5ntN8cFnOhgdTiOXrjcW9AyVwKmwoP7tDUzgRBDF9CJ4835czL04pMCNqCP7gT8dkzYwAiqYLT1lbJqpajs4CJlMkj0UCtc~QLDpwBQRJF6xlokH-bwFUkt2iB-SPJdsihqPdEogvRAxv5WkVRpqZGmbf29M~GInc-K~LQ7SMVw5mk7kyMdgQ-SutOMuYsIa5C1Rv56bAPTpJ8E7qQzxWcUR0Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1734990349&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ5OTAzNDl9fX1dfQ__&Signature=F8FfOBptu6OWUNechMZZ7OM3qjFdjOG1H0A3DRLU-6ZlMsfaF1z~roxyiq8TeRnjCr4mmqxw8crtW0D7E57dJNGP-YAshoXIZA~pAqDfvvgBkr-PSZjNb9iOw1LxJJhWguJyJAkPI-xZVJnZlGp676QkZ-GZm7zsnLMf9kzgZgblE~f5U9GCUwvOYPY9nrXi2jDaEMDp6wmCKz3EmpkliZ0iIysKOxkE7cPT-Udp-bEME92tTbS9OXh63QGpjsVGv35PPIUqw4FNUDA~nMZNwVjUdbrL2Fw3ILW4g8yzz3vx6601eIiXjH-OnSpFePclSNr5-DH5B8Em7XtB~aMk2Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",핑크퐁
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
@@ -1748,14 +1771,14 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/5e6ad039146b635f0b24f9e012f70bc5.jpg", 옥씨부인전 제5회
+https://m3u8.tjihua.com/vedio5/20241221/1734796663468/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제8회
+https://m3u8.tjihua.com/vedio5/20241221/1734794293916/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/afc99a707ae24ccde6d55292e1a07c03.jpg", 체크인 한양 (2024~2025) 1회
-https://www.humortown.net/20241221/lqdUZ5wB/1000kb/hls/index.m3u8
+https://m3u8.tjihua.com/vedio5/20241221/1734793610747/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/c040869158128ab2c0d9e0b0a7e3ef3b.jpg", 사랑은 외나무 다리에서 제9회
-https://www.humortown.net/20241221/IB7WvnwZ/1000kb/hls/index.m3u8
+https://m3u8.tjihua.com/vedio5/20241221/1734791128506/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제25회
 https://www.humortown.net/20241221/fHJQ8jMJ/1000kb/hls/index.m3u8
 
@@ -2990,11 +3013,26 @@ https://www.segyen.com/20240819/BIC0AlIx/1000kb/hls/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/171798e78e222f25a0c43234d4ed619a.jpg", 241221 2024 KBS 연예대상 2회
+https://www.managahaspn.com/20241221/WROy3zTr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/171798e78e222f25a0c43234d4ed619a.jpg", 241221 2024 KBS 연예대상 1회
+https://www.managahaspn.com/20241221/1vVLY3B3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tvlimit.xyz/upload/vod/20240908-1/8ef3e85353f127470df46356b968f176.jpg", 241221 전지적 참견 시점 제327회
+https://www.soratv2.com/20241221/yGV0Ymc8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240831-1/df5cdc5ab3c7d7d2ce84194e3f415157.jpg", 241221 속풀이쇼 동치미 23회
+https://www.soratv2.com/20241221/nNEugvd2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240818-1/f6658d7515182c049c9b19d0c506f8e9.jpg", 241221 콘서트 7080+ (플러스) 8회
+https://www.managahaspn.com/20241221/Yyfo5J4c/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240818-1/aaae2b4e2e70d10efe7f181b55cdc27a.jpg", 241221 다큐 온
+https://www.managahaspn.com/20241221/2F5J91Yt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240810-1/7baa25ff52b34f1f5fa8480ee6e320c6.jpg", 241221 강적들 제567회
+https://www.managahaspn.com/20241221/xtsUnZgp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241123-1/1e1b3b0a51c1c9d04ef82572ee92a01b.jpg", 241221 아는 형님 26회
 https://www.segyen.com/20241221/lf7Q7Mfr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/67961dbd8dcc399a0c566e57de92571c.jpg", 241221 2024 SBS 연기대상 3회
+https://www.managahaspn.com/20241221/58aoGmw1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/67961dbd8dcc399a0c566e57de92571c.jpg", 241221 2024 SBS 연기대상 2회
+https://www.managahaspn.com/20241221/86lHqqPz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/67961dbd8dcc399a0c566e57de92571c.jpg", 241221 2024 SBS 연기대상 1회
 https://www.managahaspn.com/20241221/Bww9WQ8r/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241130-1/f0054f8a2a61ab520fd651043f552139.jpg", 241221 백종원의 레미제라블 제4회
