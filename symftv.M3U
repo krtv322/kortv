@@ -803,12 +803,16 @@ https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b25
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🐉한국방송🦆",YTN Science (720p)
 https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
+https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
+https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉중국방송🦆", CCTV13
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8?wsApp=HLS
 
 
 
