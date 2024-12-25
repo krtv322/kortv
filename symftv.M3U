@@ -1595,8 +1595,8 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/9JzL5NG2yXHOEkFY95vsboWhiy.jpg", 수상한 그녀 제3회
+https://www.humortown.net/20241225/O8EzXFJv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제54회
 https://www.humortown.net/20241225/Pt7pTSl6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제17회
@@ -2872,10 +2872,35 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241013-1/1973d0df6cc28c25227911f23fbc38e1.jpg", 241225 슈퍼맨이 돌아왔다 18회
-https://www.soratv2.com/20241225/3IKMWRVh/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 241225 현역가왕2 5회
 https://www.soratv2.com/20241225/pYxKZMPl/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20230504-1/c053465be90f134c63a2053e707440a8.jpg", 241225 요즘 남자 라이프 신랑수업 21회
+https://www.soratv2.com/20241225/nW4kuouQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240904-1/0d7ddc6aff45fd58f72dfbec1a336282.jpg", 241225 왔다 내손주
+https://www.managahaspn.com/20241225/cCeuoY0b/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240819-1/31953e3fdb935e0a20bd0f0ba38725dc.jpg", 241225 KBS 뉴스라인W 34회
+https://www.managahaspn.com/20241225/QIe5JD0l/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 241225 영화가 좋다 18회
+https://www.managahaspn.com/20241225/ivrumJ3K/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/06f221282413b0aa13c99f3ced247525.jpg", 241225 시골마을 이장우 4회
+https://www.managahaspn.com/20241225/ZUnceiGR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240904-1/670593051c360c5b120243e5a58dcbce.jpg", 241225 유 퀴즈 온 더 블럭 34회
+https://www.soratv2.com/20241225/cBTsp1Cx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240904-1/5e01eb9609d47a489258822c45b39968.jpg", 241225 나는 자연인이다 10회
+https://www.managahaspn.com/20241225/s6kf4lJN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241002-1/4c880d841b9d8e99bea062484d1582f5.jpg", 241225 생로병사의 비밀 9회
+https://www.managahaspn.com/20241225/j4mk50ll/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 241225 SBS 8 뉴스 64회
+https://www.managahaspn.com/20241225/K2fCrmsI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 241225 JTBC 뉴스룸
+https://www.managahaspn.com/20241225/56yVRqBD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 241225 세계테마기행 43회
+https://www.managahaspn.com/20241225/KTz7NiXO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240909-1/38d9ac547e37d967940ce9af7ecdb89a.jpg", 241225 한국기행 51회
+https://www.managahaspn.com/20241225/Q1bqwebE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241013-1/1973d0df6cc28c25227911f23fbc38e1.jpg", 241225 슈퍼맨이 돌아왔다 18회
+https://www.soratv2.com/20241225/3IKMWRVh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241225-1/77c82dd70aadbcb48223d0becc580498.jpg", 241225 2024 SBS 가요대전: Merry Music 3회
 https://www.managahaspn.com/20241225/l4EEXI6w/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241225-1/77c82dd70aadbcb48223d0becc580498.jpg", 241225 2024 SBS 가요대전: Merry Music 2회
