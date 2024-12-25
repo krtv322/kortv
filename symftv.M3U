@@ -335,7 +335,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzUxMjgwNzR9.YTibdYYda3FPo13hQccNWQJD12zvb1mCBkQaJ4x3sb4
+https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MzUxNzEyMTV9.9gVyWx7qFKc6CKpbCE0P_FUDTkfxGolpSiHD7Lz7IMw
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -1597,18 +1597,10 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제22회
+https://www.humortown.net/20241225/UnbO4Pa2/1000kb/hls/index.m3u8
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제2회
-https://www.humortown.net/20241224/HDdFtLQa/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/5e997cdc9f495c866790fee2cebc31d7.jpg", 가석방 심사관 이한신 제12회
-https://m3u8.tjihua.com/vedio5/20241224/1735047684360/out.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제53회
-https://www.humortown.net/20241224/L7itGSij/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제16회
-https://www.humortown.net/20241224/hzIX0FHm/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제21회
-https://www.humortown.net/20241224/W5JQQwjF/1000kb/hls/index.m3u8
 
 
 
@@ -1622,6 +1614,8 @@ https://www.humortown.net/20241224/W5JQQwjF/1000kb/hls/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제2회
+https://www.humortown.net/20241224/HDdFtLQa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제1회
 https://www.humortown.net/20241223/10xOko0P/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제1회 HD
@@ -1634,6 +1628,8 @@ https://m3u8.tjihua.com/vedio5/20241221/1734793610747/out.m3u8
 https://m3u8.tjihua.com/vedio5/20241218/1734536964208/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/9JzL5NG2yXHOEkFY95vsboWhiy.jpg", 수상한 그녀 제1회
 https://m3u8.tjihua.com/vedio4/20241218/1734529398976/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제16회
+https://www.humortown.net/20241224/hzIX0FHm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제15회
 https://www.humortown.net/20241223/L9J4Liyz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제14회
@@ -1736,6 +1732,8 @@ https://m3u8.tjihua.com/vedio4/20241129/1732892485620/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241123/1732373670888/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제1회
 https://m3u8.tjihua.com/vedio3/20241122/1732287064146/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/5e997cdc9f495c866790fee2cebc31d7.jpg", 가석방 심사관 이한신 제12회
+https://m3u8.tjihua.com/vedio5/20241224/1735047684360/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/5e997cdc9f495c866790fee2cebc31d7.jpg", 가석방 심사관 이한신 제11회
 https://m3u8.tjihua.com/vedio5/20241223/1734960676811/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/5e997cdc9f495c866790fee2cebc31d7.jpg", 가석방 심사관 이한신 제10회
@@ -1758,6 +1756,8 @@ https://m3u8.tjihua.com/vedio3/20241125/1732541680509/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241119/1732023629273/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/5e997cdc9f495c866790fee2cebc31d7.jpg", 가석방 심사관 이한신 제1회
 https://m3u8.tjihua.com/vedio3/20241118/1731941480505/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제21회
+https://www.humortown.net/20241224/W5JQQwjF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제20회
 https://www.humortown.net/20241223/PThC7Uv0/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제19회
@@ -1888,6 +1888,8 @@ https://m3u8.tjihua.com/vedio2/20241006/1728144385505/out.m3u8
 https://m3u8.tjihua.com/vedio2/20240929/1727624488450/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제1회 첫방송
 https://m3u8.tjihua.com/vedio2/20240929/1727593322983/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제53회
+https://www.humortown.net/20241224/L7itGSij/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제52회
 https://www.humortown.net/20241223/FkDwJl8z/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제51회
