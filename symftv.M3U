@@ -5395,21 +5395,34 @@ https://m3u8.tjihua.com/vedio/20240818/1723976004699/out.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🐉일본방송🦮",NHKG
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
-http://tv.utako.moe/mx2_testsignal/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK G
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK E
+http://tv.utako.moe/nhke/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",ntv
+http://tv.utako.moe/ntv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tbs
+http://tv.utako.moe/tbs/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",fuji_tv
+http://tv.utako.moe/fuji/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tv_asahi
+http://tv.utako.moe/asahi/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tv_tokyo
+http://tv.utako.moe/tvtokyo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
+http://tv.utako.moe/mx1/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
 http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
 http://tv.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHKG
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Fuji TV (540p)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",일본골프
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉일본방송🦮",テレビ朝日
@@ -5556,6 +5569,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",TBS
 https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHK G
