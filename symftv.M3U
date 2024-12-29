@@ -15,8 +15,8 @@ https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",우디네세 칼초 1-1 토리노 FC (생중계) 세리에 A 2024-12-29
-https://live2.botv.kr/liveapi/livefile/id/1735471645756.m3u8
+#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",우디네세 칼초 2-2 토리노 FC (재방송) 세리에 A 2024-12-29
+https://live2.botv.kr/live/20241229/1735471645756/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",SS 라치오 1-1 아탈란타 BC (재방송) 세리에 A 2024-12-29
 https://live2.botv.kr/live/20241229/1735415438332/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",칼리아리 칼초 0-3 인터 밀란 (재방송) 세리에 A 2024-12-29
@@ -1718,7 +1718,14 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제28회
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241130-1/4fefb247ee4b87a8e76720171c3be591.jpg", 옥씨부인전 제8회
+https://www.humortown.net/20241229/xqn7YAcl/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241221-1/3550c91cfb62f273fad0162fe3bdf096.jpg", 체크인 한양 (2024~2025) 4회
+https://www.humortown.net/20241229/cAVqnLtR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241222-1/306869d27a3b4b0ee350a2c39a3ee5d1.jpg", 사랑은 외나무 다리에서 제12회
+https://www.humortown.net/20241229/mG4WCMXS/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제28회
 https://www.humortown.net/20241229/Wo0fKs56/1000kb/hls/index.m3u8
 
 
@@ -3050,20 +3057,22 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241006-1/bdf991234dfa4e63fb51c91efd9c21cb.jpg", 241229 휴먼다큐 사노라면
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241125-1/0d512eee4dcac23549e6abbbb8a26329.jpg", 241229 이제 만나러 갑니다 28회
+https://www.soratv2.com/20241229/QwdVuo21/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 241229 JTBC 뉴스룸 76회
+https://www.managahaspn.com/20241229/Z7BpdLlU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241006-1/bdf991234dfa4e63fb51c91efd9c21cb.jpg", 241229 휴먼다큐 사노라면
 https://www.managahaspn.com/20241229/AUlq5SDl/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240908-1/778d2eb3363ffe4d4034b35e9feb91ad.jpg", 241229 식객 허영만의 백반기행 제276회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240908-1/778d2eb3363ffe4d4034b35e9feb91ad.jpg", 241229 식객 허영만의 백반기행 제276회
 https://www.managahaspn.com/20241229/bYyzZBrz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241103-1/dba77cff8b6b8be84b11ac80432e5ae8.jpg", 241229 탐사보도 추적자들 9회
 https://www.managahaspn.com/20241229/I1oKrJMT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241229-1/6fc8abd06295a4d044eb92ab209810fa.jpg", 241229 2024 서울콘 에이판 스타 어워즈 2회
 https://www.managahaspn.com/20241229/3Pm2nfgH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240827-1/af7eda75b4028158d88465295806f165.jpg", 241229 연애의 참견 시즌3 27회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240827-1/af7eda75b4028158d88465295806f165.jpg", 241229 연애의 참견 시즌3 27회
 https://www.soratv2.com/20241229/0cVRKrLh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241012-1/00885a1ce9620b14a27845e43b8e5d29.jpg", 241228 살림하는 남자들 시즌2
+https://www.soratv2.com/20241228/Er7xhKVZ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240901-1/4848822a4a3a23c37e8d281b012e6e8e.jpg", 241228 전지적 참견 시점 28회
 https://www.soratv2.com/20241228/rFD0TGCc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241103-1/a35d55916c6e41cb65338485bf81f135.jpg", 241228 나라는 가수 9회
@@ -3076,45 +3085,47 @@ https://www.soratv2.com/20241228/OSMKOCIO/1000kb/hls/index.m3u8
 https://www.managahaspn.com/20241228/PlL0k81C/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240818-1/f6658d7515182c049c9b19d0c506f8e9.jpg", 241228 콘서트 7080+ (플러스) 10회
 https://www.managahaspn.com/20241228/W1vPCtsG/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240810-1/ee1436c3c3eff7282d1ea666ec172c8a.jpg", 241228 극한 직업
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240810-1/ee1436c3c3eff7282d1ea666ec172c8a.jpg", 241228 극한 직업
 https://www.managahaspn.com/20241228/IBKvOCb3/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240818-1/aaae2b4e2e70d10efe7f181b55cdc27a.jpg", 241228 다큐 온
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240818-1/aaae2b4e2e70d10efe7f181b55cdc27a.jpg", 241228 다큐 온
 https://www.managahaspn.com/20241228/ICxePy7K/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240810-1/7baa25ff52b34f1f5fa8480ee6e320c6.jpg", 241228 강적들 제12회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240810-1/7baa25ff52b34f1f5fa8480ee6e320c6.jpg", 241228 강적들 제12회
 https://www.managahaspn.com/20241228/HF9j4sXC/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241130-1/f0054f8a2a61ab520fd651043f552139.jpg", 241228 백종원의 레미제라블 제5회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241123-1/1e1b3b0a51c1c9d04ef82572ee92a01b.jpg", 241228 아는 형님
+https://www.soratv2.com/20241228/X2nemm4S/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241130-1/f0054f8a2a61ab520fd651043f552139.jpg", 241228 백종원의 레미제라블 제5회
 https://www.soratv2.com/20241228/3dWLS1nj/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 241228 SBS 8 뉴스 65회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 241228 SBS 8 뉴스 65회
 https://www.managahaspn.com/20241228/MB09GQj8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 241228 MBC 뉴스데스크 63회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 241228 MBC 뉴스데스크 63회
 https://www.managahaspn.com/20241228/8OCASlqd/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240824-1/1f4867eab11c1afc763f43be1c40e6f9.jpg", 241228 니돈내산 독박투어 시즌3 제19회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240824-1/1f4867eab11c1afc763f43be1c40e6f9.jpg", 241228 니돈내산 독박투어 시즌3 제19회
 https://www.managahaspn.com/20241228/eBmPbgeO/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20231118-1/05057a5f38bbc5c7a41880220f3fbe69.jpg", 241228 놀라운 토요일 - 도레미 마켓 제347회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20231118-1/05057a5f38bbc5c7a41880220f3fbe69.jpg", 241228 놀라운 토요일 - 도레미 마켓 제347회
 https://www.soratv2.com/20241228/i7OXzBLb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241220-1/c3019772e18b608b9cb2d04644c3f365.jpg", 241228 오지구영 8회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241220-1/c3019772e18b608b9cb2d04644c3f365.jpg", 241228 오지구영 8회
 https://www.managahaspn.com/20241228/so284al4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241228-1/a242aa9ba6922fccd08001423a05dbea.jpg", 241228 2024 SBS 트롯대전 1회
 https://www.managahaspn.com/20241228/mQ018FbF/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240817-1/90280c4c59ed5995894f8f78b6a6542d.jpg", 241228 불후의 명곡 제687회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240817-1/90280c4c59ed5995894f8f78b6a6542d.jpg", 241228 불후의 명곡 제687회
 https://www.soratv2.com/20241228/IH9AY2Do/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240817-1/3ad1bc81e9468adaa3c4cb3cca364f21.jpg", 241228 동네 한 바퀴 제290회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240817-1/3ad1bc81e9468adaa3c4cb3cca364f21.jpg", 241228 동네 한 바퀴 제290회
 https://www.managahaspn.com/20241228/cVBPztcE/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240831-1/48b5e2a17431b04b2ad2d1ea170edec7.jpg", 241228 놀면 뭐하니 30회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240831-1/48b5e2a17431b04b2ad2d1ea170edec7.jpg", 241228 놀면 뭐하니 30회
 https://www.soratv2.com/20241228/mNFMLHtW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 241228 JTBC 뉴스룸
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 241228 JTBC 뉴스룸
 https://www.managahaspn.com/20241228/QokZoSDN/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/1da0a4bb5ccc144d904bede9d4f24654.jpg", 241228 달려라 불꽃소녀 제6회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241123-1/1da0a4bb5ccc144d904bede9d4f24654.jpg", 241228 달려라 불꽃소녀 제6회
 https://www.managahaspn.com/20241228/9vBfYiP9/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20240907-1/a305945cff57ebcd5daf5607d94dbee0.jpg", 241228 동행 9회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240907-1/a305945cff57ebcd5daf5607d94dbee0.jpg", 241228 동행 9회
 https://www.managahaspn.com/20241228/LZbtlpuT/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240810-1/f9b979040888a7890f623a4c66a5b55d.png", 241228 차트를 달리는 남자 10회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240810-1/f9b979040888a7890f623a4c66a5b55d.png", 241228 차트를 달리는 남자 10회
 https://www.managahaspn.com/20241228/6nXGttTd/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230712-1/1f876433227c4909b89f56ff59de904e.jpg", 241228 동물의 왕국 41회
 https://www.managahaspn.com/20241228/DiCO5yL8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241215-1/77e78bd3b2555d398c42563036f8c05c.jpg", 241228 걸어서 세계속으로
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241215-1/77e78bd3b2555d398c42563036f8c05c.jpg", 241228 걸어서 세계속으로
 https://www.managahaspn.com/20241228/vmTd0FOR/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 241228 영화가 좋다 19회
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 241228 영화가 좋다 19회
 https://www.managahaspn.com/20241228/3IBjLssf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240929-1/2d033bfc9210de23a3fe37b993935e1c.jpg", 241222 미운 우리 새끼 35회
 https://www.soratv2.com/20241222/4UHxtJtg/1000kb/hls/index.m3u8
