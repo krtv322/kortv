@@ -756,6 +756,9 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202483364.jpg",히든 페이스
+https://v.lzcdn24.com/20241228/12006_bf49f953/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/tKV0etz5OIsAjSNG1hJktsjbNJk.jpg",청설
 https://m3u8.tjihua.com/vedio5/20241224/1735028413427/out.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/7ucqFL4i8FSuKpzQWtfWuHCVAT7.jpg",사흘
@@ -1726,20 +1729,17 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제4회
-https://www.humortown.net/20241231/uu7aXYBm/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제59회
-https://www.humortown.net/20241231/C2zzd7EI/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제21회
-https://www.humortown.net/20241231/iaru9zqm/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제25회
-https://www.humortown.net/20241231/TMEK3DWm/1000kb/hls/index.m3u8
 
 
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241007-1/8ec3fa61090c5f0afc6514a384f0222a.jpg", 결혼하자 맹꽁아! (2024) 60회
+https://www.humortown.net/20250101/sC7e5PcI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241202-1/d16735199e81a0fb4afe5e7d0efa0541.jpg", 신데렐라 게임 (2024~2025) 23회
+https://www.humortown.net/20250101/fmHa5uof/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제26회
+https://www.humortown.net/20250101/uX3vCsiZ/1000kb/hls/index.m3u8
 
 
 
@@ -1764,6 +1764,8 @@ https://www.humortown.net/20241226/KFtAvQnW/1000kb/hls/index.m3u8
 https://www.humortown.net/20241226/94Mm3id2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241226-1/c471d4301bf9089e7cd546d0db358a36.jpg", 오징어게임 시즌2 (2024) 1회
 https://www.humortown.net/20241226/DvD2qz1p/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제4회
+https://www.humortown.net/20241231/uu7aXYBm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제3회
 https://www.humortown.net/20241230/pBueegBA//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제2회
@@ -1786,6 +1788,8 @@ https://www.humortown.net/20241225/O8EzXFJv/1000kb/hls/index.m3u8
 https://m3u8.tjihua.com/vedio5/20241218/1734536964208/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/9JzL5NG2yXHOEkFY95vsboWhiy.jpg", 수상한 그녀 제1회
 https://m3u8.tjihua.com/vedio4/20241218/1734529398976/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제21회
+https://www.humortown.net/20241231/iaru9zqm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제20회
 https://www.humortown.net/20241230/hBjq4wQS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제19회
@@ -1908,6 +1912,8 @@ https://m3u8.tjihua.com/vedio4/20241129/1732892485620/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241123/1732373670888/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241122-1/62c1c702b92aaf21f7ea8ca6586ae0ea.jpg", 지금 거신 전화는 제1회
 https://m3u8.tjihua.com/vedio3/20241122/1732287064146/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제25회
+https://www.humortown.net/20241231/TMEK3DWm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제24회
 https://www.humortown.net/20241230/HZjT6kTO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제23회
@@ -2010,6 +2016,8 @@ https://m3u8.tjihua.com/vedio2/20241006/1728144385505/out.m3u8
 https://m3u8.tjihua.com/vedio2/20240929/1727624488450/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 제1회 첫방송
 https://m3u8.tjihua.com/vedio2/20240929/1727593322983/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제59회
+https://www.humortown.net/20241231/C2zzd7EI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제57회
 https://www.humortown.net/20241230/sFGlYELX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제56회
@@ -3073,6 +3081,18 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241230-1/d0fbe25ba065aa1d3e09491066cc0ddd.jpg", 250101 신년특집 - 움직이는 미래 2회
+https://www.managahaspn.com/20250101/XKH6AzKs/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 250101 JTBC 뉴스룸 79회
+https://www.managahaspn.com/20250101/tqAzMAUA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241124-1/6f01f1b22979810d4123e025c011c050.jpg", 250101 출발 비디오 여행 11회
+https://www.managahaspn.com/20250101/L9Vsu5JK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230712-1/1f876433227c4909b89f56ff59de904e.jpg", 250101 동물의 왕국 42회
+https://www.managahaspn.com/20250101/IFX327bZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241215-1/77e78bd3b2555d398c42563036f8c05c.jpg", 250101 걸어서 세계속으로 11회
+https://www.managahaspn.com/20250101/ZxifKMvG/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230712-1/fdfbc08667c4856ddcdab86ed345d301.jpg", 250101 인간극장 59회
 https://www.managahaspn.com/20241231/kvItrTLI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250101-1/cc4c8bec2df5f4620c080119f0183d57.jpg", 241231 특별 생방송 2025 새날마중 1회
