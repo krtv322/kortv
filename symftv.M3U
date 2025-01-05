@@ -660,8 +660,8 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/sp2ch4/cmaf-hls/master.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.66tutup.com/2024/1681.jpg",夺命梦魇
+https://hn.bfvvs.com/play/xe74YQGa/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://k57.bozayo.net/data/file/movie/3556503041_a4buvUgF_9f16b0c0adc6d91600e1285d1777debbf3701ea7.jpg",원정빌라
 https://cdn7.ryplay7.com/20250103/10292_908186d5/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://muko.kr/files/attach/images/2024/10/18/a1a26f14f4498f0df6c252d2c0ecb245.jpg",아메바 소녀들과 학교괴담:개교기념일
@@ -1020,8 +1020,12 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.66tutup.com/2024/0431.jpg",	毒液：最后一舞
+https://hn.bfvvs.com/play/zbqzww0d/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.66tutup.com/2024/1896.jpg",	偷心上流
+https://hn.bfvvs.com/play/vbmrWl3d/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.66tutup.com/2024/1846.jpg",	棋盘斩
+https://hn.bfvvs.com/play/NbW46Vvd/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://pic3.iqiyipic.com/image/20241216/8c/f3/v_179028223_m_601_en_m1_260_360.jpg",	양창창 체포하기
 https://m3u8.tjihua.com/vedio5/20241218/1734517921689/out.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://pic0.iqiyipic.com/image/20241213/bc/5a/v_179028174_m_601_en_m3_260_360.jpg",	시정영웅
