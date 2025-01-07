@@ -1701,8 +1701,8 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제6회
+https://www.humortown.net/20250107/VNpraXEl/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250106-1/a1d484bf547953b17df50fb3382eb934.jpg", 원경 (2025) 2회
 https://www.humortown.net/20250107/3GTlCsFo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241007-1/8ec3fa61090c5f0afc6514a384f0222a.jpg", 결혼하자 맹꽁아! (2024) 64회
@@ -1711,10 +1711,6 @@ https://www.humortown.net/20250107/Nx4uF4aO/1000kb/hls/index.m3u8
 https://www.humortown.net/20250107/npJFyt9W/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제28회
 https://www.humortown.net/20250107/0HZM1Bpo/1000kb/hls/index.m3u8
-
-
-
-
 
 
 
@@ -3094,9 +3090,18 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240827-1/af7eda75b4028158d88465295806f165.jpg", 250107 연애의 참견 시즌3 29회
+https://www.soratv2.com/20250107/V5PXePfd/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240819-1/31953e3fdb935e0a20bd0f0ba38725dc.jpg", 250107 KBS 뉴스라인W 42회
+https://www.managahaspn.com/20250107/JSnWjpHs/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241001-1/62b2e203921494cef950f0b202337260.jpg", 250107 스모킹 건 17회
+https://www.soratv2.com/20250107/EydJIK1X/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240827-1/1a059e226f2c550335b9205c3de04bc4.jpg", 250107 한블리 (한문철의 블랙박스 리뷰) 11회
+https://www.managahaspn.com/20250107/d6RBI0il/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240903-1/c8656b1e732021bfc2e42614fa495458.jpg", 250107 시사기획 창
+https://www.managahaspn.com/20250107/kBP2r8sx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240724-1/636db914ccf828c229c9bd9052bf7fd6.jpg", 250107 신발 벗고 돌싱포맨 33회
-https://joovideo.cfd/static/streaming-playlists/hls/c2e18f13-ff15-43f0-acc9-927249988ec4/c96a1c37-cfae-4b9a-bee1-203a6cafcd60-450.m3u8
+https://www.soratv2.com/20250107/QSVwB5Ct/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241203-1/b706dbc2ee9695cd7c0c342b50b7e8e0.jpg", 250107 선을 넘는 클래스 5회
 https://www.managahaspn.com/20250107/kToZtZjU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240917-1/fc977b431db7280265acf557e9d9c4a6.jpg", 250107 김창옥쇼3 17회
