@@ -647,6 +647,12 @@ http://www.hwado.net/webtv/catv/58.php
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://assets.heimuer.tv/imgs/2025/01/07/5b936a99f2154872bf8892873a7fdf84.jpg",4분44초
+https://m3u8.hmrvideo.com/play/f969e2d1bdd24ccd9fd5cd871fe08a8a.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910597588.webp",夺命梦魇
 https://hn.bfvvs.com/play/xe74YQGa/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://k57.bozayo.net/data/file/movie/3556503041_a4buvUgF_9f16b0c0adc6d91600e1285d1777debbf3701ea7.jpg",원정빌라
@@ -1012,6 +1018,21 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-11-23/202411231732355394.png",	被诅咒的土地
+https://play.xluuss.com/play/ZdPBLk2a/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20240524-1/e1326db909af03d34d884163fbcec977.jpg",	异星战境
+https://europe.olemovienews.com/ts3/20240524/byFrzIlm/mp4/byFrzIlm.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20240213-1/0999d0c2c83d84529bd472e6273cfbf4.jpg",	金手指
 https://europe.olemovienews.com/ts3/20240213/cEDhJoBJ/mp4/cEDhJoBJ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20240912-1/af113e20287b5af23f7f7bd771ae2e47.jpg",	姥姥的外孙
