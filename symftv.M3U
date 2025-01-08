@@ -60,8 +60,7 @@ https://live2.botv.kr/live/20250104/1735931432924/record.m3u8
 https://live1.botv.kr/live/20250103/1735844703319/record.m3u8
 #EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브렌트퍼드 FC 1-3 아스널 (재방송) EPL 2025-01-02
 https://live2.botv.kr/live/20250102/1735756761660/record.m3u8
-#EXTINF:-1 group-title="🐉한국방송구매위챗:（Livetv322）축구생중계🦆",브렌트퍼드 
-http://1.214.67.38/vod/61413.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+
 
 
 
@@ -1662,6 +1661,11 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241218-1/e761e70f26228cde746a9dbe5949950c.jpg", 수상한 그녀 (2024~2025) 7회
+https://europe.olemovienews.com/ts3/20250108/bqcIHznn/mp4/bqcIHznn.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241007-1/8ec3fa61090c5f0afc6514a384f0222a.jpg", 결혼하자 맹꽁아! (2024) 65회
 https://www.humortown.net/20250108/arvT5Ozw/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241202-1/d16735199e81a0fb4afe5e7d0efa0541.jpg", 신데렐라 게임 (2024~2025) 28회
@@ -1671,17 +1675,16 @@ https://www.humortown.net/20250108/fgnDbXcs/1000kb/hls/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20241223-1/764d27c9a831a6d7dd8e9a469ec5c0cc.jpg", 나미브 제6회
-https://europe.olemovienews.com/ts3/20241223/cDkBFFmw/mp4/cDkBFFmw.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250106-1/a1d484bf547953b17df50fb3382eb934.jpg", 원경 (2025) 2회
 https://m3u8.hmrvideo.com/play/cae7d21b3c6a4e91a41c5e0a06d2ba28.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250106-1/a1d484bf547953b17df50fb3382eb934.jpg", 원경 (2025) 1회
 https://www.humortown.net/20250106/NWZ8JQoJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250104-1/029c1b089c35cd7dae825adcfb22a9cb.jpg", 별들에게 물어봐 (2025) 2회
@@ -1694,6 +1697,8 @@ https://www.humortown.net/20250103/Bpvs80kO/1000kb/hls/index.m3u8
 https://www.humortown.net/20250104/AzCzvjRg/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241230-1/3ce803a191166a30bfc7df0941cbe854.jpg", 나의 완벽한 비서  1회
 https://www.humortown.net/20250103/w9U9xio4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20241223-1/764d27c9a831a6d7dd8e9a469ec5c0cc.jpg", 나미브 제6회
+https://europe.olemovienews.com/ts3/20241223/cDkBFFmw/mp4/cDkBFFmw.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제5회
 https://www.humortown.net/20250106/NV2HRD0h/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tmdb.org/t/p/w440_and_h660_face/fGlWjv3mrWaUGync37mO1O8DHJ9.jpg", 나미브 제4회
@@ -3060,6 +3065,31 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240904-1/670593051c360c5b120243e5a58dcbce.jpg", 250108 유 퀴즈 온 더 블럭 36회
+https://www.soratv2.com/20250108/j0l382hy/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240904-1/0d7ddc6aff45fd58f72dfbec1a336282.jpg", 250108 왔다! 내 손주 19회
+https://www.managahaspn.com/20250108/6ZU6Fuq1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240819-1/31953e3fdb935e0a20bd0f0ba38725dc.jpg", 250108 KBS 뉴스라인W 43회
+https://www.managahaspn.com/20250108/UOeOsjL9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241002-1/4c880d841b9d8e99bea062484d1582f5.jpg", 250108 생로병사의 비밀 10회
+https://www.managahaspn.com/20250108/qofUCRR1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240904-1/5e01eb9609d47a489258822c45b39968.jpg", 250108 나는 자연인이다 13회
+https://www.managahaspn.com/20250108/RmXIhi2c/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240809-1/807f290ebeda8dfb9054f5f3ca60ae0a.jpg", 250108 KBS 뉴스 9 63회
+https://www.managahaspn.com/20250108/90851hzJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241013-1/1973d0df6cc28c25227911f23fbc38e1.jpg", 250108 슈퍼맨이 돌아왔다 20회
+https://www.soratv2.com/20250108/mCiRZ2BC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240909-1/38d9ac547e37d967940ce9af7ecdb89a.jpg", 250108 한국기행 59회
+https://www.managahaspn.com/20250108/dQO3b51V/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 250108 세계테마기행 50회
+https://www.managahaspn.com/20250108/5wKQRFHL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241029-1/c8c7b51c447a0ccf7760fe2a4568bd6d.jpg", 250108 사건 반장 54회
+https://www.managahaspn.com/20250108/oItTTJIn/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250108 MBC 뉴스데스크 69회
+https://www.managahaspn.com/20250108/g35FSYl5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 250108 SBS 8 뉴스 70회
+https://www.managahaspn.com/20250108/sG8zfnSs/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 250108 JTBC 뉴스룸 86회
 https://www.managahaspn.com/20250108/AxwQMWEJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 250108 영화가 좋다 22회
