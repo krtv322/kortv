@@ -37,8 +37,6 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://dm08.modhospital.kr:9981/stream/channelid/102?ticket=62618BB7EB8BEAC556594BA61856AB5FF1DE443E
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.ytn.co.kr/general/jpg/2022/0611/202206110800020088_t.jpg",OCN
 http://dm08.modhospital.kr:9981/stream/channelid/100?ticket=FF14396F25716EE1EAF81EBB823ACD4267C6B5CC
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",SKY
-http://dm08.modhospital.kr:9981/stream/channelid/50?ticket=DDFA2DC3A516F57EBFD5365B43BC3C32EAEEDA0E
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -128,7 +126,7 @@ http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",이벤트TV
-https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
+http://dm08.modhospital.kr:9981/stream/channelid/135?ticket=AF13C564CC6487F9BC5BC0FB66EE0FE7B64AA166
 #EXTINF:-1 group-title="🐉한국방송🦆",뉴키드
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 group-title="🐉한국방송🦆",아이넷TV
@@ -442,7 +440,8 @@ https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
 https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
-
+#EXTINF:-1 group-title="🐉한국방송🦆",이벤트TV
+https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 
 
 
