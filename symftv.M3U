@@ -133,6 +133,8 @@ https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 group-title="🐉한국방송🦆",아이넷TV
 http://dm08.modhospital.kr:9981/stream/channelid/69?ticket=BE087EE7D5AE0F0E48036DD73A434CBC9301C04A
+#EXTINF:-1  group-title="🐉한국방송🦆",아이넷라이프
+http://dm08.modhospital.kr:9981/stream/channelid/180?ticket=0483E484C25D1F5873AF43E7FB80333BDEA8C3DA
 #EXTINF:-1 group-title="🐉한국방송🦆",더라이프 (고화질)
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",라이프타임 (고화질)
@@ -141,6 +143,12 @@ http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",프리미엄 영화 (고화질)
 http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",오씨엔 스릴스
+http://dm08.modhospital.kr:9981/stream/channelid/131?ticket=D09FE2D21743397177AA0F74D40C8A182EAF67F4
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN스토리
+http://dm08.modhospital.kr:9981/stream/channelid/4?ticket=3E09C933A2FA620AC666CE0FEA3F282AF77501A6
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC ON
+http://dm08.modhospital.kr:9981/stream/channelid/176?ticket=905CBD838AA8AC0155D1ABAEB7B5EAB875B4706F
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서진이네
