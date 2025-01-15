@@ -25,8 +25,6 @@ http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",tvN
-http://dm08.modhospital.kr:9981/stream/channelid/102?ticket=62618BB7EB8BEAC556594BA61856AB5FF1DE443E
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC(고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스(고화질)
@@ -51,14 +49,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국방송🦆",tvN쇼
-http://dm08.modhospital.kr:9981/stream/channelid/36?ticket=EBD8909E450A0C2F00A93D9E90E213051CFA88ED
-#EXTINF:-1 group-title="🐉한국방송🦆",tvN스토리
-http://dm08.modhospital.kr:9981/stream/channelid/4?ticket=3E09C933A2FA620AC666CE0FEA3F282AF77501A6
-#EXTINF:-1 group-title="🐉한국방송🦆",하이라이트TV
-http://dm08.modhospital.kr:9981/stream/channelid/182?ticket=5698F66BA42348C824DA27403DA62197440BBE11
-#EXTINF:-1 group-title="🐉한국방송🦆",Mnet
-http://dm08.modhospital.kr:9981/stream/channelid/122?ticket=650BE5A1FAE697DB8C515C58CAFA06BC231D58F2
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama 
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy
@@ -87,8 +77,6 @@ https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
 https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국방송🦆",SKY스포츠
-http://dm08.modhospital.kr:9981/stream/channelid/173?ticket=1A66D47FE60410018D6F856AF402BF0FAB378CF1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
 http://1.214.67.38/vod/60201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT (고화질)
@@ -239,8 +227,6 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w1996345723.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kctv
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",iHQ
-http://dm08.modhospital.kr:9981/stream/channelid/82?ticket=174BB1C29EF597B5B45ADA8A368CE208E6D43C1E
 #EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1 (고화질)
 http://1.214.67.38/vod/71401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-2
