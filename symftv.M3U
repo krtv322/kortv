@@ -63,6 +63,8 @@ http://1.214.67.38/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC Dramanet.png",MBC드라마
 http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",sky_sports
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=sky_sports_540&sid=8ZcreeDt7l2CQPT5LFsQwgPGJaOVpxmC7JtmEG85&secret=41e89b18283741094aa9d5fb6ac2303a&time=1696829050
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
