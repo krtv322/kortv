@@ -425,6 +425,10 @@ https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20241221-1/efd2958351541ed5cd6f76b4951da2be.jpg", 체크인 한양 (2024~2025) 10회
+https://www.humortown.net/20250119/ajSm7QsI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250104-1/bf0b8ec9e5769814b0942b6d1a5a9e3d.jpg", 별들에게 물어봐 (2025) 6회
 https://www.humortown.net/20250119/cXdsXbA9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 (2024) 34회
@@ -1920,10 +1924,16 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20241103-1/ba7853f3a4a4a670efa686d4674760a3.jpg", 250119 더 딴따라
+https://www.muumuutv.com/20250119/5vVwoY6m/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240929-1/2d033bfc9210de23a3fe37b993935e1c.jpg", 250119 미운 우리 새끼
+https://www.soratv2.com/20250119/YjsmB2Sq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20241216-1/01f3937def2474b147b903e309c4dfbc.jpg", 250119 냉장고를 부탁해 since 2014
+https://www.soratv2.com/20250119/Dg862y9y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240818-1/00fda0c58a0c6893e59bf6f2a66fd9af.jpg", 250119 탐사기획 스트레이트
+https://www.muumuutv.com/20250119/XrW0cSFq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240809-1/807f290ebeda8dfb9054f5f3ca60ae0a.jpg", 250119 KBS 뉴스 9
+https://www.muumuutv.com/20250119/xwSLvHlq/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20241201-1/fc1f673b038e637c93c1c77a12e451a1.jpg", 250119 핸썸가이즈
 https://www.muumuutv.com/20250119/gPd0JXiN/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240908-1/778d2eb3363ffe4d4034b35e9feb91ad.jpg", 250119 식객 허영만의 백반기행
