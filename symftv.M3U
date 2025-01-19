@@ -424,6 +424,9 @@ https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250104-1/bf0b8ec9e5769814b0942b6d1a5a9e3d.jpg", 별들에게 물어봐 (2025) 6회
+https://www.humortown.net/20250119/cXdsXbA9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240928-1/84ecb52ce1fa7abbb4e66bfaf82dc419.jpg", 다리미 패밀리 (2024) 34회
 https://www.humortown.net/20250119/BhEU9abb/1000kb/hls/index.m3u8
 
@@ -1921,10 +1924,10 @@ https://www.segyen.com/20240829/p8LZceOc/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20241201-1/fc1f673b038e637c93c1c77a12e451a1.jpg", 250119 핸썸가이즈
+https://www.muumuutv.com/20250119/gPd0JXiN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20240908-1/778d2eb3363ffe4d4034b35e9feb91ad.jpg", 250119 식객 허영만의 백반기행
+https://www.muumuutv.com/20250119/WTVV7u09/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20241006-1/bdf991234dfa4e63fb51c91efd9c21cb.jpg", 250119 휴먼다큐 사노라면
 https://www.muumuutv.com/20250119/IjXLBk8T/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv9.xyz/upload/vod/20250112-1/236806816d086d832fc564d9eb7f74fc.jpg", 250119 언더커버
