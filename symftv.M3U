@@ -4154,6 +4154,49 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",ntv
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tbs
+Http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",fuji_tv
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",TV_Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tv_tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1-test
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2-test
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3-test
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4-test
+http://luong.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Space Shower TV-test
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
+http://luong.utako.moe/bsntva11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
 http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
@@ -4188,28 +4231,6 @@ http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
 http://171.244.62.178/jptv2/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
 #EXTINF:-1 group-title="🐉일본방송🦮",Animax JP
 http://171.244.62.178/jptv2/get.php?id=iyXsMcSj-uHvpI6JnMMlTg==
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK G
-http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK E
-http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",ntv
-http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tbs
-Http://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",fuji_tv
-http://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",TV_Asahi
-http://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tv_tokyo
-http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
-http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK BS
-http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Animax
-http://vthanh.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",BS11
-http://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
@@ -4368,26 +4389,7 @@ https://tbs4.mov3.co/hls/tbs.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="🐉일본방송🦮",ヒストリーチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
-http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1-test
-http://luong.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2-test
-http://luong.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3-test
-http://luong.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4-test
-http://luong.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",AT-X
-http://vthanh.utako.moe:8080/5ef84ce6-e7c1-4655-9ca4-97eb65215195.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Space Shower TV-test
-http://luong.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Pigoo-test (NSFW)
-http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",bs_ntv
-http://luong.utako.moe/bsntva11/index.m3u8
+
 
 
 
