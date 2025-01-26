@@ -423,11 +423,7 @@ https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
 https://d33dnwdrem45c6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l8gu6be61eypf/FC00000003.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=KRBC46000173Y
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/1GPvrA_RChV73vfJ2WHTCA==.jpg?type=live&thumbnail=thumbnail_small.jpg", SPOTV ON2
-#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
-#EXTVLCOPT:http-referrer=http://globalcntv.com/
-#EXTVLCOPT:network-caching=1000
-http://113.160.13.153/pangtv/get.php?id=1GPvrA_RChV73vfJ2WHTCA==
+
 
 
 
