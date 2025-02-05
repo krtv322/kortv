@@ -444,19 +444,17 @@ http://1.214.67.100/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.100/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN(고화질)
 http://1.214.67.100/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png", 채널a(고화질)
 http://1.214.67.100/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png", JTBC (고화질)
 http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png", JTBC2(고화질)
 http://1.214.67.100/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png", JTBC4(고화질)
 http://1.214.67.100/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국고화질방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
 http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
@@ -497,64 +495,6 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch2/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",한국낚시 (고화질)
 http://1.214.67.100/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",GMTV (고화질)
-http://1.214.67.100/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",더라이프 (고화질)
-http://1.214.67.100/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",라이프타임 (고화질)
-http://1.214.67.100/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",웰메이드 영화 (고화질)
-http://1.214.67.100/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",프리미엄 영화 (고화질)
-http://1.214.67.100/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1738889579&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODg4OTU3OX19fV19&Signature=DwVjH7t6hTEbb-4Ltf2BUlqlTQ0XZcDwfHzt8AVmNRfbQcgghBPI1vgR9OKkzj7A4h~Sv7mKTS2~gYi5aU3I5u926aLjY5doD3WKNhmPhH0DjV8GvYe7Bv1FRjJVxuO~DaASRpANjoCO5HOJEOcSKG2x5MpYca2dneYV6WX1B0LePkOtdItQ9B4ic5dslkXHlyUb2T~jkxjyurdV4FPvyKYvNVWHYTq4R7eBvkN24OHYoHkvQtTUnQpmE3mBKnuE-JhAv5cen~uJL3NdQuMJBSawUood~VgpbKEQMuQ7v416naLKweljHM5xk04LGtWGuXV8q2zBAa5Rm18nirwhNw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",어린이 만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1738889576&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Mzg4ODk1NzZ9fX1dfQ__&Signature=X-RhKLzri~dz1tcloUJyx1SJOxA399u8ImF27QXREWM4jRjbPdWme4XNy6td2VESbzJ4lR0FL9WexrF2nAhvtHOF8EePV8VrcsA5MA6ZEYGrRSEGwrUpZZJch8UAiDd2hXxySqo3UeJLOTsohFufC5o0UdhBwu6-amMM5M6KcUAlFKu9u1LNNnIjPwKKyRLB0I3JTjlnfTd7oxpIto6IYW6f4VEqfNGz9lg8JJOMCDfvmQDhrXv63JnzNc28giO8pBxL4lha9e6l6fpnp8nRcb3ZH-Qmhl0cd4LMrtJUOvBD8ee~U9u8~P7CQEyY-7cXJ6beywefkCe0SMtRTK4g6Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",애니맥스 (고화질)
-http://1.214.67.100/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",애니플러스 (고화질)
-http://1.214.67.100/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",핑크퐁
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",베베핀
-https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",키즈타임
-https://d2tt54zlwwxv7v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9go3fzcjcsn6y/AcornTV_KR.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",뽀요티비
-https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",코코비티비
-https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",로보카폴리
-https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",반지의 비밀
-https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",내청코
-https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",카 시티 어드벤츠
-https://8ba1efed105d4785a1a3cf6756574fd7.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h740e05qtkqx9/aa723320-8260-456b-bdb4-715877bfc06a/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",요리와 비룡
-https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/b0cc7455-6b41-4281-9111-2c54b8aeb45d/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",바오 패밀리
-https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",명탐정코난
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1313_A98FA8CA.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",브라보키즈 (고화질)
-http://1.214.67.100/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",대교어린이TV (고화질)
-http://1.214.67.100/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",플레이런TV (고화질)
-http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",폴라리스TV (고화질)
-http://1.214.67.100/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",채널i
-http://1.201.160.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",토마토증권통 (고화질)
-http://1.214.67.100/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",한국경제TV
-http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",매일경제TV
-http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
 
 
 
