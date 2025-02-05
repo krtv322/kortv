@@ -425,9 +425,6 @@ https://d33dnwdrem45c6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
-
-
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질)
 https://parselink.winnie.in.th/kr_live/kbs.php?id=11
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
@@ -444,62 +441,17 @@ http://1.214.67.100/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.100/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN(고화질)
 http://1.214.67.100/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png", 채널a(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a(고화질)
 http://1.214.67.100/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png", JTBC (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png", JTBC2(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://1.214.67.100/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png", JTBC4(고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
 http://1.214.67.100/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국고화질방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
-http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
-http://1.214.67.100/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",SPOTV GOLF (고화질)
-http://1.214.67.100/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.newspim.com/news/2022/04/18/2204180914322570.jpg", tvN SPORTS
-https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://blog.kakaocdn.net/dn/bKhWut/btsEZTOCLCr/BFOJn9gtKCMbkbrHiDJGCK/img.jpg", KBS N SPORTS
-https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports (고화질)
-https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
-http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
-http://www.hwado.net/webtv/catv/58.php
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
-http://1.214.67.100/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-http://1.214.67.100/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",STATV (고화질)
-http://1.214.67.100/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆", 바둑TV (고화질)
-http://1.214.67.100/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆", K바둑 (고화질)
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",장기TV (고화질)
-http://1.214.67.100/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",빌리어즈TV (고화질)
-http://1.214.67.100/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",볼링플러스
-https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",최강야구
-https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",스타리그
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",FTV (고화질)
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch2/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",한국낚시 (고화질)
-http://1.214.67.100/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-
-
-
-
-
 
 
 
