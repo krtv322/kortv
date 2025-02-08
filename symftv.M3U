@@ -453,32 +453,23 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 3회
+https://www.humortown.net/20250208/zRzwUX0f/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250104-1/e55577cac2126ad5f19fa0ceb41601ac.jpg", 나의 완벽한 비서 (2025) 11회
 https://www.humortown.net/20250207/2CFQPRYj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250111-1/feec9a66a2f3bf182552b6cc4f36b55b.jpg", 모텔 캘리포니아 (2025) 9회
 https://www.humortown.net/20250207/6wNeiT1z/1000kb/hls/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/8a8a7a833e52122abb492ad188f95388.jpg", 뉴토피아 (2025) 2회
 https://www.humortown.net/20250207/iKmdVJPM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/8a8a7a833e52122abb492ad188f95388.jpg", 뉴토피아 (2025) 1회
 https://www.humortown.net/20250207/2YjxKWI9/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 86회
-https://www.humortown.net/20250207/aiybqfri/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 48회
-https://www.humortown.net/20250207/B32MQZmJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제49회
-https://www.humortown.net/20250207/vsVZUKuT/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제2회
 https://www.humortown.net/20250206/kdh72NoL/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제1회
@@ -625,6 +616,8 @@ https://www.humortown.net/20241228/thVpXU67/1000kb/hls/index.m3u8
 https://m3u8.tjihua.com/vedio5/20241222/1734879762355/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241221-1/afc99a707ae24ccde6d55292e1a07c03.jpg", 체크인 한양 (2024~2025) 1회
 https://m3u8.tjihua.com/vedio5/20241221/1734793610747/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 48회
+https://www.humortown.net/20250207/B32MQZmJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 47회
 https://www.humortown.net/20250206/1jvu1Nj3/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 46회
@@ -771,6 +764,8 @@ https://m3u8.tjihua.com/vedio4/20241208/1733669399190/out.m3u8
 https://m3u8.tjihua.com/vedio3/20241201/1733063158188/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241123-1/5e6ad039146b635f0b24f9e012f70bc5.jpg", 옥씨부인전 제1회
 https://m3u8.tjihua.com/vedio4/20241201/1732982911709/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제49회
+https://www.humortown.net/20250207/vsVZUKuT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제48회
 https://www.humortown.net/20250206/eyOOjDDu/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제47회
@@ -865,6 +860,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/62cf1fcd-6ea6-4b95-9d11-af0
 https://www.segyen.com/20241119/x95yw0Qr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제1회 첫방송
 https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 86회
+https://www.humortown.net/20250207/aiybqfri/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 85회
 https://www.humortown.net/20250206/wF4X3Ary/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 84회
@@ -1043,7 +1040,30 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250111-1/a229007eec959fe2b186117654d5cb05.jpg", 250208 곽준빈의 세계기사식당3
+https://www.soratv2.com/20250208/3JlmEDQ8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250208 MBC 뉴스데스크
+https://www.muumuutv.com/20250208/FT8AtHrq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 250208 SBS 8 뉴스
+https://www.muumuutv.com/20250208/aCtouuVn/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240817-1/90280c4c59ed5995894f8f78b6a6542d.jpg", 250208 불후의 명곡
+https://www.soratv2.com/20250208/D5db5HiW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 250208 JTBC 뉴스룸
+https://www.muumuutv.com/20250208/EvTR08cq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240817-1/3ad1bc81e9468adaa3c4cb3cca364f21.jpg", 250208 동네 한 바퀴
+https://www.muumuutv.com/20250208/j95GZowM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240831-1/48b5e2a17431b04b2ad2d1ea170edec7.jpg", 250208 놀면 뭐하니
+https://www.soratv2.com/20250208/RxYe8M1w/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240907-1/a305945cff57ebcd5daf5607d94dbee0.jpg", 250208 동행
+https://www.muumuutv.com/20250208/4tuU1OpB/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240810-1/f9b979040888a7890f623a4c66a5b55d.png", 250208 차트를 달리는 남자
+https://www.muumuutv.com/20250208/lfNAxbv6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241016-1/fa4c389c6a7d5dea2a8c5e67918c2ede.jpg", 250208 영화가 좋다
+https://www.muumuutv.com/20250207/RLkOUYBq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240809-1/8dfb340cc306e39b7a2d76f8b9a4a5d5.jpg", 250207 명의
+https://www.muumuutv.com/20250207/GSGP3reo/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://k40.bozayo.net/data/file/show/1848497075_6fAeKQh7_0a1485959ac6d31cabe97e1fb767523af2a80cf0.jpg", 250207 트랄랄라 유랑단
+https://joovideo.cfd/static/streaming-playlists/hls/d95f8291-36d0-4f87-9484-cb49711c94ae/0f9de480-f043-4386-ba4a-bfc3e84414fd-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240928-1/168ebba31dafd8749f54c09766ee102f.jpg", 250207 나 혼자 산다
 https://www.soratv2.com/20250207/u31an4Fa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240803-1/92cef6258bd1b3d62860bb5ddd9d53a6.jpg", 250207 세상에 나쁜 개는 없다
@@ -2898,8 +2918,8 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250208-1/fe93f31a1e0bc93f7373ed35869eed52.jpg",	老枪
+https://europe.olemovienews.com/ts3/20250208/hJhBGnkq/mp4/hJhBGnkq.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/41ec0078ffb03fa3950204053664b099.jpg",	完美伴侣
 https://europe.olemovienews.com/ts3/20250207/fjvojuiz/mp4/fjvojuiz.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/20cc5caa4ed51d501ca97b1c122d4c29.jpg",	鬼滴语2
