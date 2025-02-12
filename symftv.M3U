@@ -58,10 +58,6 @@ http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",뉴키드
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://blog.kakaocdn.net/dn/bKhWut/btsEZTOCLCr/BFOJn9gtKCMbkbrHiDJGCK/img.jpg", KBS N SPORTS
-https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports (고화질)
-https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",FTV
 https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch2/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
@@ -307,7 +303,7 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_502_A730A10A.m3u8
 https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS golf
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
 http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
@@ -391,7 +387,7 @@ http://1.214.67.100/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.newspim.com/news/2022/04/18/2204180914322570.jpg", tvN SPORTS
 https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://blog.kakaocdn.net/dn/bKhWut/btsEZTOCLCr/BFOJn9gtKCMbkbrHiDJGCK/img.jpg", KBS N SPORTS
-http://1.214.67.100/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports (고화질)
 https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
@@ -402,15 +398,15 @@ http://1.214.67.38/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.100/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
 http://1.214.67.100/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",STATV (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.100/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆", 바둑TV (고화질)
 http://1.214.67.100/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆", K바둑 (고화질)
 https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",장기TV (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/SAlt9hi.png" ,장기TV (고화질)
 http://1.214.67.100/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",빌리어즈TV (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/tXjSynh.gif" ,빌리어즈TV (고화질)
 http://1.214.67.100/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",FTV (고화질)
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -422,17 +418,17 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",GMTV (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV (고화질)
 http://1.214.67.100/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",더라이프 (고화질)
 http://1.214.67.100/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",라이프타임 (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
 http://1.214.67.100/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",웰메이드 영화 (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/28_playy%EC%9B%94%EB%A9%94%EC%9D%B4%EB%93%9C%EC%98%81%ED%99%94.png" ,웰메이드 영화 (고화질)
 http://1.214.67.100/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",프리미엄 영화 (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png",프리미엄 영화 (고화질)
 http://1.214.67.100/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",韩·EBS-1 (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
 http://1.214.67.100/vod/71401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",EBS少儿 (고화질)
 http://1.214.67.100/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
@@ -442,7 +438,7 @@ http://1.214.67.100/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.100/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",브라보키즈 (고화질)
 http://1.214.67.100/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",대교어린이TV (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/VcX0DzS.jpg" ,대교어린이TV (고화질)
 http://1.214.67.100/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",플레이런TV (고화질)
 http://1.214.67.100/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
@@ -452,7 +448,7 @@ http://1.214.67.100/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.100/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",Asia N (고화질)
 http://1.214.67.100/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",OBS (고화질)
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/C1zvP3w.png" ,OBS (고화질)
 http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",OBS W (고화질)
 http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
