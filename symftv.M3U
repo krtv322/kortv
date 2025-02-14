@@ -461,7 +461,10 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250104-1/e55577cac2126ad5f19fa0ceb41601ac.jpg", 나의 완벽한 비서 (2025) 13회
+https://www.humortown.net/20250214/zZdznaKX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250111-1/feec9a66a2f3bf182552b6cc4f36b55b.jpg", 모텔 캘리포니아 (2025) 11회
+https://www.humortown.net/20250214/ikgue35H/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/8a8a7a833e52122abb492ad188f95388.jpg", 뉴토피아 (2025) 3회
 https://v.cdnlz22.com/20250214/12690_b04a23e1/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 91회
