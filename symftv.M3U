@@ -458,14 +458,21 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 6회
+https://www.humortown.net/20250216/izkWzooE/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250111-1/feec9a66a2f3bf182552b6cc4f36b55b.jpg", 모텔 캘리포니아 (2025) 12회
 https://www.humortown.net/20250215/lFCtFv1X/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250104-1/bf0b8ec9e5769814b0942b6d1a5a9e3d.jpg", 별들에게 물어봐 (2025) 11회
 https://www.humortown.net/20250215/5AoTsmIf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250215-1/f69e0ccde667b016249c99a744c907d5.jpg", 마녀 (2025) 1회
 https://www.humortown.net/20250215/o4CrKHpg/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 5회
-https://www.humortown.net/20250215/4lZGeSBR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250215-1/00b979f7d5300783d50f63b242727350.png", 보물섬 (2025) 미리보기 1회
 https://www.humortown.net/20250215/SbMMW4ZV/1000kb/hls/index.m3u8
 
@@ -511,6 +518,8 @@ https://v.gsuus.com/play/1aMLqW1e/index.m3u8
 https://v.gsuus.com/play/9aAv2Ljb/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 1회
 https://v.gsuus.com/play/YaONonYe/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 5회
+https://www.humortown.net/20250215/4lZGeSBR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 4회
 https://www.humortown.net/20250209/ndI4fYts/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 3회
@@ -1050,7 +1059,50 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250112-1/236806816d086d832fc564d9eb7f74fc.jpg", 250216 언더커버
+https://www.muumuutv.com/20250216/OJbb9OCg/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241201-1/fc1f673b038e637c93c1c77a12e451a1.jpg", 250216 핸썸가이즈
+https://www.muumuutv.com/20250216/I39Vlm4n/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250209-1/35eb126ebb0ad255b89cc6458db3d5c6.jpg", 250216 휴먼다큐 사노라면
+https://www.muumuutv.com/20250216/o2gizLb2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250216 MBC 뉴스데스크
+https://www.muumuutv.com/20250216/yz3m1X1S/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 250216 SBS 8 뉴스
+https://www.muumuutv.com/20250216/VzY0gpDN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240818-1/00fda0c58a0c6893e59bf6f2a66fd9af.jpg", 250216 탐사기획 스트레이트
+https://www.muumuutv.com/20250216/8hc3juro/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241103-1/dba77cff8b6b8be84b11ac80432e5ae8.jpg", 250216 탐사보도 추적자들
+https://www.muumuutv.com/20250216/mLcTmgRa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250112-1/1d1b5118d91ce49a5a7dfc2484c22651.png", 250216 중매술사2
+https://www.muumuutv.com/20250216/lyWSLM6M/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250215-1/663dcb8a51a8566c083920feef57b031.jpg", 250216 32주년 한터뮤직어워즈 2024 6회
+https://www.muumuutv.com/20250216/07RGNAm0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250215-1/663dcb8a51a8566c083920feef57b031.jpg", 250216 32주년 한터뮤직어워즈 2024 5회
+https://www.muumuutv.com/20250216/w5YNEGyU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250215-1/663dcb8a51a8566c083920feef57b031.jpg", 250216 32주년 한터뮤직어워즈 2024 4회
+https://www.muumuutv.com/20250216/rDmUNQfu/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241013-1/a97ae82ad84f60dcd55a5996b2bd53dc.jpg", 250216 1박 2일 시즌4
+https://www.soratv2.com/20250216/4PL9NzaE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240428-1/fec1b53d0d2655afdd86ed7c4c7f3a09.png", 250216 런닝맨
+https://www.soratv2.com/20250216/cy9DzORa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg", 250216 복면가왕
+https://www.soratv2.com/20250216/lAKLYSol/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 250216 JTBC 뉴스룸
+https://www.muumuutv.com/20250216/anAOwM8E/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/a975609ceb38ef1418f465ae6eb15e54.jpg", 250216 열린음악회
+https://www.muumuutv.com/20250216/LjBtQxub/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241208-1/8ec9035d165f74df7e3ad594f3c548da.jpg", 250216 사장님 귀는 당나귀 귀
+https://www.soratv2.com/20250216/O4ymCP6m/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241124-1/6f01f1b22979810d4123e025c011c050.jpg", 250216 출발 비디오 여행
+https://www.muumuutv.com/20250216/bJHpjAn9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240428-1/8c6a08dd8ed5ffe167d5a3a563f34741.jpg", 250216 전국노래자랑
+https://www.muumuutv.com/20250216/oFeR4nGN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f4606a91a9fd60546f24cfa107840c67.png", 250216 신비한TV 서프라이즈
+https://www.muumuutv.com/20250215/Ud1xZFsr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240827-1/af7eda75b4028158d88465295806f165.jpg", 250216 연애의 참견 시즌3
+https://www.soratv2.com/20250215/kCqz5Q8y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241201-1/0027fc53685d428042fd4dee4eb61587.jpg", 250216 TV 동물농장
+https://www.soratv2.com/20250215/UhTQlzX5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240901-1/4848822a4a3a23c37e8d281b012e6e8e.jpg", 250215 전지적 참견 시점
 https://www.soratv2.com/20250215/87ULwttO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240831-1/df5cdc5ab3c7d7d2ce84194e3f415157.jpg", 250215 속풀이쇼 동치미
@@ -3109,6 +3161,18 @@ https://m3u8.tjihua.com/vedio3/20241112/1731399777646/out.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250215-1/4e18ec9ca769f1efb3d6cc6e89180473.jpg",	帕丁顿熊3：秘鲁大冒险
+https://hn.bfvvs.com/play/Qe1Xlqod/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://xinlangtupian.com/cover/c8dbb917fde2753ad9eebf9cc58c69eb.jpg",	那个孩子是谁？
+https://hn.bfvvs.com/play/negmn5Yb/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://xinlangtupian.com/cover/c27502dae80e2bf9ca07e869b8c4f272.jpg",	真爱搞婚头
+https://play.xluuss.com/play/PdRQGKKb/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://assets.heimuer.tv/imgs/2025/02/14/12b82d9815db405aa9413b21899f1780.jpg",	全世界最美的女孩
+https://hn.bfvvs.com/play/Le3Zn3rd/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250209-1/341100e71f5269df83d0521e21a37b48.jpg",	帕特诺普
+https://hn.bfvvs.com/play/9avPrgmd/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250214-1/d297c57f83ed375dc16ae8a0b73b3bb8.jpg",	破碎的愤怒
 https://play.xluuss.com/play/QdJ0MqPa/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/867346_Np1tycyQTTGUxhs_1739531402/0",	插翅难飞
