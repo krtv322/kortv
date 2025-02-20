@@ -474,6 +474,9 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20241205-1/8c4dc7b878ef8bf7516f3d1b0d22ab76.jpg", 오늘도 지송합니다 제11회
+https://www.humortown.net/20250220/3Fz8cQl2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제6회
 https://www.humortown.net/20250220/Hf2FI9io/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제5회
@@ -1075,6 +1078,17 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250213-1/4716d5bc447d9903f1611f56f95b1261.jpg", 250220 바디캠
+https://www.muumuutv.com/20250220/ZiUeI39T/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240912-1/85384ee9b410d43b4531dbd1631336db.jpg", 250220 실화탐사대
+https://www.soratv2.com/20250220/cvEJxcUu/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 250220 세계테마기행
+https://www.muumuutv.com/20250220/kN56tirv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240909-1/38d9ac547e37d967940ce9af7ecdb89a.jpg", 250220 한국기행
 https://www.muumuutv.com/20250220/7jX81NcO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240328-1/26345e2d3fa3565cc92dd3e83404a6c2.png", 250220 박원숙의 같이 삽시다
