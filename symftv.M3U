@@ -473,8 +473,8 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 5회
+https://www.humortown.net/20250219/zPMXYVl0/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 94회
 https://www.humortown.net/20250219/SSyV1KzW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 55회
@@ -1062,7 +1062,28 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230712-1/fdfbc08667c4856ddcdab86ed345d301.jpg", 250220 인간극장
+https://www.muumuutv.com/20250219/uZtqlZVZ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241017-1/c01005b197e45a95605371973d2e9477.jpg", 250219 미스쓰리랑
+https://www.soratv2.com/20250219/SAJDnlPO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250206-1/6e2a53a7a9f205e0729f277d0924370d.jpg", 250219 늦기 전에 어학연수 샬라샬라
+https://www.muumuutv.com/20250219/cUHAiJKg/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241017-1/534422c22b1ae975cfb42a7c58e78550.jpg", 250219 나는 SOLO (나는 솔로)
+https://www.soratv2.com/20250219/QxS4zpZx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250205-1/659f7c571fe0db029305499364675d58.jpg", 250219 커플팰리스 2
+https://www.muumuutv.com/20250219/YAAFFMiV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241017-1/3f0ab3c6337f0d011613d8ced4458e8b.jpg", 250219 라디오스타
+https://www.soratv2.com/20250219/QhYWxMEO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240904-1/066c820034f103717be1d76ce051407a.jpg", 250219 골 때리는 그녀들
+https://www.soratv2.com/20250219/PGnpICcx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230504-1/c053465be90f134c63a2053e707440a8.jpg", 250219 요즘 남자 라이프 신랑수업
+https://www.soratv2.com/20250219/ARey70VL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241002-1/4c880d841b9d8e99bea062484d1582f5.jpg", 250219 생로병사의 비밀
+https://www.muumuutv.com/20250219/Ca0M43Qt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240904-1/670593051c360c5b120243e5a58dcbce.jpg", 250219 왔다! 내 손주
+https://www.muumuutv.com/20250219/Hg00yykf/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240904-1/670593051c360c5b120243e5a58dcbce.jpg", 250219 유 퀴즈 온 더 블럭
+https://www.soratv2.com/20250219/SfcyhYTM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250205-1/895fdd1500bb121bf74f80cb59e24ea3.jpg", 250219 특집 썰전
 https://www.muumuutv.com/20250219/zQx7W6ee/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240904-1/5e01eb9609d47a489258822c45b39968.jpg", 250219 나는 자연인이다
