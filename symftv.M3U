@@ -4244,43 +4244,47 @@ https://m3u8.tjihua.com/vedio3/20241115/1731650711621/out.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK G
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK E
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",ntv
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg",ntv
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tbs
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",tbs
 Http://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",fuji_tv
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",fuji_tv
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",TV_Asahi
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV_Asahi
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tv_tokyo
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",tv_tokyo
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",tokyo_mx
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",tokyo_mx
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",NHK BS
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Animax
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",BS11
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",nhk_bsp4k
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",nhk_bsp4k
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 1-test
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
 http://luong.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 2-test
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test
 http://luong.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 3-test
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3-test
 http://luong.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",JSport 4-test
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4-test
 http://luong.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",AT-X
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Space Shower TV-test
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV-test
 http://luong.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",Pigoo-test (NSFW)
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test
+https://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test
+https://luong.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
 http://luong.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",NEWS 24H
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
