@@ -474,8 +474,8 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/367291_H7w8k9EySPeTfT7_1739806930/0", 그놈은 흑염룡 (2025) 3회
+https://www.humortown.net/20250224/pHXrHLzB/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 97회
 https://www.humortown.net/20250224/chmv7d6s/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 58회
@@ -1117,6 +1117,39 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240828-1/4f25cbd849471a7ed63e4d4dd707f66e.jpg", 250224 한일톱텐쇼
+https://www.soratv2.com/20250224/Wnkt0odq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240902-1/ac2f08a25d2434c9043b0b17ca6cfe90.jpg", 250224 탐정들의 영업비밀
+https://www.muumuutv.com/20250224/nkvc2PGE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240914-1/7b19ce95192455a0c93d24de2c1f4866.jpg", 250224 톡파원 25시
+https://www.muumuutv.com/20250224/M46tBlFL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240813-1/40357c3d0356faf9cc9ad080d661592f.jpg", 250224 가요무대
+https://www.muumuutv.com/20250224/cmHpAntm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241216-1/c69768886b9bc24a3d72a1a0faa2e9bd.jpg", 250224 세차JANG
+https://www.muumuutv.com/20250224/sSS3k99d/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/d5f2d15dfeeb91dbd60287cec6dfac12.jpg", 250224 프리한19
+https://www.muumuutv.com/20250224/A3aY1ruP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/0f971a887c8a5f315bdeec19511367ed.jpg", 250224 푹 쉬면 다행이야
+https://www.soratv2.com/20250224/7tfUgLtC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241014-1/1a62e87346295c86b9f046c7c475c1b1.jpg", 250224 생활의 달인
+https://www.muumuutv.com/20250224/JVEr1594/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 250224 세계테마기행
+https://www.muumuutv.com/20250224/7IVYZIu2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250113-1/f9b3716be29270aa584110704c93b493.jpg", 250224 원탁의 변호사들
+https://www.muumuutv.com/20250224/Ky4GQbqI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241104-1/a955512eb2b95d0e2cd0cc22cccc76d9.jpg", 250224 이젠 사랑할 수 있을까
+https://www.muumuutv.com/20250224/l8zEnMLT/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240826-1/4d0c18a4a477f350fc2252fe1a0e5fe5.jpg", 250224 무엇이든 물어보살
+https://www.soratv2.com/20250224/ZC8BWNZR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/e55efb0b5278cccf1e9fea9ae881fdf7.jpg", 250224 절친 토큐멘터리 4인용식탁
+https://www.muumuutv.com/20250224/OrfrDOx1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250210-1/028b414afca0774eeee0ab88d4630090.jpg", 250224 히든아이
+https://www.muumuutv.com/20250224/93NyVcMa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250224-1/d10e0c54b134d23fd2f6d2fa2b9065e7.jpg", 250224 한번 더 체크타임
 https://www.muumuutv.com/20250224/wHlBWpqv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250224 MBC 뉴스데스크
