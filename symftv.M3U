@@ -456,8 +456,8 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/367291_H7w8k9EySPeTfT7_1739806930/0", 그놈은 흑염룡 (2025) 4회
+https://www.humortown.net/20250225/J7dtjT7i/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 98회
 https://www.humortown.net/20250225/VQISIq4p/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 59회
@@ -1108,6 +1108,30 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240724-1/636db914ccf828c229c9bd9052bf7fd6.jpg", 250225 신발 벗고 돌싱포맨
+https://www.soratv2.com/20250225/ARuY74rk/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241210-1/424e1a78fca214de63a0c6b5f3be032b.jpg", 250225 셀럽병사의 비밀
+https://www.muumuutv.com/20250225/oiluiD9s/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240917-1/fc977b431db7280265acf557e9d9c4a6.jpg", 250225 김창옥쇼3
+https://www.soratv2.com/20250225/KnomIUof/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240909-1/38d9ac547e37d967940ce9af7ecdb89a.jpg", 250225 한국기행
+https://www.muumuutv.com/20250225/AY6cB8Rr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 250225 세계테마기행
+https://www.muumuutv.com/20250225/Eq48PsSH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250225-1/4ac8cdf63fd8a27a4f40742d4b897cb2.png", 250225 주관식당
+https://www.muumuutv.com/20250225/zRXwBehz/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250225 MBC 뉴스데스크
+https://www.muumuutv.com/20250225/U5sDeRHY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 250225 SBS 8 뉴스
+https://www.muumuutv.com/20250225/PsnGnRN8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241029-1/c8c7b51c447a0ccf7760fe2a4568bd6d.jpg", 250225 사건 반장
+https://www.muumuutv.com/20250225/axoojH7z/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240909-1/582ef28ecbdd91939934d1c5fe83d3d3.jpg", 250225 JTBC 뉴스룸
+https://www.muumuutv.com/20250225/wz09Qxww/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241029-1/f4458ebc76f75cec638f1c6ec920e771.jpg", 250225 이웃집 찰스
 https://www.muumuutv.com/20250225/0GuwPfE6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241029-1/5a9a74a4aad9841cbb8e2d0e358f5a03.png", 250225 임원희의 미식전파사
