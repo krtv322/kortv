@@ -3095,7 +3095,7 @@ https://www.muumuutv.com/20250123/5tRFtAB9/1000kb/hls/index.m3u8
 
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
-http://211.170.95.22/vod/17401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000000WYa6m1uvl0b.jpg",희트맨 (2025)
 https://cdn7.ryplay7.com/20250301/10951_7cb3b177/2000k/hls/index.m3u8
@@ -3285,7 +3285,7 @@ https://lf16-data.bytepluscdn.com/obj/tos-alisg-v-0000/osoBEBH6iZAgEniwyPYAPMRfc
 
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
-http://211.170.95.22/vod/72901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	上钩拳
 https://vodcnd14.ktprods.com/20250301/VmTUuvpD/4112kb/hls/index.m3u8
@@ -3908,6 +3908,37 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 
 
+
+
+
+#EXTINF:-1 group-title="🐉국제뉴스🦮",CNBC
+http://211.170.95.22/vod/17401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉국제뉴스🦮",CNN
+http://211.170.95.22/vod/72901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉국제뉴스🦮",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",일본뉴스24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",FashionTV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",MOVIE1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+#EXTINF:-1 group-title="🐉국제뉴스🦮",MOVIE2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
+#EXTINF:-1 group-title="🐉국제뉴스🦮",F1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="🐉국제뉴스🦮",FAILARMY
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉국제뉴스🦮",Drybarcomedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
@@ -6233,12 +6264,6 @@ http://202.60.106.14:8080/1338/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",TRACE
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="🐉국제방송🦆",일본뉴스24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="🐉국제방송🦆",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="🐉국제방송🦆",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",V+
