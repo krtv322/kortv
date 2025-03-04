@@ -31,6 +31,12 @@ https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🐉한국방송🦆",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🐉한국방송🦆",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -449,6 +455,10 @@ http://1.214.67.100/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.100/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",OBS W (고화질)
 http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+
+
+
+
 
 
 
@@ -3322,8 +3332,44 @@ https://hn.bfvvs.com/play/NbW46Vvd/index.m3u8
 
 #EXTINF:-1 group-title="🐉重温经典📺",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="🐉重温经典📺",邵氏影院
+https://lunbo.freetv.top/douyu/4246519
+#EXTINF:-1 group-title="🐉重温经典📺",经典港片
+https://lunbo.freetv.top/huya/11352965
+#EXTINF:-1 group-title="🐉重温经典📺",奇光影院
+https://lunbo.freetv.top/douyu/8009547
+#EXTINF:-1 group-title="🐉重温经典📺",恐怖丧尸鬼片
+https://lunbo.freetv.top/douyu/263824
 #EXTINF:-1 group-title="🐉重温经典📺",电影_战争片
 https://lunbo.freetv.top/huya/21059574
+#EXTINF:-1 group-title="🐉重温经典📺",电影_谍战
+https://lunbo.freetv.top/huya/21059585
+#EXTINF:-1 group-title="🐉重温经典📺",电影_武侠
+https://lunbo.freetv.top/huya/11342427
+#EXTINF:-1 group-title="🐉重温经典📺",电影_罪犯
+https://lunbo.freetv.top/huya/11352962
+#EXTINF:-1 group-title="🐉重温经典📺",电影_星爷
+https://lunbo.freetv.top/huya/11342412
+#EXTINF:-1 group-title="🐉重温经典📺",电影_英叔
+https://lunbo.freetv.top/huya/11342421
+#EXTINF:-1 group-title="🐉重温经典📺",电影_发哥
+https://lunbo.freetv.top/huya/11342387
+#EXTINF:-1 group-title="🐉重温经典📺",电影_成龙
+https://lunbo.freetv.top/huya/11342386
+#EXTINF:-1 group-title="🐉重温经典📺",电影_李连杰
+https://lunbo.freetv.top/huya/11342390
+#EXTINF:-1 group-title="🐉重温经典📺",电影_沈腾
+https://lunbo.freetv.top/huya/11601968
+#EXTINF:-1 group-title="🐉重温经典📺",电影_黄渤
+https://lunbo.freetv.top/huya/11352876
+#EXTINF:-1 group-title="🐉重温经典📺",电影_洪金宝
+https://lunbo.freetv.top/huya/11279251
+#EXTINF:-1 group-title="🐉重温经典📺",电影_梁家辉
+https://lunbo.freetv.top/huya/11342429
+#EXTINF:-1 group-title="🐉重温经典📺",电影_刘德华
+https://lunbo.freetv.top/huya/11342424
+#EXTINF:-1 group-title="🐉重温经典📺",漫威太君
+https://lunbo.freetv.top/douyu/1713615
 #EXTINF:-1 group-title="🐉重温经典📺",电视剧轮播
 https://lunbo.freetv.top/douyu/431460
 #EXTINF:-1 group-title="🐉重温经典📺",经典港剧
@@ -3338,30 +3384,6 @@ https://lunbo.freetv.top/douyu/7655471
 https://lunbo.freetv.top/douyu/4549169
 #EXTINF:-1 group-title="🐉重温经典📺",港剧轮播3
 https://lunbo.freetv.top/douyu/4373285
-#EXTINF:-1 group-title="🐉重温经典📺",漫威太君
-https://lunbo.freetv.top/douyu/1713615
-#EXTINF:-1 group-title="🐉重温经典📺",邵氏影院
-https://lunbo.freetv.top/douyu/4246519
-#EXTINF:-1 group-title="🐉重温经典📺",经典港片
-https://lunbo.freetv.top/huya/11352965
-#EXTINF:-1 group-title="🐉重温经典📺",电影_星爷
-https://lunbo.freetv.top/huya/11342412
-#EXTINF:-1 group-title="🐉重温经典📺",电影_英叔
-https://lunbo.freetv.top/huya/11342421
-#EXTINF:-1 group-title="🐉重温经典📺",电影_发哥
-https://lunbo.freetv.top/huya/11342387
-#EXTINF:-1 group-title="🐉重温经典📺",电影_成龙
-https://lunbo.freetv.top/huya/11342386
-#EXTINF:-1 group-title="🐉重温经典📺",电影_李连杰
-https://lunbo.freetv.top/huya/11342390
-#EXTINF:-1 group-title="🐉重温经典📺",电影_黄渤
-https://lunbo.freetv.top/huya/11352876
-#EXTINF:-1 group-title="🐉重温经典📺",电影_洪金宝
-https://lunbo.freetv.top/huya/11279251
-#EXTINF:-1 group-title="🐉重温经典📺",电影_梁家辉
-https://lunbo.freetv.top/huya/11342429
-#EXTINF:-1 group-title="🐉重温经典📺",电影_刘德华
-https://lunbo.freetv.top/huya/11342424
 #EXTINF:-1 group-title="🐉重温经典📺",动漫轮播
 https://lunbo.freetv.top/douyu/426517
 #EXTINF:-1 group-title="🐉重温经典📺",老动画轮播
@@ -3388,6 +3410,10 @@ https://lunbo.freetv.top/douyu/10419541
 https://lunbo.freetv.top/douyu/7919720
 #EXTINF:-1 group-title="🐉重温经典📺",封神榜
 https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 group-title="🐉重温经典📺",西游记
+https://lunbo.freetv.top/douyu/3700024
+#EXTINF:-1 group-title="🐉重温经典📺",西游记续
+https://lunbo.freetv.top/douyu/3113309
 #EXTINF:-1 group-title="🐉重温经典📺",红楼梦
 https://lunbo.freetv.top/yy/1382745084
 #EXTINF:-1 group-title="🐉重温经典📺",剧集_老三国
@@ -3404,20 +3430,24 @@ https://lunbo.freetv.top/huya/11342439
 https://lunbo.freetv.top/huya/11342430
 #EXTINF:-1 group-title="🐉重温经典📺",剧集_爱情公寓
 https://lunbo.freetv.top/huya/11336726
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_家有儿女
-http://cfss.cc/cdn/hy/11352872.flv
-#EXTINF:-1 group-title="🐉重温经典📺",灌篮高手剧集
-http://43.138.170.29:35455/yy/1356243352
-#EXTINF:-1 group-title="🐉重温经典📺",头文字D剧集
-http://cfss.cc/cdn/hy/11352889.m3u8
-#EXTINF:-1 group-title="🐉重温经典📺",一人之上漫剧
-http://cfss.cc/cdn/hy/11602065.m3u8
-#EXTINF:-1 group-title="🐉重温经典📺",叮当全集剧集
-http://cfss.cc/cdn/hy/11601963.m3u8
-#EXTINF:-1 group-title="🐉重温经典📺",料理小当家集
-http://43.138.170.29:35455/douyu/8231658
-#EXTINF:-1 group-title="🐉重温经典📺",四驱兄弟剧集
-http://cfss.cc/cdn/hy/11352922.m3u8
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_鹿鼎记
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 group-title="🐉重温经典📺",新白娘子传奇
+https://lunbo.freetv.top/yy/1354930969
+#EXTINF:-1 group-title="🐉重温经典📺",包青天（金超群版）
+https://lunbo.freetv.top/yy/1356158015
+#EXTINF:-1 group-title="🐉重温经典📺",济公游记
+https://lunbo.freetv.top/yy/1355265814
+#EXTINF:-1 group-title="🐉重温经典📺",射雕英雄传83版
+https://lunbo.freetv.top/yy/1354210357
+#EXTINF:-1 group-title="🐉重温经典📺",射雕侠侣
+https://lunbo.freetv.top/yy/1382704651
+#EXTINF:-1 group-title="🐉重温经典📺",天龙八部
+https://lunbo.freetv.top/yy/1382736855
+#EXTINF:-1 group-title="🐉重温经典📺",笑傲江湖
+https://lunbo.freetv.top/yy/1354282410
+#EXTINF:-1 group-title="🐉重温经典📺",少年歌行
+https://lunbo.freetv.top/yy/1354806550
 #EXTINF:-1 group-title="🐉重温经典📺",樱桃小丸子剧
 http://cfss.cc/cdn/hy/11342394.m3u8
 #EXTINF:-1 group-title="🐉重温经典📺",猫和老鼠剧集
