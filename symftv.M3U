@@ -464,13 +464,13 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250303-1/98719db705f8ef60a12531067e032de9.jpg", 라이딩 인생 (2025)) 2회
+https://www.humortown.net/20250304/T1udu7hH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/367291_H7w8k9EySPeTfT7_1739806930/0", 그놈은 흑염룡 (2025) 6회
 https://www.humortown.net/20250304/BiSUDNwH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 103회
 https://www.humortown.net/20250304/kZbrVXlS/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/367291_H7w8k9EySPeTfT7_1739806930/0", 그놈은 흑염룡 (2025) 6회
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 63회
 https://www.humortown.net/20250304/jSqdg3pj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제65회
 https://www.humortown.net/20250304/kotbfbqT/1000kb/hls/index.m3u8
@@ -1203,8 +1203,23 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230712-1/fdfbc08667c4856ddcdab86ed345d301.jpg", 250305 인간극장
+https://www.muumuutv.com/20250304/SYca34vJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250305-1/3c613976a7cb854eda5a1bcf1cc25728.jpg", 250304 현역가왕2 갈라쇼
+https://www.soratv2.com/20250304/yHW6vyE2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250226-1/c2044303b1c8e1120e105b28d0739479.jpg", 250304 신들린 연애2
+https://www.soratv2.com/20250304/JVzFXqHm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241002-1/77e4a98620885335466a913691ba7ac4.jpg", 250304 PD수첩
+https://www.muumuutv.com/20250304/qRLMSCNI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241211-1/81648ace2b369b182eb277462eb8a5ae.jpg", 250304 미스&미스터트롯 추억여행
+https://www.soratv2.com/20250304/PMAhM8KO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250226-1/bbfdef469961b12f9f051a11a21babe4.jpg", 250304 아는 외고
+https://www.muumuutv.com/20250304/FbNqN66y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250304-1/d82dd02142e15e9358a9823fe793d7c1.png", 250304 벌거벗은 세계사
+https://www.soratv2.com/20250304/h661780N/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241029-1/4646fd0027be90501e3a78b92de02262.jpg", 250304 솔로라서
-https://www.muumuutv.com/20250304/BlnqDuHJ/1000kb/hls/index.m3u8
+https://www.soratv2.com/20250304/JSADUOAG/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240903-1/c8656b1e732021bfc2e42614fa495458.jpg", 250304 시사기획 창
 https://www.muumuutv.com/20250304/IKw8MAz9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250211-1/0eeb1b0e45f13d7a631dbd389ee70373.jpg", 250304 손석희의 질문들
@@ -2729,7 +2744,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://xinlangtupian.com/cover/74700ad82d9f5473b580e57040b96a1d.jpg",검은 수녀들 (2025)
-https://play.xluuss.com/play/negR58kd/index.m3u8
+https://cdn7.ryplay7.com/20250305/11146_89cb17aa/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000000WYa6m1uvl0b.jpg",희트맨 (2025)
 https://cdn7.ryplay7.com/20250301/10951_7cb3b177/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2425038734.jpg",프리즌(2017)
