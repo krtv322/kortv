@@ -31,14 +31,14 @@ https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",珲春新闻综合
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.google.com/search?q=%E6%B1%AA%E6%B8%85TV&sca_esv=224aa860ab5f4b24&udm=2&biw=1366&bih=607&sxsrf=AHTn8zrUrg9KhhXkvxOMPcXMkkxbn6bJTg%3A1741138006224&ei=VqjHZ5yyDbjf1e8PgoOCyAI&ved=0ahUKEwictfbC5PGLAxW4b_UHHYKBACkQ4dUDCBE&uact=5&oq=%E6%B1%AA%E6%B8%85TV&gs_lp=EgNpbWciCOaxqua4hVRWSL8bULgLWM0XcAF4AJABAJgBmQGgAcMDqgEDMC4zuAEDyAEA-AEBmAIBoAKgAcICBxAjGCcYyQLCAgUQABiABMICBBAAGB7CAgYQABgEGB6YAwCIBgGSBwMwLjGgB9kF&sclient=img#vhid=poQWTev6J2F9UM&vssid=mosaic",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🐉한국방송🦆",图们综合
 http://stream7.jlntv.cn/tmgb/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",汪清综合
-http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🐉한국방송🦆",敦化综合广播
-http://stream9.jlntv.cn/dhgb/playlist.m3u8
+http://stream9.jlntv.cn/dhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
