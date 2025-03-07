@@ -462,6 +462,9 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제68회
+https://www.humortown.net/20250307/UqQyepXn/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 10회
 https://www.humortown.net/20250306/oq9Q242q/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 105회
@@ -470,8 +473,6 @@ https://www.humortown.net/20250306/aPO66zVI/1000kb/hls/index.m3u8
 https://www.humortown.net/20250306/1uZSdeCh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250209-1/01229a3f7b3b468c69a157e7594d4335.jpg", 선의의 전쟁 (2025) 16회
 https://www.humortown.net/20250306/JXQ35hNA//1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제67회
-https://www.humortown.net/20250306/6PZ8jfLf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제10회
 https://www.humortown.net/20250306/Flijyx3F/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/5954b3df4124dc4b2e0dc9048c83d57b.jpg", 춘화연애담 제9회
@@ -876,6 +877,8 @@ https://m3u8.tjihua.com/vedio5/20241219/1734615073993/out.m3u8
 https://m3u8.tjihua.com/vedio4/20241212/1734012129486/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/469837_cHZDdpcJQrWbsCS_1733404696/0", 오늘도 지송합니다 제1회 첫방송
 https://m3u8.tjihua.com/vedio4/20241205/1733405841764/out.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제67회
+https://www.humortown.net/20250306/6PZ8jfLf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제66회
 https://www.humortown.net/20250305/zojTd4nw/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제65회
@@ -1220,8 +1223,8 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250221-1/f735371533283c484759db008f31933f.jpg", 250307 케플랜드
+https://www.muumuutv.com/20250307/ausXHt1t/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230712-1/fdfbc08667c4856ddcdab86ed345d301.jpg", 250307 인간극장
 https://www.muumuutv.com/20250306/VmNFhkGp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241220-1/c031d3c9f70a6db265e4be36cedc9066.jpg", 250306 미스터트롯3
