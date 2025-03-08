@@ -3165,8 +3165,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/307612_Ci04SybeRyi_K9Y_1736585458/0",	美国队长4
+https://vodcnd04.ckrkg.com/20250308/0FsUehA2/4000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/867346_Np1tycyQTTGUxhs_1739531402/0",	插翅难飞
+https://vodcnd04.ckrkg.com/20250308/cAjKMgjH/4188kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/03/657512.webp",	飞速追杀
+https://vodcnd04.ckrkg.com/20250308/9BR3aEtT/4232kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/07/347833.webp",	真爱小误会
 https://cdn7.ryplay7.com/20250308/11162_911d6d8e/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/07/108091.webp",	魅味
@@ -3325,8 +3329,6 @@ https://m3u8.hmrvideo.com/play/100f942f3bc64a299902a1d8a4e7af4a.m3u8
 https://hn.bfvvs.com/play/9avPrgmd/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250214-1/d297c57f83ed375dc16ae8a0b73b3bb8.jpg",	破碎的愤怒
 https://sf-gs-frontend-sg.fanchenstatic.com/obj/tos-alisg-v-0000/oEBGgfLiBB6niYnDe7iCwlEHuBQE72Jgz1BshA?x-expires=1740636518048&x-signature=6JrpWB9fmcI3ClBOaRtCmliNKUM
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/867346_Np1tycyQTTGUxhs_1739531402/0",	插翅难飞
-https://play.xluuss.com/play/oeEzEBWa/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/104037_prsqL6rITxeBu94_1739522705/0",	蜜月我的妈
 https://v.cdnlz12.com/20250214/18218_47f58ccd/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/325120_SJxSGF5uRVWJP4a_1739522403/0",	婚前救急
@@ -3343,8 +3345,6 @@ https://v9.tlkqc.com/wjv9/202502/14/9ei6GyLJeW81/video/1000k_720/hls/index.m3u8
 https://hn.bfvvs.com/play/xboGmGYb/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/782372_WhSYHMsiR7ScmCl_1739417989/0",	天虎突击队
 https://m3u8.spnege.com/vedio/20250213/1739413658802/out2.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/307612_Ci04SybeRyi_K9Y_1736585458/0",	美国队长4
-https://v.cdnlz12.com/20250217/18229_c1b12443/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250213-1/173987e018fb35f80bc88b5d3769e433.jpg",	我的错误
 https://hn.bfvvs.com/play/0dNMrK2b/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250211-1/a3dc22941fa6052120a651ab592245bc.jpg",	猎魔人：深渊海妖
