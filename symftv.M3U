@@ -466,8 +466,8 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 4회
+https://www.humortown.net/20250309/QcQbZAiM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250215-1/f69e0ccde667b016249c99a744c907d5.jpg", 마녀 (2025) 8회
 https://www.humortown.net/20250309/8S6sAkdA//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 12회
@@ -475,16 +475,6 @@ https://www.humortown.net/20250309/CCcZ8J50/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250308-1/e9e00717f5ba3761dbcd247d88e4c235.png", 협상의 기술 (2025) 1회
 https://www.humortown.net/20250308/dwV8lLRs/index.m3u8?skipl=1
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 6회
-https://www.humortown.net/20250308/PCUt8n0l/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 6회
-https://www.humortown.net/20250308/W9LKX7uZ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 3회
-https://www.humortown.net/20250308/x0jTHkKO/1000kb/hls/index.m3u8
-
-
-
-
 
 
 
@@ -498,6 +488,8 @@ https://www.humortown.net/20250308/x0jTHkKO/1000kb/hls/index.m3u8
 https://www.humortown.net/20250304/T1udu7hH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250303-1/98719db705f8ef60a12531067e032de9.jpg", 라이딩 인생 (2025)) 1회
 https://www.humortown.net/20250303/MTpyRO9l/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 3회
+https://www.humortown.net/20250308/x0jTHkKO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 2회
 https://www.humortown.net/20250302/6YbI7yU9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 1회
@@ -516,6 +508,8 @@ https://www.humortown.net/20250226/nSxD0vVE/1000kb/hls/index.m3u8
 https://www.humortown.net/20250226/41K4PtQ4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250224-1/86d3fc5763c2c4691855955d68596534.png", 어쨌든 서른 (2025) 1-5회
 https://www.humortown.net/20250223/FPgu0ubE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 6회
+https://www.humortown.net/20250308/W9LKX7uZ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 5회
 https://www.humortown.net/20250307/cnrIzGF5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 4회
@@ -526,6 +520,8 @@ https://www.humortown.net/20250228/a3ezTb5f/1000kb/hls/index.m3u8
 https://www.humortown.net/20250222/vK5NIoIh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 1회
 https://www.humortown.net/20250221/T8BVnJSK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 6회
+https://www.humortown.net/20250308/PCUt8n0l/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 5회
 https://www.humortown.net/20250307/FinmBpyQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 4회
