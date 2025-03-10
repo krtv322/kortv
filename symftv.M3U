@@ -462,7 +462,10 @@ http://1.214.67.100/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-03-03/17410114251.jpg", 라이딩 인생 (2025)) 3회
+https://www.humortown.net/20250310/aYaobv7K/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/367291_H7w8k9EySPeTfT7_1739806930/0", 그놈은 흑염룡 (2025) 7회
+https://www.humortown.net/20250310/kiORvXGR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 107회
 https://www.humortown.net/20250310/OixusUkk/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 67회
@@ -1123,9 +1126,30 @@ https://www.segyen.com/20241007/Q3DA0Qxl/1000kb/hls/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240902-1/ac2f08a25d2434c9043b0b17ca6cfe90.jpg", 250310 탐정들의 영업비밀
+https://www.muumuutv.com/20250310/8jyO48uh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240828-1/4f25cbd849471a7ed63e4d4dd707f66e.jpg", 250310 한일톱텐쇼
+https://www.soratv2.com/20250310/DTHat5uX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/d5f2d15dfeeb91dbd60287cec6dfac12.jpg", 250310 프리한19
+https://www.muumuutv.com/20250310/qSrJvka7/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241216-1/c69768886b9bc24a3d72a1a0faa2e9bd.jpg", 250310 세차JANG
+https://www.muumuutv.com/20250310/P7jvlgEm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240914-1/7b19ce95192455a0c93d24de2c1f4866.jpg", 250310 톡파원 25시
+https://www.muumuutv.com/20250310/QZwQKKf6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/0f971a887c8a5f315bdeec19511367ed.jpg", 250310 푹 쉬면 다행이야
+https://www.soratv2.com/20250310/3hoT7hoO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241014-1/1a62e87346295c86b9f046c7c475c1b1.jpg", 250310 생활의 달인
+https://www.muumuutv.com/20250310/5wBdS70n/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240812-1/e55efb0b5278cccf1e9fea9ae881fdf7.jpg", 250310 절친 토큐멘터리 4인용식탁
+https://www.muumuutv.com/20250310/93eqRpdu/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241104-1/a955512eb2b95d0e2cd0cc22cccc76d9.jpg", 250310 이젠 사랑할 수 있을까
+https://www.muumuutv.com/20250310/MRJjG26m/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250210-1/028b414afca0774eeee0ab88d4630090.jpg", 250310 히든아이
+https://www.muumuutv.com/20250310/6OvMnz41/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240916-1/bb0b5cfb9cf31022272075536259004e.jpg", 250310 세계테마기행
+https://www.muumuutv.com/20250310/dfFzXLug/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240826-1/4d0c18a4a477f350fc2252fe1a0e5fe5.jpg", 250310 무엇이든 물어보살
+https://www.soratv2.com/20250310/QiN9D6JT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/f3cdcb0fd492f14e0c18516c590a441d.jpg", 250310 MBC 뉴스데스크
 https://www.muumuutv.com/20250310/rUDmlUMj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/affda8b266c07f8d59506a3146e5a63d.jpg", 250310 SBS 8 뉴스
@@ -2821,8 +2845,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/10/527703.webp",	无玷之城
+https://vodcnd13.ktprods.com/20250221/7HknNoRt/4079kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/09/394490.webp",	狂乱背后:曼森家族谋杀案
 https://play.modujx11.com/20250310/7xvCYw9H/4072kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/03/10/100058.webp",	编号17
