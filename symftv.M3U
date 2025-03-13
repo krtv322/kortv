@@ -415,7 +415,7 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT (고화질)
-http://211.170.95.22/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://211.170.95.22/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
