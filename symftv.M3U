@@ -480,14 +480,23 @@ http://211.170.95.22/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 12회
-https://www.humortown.net/20250313/GRA29RNC/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 110회
-https://www.humortown.net/20250313/eOUOVgpy/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 71회
-https://www.humortown.net/20250313/DDEIhNTj/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제72회
-https://www.humortown.net/20250313/VS79wjPS/1000kb/hls/index.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 111회
+https://www.humortown.net/20250314/01VxBtcW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/8a8a7a833e52122abb492ad188f95388.jpg", 뉴토피아 (2025) 7회
+https://www.humortown.net/20250314/cfub6pRV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 72회
+https://www.humortown.net/20250314/6HdeefCD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제73회
+https://www.humortown.net/20250314/IZBo9Pai/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/02/26/671310.webp", 비밀사이 (2025) 6회
+https://play.xluuss.com/play/mbkYBDXe/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/02/26/671310.webp", 비밀사이 (2025) 5회
+https://play.xluuss.com/play/negR6nYd/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurl.ggvip.click/i/2025/02/26/671310.webp", 비밀사이 (2025) 4회
+https://play.xluuss.com/play/ZdPnjy4a/index.m3u8
 
 
 
@@ -495,6 +504,15 @@ https://www.humortown.net/20250313/VS79wjPS/1000kb/hls/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제8회
+https://play.xluuss.com/play/Le3zVQ9d/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제7회
+https://play.xluuss.com/play/vbm1NO3b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제6회
+https://play.xluuss.com/play/Pe9JY1Ya/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제5회
+https://play.xluuss.com/play/0dNlXPLa/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제4회
 https://play.xluuss.com/play/9avn84Ma/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 폭싹 속앗수다 제3회
@@ -613,6 +631,8 @@ https://v.cdnlz22.com/20250214/12690_b04a23e1/2000k/hls/mixed.m3u8
 https://v.gsuus.com/play/mepJqMpb/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250207-1/8a8a7a833e52122abb492ad188f95388.jpg", 뉴토피아 (2025) 1회
 https://v.gsuus.com/play/9b63vZVd/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 12회
+https://www.humortown.net/20250313/GRA29RNC/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 11회
 https://www.humortown.net/20250312/Kn44Mfu5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250206-1/e88753dec26111f82bd36acf7380fcd3.jpg", 킥킥킥킥 (2025) 10회
@@ -661,7 +681,8 @@ https://m3u8.tjihua.com/vedio/20250207/1738898501348/out.m3u8
 https://m3u8.tjihua.com/vedio/20250209/1739068728690/out.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20250103-1/e71448e3863243d4a022f9e2564690dd.jpg", 실버벨이 울리면 (2024) 1회
 https://www.humortown.net/20250103/Bpvs80kO/1000kb/hls/index.m3u8
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 71회
+https://www.humortown.net/20250313/DDEIhNTj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 70회
 https://www.humortown.net/20250312/F4qxxgcA//1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-03/17331874931.jpg", 신데렐라 게임 (2024~2025) 69회
@@ -802,6 +823,8 @@ https://joovideo.cfd/static/streaming-playlists/hls/dab51667-add0-4e0f-b8f1-8ec1
 https://joovideo.cfd/static/streaming-playlists/hls/84c0168a-a063-4096-9be7-c7c6c3043d51/7aabb069-b656-4aee-8edc-85624f21a0ee-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/599860_mdWQJGTyS7qmVaH_1733187002/0", 신데렐라 게임 제1회 첫방송
 https://joovideo.cfd/static/streaming-playlists/hls/a2abbfd1-eefd-4d9c-87d1-de96fae2061b/4a881dc6-f502-4129-8e91-48375bf0727a-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제72회
+https://www.humortown.net/20250313/VS79wjPS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제71회
 https://www.humortown.net/20250312/tTBlZFTO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제70회
@@ -942,6 +965,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/62cf1fcd-6ea6-4b95-9d11-af0
 https://www.segyen.com/20241119/x95yw0Qr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241118-1/6e3219673cad2b79bb0fed52b42ba0dd.jpg", 친절한 선주씨 제1회 첫방송
 https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 110회
+https://www.humortown.net/20250313/eOUOVgpy/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 109회
 https://www.humortown.net/20250312/p5BsOXXU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아! (2024) 108회
