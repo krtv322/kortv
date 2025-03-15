@@ -242,6 +242,8 @@ http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS1대구
 https://parselink.winnie.in.th/kr_live/kbs.php?id=11
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS CJB 5G
