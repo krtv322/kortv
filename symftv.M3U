@@ -4144,12 +4144,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",NBA TV (480p)
 https://tx2.nexgen.bz/NBA/index.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 赤道几内亚-圣多美和
-https://zb-play.rwabwo.com/public/266854185_1742560990_gqzm.flv?txSecret=7f3b94b383fab05afff368d67e42fd02&txTime=67DDBF39
-#EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 博茨瓦纳VS阿尔及利
-https://zb-play.rwabwo.com/public/872031530_1742560539_gqzm.flv?txSecret=a4d889213722eae49a4b14ce28778679&txTime=67DDBF5C
-#EXTINF:-1 group-title="🐉축구생중계🦮",国际友谊 泰国VS阿富汗
-https://zb-play.rwabwo.com/public/181211309_1742561073_gqzm.flv?txSecret=936af068fd56f679dde6de8377da3a2c&txTime=67DDBF7B
+#EXTINF:-1 group-title="🐉축구생중계🦮",南美预选赛 乌拉圭VS阿根廷
+https://zb-play.rwabwo.com/public/744649501_1742598595_gqzm.flv?txSecret=2d3d569271d4ee2ada7f5e89d04fd2f0&txTime=67DE55F9
+
 
 
 
