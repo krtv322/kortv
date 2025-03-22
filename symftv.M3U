@@ -4179,8 +4179,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",南美预选赛 乌拉圭VS阿根廷
-https://zb-play.rwabwo.com/public/744649501_1742598595_gqzm.flv?txSecret=2d3d569271d4ee2ada7f5e89d04fd2f0&txTime=67DE55F9
+#EXTINF:-1 group-title="🐉축구생중계🦮",韩足总 昌原VS南阳州市民
+https://zb-play.rwabwo.com/public/448186483_1742618950_gqzm.flv?txSecret=4a82a3f818a15aa846d8843f0749036e&txTime=67DE9F84
+#EXTINF:-1 group-title="🐉축구생중계🦮",韩足总 大田地铁VS忠北清州
+https://zb-play.rwabwo.com/public/311820033_1742618427_gqzm.flv?txSecret=23af2b302c2114a8179513388fc6ed70&txTime=67DE9FC7
 
 
 
