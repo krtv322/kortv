@@ -4033,6 +4033,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="🐉축구생중계🦮",欧国联 格鲁吉亚VS亚美尼亚
+https://zb-play.rwabwo.com/public/517618603_1742738257_gqzm.flv?txSecret=4ff488edce86d96eee7b250f24e5554e&txTime=67E068C4
 #EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 斯威士兰-毛里求斯
 https://zb-play.rwabwo.com/public/266854185_1742733994_gqzm.flv?txSecret=16a2b98d6c6ef4a0dee9b84b04951e40&txTime=67E057AC
 #EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 肯尼亚VS加蓬
