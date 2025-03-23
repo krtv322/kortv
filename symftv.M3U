@@ -357,7 +357,8 @@ http://1.214.67.101/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.103/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 120
 http://1.214.67.210/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
+https://34-cdn.ccddnn.me/content/dsj-kjglyjn-20250307-hd-01.mp4/index.m3u8?st=dsk51PtUKKyJ13qQd9jOSw&e=1742725071
 
 
 
