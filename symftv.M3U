@@ -4014,12 +4014,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",欧洲预选 列支敦士登VS北马其顿
-https://zb-play.rwabwo.com/public/969786515_1742651691_gqzm.flv?txSecret=6150681d84aa67e72fcc58fb67a98878&txTime=67DF171C
-#EXTINF:-1 group-title="🐉축구생중계🦮",俄甲 莫斯科鱼雷VS莫斯科罗迪纳
-https://zb-play.rwabwo.com/public/744649501_1742651141_gqzm.flv?txSecret=3cd855e50f69ef26800aaa55173998e0&txTime=67DF1747
-#EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 刚果共和国VS赞比亚
-https://zb-play.rwabwo.com/public/849064255_1742651116_gqzm.flv?txSecret=89b7220012d290a41897841c0568963f&txTime=67DF176B
+#EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 斯威士兰-毛里求斯
+https://zb-play.rwabwo.com/public/266854185_1742733994_gqzm.flv?txSecret=16a2b98d6c6ef4a0dee9b84b04951e40&txTime=67E057AC
+#EXTINF:-1 group-title="🐉축구생중계🦮",非洲预选赛 肯尼亚VS加蓬
+https://zb-play.rwabwo.com/public/311820033_1742733569_gqzm.flv?txSecret=ad7f323245373ea5e9fcd22fb87fb427&txTime=67E057EF
 
 
 
