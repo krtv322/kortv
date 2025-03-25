@@ -391,14 +391,28 @@ http://211.170.95.22/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 http://211.170.95.22/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a(고화질)
 http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",tvN
+https://stream.ogtv3.com/live/live1007.m3u8 
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://211.170.95.22/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
-https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
-https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
-https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",ENA
+https://stream.ogtv3.com/live/live1016.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",OCN
+https://stream.ogtv3.com/live/live1014.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",ENA DRAMA​
+https://stream.ogtv3.com/live/live1019.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://tvnstory-mcdn.tving.com/tvnstory/live2000.smil/chunklist_b2128000.m3u8",tvN STORY
+https://stream.ogtv3.com/live/live1018.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://tvndrama-mcdn.tving.com/tvndrama/live2000.smil/chunklist_b2128000.m3u8",tvN DRAMA​
+https://stream.ogtv3.com/live/live1020.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",SCREEN
+https://stream.ogtv3.com/live/live1026.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",더무비
+https://stream.ogtv3.com/live/live1027.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",OCN Movies2
+https://stream.ogtv3.com/live/live1030.m3u8 
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",시네마천국​
+https://stream.ogtv3.com/live/live1022.m3u8 
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://211.170.95.22/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
@@ -406,6 +420,12 @@ http://211.170.95.22/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국고화질방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
+https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
+https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
@@ -420,12 +440,16 @@ https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
 https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS Sports (고화질)
 https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",IB SPORTS
+https://stream.ogtv3.com/live/live1029.m3u8 
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT (고화질)
 http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://211.170.95.22/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",SBS Golf2
+https://stream.ogtv3.com/live/live1024.m3u8 
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
 http://211.170.95.22/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆"" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
