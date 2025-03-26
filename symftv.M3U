@@ -362,6 +362,8 @@ http://1.214.67.103/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.210/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
 http://mytv.dothome.co.kr/ch/catv/58.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",飞速追杀
+https://europe.olemovienews.com/ts3/20250326/waIdfyav/mp4/waIdfyav.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", tvN SPORTS
 https://d31dhznbprxdpb.cloudfront.net/h264/tvn_sports/1/Video_2M.m3u8
 
