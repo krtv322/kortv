@@ -79,7 +79,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1743376778&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzM3Njc3OH19fV19&Signature=PhTE9Sbl8sezPwhVwrowFFeIY5XfzPpQGcsCLonGe0Aja5ZIKwropdCvBX0qaCstzpFqblzwZKNht51d82cA2bH~bozPpDC01yilGazWER3CQ41A5twlx7bxnzlUzPgxNMr8ahneYo4aGoLsfyxPjRyDfNFq9IUwNKnC89HLEtBJea-eMU~iwLUoobFzjW6IwjUGgpzRhh88boNyoGVyN~F6bolT9ih~Y2AqEPyfH-ExZq601pvmlV1bDlm7qskPEAcOh5UrHj8L6XgKYfqgZz4zRaEH2qSf5EWP3y~CCqmcZt7NmD-aaS1Buz2ncC6V4L0CsD9Pl9DdakgK1nGj0w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1743462624&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzQ2MjYyNH19fV19&Signature=UiDuzFhq9M899XsVReDaYq4UajPs2R-U3RPSjjnA0UzTq~LkySYqMVDs4gSj44Wb8uirEN-lDnncI56kYzh0dsucBy3gP0gCks~wBDRPiiexvcCHhAMP9S8sCuOCXZOwxHZy~NRZqaRzwo1hE1qfwu~7Ii0teMLmkutwSUBKNDKHmEgvI6GpmZbX-wtkilkohwNsW-kVXlo8Qwcrl3cFW5aItcqB6FPP-OaoV2Cj5UtbSM6L0gv~C3Bi4TpzeWCW8SP2xX0q9hTNNURZR89Va~X7xpxu7XzDuSwbzERbIn897CrxSdZLgCoA77ifV4OJAR9KDBzMuwNO2TPKgcKdiA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",벌거벗은 세계사
 https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
@@ -103,9 +103,11 @@ https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🐉한국방송🦆",한식대첩 정주행
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1743376660&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzM3NjY2MH19fV19&Signature=DT3QKTxmIObjbcLdBZc8rd7C5BWWMNM-2ER4ZNSKwjbAvVaN3xowXrKFuApfOmSmE7fszlkVW2ew137LYJPmj4L8Ld992DoLelBnh6L~a4QcRYU0kRSg-4j4sn7m7URiMCnNhMEuF~ymGnpbmChMDsWv~vcfODK4Xge4gkykZgGSOLCZ~sgeIPtwxGntElLG8EEOU-yHiE1in2cXZHGymwkWf6O0qTRdKaUrWeP5QdEdfXVsQrwNC~IR~XYtN3i7VOqmLV0Jf7rhW36Eze9XSmZEFJxVe8q33f~-nZiFpJq4cLEb0w4Sx1o4N0H8-Ry31TzeyXvNbZLMtOUMbjrIFQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1743462554&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzQ2MjU1NH19fV19&Signature=Kj1AWbKHtAalnO~0OjoyVuSYlKROE6Lt3Ye0C~huzUcThblHaM3DdNjr5Zz-a3VdOFxLvo6Bp1498EvTlmXXsz3MOT7jzh-qRJ-xSRLr1LQolwJepxdciPSaY6U3YMrHTj3BkAs-wkv-V0~7EoqOuzpwP9NLQOKGsr30yeqc03arimfcRp~X4G3Q3E1c1d~aeXvd6Xc82Xw7d8NdfqX~TtuGz96oF12hhH85PHw4JvEavB-ingUdsevnvmscjJCzJX96bOWoXyOGTALenW5TY7M39MKd2JnRk7KsvU1uzwTu6vzfGapr6~8M6eyvKQaZXqg3GF9IHXyyepc8CL4fOA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",어린이 만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1743376732&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDMzNzY3MzJ9fX1dfQ__&Signature=PdtTAE9~kIn3-9SuSrd03YOc2FmL~-l9gm1ofImac6lVdjjyoKIeIyh3Qn2WT884atSH1sByaNWxU9FGYjm4UlAE3-H7nnVdJXsvcQ1NkG4s52jJQo~8SCVdcFOJumm~N1avnI1rGGvwYigjuDHrnlKZ5tcBjoiUvvPwLDIQD5FgsY6FEC-U3XujzdgCBAQGcAz2YvfqRWru54eGzofW~uNF3OIr1hnTb~kY8LDk8Ailkct-Tn5~IFCc8tEhP7R7Vi17ByhIWtlYxq9mU7HLEm6UAXxjhGmiApYdX80EiHB7waqEza82Bbh7Oi-ppXMot06t3WJHCI8cr6oEkWU3YA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1743462629&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDM0NjI2Mjl9fX1dfQ__&Signature=iDN03oXZTvBS~RKCkcuRXenJKlYPYA4N7kMay2C~otTVXy9EwRtcUhcIQGjvsXrVtMLdoXhKNuMiwuu2MT6PWfZIS9bhurXDs5teVd65ALJckLBYxHp48ZUd-2LedTnwcMf5kBpDcXpRUa2kYBcYfric-zp7PVVzJX5qhCW-pUDAWv9rePwokfzKcHUyV7BYPBY4CByvUpLkIkUYM0YmLfK-pF7R3poko-RGDNfpiaP4AdHO4wZiqHDcviMm5X-Gx7lGfu~d2eXjaFpM-93JqRp-5yBzbuzl1PaUoR8qbX2-fUenKzSujz5ztP1rp7YALUK5lknTFKI0nnp5Nkouhg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="🐉한국방송🦆",짱구
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1301_A2CD4035.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",키즈타임
@@ -575,16 +577,16 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-08/17414495651.jpg", 협상의 기술 (2025) 7회
+https://www.humortown.net/20250329/OP7vVb0t/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M0000027rFel1b9oMP.jpg", 감자연구소 (2025) 9회
+https://www.humortown.net/20250329/XZfUAL7W/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 12회
+https://www.humortown.net/20250329/nOpU7tYj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 12회
+https://www.humortown.net/20250329/rzHVAczQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 17회
 https://www.humortown.net/20250329/7BDtzoZs/1000kb/hls/index.m3u8
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 11회
-https://www.humortown.net/20250328/949pCW5g/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 11회
-https://www.humortown.net/20250328/NRjyvr42/1000kb/hls/index.m3u8
-
 
 
 
@@ -716,6 +718,8 @@ https://www.humortown.net/20250226/nSxD0vVE/1000kb/hls/index.m3u8
 https://www.humortown.net/20250226/41K4PtQ4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/acc06626b90dd42608681ea114cf4017.jpg", 어쨌든 서른 (2025) 1-5회
 https://www.humortown.net/20250223/FPgu0ubE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 11회
+https://www.humortown.net/20250328/949pCW5g/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 10회
 https://www.humortown.net/20250322/ry38KJGw/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 9회
@@ -736,6 +740,8 @@ https://www.humortown.net/20250228/a3ezTb5f/1000kb/hls/index.m3u8
 https://www.humortown.net/20250222/vK5NIoIh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/7e65222af270fe38b91b36ee26fbde0c.jpg", 보물섬 (2025) 1회
 https://www.humortown.net/20250221/T8BVnJSK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 11회
+https://www.humortown.net/20250328/NRjyvr42/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 10회
 https://www.humortown.net/20250322/vcpVd7nE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20250221-1/695d6d773af3c2b1b98c8d724fc8f80a.jpg", 언더커버 하이스쿨 (2025) 9회
@@ -1455,6 +1461,35 @@ https://www.ddetv.com/20241007/JJz1QGYT/1000kb/hls/index.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240901-1/4848822a4a3a23c37e8d281b012e6e8e.jpg", 250329 전지적 참견 시점
+https://www.soratv2.com/20250329/VkoU7j6B/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240831-1/df5cdc5ab3c7d7d2ce84194e3f415157.jpg", 250329 속풀이쇼 동치미
+https://www.soratv2.com/20250329/2Pe2VYiA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240901-1/7c0ec60fc0daaa5ec37a0d9f5bd90378.jpg", 250329 그것이 알고 싶다
+https://www.soratv2.com/20250329/RLQpl73g/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240818-1/aaae2b4e2e70d10efe7f181b55cdc27a.jpg", 250329 다큐 온
+https://www.muumuutv.com/20250329/7Qs1RWGU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240803-1/92cef6258bd1b3d62860bb5ddd9d53a6.jpg", 250322 세상에 나쁜 개는 없다
+https://www.muumuutv.com/20250322/oS7GWEQE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250309-1/ee772d902496c3ff41f0d39c5fe87a5e.jpg", 250329 최화정 김호영의 보고싶었어
+https://www.muumuutv.com/20250329/5y0r5ES5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241123-1/1e1b3b0a51c1c9d04ef82572ee92a01b.jpg", 250329 아는 형님
+https://www.soratv2.com/20250329/IyUs1Y4z/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241012-1/00885a1ce9620b14a27845e43b8e5d29.jpg", 250329 살림하는 남자들 시즌2
+https://www.soratv2.com/20250329/bXnEXKsh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240811-1/6b2327ef3fdbf8548bd31ec2cda26f86.jpg", 250329 특파원 보고 세계는 지금
+https://www.soratv2.com/20250329/sEL6GTfx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240810-1/ee1436c3c3eff7282d1ea666ec172c8a.jpg", 250329 극한직업
+https://www.muumuutv.com/20250329/jXz8bTQF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240824-1/1f4867eab11c1afc763f43be1c40e6f9.jpg", 250329 니돈내산 독박투어3
+https://www.muumuutv.com/20250329/XsICZb3l/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240810-1/7baa25ff52b34f1f5fa8480ee6e320c6.jpg", 250329 강적들
+https://www.muumuutv.com/20250329/3e92upeo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250118-1/6ec1252a5128bd6f18c389900e31c193.jpg", 250329 다 컸는데 안 나가요
 https://www.muumuutv.com/20250329/h34A2R5b/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250322-1/a6eacef1a59b91d170f9859d077a63e3.jpg", 250329 지구마불 세계여행3
