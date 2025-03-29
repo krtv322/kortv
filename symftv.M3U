@@ -4224,10 +4224,18 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",中超 青岛西海岸vs上海海港
-https://zb-play.rwabwo.com/public/702119214_1743157832_gqzm.flv?txSecret=dc41d2fe2907686bd98272ea7fdb1123&txTime=67E6E52C
-
-
+#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 门兴VSRB莱比锡
+https://zb-play.rwabwo.com/public/311820033_1743257203_gqzm.flv?txSecret=ccbde5e7662a9659f884bb987630a0c0&txTime=67E853C9
+#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 拜仁vs圣保利
+https://zb-play.rwabwo.com/public/744649501_1743256965_gqzm.flv?txSecret=38854cf62408baa6cd2f01469b76d7e8&txTime=67E85322
+#EXTINF:-1 group-title="🐉축구생중계🦮",德甲   基尔vs不莱梅
+https://zb-play.rwabwo.com/public/740841833_1743256825_gqzm.flv?txSecret=06164762d80dc33d66a1ecb023bb5dc3&txTime=67E85441
+#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 威尼斯VS博洛尼亚
+https://zb-play.rwabwo.com/public/167165655_1743255628_gqzm.flv?txSecret=805cf282582dfd7150ff05e03b8e2afb&txTime=67E853FE
+#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 科莫VS恩波利
+https://zb-play.rwabwo.com/public/665362646_1743255754_gqzm.flv?txSecret=e27a658fe590f38d99e1f769700d3af2&txTime=67E8541F
+#EXTINF:-1 group-title="🐉축구생중계🦮",西甲  皇家社会vs巴拉多利德
+https://zb-play.rwabwo.com/public/702119214_1743253637_gqzm.flv?txSecret=52056faa6e6604d4c094a5c28798a74c&txTime=67E85399
 
 
 
