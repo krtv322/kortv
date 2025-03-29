@@ -434,10 +434,6 @@ https://stream.ogtv3.com/live/live1019.m3u8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",디원
 http://im28.modhospital.kr:9981/stream/channelid/51?ticket=EA75A123D6CCBF42D4226B42116B503956960901
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",드라마큐브
-http://im28.modhospital.kr:9981/stream/channelid/70?ticket=A501E6251A8ED15A631321D230824EE671CE07F6
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",드라맥스
-http://im28.modhospital.kr:9981/stream/channelid/26?ticket=E2FC05BEE7DC056B70554644E346E7F17C2A736F
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://211.170.95.22/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
