@@ -4425,6 +4425,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
+#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 弗赖堡VS柏林联合
+https://zb-play.rwabwo.com/public/922335633_1743340763_gqzm.flv?txSecret=202f46f464cf8a59722c88744471702d&txTime=67E99B0A
 #EXTINF:-1 group-title="🐉축구생중계🦮",英足总杯 普雷斯顿VS阿斯顿维拉
 https://zb-play.rwabwo.com/public/218745904_1743337636_gqzm.flv?txSecret=55bfb2c6d4fcb4d83ac7c75ebbbbddfe&txTime=67E98D56
 #EXTINF:-1 group-title="🐉축구생중계🦮",意甲 佛罗伦萨vs亚特兰大
