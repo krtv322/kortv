@@ -653,126 +653,7 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q
 
 
 
-#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png" group-title="TV 시리즈 정주행채널",Mnet 스트릿 우먼 파이터
-https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
-#EXTINF:-1 channel-id="samsung-KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="503" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000261J_20220824T022454.png" group-title="TV 시리즈 정주행채널",tvN 도깨비
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/58/KRBB4200005CK_20220329T055233.png" group-title="TV 시리즈 정주행채널",SBS 순옥명작관
-https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="532" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/67/KRBB5000073UD_20220511T002806.png" group-title="TV 시리즈 정주행채널",MBC 어쩌다 발견한 하루
-https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-chno="533" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB42000061Z_20220824T102035.png" group-title="TV 시리즈 정주행채널",SBS 낭만닥터 김사부2
-https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="534" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/KRBB5000070U4_20220712T041357.png" group-title="TV 시리즈 정주행채널",MBC 해를 품은 달
-https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-chno="535" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/58/KRBB420000180_20220810T035031.png" group-title="TV 시리즈 정주행채널",SBS 브람스를 좋아하세요?
-https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-chno="538" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/81/KRBC20000347_20220329T055226.png" group-title="TV 시리즈 정주행채널",MBC 왔다! 장보리
-https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="551" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200013UR_20220824T022447.png" group-title="TV 시리즈 정주행채널",tvN 낮과밤
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
-#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-chno="552" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC320002200_20220824T022441.png" group-title="TV 시리즈 정주행채널",tvN THE K2
-https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
-#EXTINF:-1 channel-id="samsung-KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="553" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png" group-title="TV 시리즈 정주행채널",tvN 라이브
-https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
-#EXTINF:-1 channel-id="samsung-KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="554" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200014XZ_20220824T022458.png" group-title="TV 시리즈 정주행채널",tvN 마인
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
-#EXTINF:-1 channel-id="samsung-KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="555" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000248R_20220824T022513.png" group-title="TV 시리즈 정주행채널",tvN 여신강림
-https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
-#EXTINF:-1 channel-id="samsung-KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="556" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000156C_20220824T022518.png" group-title="TV 시리즈 정주행채널",tvN 청일전자 미쓰리
-https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000156C
-#EXTINF:-1 channel-id="samsung-KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="557" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png" group-title="TV 시리즈 정주행채널",tvN 톱스타 유백이
-https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
-#EXTINF:-1 channel-id="samsung-KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="558" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200016H1_20220824T022445.png" group-title="TV 시리즈 정주행채널",tvN 나인룸
-https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
-#EXTINF:-1 channel-id="samsung-KRBC3200027ED" tvg-id="KRBC3200027ED" tvg-chno="560" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200027ED_20220824T022523.png" group-title="TV 시리즈 정주행채널",tvN 하늘에서 내리는 1억개의 별
-https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
-#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="561" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200001VC_20220824T112708.png" group-title="TV 시리즈 정주행채널",영앤드라마
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%98%81%EC%95%A4%EB%93%9C%EB%9D%BC%EB%A7%88&channel_id=newid_024&apikey=b97c7a7d0c82424bb607e141ef215779&auth=e9963ef1-e25f558f-49451fd9-38ec4fb9&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-chno="562" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB500037T3_20220824T111807.png" group-title="TV 시리즈 정주행채널",별순검
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%B3%84%EC%88%9C%EA%B2%80&channel_id=newid_049&apikey=b97c7a7d0c82424bb607e141ef215779&auth=80d47d1d-b88fe1dd-bab31df3-623cfbeb&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="578" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC8000128W_20220824T022425.png" group-title="TV 시리즈 정주행채널",중화TV 곡주부인
-https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
-#EXTINF:-1 channel-id="samsung-KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="579" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800013YF_20220824T022542.png" group-title="TV 시리즈 정주행채널",중화TV 장가행
-https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800013YF
-#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="580" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB5000069BS_20220824T102029.png" group-title="TV 시리즈 정주행채널",MBC 무한도전
-https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="582" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/55/KRBB4200002MM_20220329T055250.png" group-title="TV 시리즈 정주행채널",SBS 런닝맨
-https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="583" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/10/KRBB50000711L_20220329T055248.png" group-title="TV 시리즈 정주행채널",MBC 구해줘! 홈즈
-https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/KRBB4200003ZL_20220413T005115.png" group-title="TV 시리즈 정주행채널",SBS 미운 우리 새끼
-https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-chno="585" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200007D1_20220824T112718.png" group-title="TV 시리즈 정주행채널",맛있는 녀석들
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%A7%9B%EC%9E%88%EB%8A%94%EB%85%80%EC%84%9D%EB%93%A4&channel_id=newid_028&apikey=b97c7a7d0c82424bb607e141ef215779&auth=a166d748-5570979a-f6fa4ab3-8fc38dac&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="586" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB500035VF_20220824T022533.png" group-title="TV 시리즈 정주행채널",비디오스타
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%B9%84%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80&channel_id=newid_048&apikey=b97c7a7d0c82424bb607e141ef215779&auth=15a4a988-8e7d712e-4daed21a-54ce6b18&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="587" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/89/KRBB50000721W_20220329T055241.png" group-title="TV 시리즈 정주행채널",MBC 신비한 TV 서프라이즈
-https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-chno="588" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200008M6_20220824T112724.png" group-title="TV 시리즈 정주행채널",식객 허영만의 백반기행
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%8B%9D%EA%B0%9D%ED%97%88%EC%98%81%EB%A7%8C%EC%9D%98%EB%B0%B1%EB%B0%98%EA%B8%B0%ED%96%89&channel_id=newid_029&apikey=b97c7a7d0c82424bb607e141ef215779&auth=341603dd-63820769-01e7855a-b9311d5f&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/KRBB4200008PR_20220413T005111.png" group-title="TV 시리즈 정주행채널",SBS 동상이몽2 - 너는 내 운명
-https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="590" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/KRBC200002I0_20220329T055215.png" group-title="TV 시리즈 정주행채널",MBC 나혼자산다
-https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-chno="591" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/KRBB4200009C3_20220413T005144.png" group-title="TV 시리즈 정주행채널",SBS 집사부일체
-https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-chno="592" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/KRBC20000418_20220511T002810.png" group-title="TV 시리즈 정주행채널",MBC 라디오스타
-https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-chno="593" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/96/KRBB4200011RB_20220712T041402.png" group-title="TV 시리즈 정주행채널",SBS 백종원의 골목식당
-https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="594" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB5000364M_20220824T111808.png" group-title="TV 시리즈 정주행채널",대한외국인
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%8C%80%ED%95%9C%EC%99%B8%EA%B5%AD%EC%9D%B8&channel_id=newid_050&apikey=b97c7a7d0c82424bb607e141ef215779&auth=e5f40fb9-c61aa1c1-41a5f345-1ca9bbf7&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-chno="595" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/KRBB4200012PV_20220413T005140.png" group-title="TV 시리즈 정주행채널",SBS 정글의 법칙
-https://d1qhklddeqjbtp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-35rocwtlqy12b-prod/hls-harvester2-1293-prod/us-east-1/cc-35rocwtlqy12b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-chno="596" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/79/KRBB42000100V_20220413T005124.png" group-title="TV 시리즈 정주행채널",SBS 불타는 청춘
-https://d3ev7kkpknycu4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bedw21gabjfhb-prod/hls-harvester2-1293-prod/us-east-1/cc-bedw21gabjfhb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-chno="597" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/50/KRBB4200014MY_20220413T005148.png" group-title="TV 시리즈 정주행채널",SBS 패밀리가 떴다
-https://d2v11xgt6ag1o7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lhw9f4zm2hids-prod/hls-harvester2-1293-prod/us-east-1/cc-lhw9f4zm2hids/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-chno="598" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/40/KRBB420001572_20220811T022205.png" group-title="TV 시리즈 정주행채널",SBS 스타킹
-https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="599" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200017JQ_20220824T022508.png" group-title="TV 시리즈 정주행채널",tvN 숲속의 작은 집
-https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
-#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="600" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200018FU_20220824T022450.png" group-title="영화",tvN 노포의 영업비밀(9-19회)
-https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
-#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="601" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png" group-title="TV 시리즈 정주행채널",tvN 수미네 반찬(1-12회)
-https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2
-#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="602" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png" group-title="TV 시리즈 정주행채널",tvN 유퀴즈온더블럭(33-52회)
-https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4
-#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="603" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200023BG_20220824T022511.png" group-title="TV 시리즈 정주행채널",tvN 스트리트푸드파이터
-https://d151dxm6owf2zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rbhbw3vbbdjci-ssai-prd/23a98766_04e3_4a66_9467_aa8b36e32a7d/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200023BG
-#EXTINF:-1 channel-id="samsung-KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="605" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200030BO_20220824T022452.png" group-title="TV 시리즈 정주행채널",tvN 놀라운 토요일(1-14회)
-https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200030BO
-#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="606" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000200B_20220824T022443.png" group-title="TV 시리즈 정주행채널",tvN 꽃보다할배
-https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000200B
-#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="607" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200021ZA_20220824T022502.png" group-title="TV 시리즈 정주행채널",tvN 삼시세끼 어촌편5
-https://d2jgaw7uttn3h3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/b1e01036_7c37_48b3_9137_7ecc71b50661/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200021ZA
-#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="612" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC2000010X_20220824T102031.png" group-title="TV 시리즈 정주행채널",MBC 안녕, 프란체스카
-https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-chno="613" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB4200004RA_20220824T102037.png" group-title="TV 시리즈 정주행채널",SBS 똑바로 살아라
-https://d2ji8bbykh38sd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p7u2m4ayh1qsb-prod/hls-harvester2-1293-prod/us-east-1/cc-p7u2m4ayh1qsb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="614" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC200005H6_20220824T102033.png" group-title="TV 시리즈 정주행채널",MBC 지붕뚫고 하이킥
-https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200002BE" tvg-id="KRBC3200002BE" tvg-chno="629" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200002BE_20220824T112720.png" group-title="TV 시리즈 정주행채널",모터그래프
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%AA%A8%ED%84%B0%EA%B7%B8%EB%9E%98%ED%94%84&channel_id=newid_014&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b3f70191-8fd9a6d5-f957d0ad-556abce3&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBC320000333" tvg-id="KRBC320000333" tvg-chno="630" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC320000333_20220824T022536.png" group-title="TV 시리즈 정주행채널",셀레브
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%85%80%EB%A0%88%EB%B8%8C&channel_id=newid_015&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2687d504-b92b3626-0e4a1f44-63982c10&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="631" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png" group-title="TV 시리즈 정주행채널",tvN 코미디빅리그(366-377회)
-https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
-#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-chno="641" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/KRBB420000769_20220525T002316.png" group-title="TV 시리즈 정주행채널",SBS TV 동물농장
-https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-chno="642" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/KRBB4200013L5_20220413T005132.png" group-title="TV 시리즈 정주행채널",SBS 순간포착 세상에 이런일이
-https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-chno="643" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/KRBB4200016TZ_20220413T005136.png" group-title="TV 시리즈 정주행채널",SBS 스페셜
-https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-chno="644" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/KRBB4200017HA_20220413T005103.png" group-title="TV 시리즈 정주행채널",SBS 그것이 알고싶다
-https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-chno="645" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/KRBB4200018FT_20220413T005128.png" group-title="TV 시리즈 정주행채널",SBS 생활의 달인
-https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-chno="646" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200009M7_20220824T022539.png" group-title="TV 시리즈 정주행채널",신박한 벙커
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=tbsflex&channel_id=newid_023&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b5261d98-6282a756-e1877a85-b831bd60&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="647" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800016YS_20220824T022500.png" group-title="TV 시리즈 정주행채널",tvN 벌거벗은 세계사(4-13회)
-https://d2o2hmoiqx116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o3aplgjgapswr-ssai-prd/43044fab_9b3c_461f_8bd9_89fe0142fc49/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800016YS
+
 
 
 
@@ -4156,142 +4037,151 @@ https://hn.bfvvs.com/play/NbW46Vvd/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🐉重温经典📺",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="🐉重温经典📺",邵氏影院
-https://lunbo.freetv.top/douyu/4246519
-#EXTINF:-1 group-title="🐉重温经典📺",经典港片
-https://lunbo.freetv.top/huya/11352965
-#EXTINF:-1 group-title="🐉重温经典📺",奇光影院
-https://lunbo.freetv.top/douyu/8009547
-#EXTINF:-1 group-title="🐉重温经典📺",恐怖丧尸鬼片
-https://lunbo.freetv.top/douyu/263824
-#EXTINF:-1 group-title="🐉重温经典📺",电影_战争片
-https://lunbo.freetv.top/huya/21059574
-#EXTINF:-1 group-title="🐉重温经典📺",电影_谍战
-https://lunbo.freetv.top/huya/21059585
-#EXTINF:-1 group-title="🐉重温经典📺",电影_武侠
-https://lunbo.freetv.top/huya/11342427
-#EXTINF:-1 group-title="🐉重温经典📺",电影_罪犯
-https://lunbo.freetv.top/huya/11352962
-#EXTINF:-1 group-title="🐉重温经典📺",电影_星爷
-https://lunbo.freetv.top/huya/11342412
-#EXTINF:-1 group-title="🐉重温经典📺",电影_英叔
-https://lunbo.freetv.top/huya/11342421
-#EXTINF:-1 group-title="🐉重温经典📺",电影_发哥
-https://lunbo.freetv.top/huya/11342387
-#EXTINF:-1 group-title="🐉重温经典📺",电影_成龙
-https://lunbo.freetv.top/huya/11342386
-#EXTINF:-1 group-title="🐉重温经典📺",电影_李连杰
-https://lunbo.freetv.top/huya/11342390
-#EXTINF:-1 group-title="🐉重温经典📺",电影_沈腾
-https://lunbo.freetv.top/huya/11601968
-#EXTINF:-1 group-title="🐉重温经典📺",电影_黄渤
-https://lunbo.freetv.top/huya/11352876
-#EXTINF:-1 group-title="🐉重温经典📺",电影_洪金宝
-https://lunbo.freetv.top/huya/11279251
-#EXTINF:-1 group-title="🐉重温经典📺",电影_梁家辉
-https://lunbo.freetv.top/huya/11342429
-#EXTINF:-1 group-title="🐉重温经典📺",电影_刘德华
-https://lunbo.freetv.top/huya/11342424
-#EXTINF:-1 group-title="🐉重温经典📺",漫威太君
-https://lunbo.freetv.top/douyu/1713615
-#EXTINF:-1 group-title="🐉重温经典📺",电视剧轮播
-https://lunbo.freetv.top/douyu/431460
-#EXTINF:-1 group-title="🐉重温经典📺",经典港剧
-https://lunbo.freetv.top/douyu/4290711
-#EXTINF:-1 group-title="🐉重温经典📺",人气港剧
-https://lunbo.freetv.top/douyu/5261342
-#EXTINF:-1 group-title="🐉重温经典📺",老剧轮播
-https://lunbo.freetv.top/douyu/7655471
-#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播1
-https://lunbo.freetv.top/douyu/7655471
-#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播2
-https://lunbo.freetv.top/douyu/4549169
-#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播3
-https://lunbo.freetv.top/douyu/4373285
-#EXTINF:-1 group-title="🐉重温经典📺",动漫轮播
-https://lunbo.freetv.top/douyu/426517
-#EXTINF:-1 group-title="🐉重温经典📺",老动画轮播
-https://lunbo.freetv.top/douyu/7528160
-#EXTINF:-1 group-title="🐉重温经典📺",动漫电影
-https://lunbo.freetv.top/douyu/8799435
-#EXTINF:-1 group-title="🐉重温经典📺",鬼兄奇谈
-https://lunbo.freetv.top/douyu/8722254
-#EXTINF:-1 group-title="🐉重温经典📺",贝爷求生
-https://lunbo.freetv.top/douyu/454867
-#EXTINF:-1 group-title="🐉重温经典📺",荒野建造者
-https://lunbo.freetv.top/douyu/9611578
-#EXTINF:-1 group-title="🐉重温经典📺",民间高手
-https://lunbo.freetv.top/douyu/10372765
-#EXTINF:-1 group-title="🐉重温经典📺",赵本山小品
-https://lunbo.freetv.top/douyu/9817716
-#EXTINF:-1 group-title="🐉重温经典📺",宋小宝小品
-https://lunbo.freetv.top/douyu/9817729
-#EXTINF:-1 group-title="🐉重温经典📺",巩汉林小品
-https://lunbo.freetv.top/yy/1354889035
-#EXTINF:-1 group-title="🐉重温经典📺",贾玲小品
-https://lunbo.freetv.top/douyu/10419541
-#EXTINF:-1 group-title="🐉重温经典📺",粤语综艺
-https://lunbo.freetv.top/douyu/7919720
-#EXTINF:-1 group-title="🐉重温经典📺",封神榜
-https://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="🐉重温经典📺",西游记
-https://lunbo.freetv.top/douyu/3700024
-#EXTINF:-1 group-title="🐉重温经典📺",西游记续
-https://lunbo.freetv.top/douyu/3113309
-#EXTINF:-1 group-title="🐉重温经典📺",红楼梦
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_老三国
-https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_新三国
-https://lunbo.freetv.top/huya/11352944
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_新水浒
-https://lunbo.freetv.top/huya/11342384
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_庆余年
-https://lunbo.freetv.top/huya/11352960
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_雍正王朝
-https://lunbo.freetv.top/huya/11342439
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_士兵突击
-https://lunbo.freetv.top/huya/11342430
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_爱情公寓
-https://lunbo.freetv.top/huya/11336726
-#EXTINF:-1 group-title="🐉重温经典📺",剧集_鹿鼎记
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1 group-title="🐉重温经典📺",新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 group-title="🐉重温经典📺",包青天（金超群版）
-https://lunbo.freetv.top/yy/1356158015
-#EXTINF:-1 group-title="🐉重温经典📺",济公游记
-https://lunbo.freetv.top/yy/1355265814
-#EXTINF:-1 group-title="🐉重温经典📺",射雕英雄传83版
-https://lunbo.freetv.top/yy/1354210357
-#EXTINF:-1 group-title="🐉重温经典📺",射雕侠侣
-https://lunbo.freetv.top/yy/1382704651
-#EXTINF:-1 group-title="🐉重温经典📺",天龙八部
-https://lunbo.freetv.top/yy/1382736855
-#EXTINF:-1 group-title="🐉重温经典📺",笑傲江湖
-https://lunbo.freetv.top/yy/1354282410
-#EXTINF:-1 group-title="🐉重温经典📺",少年歌行
-https://lunbo.freetv.top/yy/1354806550
-#EXTINF:-1 group-title="🐉重温经典📺",上海滩
-https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="🐉重温经典📺",猫和老鼠剧集
-http://live.iill.top/huya.php?id=11352879
-#EXTINF:-1 group-title="🐉重温经典📺",蜡笔小新剧集
-http://cfss.cc/cdn/hy/11352970.m3u8
-#EXTINF:-1 group-title="🐉重温经典📺",灌篮高手
-https://live.metshop.top/yy/1382735626
-#EXTINF:-1 group-title="🐉重温经典📺",七龙珠
-http://live.iill.top/huya.php?id=11601966
-#EXTINF:-1 group-title="🐉重温经典📺",哆啦A梦
-http://live.iill.top/huya.php?id=11601963
+#EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="http://pic.xlhs.com/up/2023-7/20237131030418129.png",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
+http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
+#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 弗赖堡VS柏林联合
+https://zb-play.rwabwo.com/public/922335633_1743340763_gqzm.flv?txSecret=202f46f464cf8a59722c88744471702d&txTime=67E99B0A
+#EXTINF:-1 group-title="🐉축구생중계🦮",英足总杯 普雷斯顿VS阿斯顿维拉
+https://zb-play.rwabwo.com/public/218745904_1743337636_gqzm.flv?txSecret=55bfb2c6d4fcb4d83ac7c75ebbbbddfe&txTime=67E98D56
+#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 佛罗伦萨vs亚特兰大
+https://zb-play.rwabwo.com/public/702119214_1743337439_gqzm.flv?txSecret=d9ef938fcef7f97af4d21b84a917d1bd&txTime=67E98D14
+#EXTINF:-1 group-title="🐉축구생중계🦮",法甲 图卢兹VS布雷斯特
+https://zb-play.rwabwo.com/public/825408619_1743338852_gqzm.flv?txSecret=1939115fa103d339b8b9d0f251a14f13&txTime=67E9929F
+#EXTINF:-1 group-title="🐉축구생중계🦮",荷甲 埃因霍温VS阿贾克斯
+https://zb-play.rwabwo.com/public/181211309_1743337336_gqzm.flv?txSecret=dd94f568dac0156fa250a49d5cb2b8af&txTime=67E98C40
+#EXTINF:-1 group-title="🐉축구생중계🦮",西甲 赫塔菲vs比利亚雷亚尔
+https://zb-play.rwabwo.com/public/274544029_1743335000_gqzm.flv?txSecret=902dc559aab55c78fa0f83aa9b93f42d&txTime=67E983A0
+#EXTINF:-1 group-title="🐉축구생중계🦮",瑞典超	哈马比	哥德堡
+https://zb-play.rwabwo.com/public/877164091_1743335443_gqzm.flv?txSecret=b7976aed362652f0ea33e2482530e9d9&txTime=67E98AC4
 
 
 
 
 
+
+
+#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png" group-title="TV 시리즈 정주행채널",Mnet 스트릿 우먼 파이터
+https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
+#EXTINF:-1 channel-id="samsung-KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="503" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000261J_20220824T022454.png" group-title="TV 시리즈 정주행채널",tvN 도깨비
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/58/KRBB4200005CK_20220329T055233.png" group-title="TV 시리즈 정주행채널",SBS 순옥명작관
+https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="532" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/67/KRBB5000073UD_20220511T002806.png" group-title="TV 시리즈 정주행채널",MBC 어쩌다 발견한 하루
+https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-chno="533" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB42000061Z_20220824T102035.png" group-title="TV 시리즈 정주행채널",SBS 낭만닥터 김사부2
+https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="534" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/KRBB5000070U4_20220712T041357.png" group-title="TV 시리즈 정주행채널",MBC 해를 품은 달
+https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-chno="535" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/58/KRBB420000180_20220810T035031.png" group-title="TV 시리즈 정주행채널",SBS 브람스를 좋아하세요?
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-chno="538" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/81/KRBC20000347_20220329T055226.png" group-title="TV 시리즈 정주행채널",MBC 왔다! 장보리
+https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="551" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200013UR_20220824T022447.png" group-title="TV 시리즈 정주행채널",tvN 낮과밤
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
+#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-chno="552" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC320002200_20220824T022441.png" group-title="TV 시리즈 정주행채널",tvN THE K2
+https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
+#EXTINF:-1 channel-id="samsung-KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="553" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png" group-title="TV 시리즈 정주행채널",tvN 라이브
+https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
+#EXTINF:-1 channel-id="samsung-KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="554" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200014XZ_20220824T022458.png" group-title="TV 시리즈 정주행채널",tvN 마인
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
+#EXTINF:-1 channel-id="samsung-KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="555" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000248R_20220824T022513.png" group-title="TV 시리즈 정주행채널",tvN 여신강림
+https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
+#EXTINF:-1 channel-id="samsung-KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="556" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000156C_20220824T022518.png" group-title="TV 시리즈 정주행채널",tvN 청일전자 미쓰리
+https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000156C
+#EXTINF:-1 channel-id="samsung-KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="557" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png" group-title="TV 시리즈 정주행채널",tvN 톱스타 유백이
+https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+#EXTINF:-1 channel-id="samsung-KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="558" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200016H1_20220824T022445.png" group-title="TV 시리즈 정주행채널",tvN 나인룸
+https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
+#EXTINF:-1 channel-id="samsung-KRBC3200027ED" tvg-id="KRBC3200027ED" tvg-chno="560" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200027ED_20220824T022523.png" group-title="TV 시리즈 정주행채널",tvN 하늘에서 내리는 1억개의 별
+https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="561" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200001VC_20220824T112708.png" group-title="TV 시리즈 정주행채널",영앤드라마
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%98%81%EC%95%A4%EB%93%9C%EB%9D%BC%EB%A7%88&channel_id=newid_024&apikey=b97c7a7d0c82424bb607e141ef215779&auth=e9963ef1-e25f558f-49451fd9-38ec4fb9&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBB500037T3" tvg-id="KRBB500037T3" tvg-chno="562" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB500037T3_20220824T111807.png" group-title="TV 시리즈 정주행채널",별순검
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%B3%84%EC%88%9C%EA%B2%80&channel_id=newid_049&apikey=b97c7a7d0c82424bb607e141ef215779&auth=80d47d1d-b88fe1dd-bab31df3-623cfbeb&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="578" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC8000128W_20220824T022425.png" group-title="TV 시리즈 정주행채널",중화TV 곡주부인
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
+#EXTINF:-1 channel-id="samsung-KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="579" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800013YF_20220824T022542.png" group-title="TV 시리즈 정주행채널",중화TV 장가행
+https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800013YF
+#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="580" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB5000069BS_20220824T102029.png" group-title="TV 시리즈 정주행채널",MBC 무한도전
+https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="582" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/55/KRBB4200002MM_20220329T055250.png" group-title="TV 시리즈 정주행채널",SBS 런닝맨
+https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="583" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/10/KRBB50000711L_20220329T055248.png" group-title="TV 시리즈 정주행채널",MBC 구해줘! 홈즈
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/KRBB4200003ZL_20220413T005115.png" group-title="TV 시리즈 정주행채널",SBS 미운 우리 새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200007D1" tvg-id="KRBC3200007D1" tvg-chno="585" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200007D1_20220824T112718.png" group-title="TV 시리즈 정주행채널",맛있는 녀석들
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%A7%9B%EC%9E%88%EB%8A%94%EB%85%80%EC%84%9D%EB%93%A4&channel_id=newid_028&apikey=b97c7a7d0c82424bb607e141ef215779&auth=a166d748-5570979a-f6fa4ab3-8fc38dac&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="586" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB500035VF_20220824T022533.png" group-title="TV 시리즈 정주행채널",비디오스타
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%B9%84%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80&channel_id=newid_048&apikey=b97c7a7d0c82424bb607e141ef215779&auth=15a4a988-8e7d712e-4daed21a-54ce6b18&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="587" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/89/KRBB50000721W_20220329T055241.png" group-title="TV 시리즈 정주행채널",MBC 신비한 TV 서프라이즈
+https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200008M6" tvg-id="KRBC3200008M6" tvg-chno="588" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200008M6_20220824T112724.png" group-title="TV 시리즈 정주행채널",식객 허영만의 백반기행
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%8B%9D%EA%B0%9D%ED%97%88%EC%98%81%EB%A7%8C%EC%9D%98%EB%B0%B1%EB%B0%98%EA%B8%B0%ED%96%89&channel_id=newid_029&apikey=b97c7a7d0c82424bb607e141ef215779&auth=341603dd-63820769-01e7855a-b9311d5f&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/KRBB4200008PR_20220413T005111.png" group-title="TV 시리즈 정주행채널",SBS 동상이몽2 - 너는 내 운명
+https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="590" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/KRBC200002I0_20220329T055215.png" group-title="TV 시리즈 정주행채널",MBC 나혼자산다
+https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-chno="591" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/KRBB4200009C3_20220413T005144.png" group-title="TV 시리즈 정주행채널",SBS 집사부일체
+https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-chno="592" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/KRBC20000418_20220511T002810.png" group-title="TV 시리즈 정주행채널",MBC 라디오스타
+https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-chno="593" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/96/KRBB4200011RB_20220712T041402.png" group-title="TV 시리즈 정주행채널",SBS 백종원의 골목식당
+https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="594" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB5000364M_20220824T111808.png" group-title="TV 시리즈 정주행채널",대한외국인
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EB%8C%80%ED%95%9C%EC%99%B8%EA%B5%AD%EC%9D%B8&channel_id=newid_050&apikey=b97c7a7d0c82424bb607e141ef215779&auth=e5f40fb9-c61aa1c1-41a5f345-1ca9bbf7&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-chno="595" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/KRBB4200012PV_20220413T005140.png" group-title="TV 시리즈 정주행채널",SBS 정글의 법칙
+https://d1qhklddeqjbtp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-35rocwtlqy12b-prod/hls-harvester2-1293-prod/us-east-1/cc-35rocwtlqy12b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-chno="596" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/79/KRBB42000100V_20220413T005124.png" group-title="TV 시리즈 정주행채널",SBS 불타는 청춘
+https://d3ev7kkpknycu4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bedw21gabjfhb-prod/hls-harvester2-1293-prod/us-east-1/cc-bedw21gabjfhb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-chno="597" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/50/KRBB4200014MY_20220413T005148.png" group-title="TV 시리즈 정주행채널",SBS 패밀리가 떴다
+https://d2v11xgt6ag1o7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lhw9f4zm2hids-prod/hls-harvester2-1293-prod/us-east-1/cc-lhw9f4zm2hids/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-chno="598" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/40/KRBB420001572_20220811T022205.png" group-title="TV 시리즈 정주행채널",SBS 스타킹
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="599" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200017JQ_20220824T022508.png" group-title="TV 시리즈 정주행채널",tvN 숲속의 작은 집
+https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
+#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="600" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200018FU_20220824T022450.png" group-title="TV 시리즈 정주행채널",tvN 노포의 영업비밀(9-19회)
+https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
+#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="601" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png" group-title="TV 시리즈 정주행채널",tvN 수미네 반찬(1-12회)
+https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2
+#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="602" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png" group-title="TV 시리즈 정주행채널",tvN 유퀴즈온더블럭(33-52회)
+https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4
+#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="603" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200023BG_20220824T022511.png" group-title="TV 시리즈 정주행채널",tvN 스트리트푸드파이터
+https://d151dxm6owf2zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rbhbw3vbbdjci-ssai-prd/23a98766_04e3_4a66_9467_aa8b36e32a7d/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200023BG
+#EXTINF:-1 channel-id="samsung-KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="605" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200030BO_20220824T022452.png" group-title="TV 시리즈 정주행채널",tvN 놀라운 토요일(1-14회)
+https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200030BO
+#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="606" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000200B_20220824T022443.png" group-title="TV 시리즈 정주행채널",tvN 꽃보다할배
+https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000200B
+#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="607" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200021ZA_20220824T022502.png" group-title="TV 시리즈 정주행채널",tvN 삼시세끼 어촌편5
+https://d2jgaw7uttn3h3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/b1e01036_7c37_48b3_9137_7ecc71b50661/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200021ZA
+#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="612" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC2000010X_20220824T102031.png" group-title="TV 시리즈 정주행채널",MBC 안녕, 프란체스카
+https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-chno="613" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB4200004RA_20220824T102037.png" group-title="TV 시리즈 정주행채널",SBS 똑바로 살아라
+https://d2ji8bbykh38sd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p7u2m4ayh1qsb-prod/hls-harvester2-1293-prod/us-east-1/cc-p7u2m4ayh1qsb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="614" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC200005H6_20220824T102033.png" group-title="TV 시리즈 정주행채널",MBC 지붕뚫고 하이킥
+https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200002BE" tvg-id="KRBC3200002BE" tvg-chno="629" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200002BE_20220824T112720.png" group-title="TV 시리즈 정주행채널",모터그래프
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%AA%A8%ED%84%B0%EA%B7%B8%EB%9E%98%ED%94%84&channel_id=newid_014&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b3f70191-8fd9a6d5-f957d0ad-556abce3&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBC320000333" tvg-id="KRBC320000333" tvg-chno="630" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC320000333_20220824T022536.png" group-title="TV 시리즈 정주행채널",셀레브
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%85%80%EB%A0%88%EB%B8%8C&channel_id=newid_015&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2687d504-b92b3626-0e4a1f44-63982c10&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="631" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png" group-title="TV 시리즈 정주행채널",tvN 코미디빅리그(366-377회)
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-chno="641" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/KRBB420000769_20220525T002316.png" group-title="TV 시리즈 정주행채널",SBS TV 동물농장
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-chno="642" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/KRBB4200013L5_20220413T005132.png" group-title="TV 시리즈 정주행채널",SBS 순간포착 세상에 이런일이
+https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-chno="643" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/KRBB4200016TZ_20220413T005136.png" group-title="TV 시리즈 정주행채널",SBS 스페셜
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-chno="644" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/KRBB4200017HA_20220413T005103.png" group-title="TV 시리즈 정주행채널",SBS 그것이 알고싶다
+https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-chno="645" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/KRBB4200018FT_20220413T005128.png" group-title="TV 시리즈 정주행채널",SBS 생활의 달인
+https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200009M7" tvg-id="KRBC3200009M7" tvg-chno="646" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200009M7_20220824T022539.png" group-title="TV 시리즈 정주행채널",신박한 벙커
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=tbsflex&channel_id=newid_023&apikey=b97c7a7d0c82424bb607e141ef215779&auth=b5261d98-6282a756-e1877a85-b831bd60&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="647" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800016YS_20220824T022500.png" group-title="TV 시리즈 정주행채널",tvN 벌거벗은 세계사(4-13회)
+https://d2o2hmoiqx116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o3aplgjgapswr-ssai-prd/43044fab_9b3c_461f_8bd9_89fe0142fc49/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800016YS
 
 
 
@@ -4542,28 +4432,147 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 
 
 
+#EXTINF:-1 group-title="🐉重温经典📺",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="🐉重温经典📺",邵氏影院
+https://lunbo.freetv.top/douyu/4246519
+#EXTINF:-1 group-title="🐉重温经典📺",经典港片
+https://lunbo.freetv.top/huya/11352965
+#EXTINF:-1 group-title="🐉重温经典📺",奇光影院
+https://lunbo.freetv.top/douyu/8009547
+#EXTINF:-1 group-title="🐉重温经典📺",恐怖丧尸鬼片
+https://lunbo.freetv.top/douyu/263824
+#EXTINF:-1 group-title="🐉重温经典📺",电影_战争片
+https://lunbo.freetv.top/huya/21059574
+#EXTINF:-1 group-title="🐉重温经典📺",电影_谍战
+https://lunbo.freetv.top/huya/21059585
+#EXTINF:-1 group-title="🐉重温经典📺",电影_武侠
+https://lunbo.freetv.top/huya/11342427
+#EXTINF:-1 group-title="🐉重温经典📺",电影_罪犯
+https://lunbo.freetv.top/huya/11352962
+#EXTINF:-1 group-title="🐉重温经典📺",电影_星爷
+https://lunbo.freetv.top/huya/11342412
+#EXTINF:-1 group-title="🐉重温经典📺",电影_英叔
+https://lunbo.freetv.top/huya/11342421
+#EXTINF:-1 group-title="🐉重温经典📺",电影_发哥
+https://lunbo.freetv.top/huya/11342387
+#EXTINF:-1 group-title="🐉重温经典📺",电影_成龙
+https://lunbo.freetv.top/huya/11342386
+#EXTINF:-1 group-title="🐉重温经典📺",电影_李连杰
+https://lunbo.freetv.top/huya/11342390
+#EXTINF:-1 group-title="🐉重温经典📺",电影_沈腾
+https://lunbo.freetv.top/huya/11601968
+#EXTINF:-1 group-title="🐉重温经典📺",电影_黄渤
+https://lunbo.freetv.top/huya/11352876
+#EXTINF:-1 group-title="🐉重温经典📺",电影_洪金宝
+https://lunbo.freetv.top/huya/11279251
+#EXTINF:-1 group-title="🐉重温经典📺",电影_梁家辉
+https://lunbo.freetv.top/huya/11342429
+#EXTINF:-1 group-title="🐉重温经典📺",电影_刘德华
+https://lunbo.freetv.top/huya/11342424
+#EXTINF:-1 group-title="🐉重温经典📺",漫威太君
+https://lunbo.freetv.top/douyu/1713615
+#EXTINF:-1 group-title="🐉重温经典📺",电视剧轮播
+https://lunbo.freetv.top/douyu/431460
+#EXTINF:-1 group-title="🐉重温经典📺",经典港剧
+https://lunbo.freetv.top/douyu/4290711
+#EXTINF:-1 group-title="🐉重温经典📺",人气港剧
+https://lunbo.freetv.top/douyu/5261342
+#EXTINF:-1 group-title="🐉重温经典📺",老剧轮播
+https://lunbo.freetv.top/douyu/7655471
+#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播1
+https://lunbo.freetv.top/douyu/7655471
+#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播2
+https://lunbo.freetv.top/douyu/4549169
+#EXTINF:-1 group-title="🐉重温经典📺",港剧轮播3
+https://lunbo.freetv.top/douyu/4373285
+#EXTINF:-1 group-title="🐉重温经典📺",动漫轮播
+https://lunbo.freetv.top/douyu/426517
+#EXTINF:-1 group-title="🐉重温经典📺",老动画轮播
+https://lunbo.freetv.top/douyu/7528160
+#EXTINF:-1 group-title="🐉重温经典📺",动漫电影
+https://lunbo.freetv.top/douyu/8799435
+#EXTINF:-1 group-title="🐉重温经典📺",鬼兄奇谈
+https://lunbo.freetv.top/douyu/8722254
+#EXTINF:-1 group-title="🐉重温经典📺",贝爷求生
+https://lunbo.freetv.top/douyu/454867
+#EXTINF:-1 group-title="🐉重温经典📺",荒野建造者
+https://lunbo.freetv.top/douyu/9611578
+#EXTINF:-1 group-title="🐉重温经典📺",民间高手
+https://lunbo.freetv.top/douyu/10372765
+#EXTINF:-1 group-title="🐉重温经典📺",赵本山小品
+https://lunbo.freetv.top/douyu/9817716
+#EXTINF:-1 group-title="🐉重温经典📺",宋小宝小品
+https://lunbo.freetv.top/douyu/9817729
+#EXTINF:-1 group-title="🐉重温经典📺",巩汉林小品
+https://lunbo.freetv.top/yy/1354889035
+#EXTINF:-1 group-title="🐉重温经典📺",贾玲小品
+https://lunbo.freetv.top/douyu/10419541
+#EXTINF:-1 group-title="🐉重温经典📺",粤语综艺
+https://lunbo.freetv.top/douyu/7919720
+#EXTINF:-1 group-title="🐉重温经典📺",封神榜
+https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 group-title="🐉重温经典📺",西游记
+https://lunbo.freetv.top/douyu/3700024
+#EXTINF:-1 group-title="🐉重温经典📺",西游记续
+https://lunbo.freetv.top/douyu/3113309
+#EXTINF:-1 group-title="🐉重温经典📺",红楼梦
+https://lunbo.freetv.top/yy/1382745084
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_老三国
+https://lunbo.freetv.top/yy/1354930932
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_新三国
+https://lunbo.freetv.top/huya/11352944
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_新水浒
+https://lunbo.freetv.top/huya/11342384
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_庆余年
+https://lunbo.freetv.top/huya/11352960
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_雍正王朝
+https://lunbo.freetv.top/huya/11342439
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_士兵突击
+https://lunbo.freetv.top/huya/11342430
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_爱情公寓
+https://lunbo.freetv.top/huya/11336726
+#EXTINF:-1 group-title="🐉重温经典📺",剧集_鹿鼎记
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 group-title="🐉重温经典📺",新白娘子传奇
+https://lunbo.freetv.top/yy/1354930969
+#EXTINF:-1 group-title="🐉重温经典📺",包青天（金超群版）
+https://lunbo.freetv.top/yy/1356158015
+#EXTINF:-1 group-title="🐉重温经典📺",济公游记
+https://lunbo.freetv.top/yy/1355265814
+#EXTINF:-1 group-title="🐉重温经典📺",射雕英雄传83版
+https://lunbo.freetv.top/yy/1354210357
+#EXTINF:-1 group-title="🐉重温经典📺",射雕侠侣
+https://lunbo.freetv.top/yy/1382704651
+#EXTINF:-1 group-title="🐉重温经典📺",天龙八部
+https://lunbo.freetv.top/yy/1382736855
+#EXTINF:-1 group-title="🐉重温经典📺",笑傲江湖
+https://lunbo.freetv.top/yy/1354282410
+#EXTINF:-1 group-title="🐉重温经典📺",少年歌行
+https://lunbo.freetv.top/yy/1354806550
+#EXTINF:-1 group-title="🐉重温经典📺",上海滩
+https://live.metshop.top/yy/1382745184
+#EXTINF:-1 group-title="🐉重温经典📺",猫和老鼠剧集
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 group-title="🐉重温经典📺",蜡笔小新剧集
+http://cfss.cc/cdn/hy/11352970.m3u8
+#EXTINF:-1 group-title="🐉重温经典📺",灌篮高手
+https://live.metshop.top/yy/1382735626
+#EXTINF:-1 group-title="🐉重温经典📺",七龙珠
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 group-title="🐉重温经典📺",哆啦A梦
+http://live.iill.top/huya.php?id=11601963
 
 
 
 
-#EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="http://pic.xlhs.com/up/2023-7/20237131030418129.png",曼联官方 MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
-http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 弗赖堡VS柏林联合
-https://zb-play.rwabwo.com/public/922335633_1743340763_gqzm.flv?txSecret=202f46f464cf8a59722c88744471702d&txTime=67E99B0A
-#EXTINF:-1 group-title="🐉축구생중계🦮",英足总杯 普雷斯顿VS阿斯顿维拉
-https://zb-play.rwabwo.com/public/218745904_1743337636_gqzm.flv?txSecret=55bfb2c6d4fcb4d83ac7c75ebbbbddfe&txTime=67E98D56
-#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 佛罗伦萨vs亚特兰大
-https://zb-play.rwabwo.com/public/702119214_1743337439_gqzm.flv?txSecret=d9ef938fcef7f97af4d21b84a917d1bd&txTime=67E98D14
-#EXTINF:-1 group-title="🐉축구생중계🦮",法甲 图卢兹VS布雷斯特
-https://zb-play.rwabwo.com/public/825408619_1743338852_gqzm.flv?txSecret=1939115fa103d339b8b9d0f251a14f13&txTime=67E9929F
-#EXTINF:-1 group-title="🐉축구생중계🦮",荷甲 埃因霍温VS阿贾克斯
-https://zb-play.rwabwo.com/public/181211309_1743337336_gqzm.flv?txSecret=dd94f568dac0156fa250a49d5cb2b8af&txTime=67E98C40
-#EXTINF:-1 group-title="🐉축구생중계🦮",西甲 赫塔菲vs比利亚雷亚尔
-https://zb-play.rwabwo.com/public/274544029_1743335000_gqzm.flv?txSecret=902dc559aab55c78fa0f83aa9b93f42d&txTime=67E983A0
-#EXTINF:-1 group-title="🐉축구생중계🦮",瑞典超	哈马比	哥德堡
-https://zb-play.rwabwo.com/public/877164091_1743335443_gqzm.flv?txSecret=b7976aed362652f0ea33e2482530e9d9&txTime=67E98AC4
+
+
+
+
+
+
+
 
 
 
