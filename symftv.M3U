@@ -576,8 +576,26 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
 #EXTINF:-1 group-title="🐉한국방송 년비전용🦆",중화TV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",MBC On
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",tvN Sports
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t86TZJFPZlUGRsZtf6hKtiACMlOpIOMIOXHZQCC&secret=6d2a3daba14e4b18a09426c6695ab206&time=1742502545
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",KBSNSPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",MBC SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SBS SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
 #EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SKY SPORTS
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=pH6yUXa60MB3GgwLqcF31039Ai2OnSHrGKDojHkd&secret=beb8328410c3c40918ee06d0e9d19d29&time=1742500977
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV2
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV Prime+
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
+#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV Prime
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
 #EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SBS GOLF
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=XsKzqGkpDUmFmWuyIxsfyvVRJ4mMF6hKDilRFzUt&secret=b636e43843bdb115334396d210244321&time=1742499186
 #EXTINF:-1 group-title="🐉한국방송 년비전용🦆",JTBC GOLF
@@ -622,24 +640,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
 #EXTINF:-1 group-title="🐉한국방송 년비전용🦆",EBS2
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",MBC On
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",tvN Sports
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t86TZJFPZlUGRsZtf6hKtiACMlOpIOMIOXHZQCC&secret=6d2a3daba14e4b18a09426c6695ab206&time=1742502545
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",KBSNSPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",MBC SPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SBS SPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV Prime+
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
-#EXTINF:-1 group-title="🐉한국방송 년비전용🦆",SPOTV Prime
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
+
 
 
 
