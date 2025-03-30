@@ -4383,12 +4383,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&b
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
+#EXTINF:-1 group-title="🐉축구생중계🦮",法甲 圣埃蒂安VS巴黎圣日耳曼
+https://zb-play.rwabwo.com/public/167165655_1743337034_gqzm.flv?txSecret=f3bc440e95062eadb1746c5693071b10&txTime=67E98C09
+#EXTINF:-1 group-title="🐉축구생중계🦮",荷甲 埃因霍温VS阿贾克斯
+https://zb-play.rwabwo.com/public/181211309_1743337336_gqzm.flv?txSecret=dd94f568dac0156fa250a49d5cb2b8af&txTime=67E98C40
 #EXTINF:-1 group-title="🐉축구생중계🦮",西甲 赫塔菲vs比利亚雷亚尔
 https://zb-play.rwabwo.com/public/274544029_1743335000_gqzm.flv?txSecret=902dc559aab55c78fa0f83aa9b93f42d&txTime=67E983A0
 #EXTINF:-1 group-title="🐉축구생중계🦮",瑞典超	哈马比	哥德堡
 https://zb-play.rwabwo.com/public/877164091_1743335443_gqzm.flv?txSecret=b7976aed362652f0ea33e2482530e9d9&txTime=67E98AC4
-#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 卡利亚里VS蒙扎
-https://zb-play.rwabwo.com/public/922335633_1743330369_gqzm.flv?txSecret=4f5bee544eb6b8f9076ef58104cd7b3c&txTime=67E983F6
+
 
 
 
