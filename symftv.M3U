@@ -641,27 +641,6 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLd
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
 
 
-#EXTINF:-1 tvg-id="USANetworkEast.us"  tvg-logo="https://i.ibb.co.com/t841hhr/usa.png" group-title="🐉한국방송 테스트중🦆", USA NETWORK EAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png" group-title="🐉한국방송 테스트중🦆", UNIVERSO EAST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png" group-title="🐉한국방송 테스트중🦆", UNIVERSO WEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8af41461cac43b0791958320e60d821b:3590b4e7796f9ee6ac82e1a6ddca75b6
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-west)/master.mpd
-
-#EXTINF:-1 tvg-id="TelemundoEast.us"  tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" group-title="🐉한국방송 테스트중🦆", TELEMUNDO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
-
-
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN SPORTS.kr" tvg-logo="https://i.imgur.com/0Nraumw.png" group-title="🐉한국방송 테스트중🦆", TVN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Origin: https://kakotv.com
@@ -4084,22 +4063,7 @@ https://hn.bfvvs.com/play/NbW46Vvd/index.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮",西甲 巴萨-赫罗纳
-https://zb-play.rwabwo.com/public/850278602_1743343168_gqzm.flv?txSecret=f7e2a320755eaefe76b9198260443920&txTime=67E9A5F6
-#EXTINF:-1 group-title="🐉축구생중계🦮",德甲 弗赖堡VS柏林联合
-https://zb-play.rwabwo.com/public/922335633_1743340763_gqzm.flv?txSecret=202f46f464cf8a59722c88744471702d&txTime=67E99B0A
-#EXTINF:-1 group-title="🐉축구생중계🦮",英足总杯 普雷斯顿VS阿斯顿维拉
-https://zb-play.rwabwo.com/public/218745904_1743337636_gqzm.flv?txSecret=55bfb2c6d4fcb4d83ac7c75ebbbbddfe&txTime=67E98D56
-#EXTINF:-1 group-title="🐉축구생중계🦮",意甲 佛罗伦萨vs亚特兰大
-https://zb-play.rwabwo.com/public/702119214_1743337439_gqzm.flv?txSecret=d9ef938fcef7f97af4d21b84a917d1bd&txTime=67E98D14
-#EXTINF:-1 group-title="🐉축구생중계🦮",法甲 图卢兹VS布雷斯特
-https://zb-play.rwabwo.com/public/825408619_1743338852_gqzm.flv?txSecret=1939115fa103d339b8b9d0f251a14f13&txTime=67E9929F
-#EXTINF:-1 group-title="🐉축구생중계🦮",荷甲 埃因霍温VS阿贾克斯
-https://zb-play.rwabwo.com/public/181211309_1743337336_gqzm.flv?txSecret=dd94f568dac0156fa250a49d5cb2b8af&txTime=67E98C40
-#EXTINF:-1 group-title="🐉축구생중계🦮",西甲 赫塔菲vs比利亚雷亚尔
-https://zb-play.rwabwo.com/public/274544029_1743335000_gqzm.flv?txSecret=902dc559aab55c78fa0f83aa9b93f42d&txTime=67E983A0
-#EXTINF:-1 group-title="🐉축구생중계🦮",瑞典超	哈马比	哥德堡
-https://zb-play.rwabwo.com/public/877164091_1743335443_gqzm.flv?txSecret=b7976aed362652f0ea33e2482530e9d9&txTime=67E98AC4
+
 
 
 
