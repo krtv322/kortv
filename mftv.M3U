@@ -1,0 +1,630 @@
+#EXTM3U8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS1
+https://stream.ogtv3.com/live/live1004.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS2
+https://stream.ogtv3.com/live/live1005.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS
+https://stream.ogtv3.com/live/live1006.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC
+https://stream.ogtv3.com/live/live1003.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",YTN​
+https://stream.ogtv3.com/live/live1021.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN
+https://stream.ogtv3.com/live/live1007.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBN
+https://stream.ogtv3.com/live/live1008.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC
+https://stream.ogtv3.com/live/live1009.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",채널A
+https://stream.ogtv3.com/live/live1010.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",연합뉴스TV
+https://stream.ogtv3.com/live/live1011.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",TV CHOSUN
+https://stream.ogtv3.com/live/live1012.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",ENA
+https://stream.ogtv3.com/live/live1016.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",OCN
+https://stream.ogtv3.com/live/live1014.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",ENA DRAMA​
+https://stream.ogtv3.com/live/live1019.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN STORY
+https://stream.ogtv3.com/live/live1018.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN DRAMA​
+https://stream.ogtv3.com/live/live1020.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SCREEN
+https://stream.ogtv3.com/live/live1026.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",더무비
+https://stream.ogtv3.com/live/live1027.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",OCN Movies2
+https://stream.ogtv3.com/live/live1030.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",시네마천국​
+https://stream.ogtv3.com/live/live1022.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",IB SPORTS
+https://stream.ogtv3.com/live/live1029.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC GOLF&SPORTS
+https://stream.ogtv3.com/live/live1023.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV Golf&Health 
+https://stream.ogtv3.com/live/live1025.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS Golf2
+https://stream.ogtv3.com/live/live1024.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS Golf
+https://stream.ogtv3.com/live/live1001.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC Golf​
+https://stream.ogtv3.com/live/live1002.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",코미디TV
+https://stream.ogtv3.com/live/live1028.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
+http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS1대구
+http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
+https://parselink.winnie.in.th/kr_live/kbs.php?id=12
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png",kbc SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+https://parselink.winnie.in.th/kr_live/mbc.php
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC JEZ
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
+http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",채널A
+http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
+https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
+https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
+https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",kbslife
+http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png",kbsstory
+http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",kbsnews
+http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
+#EXTINF:-1  group-title="🐉한국방송🦆",FTV
+http://218.236.58.185:1935/FTVLIVE_WEB/Stream_web/chunklist_w1794675765.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",EBS+ 1 (400p)
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",EBS+ 2 (400p)
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",「韩国」EBSi
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",콩콩팥팥
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",벌거벗은 세계사
+https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",도시어부
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",백반기행
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",핑크퐁
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93
+#EXTINF:-1 group-title="🐉한국방송🦆",키즈타임
+https://d2tt54zlwwxv7v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9go3fzcjcsn6y/AcornTV_KR.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",뽀요티비
+https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",코코비티비
+https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",로보카폴리
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hk7cvudmr98ff/713bcecf-006e-4d35-a320-ba780451775f/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",반지의 비밀
+https://6e26842ffb4d45488c9829ffedbd3a1e.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xsznusvgu7e2n/cac8d5cb-bd9d-46d0-ad92-a90e16f8380f/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",내청코
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/0e3566f7-526d-42f6-8150-048dba7e830b/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",요리와 비룡
+https://c6b2dfcfb865452bb7217ff20b9d7a23.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1tfdg9d2wd7d/b0cc7455-6b41-4281-9111-2c54b8aeb45d/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",바오 패밀리
+https://700535da28924f3ba47aeb68bfb9f3ce.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1hzfoumjy9kvk/b4663e43-7fd6-46c6-ad6a-b844abe10f67/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",TED
+https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png" group-title="한국방송",Mnet 스트릿 우먼 파이터
+https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
+#EXTINF:-1 channel-id="samsung-KRBC32000261J" tvg-id="KRBC32000261J" tvg-chno="503" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000261J_20220824T022454.png" group-title="한국방송",tvN 도깨비
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+#EXTINF:-1 channel-id="samsung-KRBB4200005CK" tvg-id="KRBB4200005CK" tvg-chno="531" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/58/KRBB4200005CK_20220329T055233.png" group-title="한국방송",SBS 순옥명작관
+https://d1ye6lj5le5dh0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ert8sa2q2i3fz-prod/hls-harvester2-1293-prod/us-east-1/cc-ert8sa2q2i3fz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000073UD" tvg-id="KRBB5000073UD" tvg-chno="532" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/67/KRBB5000073UD_20220511T002806.png" group-title="한국방송",MBC 어쩌다 발견한 하루
+https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB42000061Z" tvg-id="KRBB42000061Z" tvg-chno="533" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB42000061Z_20220824T102035.png" group-title="한국방송",SBS 낭만닥터 김사부2
+https://d2yx6lvhcftzo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dcxhnnfoe8vt-prod/hls-harvester2-1293-prod/us-east-1/cc-3dcxhnnfoe8vt/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-chno="534" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/KRBB5000070U4_20220712T041357.png" group-title="한국방송",MBC 해를 품은 달
+https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB420000180" tvg-id="KRBB420000180" tvg-chno="535" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/58/KRBB420000180_20220810T035031.png" group-title="한국방송",SBS 브람스를 좋아하세요?
+https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-chno="538" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/81/KRBC20000347_20220329T055226.png" group-title="한국방송",MBC 왔다! 장보리
+https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="551" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200013UR_20220824T022447.png" group-title="한국방송",tvN 낮과밤
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200013UR
+#EXTINF:-1 channel-id="samsung-KRBC320002200" tvg-id="KRBC320002200" tvg-chno="552" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC320002200_20220824T022441.png" group-title="한국방송",tvN THE K2
+https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
+#EXTINF:-1 channel-id="samsung-KRBC3200032ZM" tvg-id="KRBC3200032ZM" tvg-chno="553" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200032ZM_20220824T022456.png" group-title="한국방송",tvN 라이브
+https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
+#EXTINF:-1 channel-id="samsung-KRBC3200014XZ" tvg-id="KRBC3200014XZ" tvg-chno="554" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200014XZ_20220824T022458.png" group-title="한국방송",tvN 마인
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
+#EXTINF:-1 channel-id="samsung-KRBC32000248R" tvg-id="KRBC32000248R" tvg-chno="555" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000248R_20220824T022513.png" group-title="한국방송",tvN 여신강림
+https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000248R
+#EXTINF:-1 channel-id="samsung-KRBC32000156C" tvg-id="KRBC32000156C" tvg-chno="556" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000156C_20220824T022518.png" group-title="한국방송",tvN 청일전자 미쓰리
+https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000156C
+#EXTINF:-1 channel-id="samsung-KRBC3200025QG" tvg-id="KRBC3200025QG" tvg-chno="557" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200025QG_20220824T022521.png" group-title="한국방송",tvN 톱스타 유백이
+https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+#EXTINF:-1 channel-id="samsung-KRBC3200016H1" tvg-id="KRBC3200016H1" tvg-chno="558" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200016H1_20220824T022445.png" group-title="한국방송",tvN 나인룸
+https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
+#EXTINF:-1 channel-id="samsung-KRBC3200027ED" tvg-id="KRBC3200027ED" tvg-chno="560" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200027ED_20220824T022523.png" group-title="한국방송",tvN 하늘에서 내리는 1억개의 별
+https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
+#EXTINF:-1 channel-id="samsung-KRBC8000128W" tvg-id="KRBC8000128W" tvg-chno="578" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC8000128W_20220824T022425.png" group-title="한국방송",중화TV 곡주부인
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
+#EXTINF:-1 channel-id="samsung-KRBC800013YF" tvg-id="KRBC800013YF" tvg-chno="579" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800013YF_20220824T022542.png" group-title="한국방송",중화TV 장가행
+https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800013YF
+#EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-chno="580" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB5000069BS_20220824T102029.png" group-title="한국방송",MBC 무한도전
+https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200002MM" tvg-id="KRBB4200002MM" tvg-chno="582" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/55/KRBB4200002MM_20220329T055250.png" group-title="한국방송",SBS 런닝맨
+https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB50000711L" tvg-id="KRBB50000711L" tvg-chno="583" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/10/KRBB50000711L_20220329T055248.png" group-title="한국방송",MBC 구해줘! 홈즈
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200003ZL" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/KRBB4200003ZL_20220413T005115.png" group-title="한국방송",SBS 미운 우리 새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB50000721W" tvg-id="KRBB50000721W" tvg-chno="587" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/89/KRBB50000721W_20220329T055241.png" group-title="한국방송",MBC 신비한 TV 서프라이즈
+https://d1acfb5b13qsdr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-he05vyj1kinia-prod/Channel_MBC_4.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/KRBB4200008PR_20220413T005111.png" group-title="한국방송",SBS 동상이몽2 - 너는 내 운명
+https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="590" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/KRBC200002I0_20220329T055215.png" group-title="한국방송",MBC 나혼자산다
+https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-chno="591" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/KRBB4200009C3_20220413T005144.png" group-title="한국방송",SBS 집사부일체
+https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-chno="592" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/KRBC20000418_20220511T002810.png" group-title="한국방송",MBC 라디오스타
+https://dtdgcbd6j2fak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n4zydfj68vgn1-prod/Channel_MBC_9.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200011RB" tvg-id="KRBB4200011RB" tvg-chno="593" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/96/KRBB4200011RB_20220712T041402.png" group-title="한국방송",SBS 백종원의 골목식당
+https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200012PV" tvg-id="KRBB4200012PV" tvg-chno="595" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/KRBB4200012PV_20220413T005140.png" group-title="한국방송",SBS 정글의 법칙
+https://d1qhklddeqjbtp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-35rocwtlqy12b-prod/hls-harvester2-1293-prod/us-east-1/cc-35rocwtlqy12b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB42000100V" tvg-id="KRBB42000100V" tvg-chno="596" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/79/KRBB42000100V_20220413T005124.png" group-title="한국방송",SBS 불타는 청춘
+https://d3ev7kkpknycu4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bedw21gabjfhb-prod/hls-harvester2-1293-prod/us-east-1/cc-bedw21gabjfhb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200014MY" tvg-id="KRBB4200014MY" tvg-chno="597" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/50/KRBB4200014MY_20220413T005148.png" group-title="한국방송",SBS 패밀리가 떴다
+https://d2v11xgt6ag1o7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lhw9f4zm2hids-prod/hls-harvester2-1293-prod/us-east-1/cc-lhw9f4zm2hids/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB420001572" tvg-id="KRBB420001572" tvg-chno="598" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/40/KRBB420001572_20220811T022205.png" group-title="한국방송",SBS 스타킹
+https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="599" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200017JQ_20220824T022508.png" group-title="한국방송",tvN 숲속의 작은 집
+https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
+#EXTINF:-1 channel-id="samsung-KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="600" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200018FU_20220824T022450.png" group-title="한국방송",tvN 노포의 영업비밀(9-19회)
+https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
+#EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-chno="601" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200028P2_20220824T022504.png" group-title="한국방송",tvN 수미네 반찬(1-12회)
+https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2
+#EXTINF:-1 channel-id="samsung-KRBC3200029C4" tvg-id="KRBC3200029C4" tvg-chno="602" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200029C4_20220824T022515.png" group-title="한국방송",tvN 유퀴즈온더블럭(33-52회)
+https://d3ductxks3ekko.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ytzhd9pym4uuw-ssai-prd/16ae5fb5_3043_4e9f_8d68_f360848e1c46/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200029C4
+#EXTINF:-1 channel-id="samsung-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-chno="603" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200023BG_20220824T022511.png" group-title="한국방송",tvN 스트리트푸드파이터
+https://d151dxm6owf2zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rbhbw3vbbdjci-ssai-prd/23a98766_04e3_4a66_9467_aa8b36e32a7d/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200023BG
+#EXTINF:-1 channel-id="samsung-KRBC3200030BO" tvg-id="KRBC3200030BO" tvg-chno="605" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200030BO_20220824T022452.png" group-title="한국방송",tvN 놀라운 토요일(1-14회)
+https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200030BO
+#EXTINF:-1 channel-id="samsung-KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="606" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000200B_20220824T022443.png" group-title="한국방송",tvN 꽃보다할배
+https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000200B
+#EXTINF:-1 channel-id="samsung-KRBC3200021ZA" tvg-id="KRBC3200021ZA" tvg-chno="607" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200021ZA_20220824T022502.png" group-title="한국방송",tvN 삼시세끼 어촌편5
+https://d2jgaw7uttn3h3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/b1e01036_7c37_48b3_9137_7ecc71b50661/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200021ZA
+#EXTINF:-1 channel-id="samsung-KRBC2000010X" tvg-id="KRBC2000010X" tvg-chno="612" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC2000010X_20220824T102031.png" group-title="한국방송",MBC 안녕, 프란체스카
+https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200004RA" tvg-id="KRBB4200004RA" tvg-chno="613" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB4200004RA_20220824T102037.png" group-title="한국방송",SBS 똑바로 살아라
+https://d2ji8bbykh38sd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p7u2m4ayh1qsb-prod/hls-harvester2-1293-prod/us-east-1/cc-p7u2m4ayh1qsb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC200005H6" tvg-id="KRBC200005H6" tvg-chno="614" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC200005H6_20220824T102033.png" group-title="한국방송",MBC 지붕뚫고 하이킥
+https://dgaj785lmfjju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jsnzm21r7lwrj-prod/Channel_MBC_10.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC3200031KO" tvg-id="KRBC3200031KO" tvg-chno="631" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200031KO_20220824T022519.png" group-title="한국방송",tvN 코미디빅리그(366-377회)
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200031KO
+#EXTINF:-1 channel-id="samsung-KRBB420000769" tvg-id="KRBB420000769" tvg-chno="641" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/KRBB420000769_20220525T002316.png" group-title="한국방송",SBS TV 동물농장
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200013L5" tvg-id="KRBB4200013L5" tvg-chno="642" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/KRBB4200013L5_20220413T005132.png" group-title="한국방송",SBS 순간포착 세상에 이런일이
+https://dp3r8qzh7xgdp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ua8hvwhk9ajic-prod/hls-harvester2-1293-prod/us-east-1/cc-ua8hvwhk9ajic/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200016TZ" tvg-id="KRBB4200016TZ" tvg-chno="643" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/KRBB4200016TZ_20220413T005136.png" group-title="한국방송",SBS 스페셜
+https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200017HA" tvg-id="KRBB4200017HA" tvg-chno="644" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/84/KRBB4200017HA_20220413T005103.png" group-title="한국방송",SBS 그것이 알고싶다
+https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBB4200018FT" tvg-id="KRBB4200018FT" tvg-chno="645" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/KRBB4200018FT_20220413T005128.png" group-title="한국방송",SBS 생활의 달인
+https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ejefxdqh8872z-prod/hls-harvester2-1293-prod/us-east-1/cc-ejefxdqh8872z/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-KRBC800016YS" tvg-id="KRBC800016YS" tvg-chno="647" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC800016YS_20220824T022500.png" group-title="한국방송",tvN 벌거벗은 세계사(4-13회)
+https://d2o2hmoiqx116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o3aplgjgapswr-ssai-prd/43044fab_9b3c_461f_8bd9_89fe0142fc49/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800016YS
+#EXTINF:-1 group-title="🐉한국방송🦆",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="🐉한국방송🦆",邵氏影院
+https://lunbo.freetv.top/douyu/4246519
+#EXTINF:-1 group-title="🐉한국방송🦆",经典港片
+https://lunbo.freetv.top/huya/11352965
+#EXTINF:-1 group-title="🐉한국방송🦆",奇光影院
+https://lunbo.freetv.top/douyu/8009547
+#EXTINF:-1 group-title="🐉한국방송🦆",恐怖丧尸鬼片
+https://lunbo.freetv.top/douyu/263824
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_战争片
+https://lunbo.freetv.top/huya/21059574
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_谍战
+https://lunbo.freetv.top/huya/21059585
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_武侠
+https://lunbo.freetv.top/huya/11342427
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_罪犯
+https://lunbo.freetv.top/huya/11352962
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_星爷
+https://lunbo.freetv.top/huya/11342412
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_英叔
+https://lunbo.freetv.top/huya/11342421
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_发哥
+https://lunbo.freetv.top/huya/11342387
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_成龙
+https://lunbo.freetv.top/huya/11342386
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_李连杰
+https://lunbo.freetv.top/huya/11342390
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_沈腾
+https://lunbo.freetv.top/huya/11601968
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_黄渤
+https://lunbo.freetv.top/huya/11352876
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_洪金宝
+https://lunbo.freetv.top/huya/11279251
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_梁家辉
+https://lunbo.freetv.top/huya/11342429
+#EXTINF:-1 group-title="🐉한국방송🦆",电影_刘德华
+https://lunbo.freetv.top/huya/11342424
+#EXTINF:-1 group-title="🐉한국방송🦆",漫威太君
+https://lunbo.freetv.top/douyu/1713615
+#EXTINF:-1 group-title="🐉한국방송🦆",电视剧轮播
+https://lunbo.freetv.top/douyu/431460
+#EXTINF:-1 group-title="🐉한국방송🦆",经典港剧
+https://lunbo.freetv.top/douyu/4290711
+#EXTINF:-1 group-title="🐉한국방송🦆",人气港剧
+https://lunbo.freetv.top/douyu/5261342
+#EXTINF:-1 group-title="🐉한국방송🦆",老剧轮播
+https://lunbo.freetv.top/douyu/7655471
+#EXTINF:-1 group-title="🐉한국방송🦆",港剧轮播1
+https://lunbo.freetv.top/douyu/7655471
+#EXTINF:-1 group-title="🐉한국방송🦆",港剧轮播2
+https://lunbo.freetv.top/douyu/4549169
+#EXTINF:-1 group-title="🐉한국방송🦆",港剧轮播3
+https://lunbo.freetv.top/douyu/4373285
+#EXTINF:-1 group-title="🐉한국방송🦆",动漫轮播
+https://lunbo.freetv.top/douyu/426517
+#EXTINF:-1 group-title="🐉한국방송🦆",老动画轮播
+https://lunbo.freetv.top/douyu/7528160
+#EXTINF:-1 group-title="🐉한국방송🦆",动漫电影
+https://lunbo.freetv.top/douyu/8799435
+#EXTINF:-1 group-title="🐉한국방송🦆",鬼兄奇谈
+https://lunbo.freetv.top/douyu/8722254
+#EXTINF:-1 group-title="🐉한국방송🦆",贝爷求生
+https://lunbo.freetv.top/douyu/454867
+#EXTINF:-1 group-title="🐉한국방송🦆",荒野建造者
+https://lunbo.freetv.top/douyu/9611578
+#EXTINF:-1 group-title="🐉한국방송🦆",民间高手
+https://lunbo.freetv.top/douyu/10372765
+#EXTINF:-1 group-title="🐉한국방송🦆",赵本山小品
+https://lunbo.freetv.top/douyu/9817716
+#EXTINF:-1 group-title="🐉한국방송🦆",宋小宝小品
+https://lunbo.freetv.top/douyu/9817729
+#EXTINF:-1 group-title="🐉한국방송🦆",巩汉林小品
+https://lunbo.freetv.top/yy/1354889035
+#EXTINF:-1 group-title="🐉한국방송🦆",贾玲小品
+https://lunbo.freetv.top/douyu/10419541
+#EXTINF:-1 group-title="🐉한국방송🦆",粤语综艺
+https://lunbo.freetv.top/douyu/7919720
+#EXTINF:-1 group-title="🐉한국방송🦆",封神榜
+https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 group-title="🐉한국방송🦆",西游记
+https://lunbo.freetv.top/douyu/3700024
+#EXTINF:-1 group-title="🐉한국방송🦆",西游记续
+https://lunbo.freetv.top/douyu/3113309
+#EXTINF:-1 group-title="🐉한국방송🦆",红楼梦
+https://lunbo.freetv.top/yy/1382745084
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_老三国
+https://lunbo.freetv.top/yy/1354930932
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_新三国
+https://lunbo.freetv.top/huya/11352944
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_新水浒
+https://lunbo.freetv.top/huya/11342384
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_庆余年
+https://lunbo.freetv.top/huya/11352960
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_雍正王朝
+https://lunbo.freetv.top/huya/11342439
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_士兵突击
+https://lunbo.freetv.top/huya/11342430
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_爱情公寓
+https://lunbo.freetv.top/huya/11336726
+#EXTINF:-1 group-title="🐉한국방송🦆",剧集_鹿鼎记
+https://lunbo.freetv.top/yy/28265277
+#EXTINF:-1 group-title="🐉한국방송🦆",新白娘子传奇
+https://lunbo.freetv.top/yy/1354930969
+#EXTINF:-1 group-title="🐉한국방송🦆",包青天（金超群版）
+https://lunbo.freetv.top/yy/1356158015
+#EXTINF:-1 group-title="🐉한국방송🦆",济公游记
+https://lunbo.freetv.top/yy/1355265814
+#EXTINF:-1 group-title="🐉한국방송🦆",射雕英雄传83版
+https://lunbo.freetv.top/yy/1354210357
+#EXTINF:-1 group-title="🐉한국방송🦆",射雕侠侣
+https://lunbo.freetv.top/yy/1382704651
+#EXTINF:-1 group-title="🐉한국방송🦆",天龙八部
+https://lunbo.freetv.top/yy/1382736855
+#EXTINF:-1 group-title="🐉한국방송🦆",笑傲江湖
+https://lunbo.freetv.top/yy/1354282410
+#EXTINF:-1 group-title="🐉한국방송🦆",少年歌行
+https://lunbo.freetv.top/yy/1354806550
+#EXTINF:-1 group-title="🐉한국방송🦆",上海滩
+https://live.metshop.top/yy/1382745184
+#EXTINF:-1 group-title="🐉한국방송🦆",猫和老鼠剧集
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 group-title="🐉한국방송🦆",蜡笔小新剧集
+http://cfss.cc/cdn/hy/11352970.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",灌篮高手
+https://live.metshop.top/yy/1382735626
+#EXTINF:-1 group-title="🐉한국방송🦆",七龙珠
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 group-title="🐉한국방송🦆",哆啦A梦
+http://live.iill.top/huya.php?id=11601963
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="🐉한국방송🦆",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",ktv
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",YTN
+https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" "https://kenpark76.github.io/logo/YTN사이언스.png",ytn 사이언스
+http://mytv.dothome.co.kr/ch/catv/261.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",YTN Science
+https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",YTN Korean (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",BTV
+http://tbroad-233.live.wecandeo.com/live/7/233_high.m3u8
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="🐉한국방송🦆",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",jcn
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="🐉한국방송🦆",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",mbc 아메리카
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",CBS
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_401_D802998A.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",cts
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",CGN
+https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_2.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",C채널
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",GOODTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",CPBC
+http://mytv.dothome.co.kr/ch/catv/406_09227BF8.php
+#EXTINF:-1 group-title="🐉한국방송🦆",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="🐉한국방송🦆",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="🐉한국방송🦆",WBC TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="🐉한국방송🦆",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="🐉한국방송🦆",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",Yonhap News TV (1080p)
+https://ythls.armelin.one/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
+#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="🐉한국방송🦆",Lighting Lives Blessing Nations TV Korean (LLBN) (480p)
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",韩·HotPlusTV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",아리랑티비
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",K-POP
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",서경방송
+https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🐉한국방송🦆",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="🐉한국방송🦆",14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+#EXTINF:-1 group-title="🐉한국방송🦆",D LIVETV
+http://112.214.255.201/hls/ch02/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",kbs1
+http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS부산
+http://mytv.dothome.co.kr/ch/public/15.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS목포
+http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS울산
+http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS강원
+http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
+#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://kenpark76.github.io/logo/SBS.png" group-title="🐉한국방송🦆",SBS JIBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",JTV
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS CJB 5G
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBSCJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS UBC
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",TJB SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="🐉한국방송🦆",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="🐉한국방송🦆",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+http://www.hwado.net/webtv/public/21_573058EB.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="🐉한국방송🦆",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC
+https://live.imnews.imbc.com/imnews/_definst_/live2.stream/playlist.m3u8?e=1732636770&h=c8a4a47a1629e095c607a83b87c5d695
+#EXTINF:-1 group-title="🐉한국방송🦆",mbc
+https://zrr.kr/n5WE
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="🐉한국방송🦆",MBC Daegu (대구 MBC) (480p) [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCXDTV.kr" tvg-logo="https://i.imgur.com/3C57SwN.png" group-title="🐉한국방송🦆",MBC Jeonju (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC YES
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Andong (안동 MBC) (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC Busan (부산MBC) (360p) [Not 24/7]
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBN
+https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆", YTN
+https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN2.png",YTN2 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+#EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🐉한국방송🦆",YTN Science (720p)
+https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
+https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS1
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS2
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=cYv0MwcyxtgbkvkdS30WL46OlWzp3kWCZFidZJGK&secret=e621dd2e826c29c6b98bd22932c77424&time=1742499690
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=CK45nVecsqumJABGLWQSH9lLnJLYCsrHqRYvh8yT&secret=c924444c2e10e6a9d11fd26170a3f60c&time=1742499811
+#EXTINF:-1 group-title="🐉한국방송🦆",TV조선
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvchosun_540&sid=fKZsnPIjdoVZrjIWsqL5dPcQwba75T2ANFPAQIih&secret=18d00e092d1f8fa5a6107f0328ff4972&time=1742500050
+#EXTINF:-1 group-title="🐉한국방송🦆",MBN
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
+#EXTINF:-1 group-title="🐉한국방송🦆",YTN
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
+#EXTINF:-1 group-title="🐉한국방송🦆",연합뉴스TV
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=newsy_540&sid=aMAYwrglW2l9anHE3tYS8r8mdHIK9eoLvfM8gz8k&secret=bdb9ae84defc939403a2fbc11cb0007a&time=1696422007
+#EXTINF:-1 group-title="🐉한국방송🦆",채널A
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7ShO5pdx6qZfpHlGmEfTN5B4uZjDTHh5VGBEB9jZ&secret=3e346c2d333f3ee2c6e6e6564e20b745&time=1742501727
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
+#EXTINF:-1 group-title="🐉한국방송🦆",ENA
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
+#EXTINF:-1 group-title="🐉한국방송🦆",OCN
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
+#EXTINF:-1 group-title="🐉한국방송🦆",OCN Movies
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
+#EXTINF:-1 group-title="🐉한국방송🦆",OCN Movies2
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN Show
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
+#EXTINF:-1 group-title="🐉한국방송🦆",iNET
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS Plus
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
+#EXTINF:-1 group-title="🐉한국방송🦆",Channel E
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS Drama
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q3B5WSCH4URY8GiHOmAi4YrNVPWKot9vVlo9Vif3&secret=af52b1a2db7f1a11eee422a86931dfa4&time=1742559860
+#EXTINF:-1 group-title="🐉한국방송🦆",코메디TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
+#EXTINF:-1 group-title="🐉한국방송🦆",중화TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC On
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
+#EXTINF:-1 group-title="🐉한국방송🦆",tvN Sports
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t86TZJFPZlUGRsZtf6hKtiACMlOpIOMIOXHZQCC&secret=6d2a3daba14e4b18a09426c6695ab206&time=1742502545
+#EXTINF:-1 group-title="🐉한국방송🦆",KBSNSPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
+#EXTINF:-1 group-title="🐉한국방송🦆",SKY SPORTS
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=pH6yUXa60MB3GgwLqcF31039Ai2OnSHrGKDojHkd&secret=beb8328410c3c40918ee06d0e9d19d29&time=1742500977
+#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
+#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV2
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
+#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV Prime+
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
+#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV Prime
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS GOLF
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=XsKzqGkpDUmFmWuyIxsfyvVRJ4mMF6hKDilRFzUt&secret=b636e43843bdb115334396d210244321&time=1742499186
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC GOLF
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC GOLF&SPORTS
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=jtbc_3_540&sid=Kbs4voRRyc3QvGzdb1lJBnED1bqGFp3Jl9tG9319&secret=c8dc614a20fc15d35312c1562895ea30&time=1696829901
+#EXTINF:-1 group-title="🐉한국방송🦆",BilliardsTV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
+#EXTINF:-1 group-title="🐉한국방송🦆",바둑TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=BUdcXyBWIi9dQgC9QbarQyw1r2Punh3ScBDyvPkx&secret=46f15e2f7aa89b944adadb345e1d66af&time=1742555602
+#EXTINF:-1 group-title="🐉한국방송🦆",브레인TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=pXLsKDVuSzSlCPzDBtZ3Tjp06jRx0Cjb6hMFnxt4&secret=1f34a19c2968298e793fc294a26ec99c&time=1742555675
+#EXTINF:-1 group-title="🐉한국방송🦆",FTV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=bZKhHcxaPkJGE3mmH8UPN66ooPuufcWyGBuvtjTO&secret=5d91e5de24f5cb3123ee6e659939bdb5&time=1742555798
+#EXTINF:-1 group-title="🐉한국방송🦆",네셔날지오그래피
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
+#EXTINF:-1 group-title="🐉한국방송🦆",디스커버리
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
+#EXTINF:-1 group-title="🐉한국방송🦆",Nat Geo Wild
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=0wJqyjtLKS6wxrUnZ6cnaRHDVz6ztklaA1tOzALv&secret=8a3bcec4a32f89003264607c049a2ce3&time=1742556081
+#EXTINF:-1 group-title="🐉한국방송🦆",History
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
+#EXTINF:-1 group-title="🐉한국방송🦆",JEI 재능TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6FyzRQMkri2LhZ71Mjao59LSpdVKNNnvDkJW&secret=1fd8004ee3d2c119d064ec88b38d97b3&time=1742556811
+#EXTINF:-1 group-title="🐉한국방송🦆",육아방송
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
+#EXTINF:-1 group-title="🐉한국방송🦆",뽀요 TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS kids
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvFwNcDZn2ZKO972L101Y0O54pvVUu&secret=e5d3211063e265afd0cd9f542d9d3de2&time=1742557009
+#EXTINF:-1 group-title="🐉한국방송🦆",Toonivers
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=eCxHR168RlUUkQqYOIWVyWfIUxPu06nBlSxHIO46&secret=96b99d3a3fdfca5375de61e8c24350b4&time=1742557506
+#EXTINF:-1 group-title="🐉한국방송🦆",Cartoon
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=RyguKlLteLqv9rk0RS2MXuF7i1rMwPylYuihkE8h&secret=285476c7f0a52c71c066532526326dde&time=1742558094
+#EXTINF:-1 group-title="🐉한국방송🦆",어린이TV
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
+#EXTINF:-1 group-title="🐉한국방송🦆",한국경제
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r1dt55tnyXZwly6i1geE6psoDdZvce&secret=d1de772e9eeb5dcf1636c239f633cdb2&time=1742500679
+#EXTINF:-1 group-title="🐉한국방송🦆",현대홈쇼핑
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+#EXTINF:-1 group-title="🐉한국방송🦆",EBS1
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
+#EXTINF:-1 group-title="🐉한국방송🦆",EBS2
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
