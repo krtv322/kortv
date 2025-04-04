@@ -480,7 +480,7 @@ http://211.170.95.22/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 http://211.170.95.22/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://211.170.95.22/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="한🐉한국고화질방송🦆" tvg-chno="982",tvN SPORTS
+#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질방송🦆" tvg-chno="982",tvN SPORTS
 https://jmp2.uk/sam-KRBC800015MH.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://spnimage.edaily.co.kr/images/photo/files/NP/S/2020/12/PS20121500135.jpg",IB SPORTS
 https://stream.ogtv3.com/live/live1029.m3u8 
