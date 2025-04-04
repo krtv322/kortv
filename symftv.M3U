@@ -492,6 +492,14 @@ https://stream.ogtv3.com/live/live1023.m3u8
 http://211.170.95.22/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/07/19/xK71689743414213.png",SBS Golf2
 https://stream.ogtv3.com/live/live1024.m3u8 
+#EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20240508T020818SQUARE.png" group-title="한국고화질방송" tvg-chno="981",World Billiards TV
+https://jmp2.uk/sam-KRBC3200011N3.m3u8
+#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="한국고화질방송 tvg-chno="982",tvN SPORTS
+https://jmp2.uk/sam-KRBC800015MH.m3u8
+#EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20240508T020803SQUARE.png" group-title="한국고화질방송" tvg-chno="983",FIFA+
+https://jmp2.uk/sam-KRBD1900001Y2.m3u8
+#EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png" group-title="한국고화질방송" tvg-chno="984",PGA Tour
+https://jmp2.uk/sam-KRBD3100007WB.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
 http://211.170.95.22/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
