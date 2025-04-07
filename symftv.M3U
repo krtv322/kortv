@@ -4585,8 +4585,8 @@ https://hn.bfvvs.com/play/NbW46Vvd/index.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="🐉축구생중계🦮" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/RM_sticky_logo.png",皇马RMTV
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
-#EXTINF:-1 group-title="🐉축구생중계🦮", FOX Sports (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉축구생중계🦮",FIFA+
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
 
 
