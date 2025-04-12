@@ -471,8 +471,6 @@ http://im28.modhospital.kr:9981/stream/channelid/2?ticket=BBCE5D87CE432948D470F6
 http://1.214.67.38/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png",프리미엄 영화 (고화질)
 http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",Mplex
-http://121.131.227.124:9981/stream/channelid/92?ticket=5C182909DBB8C9BEF9AC0CA190D3AE78ECEE1796
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",Groovv (고화질)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
@@ -561,12 +559,6 @@ https://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",소상공인방송
 https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",channel s
-http://121.131.227.124:9981/stream/channelid/14?ticket=C2BEAE1F3915FAB99BB31114DEC0FE0143EC9218
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",ch now
-http://121.131.227.124:9981/stream/channelid/67?ticket=A3C835DEC03FADAE430A3FF3CE2FB4F61217DEAD
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",CHING
-http://121.131.227.124:9981/stream/channelid/58?ticket=74E7D8D81E8D658D18C8114C301BE5D8A26C0409
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",CJ OnStyle
 http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",CJ OnStyle Plus
