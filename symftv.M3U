@@ -547,6 +547,12 @@ http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",지방자치TV
 https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",국회방송
+https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",헬로비전티비
+http://121.131.227.124:9981/stream/channelid/43?ticket=CD26475EEDDD2DEC90694825A6D9447FC2B0BA7E
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",KCN 금강방송
+http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",다문화TV
 https://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",방송대학TV
@@ -559,6 +565,29 @@ http://121.131.227.124:9981/stream/channelid/14?ticket=C2BEAE1F3915FAB99BB31114D
 http://121.131.227.124:9981/stream/channelid/67?ticket=A3C835DEC03FADAE430A3FF3CE2FB4F61217DEAD
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",CHING
 http://121.131.227.124:9981/stream/channelid/58?ticket=74E7D8D81E8D658D18C8114C301BE5D8A26C0409
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",CJ OnStyle
+http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",KT알파쇼핑
+https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",NS 홈쇼핑(U+)
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",NS샵플러스
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",롯데홈쇼핑
+http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",신세계쇼핑
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+
+
+
+
 
 
 
