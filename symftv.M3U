@@ -547,8 +547,6 @@ http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
 https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",코미디티비
-http://im28.modhospital.kr:9981/stream/channelid/2?ticket=BBCE5D87CE432948D470F63114FB036CBA37F4FC
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",KCN 금강방송
 http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",다문화TV
