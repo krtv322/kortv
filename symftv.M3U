@@ -511,8 +511,6 @@ http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/xYtbA47IWEiSSs-c1RQGeo_GlNDPzgtuYPLXg5xOesj40G_QWp5DjJn29hTX-D2D5vne0u615_k1Q170IsgFPITNWXJjIOfGfwpPuQrx6dDXX0L48T7-A0jPlpJbOYNwO57oxaHITaB8muEFZrg4qQ.svg",IB SPORTS
 https://stream.ogtv2.com/live/live1029.m3u8
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",sky SPORTS
-https://stream.ogtv2.com/live/live234.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질방송🦆" tvg-chno="982",tvN SPORTS
