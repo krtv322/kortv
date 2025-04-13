@@ -441,6 +441,12 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/UQ4m7MDH7tgR1IL9iYXi3VslsrinToOFhQQ-lkm2zkLUrHGmcx9g3yIkJdQxAUk8p24vI0v_faUHN6qqPg3waI3CJYuP5hYEmcIReaVRttsO7AaRcJCi66LJ8GXxHx68ZkU4N7YGR2INmDAZ0zMAHA.svg",ENA
+https://stream.ogtv2.com/live/live1016.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/mVNoSn_2E7h88_mYghm7YYDUS9MFm8jPO-kYLXcA4T9WiK4W3yKibNcsFxbUS9apBUDll5GpOGQ5aUODeuRdFEtyoQ9bkJ3z5WHyDGDuTvjaXX205GRspIl9HDfWEfjSx67oA6sW9hi36lJCp-1g-w.svg",OCN
+https://stream.ogtv2.com/live/live1014.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/HjsrLKch66xfZbEWE9vc9brIvG6PzTSkBjWVUYA9E0JpdHcqIXge6J2dS85ukqCfvKalT3Rhpe6HN9F9sGtZbbq6lcQEjp3y7l6RPL_dzygNFHLTsEejDYfycJ0b6hZId8kjfOO-ee9Z3KUMc4-zXA.webp",OCN Movies2
+https://stream.ogtv2.com/live/live1030.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
@@ -453,12 +459,16 @@ http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국고화질방송🦆",TV Chosun 2 (720p)
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00585&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/TmmW_Krll4cmcCR31IxZdoIrV_LTc0MdQRGur-yxUFtMTZLNua2iYk0ADvWjqA5syknXPxfsM0d35h8VnPbGQ3gcWxXVfMGk6p9mUk0zazPBi-D_Yikoemg4cBwkXnqZECnC150AD3mdhv1vDLjeIQ.svg",tvN STORYY
+https://stream.ogtv2.com/live/live1018.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/e8w10pk.jpeg",tvN Show
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국고화질방송🦆",tvN Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국고화질방송🦆",MNet
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/DilhuQ9GQnnGObk1Liw45Zfiht3gUlZPU_D9MeUXzmp2JkPuOLUOSMKOmSt8oZuBLl1PMEWz94pB3fHqsn82_pfgyf-oERwgFZh8IrtZBh_cM9TnCvIl2Ho3UzP8XuNKDdeGxr5LtFF3xoDu8tlJTA.svg",ENA DRAMA
+https://stream.ogtv2.com/live/live1019.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV (고화질)
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://www.lg.co.kr/media/release/images/56374",더라이프 (고화질)
@@ -469,6 +479,10 @@ http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png",프리미엄 영화 (고화질)
 http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/Yukb4xZUE6MxJq8g2O3IzWpeedi7IB7HFbi9K6skyYsEThYn92vx-BNFx2iWJ-MzWTE6HaFyWVwRYVtJWoHE-qeBKXnD6a9joPcjTAf2xbdpvxg_4wWmiSxgQ-NFHAmJo_M7siOMAj5EgPIEsA4vHQ.svg",시네마천국​
+https://stream.ogtv2.com/live/live1022.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo=https://i.namu.wiki/i/DcmY12siAdf7iC5_4FRPaqUBb598Vow8AibXBXE1IZ4GYssvo64MgAp18ZLg5Cvk9_jZ7mVg5ISAYmBscc5UMe9q5ERfMfRCM5vaZMCfnj6YdqnlaZZ_mircfFLVr1VojQTmSZnUGZPDtmm24QZm8g.webp",코미디TV​
+https://stream.ogtv2.com/live/live1028.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",Groovv (고화질)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
@@ -477,6 +491,8 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/xYtbA47IWEiSSs-c1RQGeo_GlNDPzgtuYPLXg5xOesj40G_QWp5DjJn29hTX-D2D5vne0u615_k1Q170IsgFPITNWXJjIOfGfwpPuQrx6dDXX0L48T7-A0jPlpJbOYNwO57oxaHITaB8muEFZrg4qQ.svg",IB SPORTS
+https://stream.ogtv2.com/live/live1029.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질방송🦆" tvg-chno="982",tvN SPORTS
@@ -585,6 +601,46 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 
 
 
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/08nmHAsYH4vGm3yVV-2QPErz-oXryKaDPRLAExnzfmiw4xeznIbl_ZEwmEA4_2vAbdFQf-bJyesSVX2DALa0EAA2vKrlI3E56wwqFsqyCnzp1ss372NxSr3gS83J6qCb5E6rYpHSZiss_ZrDrtfOuA.svg",KBS1
+https://stream.ogtv2.com/live/live1004.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/-hSajySCpDUM89TXQXNdgBie13jVPWgcehUcea39vOSHR0uQGjdyVIO3lD6xrW76irbjCdVGXj918hNFPk9lHOlSrFysp7jKwTOx0EEHNy5KFouXEGR-_2S3M-ZWPzpAT1qhgMkWaQIjltbxzyRSuA.svg",KBS2
+https://stream.ogtv2.com/live/live1005.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/IqmdThHZGJUCFYmnxaaaD0Gh71Gw2KhCzWA5R8G85qUMmSodRbmYsT1aAnDxOjR18OZgm1VyRTa5rqnoD0nVv7POG8hxAMR7BXjGcWkJtfRXRIRdV6yQosKdtmgRN4YkJ1hmXim_isJNRvqBY0GhyA.svg",SBS
+https://stream.ogtv2.com/live/live1006.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/Jal3JTxUGtcqB4RZOwOZg_TaOWDEnCmI1jzySHOpRZRk1VLjz-_lronfSfo6ekDFCvaGPV0ALmfgJFtl8WnMADoR4CnY31_9KBgNgTsEPZlM3GNJgXJEw-fGgQNjWqCda4VJ4SCwC22xLPMbWvgLZw.svg",MBC
+https://stream.ogtv2.com/live/live1003.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/yXUgbPHIOHwIWQ6k0d8eJLaq2PsibKdeyf7jSbQl_4g7Cka3FpYTCvgX_9-UXPVHSdWFGOb8oEqaqb5pwEVS_AULTFUAyMTxWXQoyGppwg3iNPBwrzKd6pGlFmpiHSaaE_nzgCesGC3NK_Em5xcxvg.svg",MBN
+https://stream.ogtv2.com/live/live1008.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/mHMp_jnKzr9B2dm8_WtiLALR8zRwt7R_FInr3d2ZlWsgHVPHlxs-9IgC5HXC7Oyf65yGtY6tJTwCwD21sDSEh9z93qEItWyH2_5Q3F52r_oEqNYmcguJ-dOc382fgZzJqrcgrab6lamALRg9x9UeWg.svg",TV조선
+https://stream.ogtv2.com/live/live1012.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/qW29RttQjZHevddmK5tPWHTfrOz3FVqQSAw1oOq1iwZTkiNsRZVvR9KVEhu1BlOHP46hHvRm4fGaRxfTlEn5YkQnOQFH0N6wHXQ7Y3Ww-NMDQt0GWEN0SE7GazzBnXo3sRhFMAqqQv6BxPjr3YPxWA.svg",연합뉴스TV
+https://stream.ogtv2.com/live/live1011.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/E1YdSweoBSg7eC5_9N4fs-tS3pUcgK90FLA-lbi-z8Gl9DNBGzbdrusp4LDXrP_fo8Ng5olagOu7pJeXzmIYnGoi-pT7i842qbFIITjaY1Hk6VvsrX6hEB6Biep4pL3ltENsiSfqEfm_uMwH--pjAQ.svg",YTN​
+https://stream.ogtv2.com/live/live1021.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/2OCsWl27f9faBn7MMWd8KWYeTbEKKRLOcx7dG2NjtlcLAk5oz7Lyq1RqrtIRg5nzTmzzfR70-DCPwjjNXjwXBoC9vHd2hWeMCl4wIWLlPq9FiY204NN1-K6RfdNWRwrN3DR3s_lfU7gxCfzzgDWNzw.svg",Channel A
+https://stream.ogtv2.com/live/live1010.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/lcFgMkjrahYOhXDJQETAAL4mbR3guyToV-bvhDN9LRJmsx4F1T-sPGEQt2_wY_QqUtGjVFmBz66L31Da4X7_YaSdVW84Kxm7_HNUbwrKtTSucd04VohlECto0fFu5yVb8D0uJhbKHTb3p5cXXpGG3g.svg",tvN
+https://stream.ogtv2.com/live/live1007.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/MkhjeYmSo5YWPNSWIngXTWStUnqTONMcnuLrHfUeeqmktkFB8H16Gnw7pI350F82w83gSs381nyvgqDhOdfsuIicBamAnxQJ8ZeOHf0L_f__zBJJjrvvPQLvhu3CdlIDZ_0ttfXAy-nRtI3chIf2nQ.svg",JTBC
+https://stream.ogtv2.com/live/live1009.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/aTXdZ6GisF0Up1m8FOhdOQXpuonJxEViYWHW2GAsqGzHeZ0Eg-HONiUI7d6RVWGHNczMJuZ9xo6ccMJqO4s51cPu7OAr5hSisGelqGvzVvYnVwN-Wq1CD_lFvNQh8hi1DvMGsG5ugRnUgEbCZ8ERyA.svg",tvN DRAMA
+https://stream.ogtv2.com/live/live1020.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/PWROOjrg_dfq00nkQsFxWwcVCMJIEXsSfo4_LPWFA2nEgcsMptXHyckb0ULFdcR0k43sq4DokDfpWNHq2HvggA.svg",SCREEN
+https://stream.ogtv2.com/live/live1026.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://www.chthemovie.com/image/main/logo.png",더무비
+https://stream.ogtv2.com/live/live1027.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/_jcVkJlQmY3auGkSFPfUiQIO8cN_I8Wy58e5XIpFXnn9_Ehiwrs2yghF8EzgdMAsRBwjaI6kwHQ5LVFnpp2NHpBeGhC0O8C8xHXBgES2ysiEq4qxlR-4tRSvBCMJ0m2KBV0m7LxzsGSH7iy1Ez2P3g.svg",EBS1
+https://stream.ogtv2.com/live/live1017.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/boEDjxp_4DibqyowsMxk5UW45Tp9NzYfuJa9l6h0Rm3R18NZUq9PcQ42xteG6G6Vr_FzKSk6spSyYI2-C06CYm_7gh9gqdiMz8bfvJbKMk7txbeCwH-9pIaZsjXK__8nmndGRazwO_YqOn7Xavz3Ww.svg",SBS Golf
+https://stream.ogtv2.com/live/live1001.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/SsPlu-DxJormIljpuvTmAcBZELuOPb8t0bBYp-iJ4vG0up1x4dmby8b9zql_zhRQCxuOVly8k_ht2a2UFpw8BgxNmdXTQHSeUTJiHhfaSxMMTt43sk225lZO8wTAgqQKgVc_T4gHRcXWco6w-kd9OA.webp",JTBC Golf
+https://stream.ogtv2.com/live/live1002.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/v6G4v1j-Ua-Xnupupu5nNwRJSjC3UucFgHF6bLnT88Etu3-fq30I6pQNpTTG51YnhR_lsW7_EUlRGJYy3oSajw.webp",JTBC group-title="🐉한국방송 테스트중🦆"GOLF&SPORTS
+https://stream.ogtv2.com/live/live1023.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/7AyyrRho1-DmK4lMUFgnFn-ld2M1kwDQ9gYLw3_4NTTXs7Xm7GCSF8r-sLKKLfh8Tfs0RHgfGJi8rshZPwsKVPPvcv6P_78hguy4cDNYUNVOtLKcpk3eHeEkfjjVdML5yZUTPnQb5IxfuT4StDsAVg.svg",SBS Golf2
+https://stream.ogtv2.com/live/live1024.m3u8
+#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/-94jGBNyou6gSOkEyjsabs5e-Ev4zrVn1Ln4RgFJynHExn5lYsfJ-cjKX6HMmnW07UbwygEqSyqMXykj-09Bf1FagvaWfQ7P3ei3R74lJYfYOmBww7mxJ8fvSWmwmpzo-dwN4BvnJgQ_Xov-q3JNfg.webp",SPOTV Golf&Health
+https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆",KBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆",KBS2
