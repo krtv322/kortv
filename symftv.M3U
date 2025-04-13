@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
-http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2
-http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",SBSCJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/08nmHAsYH4vGm3yVV-2QPErz-oXryKaDPRLAExnzfmiw4xeznIbl_ZEwmEA4_2vAbdFQf-bJyesSVX2DALa0EAA2vKrlI3E56wwqFsqyCnzp1ss372NxSr3gS83J6qCb5E6rYpHSZiss_ZrDrtfOuA.svg",KBS1
+https://stream.ogtv2.com/live/live1004.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/-hSajySCpDUM89TXQXNdgBie13jVPWgcehUcea39vOSHR0uQGjdyVIO3lD6xrW76irbjCdVGXj918hNFPk9lHOlSrFysp7jKwTOx0EEHNy5KFouXEGR-_2S3M-ZWPzpAT1qhgMkWaQIjltbxzyRSuA.svg",KBS2
+https://stream.ogtv2.com/live/live1005.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/IqmdThHZGJUCFYmnxaaaD0Gh71Gw2KhCzWA5R8G85qUMmSodRbmYsT1aAnDxOjR18OZgm1VyRTa5rqnoD0nVv7POG8hxAMR7BXjGcWkJtfRXRIRdV6yQosKdtmgRN4YkJ1hmXim_isJNRvqBY0GhyA.svg",SBS
+https://stream.ogtv2.com/live/live1006.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/Jal3JTxUGtcqB4RZOwOZg_TaOWDEnCmI1jzySHOpRZRk1VLjz-_lronfSfo6ekDFCvaGPV0ALmfgJFtl8WnMADoR4CnY31_9KBgNgTsEPZlM3GNJgXJEw-fGgQNjWqCda4VJ4SCwC22xLPMbWvgLZw.svg",MBC
+https://stream.ogtv2.com/live/live1003.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
@@ -67,6 +67,20 @@ http://1.214.67.100/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/PWROOjrg_dfq00nkQsFxWwcVCMJIEXsSfo4_LPWFA2nEgcsMptXHyckb0ULFdcR0k43sq4DokDfpWNHq2HvggA.svg",SCREEN
+https://stream.ogtv2.com/live/live1026.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://www.chthemovie.com/image/main/logo.png",더무비
+https://stream.ogtv2.com/live/live1027.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/boEDjxp_4DibqyowsMxk5UW45Tp9NzYfuJa9l6h0Rm3R18NZUq9PcQ42xteG6G6Vr_FzKSk6spSyYI2-C06CYm_7gh9gqdiMz8bfvJbKMk7txbeCwH-9pIaZsjXK__8nmndGRazwO_YqOn7Xavz3Ww.svg",SBS Golf
+https://stream.ogtv2.com/live/live1001.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/SsPlu-DxJormIljpuvTmAcBZELuOPb8t0bBYp-iJ4vG0up1x4dmby8b9zql_zhRQCxuOVly8k_ht2a2UFpw8BgxNmdXTQHSeUTJiHhfaSxMMTt43sk225lZO8wTAgqQKgVc_T4gHRcXWco6w-kd9OA.webp",JTBC Golf
+https://stream.ogtv2.com/live/live1002.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/v6G4v1j-Ua-Xnupupu5nNwRJSjC3UucFgHF6bLnT88Etu3-fq30I6pQNpTTG51YnhR_lsW7_EUlRGJYy3oSajw.webp",JTBC GOLF&SPORTS
+https://stream.ogtv2.com/live/live1023.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/7AyyrRho1-DmK4lMUFgnFn-ld2M1kwDQ9gYLw3_4NTTXs7Xm7GCSF8r-sLKKLfh8Tfs0RHgfGJi8rshZPwsKVPPvcv6P_78hguy4cDNYUNVOtLKcpk3eHeEkfjjVdML5yZUTPnQb5IxfuT4StDsAVg.svg",SBS Golf2
+https://stream.ogtv2.com/live/live1024.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/-94jGBNyou6gSOkEyjsabs5e-Ev4zrVn1Ln4RgFJynHExn5lYsfJ-cjKX6HMmnW07UbwygEqSyqMXykj-09Bf1FagvaWfQ7P3ei3R74lJYfYOmBww7mxJ8fvSWmwmpzo-dwN4BvnJgQ_Xov-q3JNfg.webp",SPOTV Golf&Health
+https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
@@ -259,6 +273,10 @@ http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS1대구
 https://parselink.winnie.in.th/kr_live/kbs.php?id=11
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
+http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2
+http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
@@ -281,6 +299,10 @@ http://123.140.197.22/stream/1/play.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="🐉한국방송🦆",SBS TBC (540p) [Geo-blocked] [Not 24/7]
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",SBSCJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC JEZ
@@ -601,14 +623,7 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 
 
 
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/08nmHAsYH4vGm3yVV-2QPErz-oXryKaDPRLAExnzfmiw4xeznIbl_ZEwmEA4_2vAbdFQf-bJyesSVX2DALa0EAA2vKrlI3E56wwqFsqyCnzp1ss372NxSr3gS83J6qCb5E6rYpHSZiss_ZrDrtfOuA.svg",KBS1
-https://stream.ogtv2.com/live/live1004.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/-hSajySCpDUM89TXQXNdgBie13jVPWgcehUcea39vOSHR0uQGjdyVIO3lD6xrW76irbjCdVGXj918hNFPk9lHOlSrFysp7jKwTOx0EEHNy5KFouXEGR-_2S3M-ZWPzpAT1qhgMkWaQIjltbxzyRSuA.svg",KBS2
-https://stream.ogtv2.com/live/live1005.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/IqmdThHZGJUCFYmnxaaaD0Gh71Gw2KhCzWA5R8G85qUMmSodRbmYsT1aAnDxOjR18OZgm1VyRTa5rqnoD0nVv7POG8hxAMR7BXjGcWkJtfRXRIRdV6yQosKdtmgRN4YkJ1hmXim_isJNRvqBY0GhyA.svg",SBS
-https://stream.ogtv2.com/live/live1006.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/Jal3JTxUGtcqB4RZOwOZg_TaOWDEnCmI1jzySHOpRZRk1VLjz-_lronfSfo6ekDFCvaGPV0ALmfgJFtl8WnMADoR4CnY31_9KBgNgTsEPZlM3GNJgXJEw-fGgQNjWqCda4VJ4SCwC22xLPMbWvgLZw.svg",MBC
-https://stream.ogtv2.com/live/live1003.m3u8
+
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/yXUgbPHIOHwIWQ6k0d8eJLaq2PsibKdeyf7jSbQl_4g7Cka3FpYTCvgX_9-UXPVHSdWFGOb8oEqaqb5pwEVS_AULTFUAyMTxWXQoyGppwg3iNPBwrzKd6pGlFmpiHSaaE_nzgCesGC3NK_Em5xcxvg.svg",MBN
 https://stream.ogtv2.com/live/live1008.m3u8
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/mHMp_jnKzr9B2dm8_WtiLALR8zRwt7R_FInr3d2ZlWsgHVPHlxs-9IgC5HXC7Oyf65yGtY6tJTwCwD21sDSEh9z93qEItWyH2_5Q3F52r_oEqNYmcguJ-dOc382fgZzJqrcgrab6lamALRg9x9UeWg.svg",TV조선
@@ -625,22 +640,8 @@ https://stream.ogtv2.com/live/live1007.m3u8
 https://stream.ogtv2.com/live/live1009.m3u8
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/aTXdZ6GisF0Up1m8FOhdOQXpuonJxEViYWHW2GAsqGzHeZ0Eg-HONiUI7d6RVWGHNczMJuZ9xo6ccMJqO4s51cPu7OAr5hSisGelqGvzVvYnVwN-Wq1CD_lFvNQh8hi1DvMGsG5ugRnUgEbCZ8ERyA.svg",tvN DRAMA
 https://stream.ogtv2.com/live/live1020.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/PWROOjrg_dfq00nkQsFxWwcVCMJIEXsSfo4_LPWFA2nEgcsMptXHyckb0ULFdcR0k43sq4DokDfpWNHq2HvggA.svg",SCREEN
-https://stream.ogtv2.com/live/live1026.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://www.chthemovie.com/image/main/logo.png",더무비
-https://stream.ogtv2.com/live/live1027.m3u8
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/_jcVkJlQmY3auGkSFPfUiQIO8cN_I8Wy58e5XIpFXnn9_Ehiwrs2yghF8EzgdMAsRBwjaI6kwHQ5LVFnpp2NHpBeGhC0O8C8xHXBgES2ysiEq4qxlR-4tRSvBCMJ0m2KBV0m7LxzsGSH7iy1Ez2P3g.svg",EBS1
 https://stream.ogtv2.com/live/live1017.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/boEDjxp_4DibqyowsMxk5UW45Tp9NzYfuJa9l6h0Rm3R18NZUq9PcQ42xteG6G6Vr_FzKSk6spSyYI2-C06CYm_7gh9gqdiMz8bfvJbKMk7txbeCwH-9pIaZsjXK__8nmndGRazwO_YqOn7Xavz3Ww.svg",SBS Golf
-https://stream.ogtv2.com/live/live1001.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/SsPlu-DxJormIljpuvTmAcBZELuOPb8t0bBYp-iJ4vG0up1x4dmby8b9zql_zhRQCxuOVly8k_ht2a2UFpw8BgxNmdXTQHSeUTJiHhfaSxMMTt43sk225lZO8wTAgqQKgVc_T4gHRcXWco6w-kd9OA.webp",JTBC Golf
-https://stream.ogtv2.com/live/live1002.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/v6G4v1j-Ua-Xnupupu5nNwRJSjC3UucFgHF6bLnT88Etu3-fq30I6pQNpTTG51YnhR_lsW7_EUlRGJYy3oSajw.webp",JTBC group-title="🐉한국방송 테스트중🦆"GOLF&SPORTS
-https://stream.ogtv2.com/live/live1023.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/7AyyrRho1-DmK4lMUFgnFn-ld2M1kwDQ9gYLw3_4NTTXs7Xm7GCSF8r-sLKKLfh8Tfs0RHgfGJi8rshZPwsKVPPvcv6P_78hguy4cDNYUNVOtLKcpk3eHeEkfjjVdML5yZUTPnQb5IxfuT4StDsAVg.svg",SBS Golf2
-https://stream.ogtv2.com/live/live1024.m3u8
-#EXTINF:-1 group-title="🐉한국방송 테스트중🦆"tvg-logo="https://i.namu.wiki/i/-94jGBNyou6gSOkEyjsabs5e-Ev4zrVn1Ln4RgFJynHExn5lYsfJ-cjKX6HMmnW07UbwygEqSyqMXykj-09Bf1FagvaWfQ7P3ei3R74lJYfYOmBww7mxJ8fvSWmwmpzo-dwN4BvnJgQ_Xov-q3JNfg.webp",SPOTV Golf&Health
-https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆",KBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1 group-title="🐉한국방송 테스트중🦆",KBS2
