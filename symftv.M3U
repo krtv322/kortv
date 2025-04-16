@@ -561,6 +561,8 @@ http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",토마토증권통 (고화질)
 http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",서울경제
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" ,ANIPLUS
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",중화티비
