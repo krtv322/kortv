@@ -19,7 +19,7 @@ https://stream.ogtv2.com/live/live1021.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
 https://stream.ogtv2.com/live/live1010.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
-https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
 https://stream.ogtv2.com/live/live1009.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p) （关掉加速器！！！）
@@ -51,6 +51,18 @@ http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 http://1.214.67.100/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS뉴스.png",kbsnews
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
+#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국방송🦆",tvN Drama
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국방송🦆",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국방송🦆",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",라이프타임
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",중화티비
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/PWROOjrg_dfq00nkQsFxWwcVCMJIEXsSfo4_LPWFA2nEgcsMptXHyckb0ULFdcR0k43sq4DokDfpWNHq2HvggA.svg",SCREEN
@@ -373,6 +385,8 @@ http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",FTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
+https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
@@ -385,24 +399,10 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="🐉한국방송🦆",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국방송🦆",tvN Drama
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국방송🦆",tvN Show
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국방송🦆",MNet
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",라이프타임
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",중화티비
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 211
 http://211.170.95.22/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 38
@@ -487,6 +487,14 @@ https://stream.ogtv2.com/live/live1018.m3u8
 https://stream.ogtv2.com/live/live1020.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆"tvg-logo="https://i.namu.wiki/i/DilhuQ9GQnnGObk1Liw45Zfiht3gUlZPU_D9MeUXzmp2JkPuOLUOSMKOmSt8oZuBLl1PMEWz94pB3fHqsn82_pfgyf-oERwgFZh8IrtZBh_cM9TnCvIl2Ho3UzP8XuNKDdeGxr5LtFF3xoDu8tlJTA.svg",ENA DRAMA
 https://stream.ogtv2.com/live/live1019.m3u8
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국고화질방송🦆",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국고화질방송🦆",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",중화티비
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",ANIPLUS
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV (고화질)
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",아이넷TV
@@ -1320,9 +1328,14 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240816-1/9ab78d91761f9402a27a059a1aade64c.jpg", 250418 이십세기 힛-트쏭
+https://www.muumuutv.com/20250418/MCsmLnJX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20241018-1/fa8b491b16dd8d0e0b339bd7a9b18ab5.jpg", 250418 THE 맛있는 녀석들
+https://www.muumuutv.com/20250418/7e1FAdKw/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240816-1/9ab78d91761f9402a27a059a1aade64c.jpg", 250418 궁금한 이야기 Y
+https://www.soratv2.com/20250418/Wp7CtvOc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240816-1/9ab78d91761f9402a27a059a1aade64c.jpg", 250418 요즘 육아 금쪽같은 내 새끼
-https://www.ddetv.com/20250418/F9weWbRV/1000kb/hls/index.m3u8
+https://www.soratv2.com/20250418/Ua0QSfSV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230712-1/7774d5e2758f9b55a4db289ad41a5d8e.jpg", 250418 김진의 돌직구 쇼
 https://www.muumuutv.com/20250418/jhOdfM7Y/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20230712-1/1f876433227c4909b89f56ff59de904e.jpg", 250418 동물의 왕국
