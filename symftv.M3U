@@ -548,9 +548,15 @@ https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.co
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://pimg.mk.co.kr/meet/neds/2018/06/image_readtop_2018_398218_15298668663363159.jpg",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
+http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",EBS少儿 (고화질)
 http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",EBS English
+http://1.214.67.38/vod/76801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",EBS+ 1
+http://211.170.95.22/vod/17203.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",EBS+ 2
+http://211.170.95.22/vod/17301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",애니맥스 (고화질)
 http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",애니플러스 (고화질)
