@@ -647,8 +647,6 @@ http://175.9.44.63:8081/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5
 http://139.213.176.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5+
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
-#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5+
 http://121.30.137.26:8081/hls/18/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV6
 http://175.9.44.63:8081/tsfile/live/0006_1.m3u8
@@ -698,8 +696,6 @@ http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4欧洲
 http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
-#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4美洲
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",吉林卫视
 http://221.237.137.140:4022/udp/239.93.1.204:5140
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",吉林卫视
