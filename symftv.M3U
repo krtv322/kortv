@@ -628,92 +628,178 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV1
 http://175.9.44.63:8081/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV1
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV2
 http://175.9.44.63:8081/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV2
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV3
 http://175.9.44.63:8081/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV3
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4
 http://175.9.44.63:8081/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5
 http://175.9.44.63:8081/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5
+http://139.213.176.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5+
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV5+
+http://121.30.137.26:8081/hls/18/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV6
 http://175.9.44.63:8081/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV6
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV7
 http://175.9.44.63:8081/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV7
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV8
 http://175.9.44.63:8081/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV8
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV9
 http://175.9.44.63:8081/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV9
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV10
 http://175.9.44.63:8081/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV10
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV11
 http://175.9.44.63:8081/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV11
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV12
 http://175.9.44.63:8081/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV12
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV13
 http://175.9.44.63:8081/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV13
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv13
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV14
 http://175.9.44.63:8081/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV14
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV15
 http://175.9.44.63:8081/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV15
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV16
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV17
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CGTN
 http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4欧洲
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CCTV4美洲
+http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",吉林卫视
-http://171.213.227.214:5555/udp/239.93.1.204:5140
+http://221.237.137.140:4022/udp/239.93.1.204:5140
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",吉林卫视
-http://1.70.34.170:8082/udp/239.1.1.30:8030
+http://121.30.137.26:8081/hls/44/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",辽宁卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873468.m3u8
+http://153.0.169.80:888/hls/29/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",黑龙江卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873470.m3u8
+http://121.30.137.26:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",山东卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873467.m3u8
+http://153.0.169.80:888/hls/22/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",北京卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003870776.m3u8
+http://153.0.169.80:888/hls/23/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",上海卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873462.m3u8
+http://153.0.169.80:888/hls/25/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",天津卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873466.m3u8
+http://153.0.169.80:888/hls/30/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",浙江卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873464.m3u8
+http://153.0.169.80:888/hls/27/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",江苏卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873461.m3u8
+http://153.0.169.80:888/hls/28/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",湖南卫视
 http://175.9.44.63:8081/tsfile/live/0017_1.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",湖南卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873458.m3u8
+http://153.0.169.80:888/hls/19/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",湖北卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873465.m3u8
+http://153.0.169.80:888/hls/31/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",安徽卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873469.m3u8
-#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",安徽卫视
-http://171.213.227.214:5555/udp/239.93.1.166:5140
+http://153.0.169.80:888/hls/24/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",河北卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873460.m3u8
+http://153.0.169.80:888/hls/26/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",广东卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873459.m3u8
+http://153.0.169.80:888/hls/21/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",云南卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887453.m3u8
+http://153.0.169.80:888/hls/38/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",贵州卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873471.m3u8
+http://121.30.137.26:8081/hls/55/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",东南卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873473.m3u8
+http://121.30.137.26:8081/hls/39/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",深圳卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003873474.m3u8
+http://153.0.169.80:888/hls/20/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",新疆卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887448.m3u8
+http://121.30.137.26:8081/hls/52/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",西藏卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887434.m3u8
-#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",厦门卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887454.m3u8
+http://121.30.137.26:8081/hls/51/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",甘肃卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887450.m3u8
+http://121.30.137.26:8081/hls/50/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",山西卫视
+http://153.0.169.80:888/hls/32/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",重庆卫视
+http://153.0.169.80:888/hls/33/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",河南卫视
+http://153.0.169.80:888/hls/34/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",厦门卫视
+http://153.0.169.80:888/hls/35/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",江西卫视
+http://153.0.169.80:888/hls/36/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",四川卫视
+http://153.0.169.80:888/hls/37/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",宁夏卫视
+http://121.30.137.26:8081/hls/41/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",广西卫视
+http://121.30.137.26:8081/hls/42/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",青海卫视
+http://121.30.137.26:8081/hls/45/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",陕西卫视
+http://121.30.137.26:8081/hls/48/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",内蒙古卫视
+http://121.30.137.26:8081/hls/49/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",海南卫视
+http://153.0.169.80:888/hls/14/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",南岛风云
+http://153.0.169.80:888/hls/41/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",金鹰卡通
+http://153.0.169.80:888/hls/18/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",BRTV
+http://121.30.137.26:8081/hls/60/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",海南少儿
+http://153.0.169.80:888/hls/17/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",海南公共
+http://153.0.169.80:888/hls/15/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",三沙卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887452.m3u8
+http://153.0.169.80:888/hls/16/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",上海演播室
+http://121.30.137.26:8081/hls/33/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",文体生活
+http://121.30.137.26:8081/hls/24/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",经济与科技
+http://121.30.137.26:8081/hls/23/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",社会与法治
+http://121.30.137.26:8081/hls/22/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",山西影视
+http://121.30.137.26:8081/hls/21/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",黄河
+http://121.30.137.26:8081/hls/20/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",哈哈炫动
+http://121.30.137.26:8081/hls/56/index.m3u8
+#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",CETV1
+http://121.30.137.26:8081/hls/57/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",兵团卫视
-http://124.127.46.59:9001/bptv/10000100000000050000000003887456.m3u8
-#EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",嘉佳卡通
-http://124.127.46.59:9001/bptv/10000100000000050000000003887459.m3u8
+http://121.30.137.26:8081/hls/58/index.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",湖南都市
 http://175.9.44.63:8081/tsfile/live/0018_1.m3u8
 #EXTINF:-1 group-title="🐉中国电视，不出来就请关掉加速器运行中!🦆",湖南电影
