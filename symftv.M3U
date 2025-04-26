@@ -625,7 +625,7 @@ http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://175.9.44.63:8081/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
+http://121.30.137.26:8081/hls/11/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://175.9.44.63:8081/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
@@ -637,21 +637,19 @@ http://nctv.top/IDOEPpiryt/migu.php?id=cctv13
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://175.9.44.63:8081/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
+http://121.30.137.26:8081/hls/14/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
 http://175.9.44.63:8081/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
+http://121.30.137.26:8081/hls/15/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
+http://121.30.137.26:8081/hls/16/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
+http://121.30.137.26:8081/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CGTN
 http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4欧洲
 http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
-#EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://221.237.137.140:4022/udp/239.93.1.204:5140
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://121.30.137.26:8081/hls/44/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
