@@ -142,6 +142,10 @@ http://1.201.160.177:1935/live/myStream/playlist.m3u8
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",매일경제TV
 http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",서울경제
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",토마토증권통
+https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",EBC
 http://ekbc.ecn.cdn.infralab.net/ekbc/live/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",TED
@@ -328,8 +332,6 @@ https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",스크린골프존
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_502_A730A10A.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",토마토증권통
-https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.imaeil.com/photos/2018/03/20/2018032011485662542_m.jpg", SBS golf
@@ -352,6 +354,10 @@ http://211.170.95.22/vod/62503.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 https://parselink.winnie.in.th/kr_live/kbs.php?id=11
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 https://parselink.winnie.in.th/kr_live/kbs.php?id=12
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS 1
+https://tv.iill.top/kbs/11&p=0
+#EXTINF:-1 group-title="🐉한국방송🦆",KBS 2
+https://tv.iill.top/kbs/12&p=0
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
@@ -360,6 +366,8 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆", 연합뉴스
 https://jmp2.uk/sam-KRBD1400001ED.m3u8
+#EXTINF:-1 group-title="•한국",연합뉴스
+https://rb.gy/telq1m
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
@@ -533,8 +541,8 @@ http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",토마토증권통 (고화질)
 http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질방송🦆",서울경제
-https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
+#EXTINF:-1 group-title="🐉한국고화질방송🦆",매일경제TV
+http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질방송🦆",Asia N (고화질)
 http://1.214.67.38/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질방송🦆" tvg-logo="https://i.imgur.com/C1zvP3w.png" ,OBS (고화질)
