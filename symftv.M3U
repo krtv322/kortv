@@ -647,8 +647,6 @@ http://121.30.137.26:8081/hls/16/index.m3u8
 http://121.30.137.26:8081/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CGTN
 http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4欧洲
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://183.188.227.197:6000/rtp/226.0.2.58:8376
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
@@ -710,11 +708,11 @@ http://183.188.227.170:6000/rtp/226.0.2.212:9608
 #EXTINF:-1 group-title="🐉중국방송🦆",BRTV
 http://121.30.137.26:8081/hls/60/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://119.138.50.225:2086/udp/239.77.1.142:5146
+http://111.43.126.240:9003/hls/48/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
-http://121.30.137.26:8081/hls/31/index.m3u8
+http://111.43.126.240:9003/hls/41/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
-http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
+http://111.43.126.240:9003/hls/39/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
 http://121.30.137.26:8081/hls/29/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海演播室
