@@ -605,58 +605,34 @@ http://cookies.elementfx.com/ublive/ublive.php?id=3105
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://175.9.44.63:8081/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://175.9.44.63:8081/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://175.9.44.63:8081/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://175.9.44.63:8081/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://175.9.44.63:8081/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://139.213.176.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://121.30.137.26:8081/hls/18/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://175.9.44.63:8081/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://175.9.44.63:8081/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://175.9.44.63:8081/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://175.9.44.63:8081/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
 http://175.9.44.63:8081/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://175.9.44.63:8081/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://121.30.137.26:8081/hls/11/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://175.9.44.63:8081/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://175.9.44.63:8081/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://nctv.top/IDOEPpiryt/migu.php?id=cctv13
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://175.9.44.63:8081/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
@@ -674,43 +650,35 @@ http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4欧洲
 http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://121.30.137.26:8081/hls/44/index.m3u8
+http://183.188.227.197:6000/rtp/226.0.2.58:8376
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
-http://153.0.169.80:888/hls/29/index.m3u8
+http://119.138.50.225:2086/udp/239.77.0.123:5146
 #EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
-http://121.30.137.26:8081/hls/37/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://153.0.169.80:888/hls/22/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
-http://153.0.169.80:888/hls/23/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
-http://153.0.169.80:888/hls/25/index.m3u8
+http://222.212.220.111:8000/udp/239.93.0.231:5140
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://153.0.169.80:888/hls/30/index.m3u8
+http://119.138.50.225:2086/udp/239.77.0.97:5146
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
-http://153.0.169.80:888/hls/27/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://153.0.169.80:888/hls/28/index.m3u8
+http://183.188.22.72:6000/rtp/226.0.2.144:9064
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
 http://175.9.44.63:8081/tsfile/live/0017_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://153.0.169.80:888/hls/19/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",厦门卫视
+http://183.164.64.151:4022/rtp/238.1.78.246:7840
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
-http://153.0.169.80:888/hls/31/index.m3u8
+http://121.30.137.26:8081/hls/33/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://153.0.169.80:888/hls/24/index.m3u8
+http://121.30.137.26:8081/hls/54/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://153.0.169.80:888/hls/26/index.m3u8
+http://121.30.137.26:8081/hls/35/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://153.0.169.80:888/hls/21/index.m3u8
+http://121.30.137.26:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://153.0.169.80:888/hls/38/index.m3u8
+http://121.30.137.26:8081/hls/46/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
 http://121.30.137.26:8081/hls/55/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
 http://121.30.137.26:8081/hls/39/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://153.0.169.80:888/hls/20/index.m3u8
+http://121.30.137.26:8081/hls/30/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
 http://121.30.137.26:8081/hls/52/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
@@ -718,17 +686,15 @@ http://121.30.137.26:8081/hls/51/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
 http://121.30.137.26:8081/hls/50/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
-http://153.0.169.80:888/hls/32/index.m3u8
+http://121.30.137.26:8081/hls/19/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://153.0.169.80:888/hls/33/index.m3u8
+http://121.30.137.26:8081/hls/32/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://153.0.169.80:888/hls/34/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",厦门卫视
-http://153.0.169.80:888/hls/35/index.m3u8
+http://121.30.137.26:8081/hls/40/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
-http://153.0.169.80:888/hls/36/index.m3u8
+http://121.30.137.26:8081/hls/43/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
-http://153.0.169.80:888/hls/37/index.m3u8
+http://121.30.137.26:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
 http://121.30.137.26:8081/hls/41/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
@@ -740,19 +706,17 @@ http://121.30.137.26:8081/hls/48/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
 http://121.30.137.26:8081/hls/49/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://153.0.169.80:888/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",南岛风云
-http://153.0.169.80:888/hls/41/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",金鹰卡通
-http://153.0.169.80:888/hls/18/index.m3u8
+http://183.188.227.170:6000/rtp/226.0.2.212:9608
 #EXTINF:-1 group-title="🐉중국방송🦆",BRTV
 http://121.30.137.26:8081/hls/60/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",海南少儿
-http://153.0.169.80:888/hls/17/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",海南公共
-http://153.0.169.80:888/hls/15/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",三沙卫视
-http://153.0.169.80:888/hls/16/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
+http://119.138.50.225:2086/udp/239.77.1.142:5146
+#EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
+http://121.30.137.26:8081/hls/31/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
+http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
+http://121.30.137.26:8081/hls/29/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海演播室
 http://121.30.137.26:8081/hls/33/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",文体生活
