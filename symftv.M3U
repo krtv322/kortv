@@ -1362,10 +1362,12 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202210/2578471_2585656_3045.png", 250429 이웃집 찰스
+https://www.muumuutv.com/20250429/A5dJsQK4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250429 JTBC 뉴스룸
+https://www.muumuutv.com/20250429/NebqqJfh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250429 인간극장
+https://www.muumuutv.com/20250428/MC3netfz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/news/2020/06/12/4469261_qT3.jpg", 250428 KBS 뉴스라인W
 https://www.muumuutv.com/20250428/fLglz2yK/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.welaaa.co.kr/new_images/content/41/9/419082/419082-2-1736928450426.png", 250428 EBS 다큐프라임
@@ -3579,6 +3581,9 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/04/29/114074.webp", 盲杀
+https://play.ly166.com:65/videos/20250429/68104a12cde7f10b666999f1/dc635a/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/04/27/857002.webp", 怪诞故事
 https://play.ly166.com:65/videos/20250427/680da699a3cd3e0b2ea49ebb/6c6431/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/04/27/673319.webp", 琼和约翰
