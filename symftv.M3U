@@ -646,7 +646,7 @@ http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://113.15.109.216:59901/tsfile/live/0116_1.m3u8
+https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1746008922&key=ea3272b0fe6cb607c7dcfc6a4f0512cd
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
 http://175.9.44.63:8081/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
@@ -694,17 +694,17 @@ http://175.9.44.63:8081/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
 http://175.9.44.63:8081/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://221.226.215.162:352/tsfile/live/0117_1.m3u8
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1746008922&key=0b1ff5906b3441e0be4e0d529c07fcef
 #EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
 http://221.226.215.162:352/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
-http://221.226.215.162:352/tsfile/live/0120_1.m3u8
+https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1746008922&key=7b7a79028e0b8338db45d9f898b5465f
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
 http://221.226.215.162:352/tsfile/live/0141_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
 http://221.226.215.162:352/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://221.226.215.162:352/tsfile/live/0139_1.m3u8
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1746008922&key=bdbc969ef211f1f503c0c0324bbeed6f
 #EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
 http://123.138.22.30:9901/tsfile/live/0140_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
