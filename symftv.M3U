@@ -9,7 +9,7 @@ https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC 
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&apikey=5MY50EII66
+http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
@@ -367,7 +367,7 @@ https://jmp2.uk/sam-KRBD1400001ED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",연합뉴스
 https://rb.gy/telq1m
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
-http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -670,7 +670,7 @@ http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://221.213.91.117:9901/tsfile/live/0132_1.m3u8
+http://106.46.114.53:8011/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
 http://36.136.38.87:9901/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
