@@ -608,7 +608,7 @@ http://cookies.elementfx.com/ublive/ublive.php?id=3105
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://175.9.44.63:8081/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://221.13.235.5:9901/tsfile/live/0001_1.m3u8
+http://221.213.91.117:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://175.9.44.63:8081/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
@@ -622,9 +622,9 @@ http://221.213.91.117:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://175.9.44.63:8081/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://113.64.94.221:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://175.0.78.209:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://175.9.44.63:8081/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
@@ -667,8 +667,6 @@ http://121.30.137.26:8081/hls/16/index.m3u8
 http://121.30.137.26:8081/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CGTN
 http://175.9.44.63:8081/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",谍战剧场
-http://113.64.94.221:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
