@@ -737,10 +737,6 @@ http://221.213.91.117:9901/tsfile/live/0140_1.m3u8
 http://36.136.38.87:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
 http://123.159.125.38:9901/tsfile/live/0109_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CHC影迷电影
-http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",国际电影
 http://175.9.44.63:8081/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南都市
@@ -1186,6 +1182,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-31/17434276431.jpg", 이혼보험 (2025) 12회
+https://www.humortown.net/20250506/UUAaecjz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 17회
 https://www.humortown.net/20250506/MO56cIkC/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제7회
@@ -1197,8 +1195,7 @@ https://www.humortown.net/20250506/UjdYl0aW/1000kb/hls/index.m3u8
 https://www.humortown.net/20250429/gzOpvH0J/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.dizzotv.com/site/data/img_dir/2021/01/13/2021011380026_0.jpg", 디어엠 (2025) 7회
 https://www.humortown.net/20250505/UkXcpJGQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-31/17434276431.jpg", 이혼보험 (2025) 11회
-https://www.humortown.net/20250505/n9K1H4Cm/1000kb/hls/index.m3u8
+
 
 
 
@@ -1339,18 +1336,8 @@ https://www.humortown.net/20250414/aZODU4Y4/1000kb/hls/index.m3u8
 https://www.humortown.net/20250408/pA7cLzzk/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/83fc1972b4cb530b1c38e149f3ba2927.jpg", 신병 시즌3 (2025)) 1회
 https://www.humortown.net/20250407/PW6ActaX/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 6회
-https://www.humortown.net/20250417/z8C2IyC4/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 5회
-https://www.humortown.net/20250417/tRfHhvPx/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 4회
-https://www.humortown.net/20250410/Qy0cvbTR/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 3회
-https://www.humortown.net/20250410/0z36aZtM/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 2회
-https://www.humortown.net/20250403/sVwBd4B6/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 1회
-https://www.humortown.net/20250403/sVwBd4B6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-31/17434276431.jpg", 이혼보험 (2025) 11회
+https://www.humortown.net/20250505/n9K1H4Cm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-31/17434276431.jpg", 이혼보험 (2025) 10회
 https://www.humortown.net/20250429/qIcuHiLt/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-03-31/17434276431.jpg", 이혼보험 (2025) 9회
@@ -1659,10 +1646,12 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250506 세계테마기행
+https://www.muumuutv.com/20250506/LbfJBspa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg-hams.hankookilbo.com/2024/12/05/653523ab-b925-47a6-8cd0-32acd06fc0f7.jpg", 250506  셀럽병사의 비밀
+https://www.muumuutv.com/20250506/n3oAkBWO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/22/bnt202504220233.680x.9.jpg", 250506  신삼국지
+https://www.muumuutv.com/20250506/g0JjD0vT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250506 JTBC 뉴스룸
 https://www.muumuutv.com/20250506/p9Rcgypm/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202210/2578471_2585656_3045.png", 250506 이웃집 찰스
@@ -5855,6 +5844,23 @@ https://www.ddetv.com/20241009/gH4mz8YQ/1000kb/hls/index.m3u8
 https://www.ddetv.com/20241008/cU5kiYrF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마 결혼하자 맹꽁아🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/855304_unnD998sQyKa_5B_1728353102/0", 결혼하자 맹꽁아 제1회 첫방송
 https://www.ddetv.com/20241007/JJz1QGYT/1000kb/hls/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 6회
+https://www.humortown.net/20250417/z8C2IyC4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 5회
+https://www.humortown.net/20250417/tRfHhvPx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 4회
+https://www.humortown.net/20250410/Qy0cvbTR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 3회
+https://www.humortown.net/20250410/0z36aZtM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 2회
+https://www.humortown.net/20250403/sVwBd4B6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내가 죽기 일주일 전🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250403-1/c7e1dcde453fa2cbf0ff8b3f14c4c69f.jpg", 내가 죽기 일주일 전 (2025) 1회
+https://www.humortown.net/20250403/sVwBd4B6/1000kb/hls/index.m3u8
 
 
 
