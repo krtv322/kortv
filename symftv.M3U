@@ -9,7 +9,7 @@ https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/5oraHc0.png",MBC 
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&apikey=5MY50EII66
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
@@ -320,6 +320,8 @@ http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 https://parselink.winnie.in.th/kr_live/mbc.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🐉한국방송🦆",YTN Science (720p)
@@ -350,6 +352,7 @@ http://1.214.67.38/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://211.170.95.22/vod/62503.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS 1
 http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
+http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
