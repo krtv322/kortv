@@ -263,7 +263,7 @@ http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS강원
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS1대구
-https://parselink.winnie.in.th/kr_live/kbs.php?id=11
+http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
@@ -422,7 +422,7 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질)
-http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
+https://parselink.winnie.in.th/kr_live/kbs.php?id=11
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
