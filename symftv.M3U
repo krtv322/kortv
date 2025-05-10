@@ -626,7 +626,7 @@ http://221.213.91.64:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://59.188.94.126:35455/bptv/10000100000000050000000003870759.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://221.213.91.38:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
@@ -1648,10 +1648,18 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250510  놀면 뭐하니
+https://www.coinsarang.com/20250510/t9ZgPARz/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202503/24/news-p.v1.20250324.4ea66c90c6ed4671a3d7fe6fb24f4bdc_P1.jpg", 250510 미스터트롯3
+https://www.coinsarang.com/20250510/eyLmeK1c/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788936471897.jpg", 250510 불편해도 괜찮아 시즌7
+https://www.muumuutv.com/20250510/xSmMxlFm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2024/09/26/isp20240926000339.500x.0.jpeg", 250510 영화가 좋다
+https://www.muumuutv.com/20250510/jPVDJedt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2010/01/22/AKR20100122213400005_01_i_P4.jpg", 250510 걸어서 세계속으로
+https://www.muumuutv.com/20250510/UAODOU79/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://db.kookje.co.kr/news2000/photo/2018/0317/L20180317.99099007148i1.jpg", 250510 접속! 무비월드
+https://www.muumuutv.com/20250510/9Cg1niRF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/01/news-p.v1.20250301.0e436770bdfc4bcfba8015c1aacf755b_P1.webp", 250509 하트페어링
 https://www.muumuutv.com/20250509/btj8FpW9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250509 나 혼자 산다
