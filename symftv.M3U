@@ -634,7 +634,7 @@ http://221.213.91.64:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://221.213.91.64:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://221.213.91.117:9901/tsfile/live/0007_1.m3u8
+http://115.58.217.160:60001/hls/7/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://115.58.217.160:60001/hls/8/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
@@ -1189,7 +1189,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",한국경제
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r1dt55tnyXZwly6i1geE6psoDdZvce&secret=d1de772e9eeb5dcf1636c239f633cdb2&time=1742500679
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",SBS GOLF
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=XsKzqGkpDUmFmWuyIxsfyvVRJ4mMF6hKDilRFzUt&secret=b636e43843bdb115334396d210244321&time=1742499186
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=wvV5OWL5DOQOa8ZNzj0NAEWKK1a8Sqwe9P6BNO7v&secret=54d885727fdc6a668c4268c37e4cbf79&time=1733757070
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",JTBC GOLF
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
 #EXTINF:-1 group-title="🐉한국방송 테스트중 년비용🦆",JTBC GOLF&SPORTS
