@@ -316,6 +316,8 @@ https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC Busan (부산MBC) (360p) [Not 24/7]
 https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN
