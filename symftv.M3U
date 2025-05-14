@@ -646,11 +646,9 @@ http://121.30.137.26:8081/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
-http://221.213.91.36:9901/tsfile/live/0132_1.m3u8
+http://36.136.38.87:9901/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
 http://36.136.38.87:9901/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
-http://221.213.91.117:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
 http://175.0.78.209:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
@@ -684,7 +682,7 @@ http://175.0.78.209:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
 http://36.136.38.87:9901/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://221.213.91.36:9901/tsfile/live/0138_1.m3u8
+http://36.136.38.87:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
 http://175.0.78.209:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
