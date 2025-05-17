@@ -535,6 +535,10 @@ http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",폴라리스TV (고화질)
 http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",서울경제TV
+https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",토마토증권통 (고화질)
 http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",매일경제TV
@@ -579,26 +583,6 @@ http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",신세계쇼핑
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OCN
-http://cookies.elementfx.com/ublive/ublive.php?id=3206
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OCN Movies
-http://cookies.elementfx.com/ublive/ublive.php?id=3165
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",아이넷TV
-http://cookies.elementfx.com/ublive/ublive.php?id=490
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KBSN Sports
-http://cookies.elementfx.com/ublive/ublive.php?id=174
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SBS Sports
-http://cookies.elementfx.com/ublive/ublive.php?id=3199
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",MBC SPORTS
-http://cookies.elementfx.com/ublive/ublive.php?id=3174
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SKY Sports
-http://cookies.elementfx.com/ublive/ublive.php?id=2910
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",tvN Sports
-http://cookies.elementfx.com/ublive/ublive.php?id=2931
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON1
-http://cookies.elementfx.com/ublive/ublive.php?id=3104
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON2
-http://cookies.elementfx.com/ublive/ublive.php?id=3105
 
 
 
