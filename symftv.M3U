@@ -600,7 +600,7 @@ http://36.136.38.87:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://175.0.78.209:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://36.136.38.87:9901/tsfile/live/0003_1.m3u8
+http://183.215.134.239:19901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://36.136.38.87:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
@@ -611,6 +611,8 @@ http://175.0.78.209:9901/tsfile/live/0005_1.m3u8
 http://36.136.38.87:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://175.0.78.209:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://175.0.78.209:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
@@ -641,6 +643,8 @@ http://175.0.78.209:9901/tsfile/live/0014_1.m3u8
 http://175.0.78.209:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
 http://121.30.137.26:8081/hls/16/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://119.125.134.153:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://121.30.137.26:8081/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
