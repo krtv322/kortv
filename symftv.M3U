@@ -1161,6 +1161,9 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 26회
+https://www.coinsarang.com/20250519/W1UrPNMo/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제16회
 https://www.coinsarang.com/20250519/ALAe4lR3/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제118회
@@ -1728,9 +1731,12 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250519  MBC 뉴스데스크
+https://www.muumuutv.com/20250519/xMWuNu1y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250519 JTBC 뉴스룸
+https://www.muumuutv.com/20250519/mpVCWF5h/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250519 인간극장
+https://www.muumuutv.com/20250518/78CgIWM5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250518 이제 만나러 갑니다
 https://www.muumuutv.com/20250518/UFBKfhhQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250518 미운 우리 새끼
@@ -3724,6 +3730,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img20.360buyimg.com/openfeedback/jfs/t1/280515/30/11431/15604/67e843f5Fe73b9b0a/7d51b49ee5ef2ad2.webp", 昨日青春
+https://cdn7.ryplay7.com/20250329/11750_83d87481/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/19/552174.webp", 碟中谍8:最终清算
 https://cdn7.ryplay7.com/20250519/13997_486c32a9/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/17/246196.webp", 死神来了6:血脉诅咒
