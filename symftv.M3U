@@ -10,8 +10,9 @@ https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
-http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
@@ -370,9 +371,8 @@ https://jmp2.uk/sam-KRBD1400001ED.m3u8
 https://rb.gy/telq1m
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
+http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",FTV
@@ -1150,16 +1150,36 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 29회
+https://www.coinsarang.com/20250522/UnSPlzJJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제19회
+https://www.coinsarang.com/20250522/3R57CSSd/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제121회
+https://www.coinsarang.com/20250522/72ela4t4/1000kb/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 6회
+https://play.ly166.com:65/videos/20250522/682e025c5cf6b9c74683173a/43125c/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 5회
+https://play.ly166.com:65/videos/20250522/682e03c580eee9b955e5e492/39ed5a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 4회
+https://play.ly166.com:65/videos/20250522/682e043c5cf6b9c7468348be/9eff05/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 3회
+https://play.ly166.com:65/videos/20250522/682e02205cf6b9c74683110b/cab0f8/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 2회
+https://play.ly166.com:65/videos/20250522/682e013080eee9b955e59cba/66beda/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/480818.webp", 나인 퍼즐 1회
+https://play.ly166.com:65/videos/20250522/682dff155cf6b9c74682b40c/g566aa/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202504/28/sportskhan/20250428172437886rnyh.png", 사계의 봄 (2025) 4회
 https://www.coinsarang.com/20250521/hFIvNqUc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/5404d88548d6c1475bcb23c1fe136dbe.jpg", 24시 헬스클럽 (2025) 7회
 https://www.coinsarang.com/20250521/vutnKolb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 28회
-https://www.coinsarang.com/20250521/uMkzJRw2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제18회
-https://www.coinsarang.com/20250521/8bwbpcHG/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제120회
-https://www.coinsarang.com/20250521/FBIs33Rq/1000kb/hls/index.m3u8
+
 
 
 
@@ -1205,6 +1225,8 @@ https://www.humortown.net/20250507/77FXcCpZ/1000kb/hls/index.m3u8
 https://www.humortown.net/20250501/z7GSMwpR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/5404d88548d6c1475bcb23c1fe136dbe.jpg", 24시 헬스클럽 (2025) 1회
 https://www.humortown.net/20250430/jTBOGnRw/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제18회
+https://www.coinsarang.com/20250521/8bwbpcHG/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제17회
 https://www.coinsarang.com/20250520/xlGxqjqX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제16회
@@ -1303,6 +1325,8 @@ https://www.humortown.net/20250421/nxMnJdjg/1000kb/hls/index.m3u8
 https://www.humortown.net/20250415/Au81deiB/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.dizzotv.com/site/data/img_dir/2021/01/13/2021011380026_0.jpg", 디어엠 (2025) 1회
 https://www.humortown.net/20250414/zKRmp49N/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 28회
+https://www.coinsarang.com/20250521/uMkzJRw2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 27회
 https://www.coinsarang.com/20250520/S59hhYNR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 26회
@@ -1501,6 +1525,8 @@ https://www.humortown.net/20250208/zRzwUX0f/1000kb/hls/index.m3u8
 https://www.humortown.net/20250202/PQ7yBTRS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 1회
 https://www.humortown.net/20250201/LTsV4c4e/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제120회
+https://www.coinsarang.com/20250521/FBIs33Rq/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제119회
 https://www.coinsarang.com/20250520/bm0hww1x/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/2a06b4f67d2af94d5bd8a87f9303b2d9.jpg", 친절한 선주씨 제118회
@@ -1752,6 +1778,29 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/08/news-p.v1.20250508.8036f3bfbbf74102a1c6f6ff8e3cbe1b_P1.jpg", 250522  안목의 여왕 김남주
+https://www.muumuutv.com/20250522/TugZ9oZN/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250522 사건 반장
+https://www.muumuutv.com/20250522/7XXb7F2H/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250522  MBC 뉴스데스크
+https://www.muumuutv.com/20250522/tOliDA4u/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788993976663.jpg", 250522 한국인의 밥상
+https://www.muumuutv.com/20250522/LUdWhJby/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250522 JTBC 뉴스룸
+https://www.muumuutv.com/20250522/dRG6wHNX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/st/2019/01/25/25_524358_48020.jpg", 250522 사건파일 24
+https://www.muumuutv.com/20250522/beB0FR2d/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/640x0/music/large/4743/2347483.jpg", 250522 동물의 왕국
+https://www.muumuutv.com/20250522/HoLBhsmJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/resource/image/common/noimg_633_355.png", 250522 월드24
+https://www.muumuutv.com/20250522/1AEOSZTQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788962440287.jpg", 250522 히든카드
+https://www.muumuutv.com/20250522/TgOZblx8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250522 인간극장
+https://www.muumuutv.com/20250521/AfYs24OV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 250521 트롯 올스타전 수요일밤에
 https://www.coinsarang.com/20250521/J61M81A8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2025/03/04/20250304165950357001.png", 250521 논/쟁
@@ -3156,6 +3205,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/04/01/AKR20250401046800005_01_i_P4.jpg", 바이러스 (2025)
+https://www.tajotv2.com/video/m3u8//4ff0d874/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.hankyung.com/photo/202505/01.40454399.1.jpg", 야당 (2025)
 https://www.tajotv2.com/video/m3u8//daca8828/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0328/16_46_49__67e653e9803a3[W680-].jpg", 공포특급 (2025)
@@ -3179,7 +3231,7 @@ https://play.ly166.com:65/videos/20250120/678c67931672d95e8355a8b1/a528c6/index.
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0307/13_16_17__67ca73111ac40[X280,400].jpg", 프랑켄슈타인 아버지 (2025)
 https://www.tajotv2.com/video/m3u8//43834ede/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/01/672912.webp", 로비 (2025)
-https://cdn7.ryplay7.com/20250501/13883_885345f7/2000k/hls/index.m3u8
+https://play.ly166.com:65/videos/20250511/68201df380eee9b955b77d52/9afb2e/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://dawatv22.site/upload/vod/20250501-1/ef9e743ac1aa2046da5fbdfb436aa711.jpg", 부전시장 (2025)
 https://www.tajotv2.com/video/m3u8//8c890060/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://dawatv22.site/upload/vod/20250430-1/798acc206a4e2eb257ea3466d453d74e.jpg", 침범 (2025)
@@ -3514,6 +3566,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m3u8
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/22/346873.webp", 猎毒风暴
+https://play.ly166.com:65/videos/20250522/682e9b6880eee9b955f1a6e4/8459ad/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/757469.webp", 奥奇传说
 https://play.ly166.com:65/videos/20250521/682dd12280eee9b955de2e5f/b3df0e/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/21/636856.webp", 疾速剧痛
