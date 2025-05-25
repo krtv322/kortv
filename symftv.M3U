@@ -1147,8 +1147,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 2회 
+https://www.humortown.net/20250525/Xo00ERiy/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 34회
 https://www.coinsarang.com/20250525/TjZynKIz/1000kb/hls/index.m3u8
 
@@ -1157,8 +1157,6 @@ https://www.coinsarang.com/20250525/TjZynKIz/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250420-1/0882ec4119849fd8cc7ae7c2d4c91b8d.jpg", 천국보다 아름다운 11회 (2025)
 https://22.thehanju.com/hanju2023/2025/5/25/yen9U4Yq/playlista.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 1회 
-https://22.thehanju.com/hanju2023/2025/5/25/92ccHgAu/playlista.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.nbnnews.co.kr/news/photo/202505/944969_977895_4346.jpg", 맹감독의 악플러 (2025) 2회 
 https://www.coinsarang.com/20250524/5LoOgUEz/1000kb/hls/index.m3u8
 
@@ -1169,7 +1167,8 @@ https://www.coinsarang.com/20250524/5LoOgUEz/1000kb/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 1회 
+https://22.thehanju.com/hanju2023/2025/5/25/92ccHgAu/playlista.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.nbnnews.co.kr/news/photo/202505/944969_977895_4346.jpg", 맹감독의 악플러 (2025) 1회 
 https://www.coinsarang.com/20250523/UjCfwaar/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/13/244007.webp", 당신의 맛 (2025) 4회
@@ -1788,8 +1787,10 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 250525 모-던 인물史 미스터.리
+https://www.muumuutv.com/20250525/oSQTqeJM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 250525  냉장고를 부탁해 since 2014
+https://www.coinsarang.com/20250525/PQJqFl9i/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/564/2015/12/10/1449735367171.jpg", 250525 휴먼다큐 사노라면
 https://www.muumuutv.com/20250525/NYPh4J0V/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ts/2025/03/12/15614725_1516667_419.jpg", 250525 언니네 산지직송 2
