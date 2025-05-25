@@ -417,8 +417,8 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
 https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://www.bowlingplus.kr/wp-content/uploads/elementor/thumbs/logo_bowlingtv_w-orfi0fe2ekp45bfsyjwtj5ep8271atjq9get3m7i4c.png",볼링플러스
 https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.kbaduk.com/images/common/kr/logoTop.png", 电影
-https://europe.olemovienews.com/ts4/20250524/r6uaw3sd/mp4/r6uaw3sd.mp4/index-v1-a1.m3u8
+
+
 
 
 
@@ -1152,8 +1152,11 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 34회
 https://www.coinsarang.com/20250525/TjZynKIz/1000kb/hls/index.m3u8
 
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250420-1/0882ec4119849fd8cc7ae7c2d4c91b8d.jpg", 천국보다 아름다운 11회 (2025)
-https://www.coinsarang.com/20250524/XXjr1YKO/1000kb/hls/index.m3u8
+https://22.thehanju.com/hanju2023/2025/5/25/yen9U4Yq/playlista.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 1회 
 https://www.coinsarang.com/20250524/TOKMAQlZ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.nbnnews.co.kr/news/photo/202505/944969_977895_4346.jpg", 맹감독의 악플러 (2025) 2회 
