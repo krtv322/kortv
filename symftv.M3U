@@ -1775,6 +1775,17 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250527 JTBC 뉴스룸
+https://www.muumuutv.com/20250527/R1h7dNGx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250527  MBC 뉴스데스크
+https://www.muumuutv.com/20250527/nd6C0dQQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newimg/news/20250417/202061923_1280.jpg", 250527 SBS 8 뉴스
+https://www.muumuutv.com/20250527/ic8yAtOA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/st/2019/01/25/25_524358_48020.jpg", 250527 사건파일 24
+https://www.muumuutv.com/20250527/gii0wwfR/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.nondureong.co.kr/news/photo/202501/175_349_2112.jpg", 250527 임원희의 미식전파사
 https://www.muumuutv.com/20250527/u0rOlKQU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/resource/image/common/noimg_633_355.png", 250527 월드24
@@ -4220,9 +4231,12 @@ https://tyyszywvod5.com/videos/202502/27/67c05f484deeb59d48786d0a/e47g4d/index.m
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/606cd76cddfe445b241d5abcb986d25f.jpg",	乐高DC超级英雄美少女:超级罪犯中学
+https://play.ly166.com:65/videos/20250118/678bc9b6073e785ea6fddf8d/e8028c/index.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/cb4c481a438983ffe0bd29389d51d402.jpg",	阿凡提之奇缘历险
+https://play.ly166.com:65/videos/20250118/678c67c01672d95e8355deb0/16672g/index.m3u8
+#EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/2d794d4e1b3458a2f0aa5c6efc4e4e92.jpg",	无敌原始人
+https://play.ly166.com:65/videos/20250119/678c67a91672d95e8355c2f0/16fcbe/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/297e99cb1a1a0dea7a312e3234389eb2.jpg",	两只小猪之勇闯神秘岛
 https://play.ly166.com:65/videos/20250118/678bc9b5073e785ea6fddf5d/d706e1/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/701350e45acc984c70e30984deaa177a.jpg",	龟兔大作战
