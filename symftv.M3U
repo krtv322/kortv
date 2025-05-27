@@ -38,8 +38,6 @@ http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🐉한국방송🦆",图们综合
 http://stream7.jlntv.cn/tmgb/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama 
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy
@@ -64,6 +62,8 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
