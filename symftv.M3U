@@ -56,7 +56,13 @@ http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",tvn store
+#EXTINF:-1 group-title="🐉한국방송🦆",mbc Drama
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC every
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",tvn story
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
