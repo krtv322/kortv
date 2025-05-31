@@ -10,8 +10,9 @@ https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
-http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
@@ -384,9 +385,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 https://rb.gy/telq1m
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php/.m3u8
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
+http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
@@ -1745,8 +1745,8 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/990/2025/03/26/174297005067.jpg", 250531 뛰어야 산다
+https://www.muumuutv.com/20250531/fXTuah23/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/202504/03.40193244.1.jpg", 250531 대결! 팽봉팽봉
 https://www.muumuutv.com/20250531/rpPf6jtQ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ojsfile.ohmynews.com/STD_IMG_FILE/2025/0525/IE003468145_STD.jpg", 250531 깡촌캉스
@@ -4310,6 +4310,10 @@ https://tyyszywvod5.com/videos/202502/27/67c05f484deeb59d48786d0a/e47g4d/index.m
 
 
 
+
+
+#EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/31/246561.webp",	露露是一头犀牛
+https://cdn7.ryplay7.com/20250531/14229_aabb11dc/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250411-1/b0a3433aae4656e35c1f557f10700bfe.jpg",	萤火奇兵2:小虫不好惹
 https://play.ly166.com:65/videos/20250119/678c67ba1672d95e8355d77c/cebc90/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/30/579373.webp",	仙逆剧场版神临之战
