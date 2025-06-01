@@ -1752,8 +1752,8 @@ https://www.humortown.net/20241118/aAoeAQmM/1000kb/hls/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788961420808.jpg", 250601 TV 동물농장
+https://www.soratv2.com/20250531/FbzrbneF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791166686535.jpg", 250531 세상에 나쁜 개는 없다
 https://www.muumuutv.com/20250531/53v4EWda/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250531 전지적 참견 시점
@@ -3265,6 +3265,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.stardailynews.co.kr/news/photo/202505/486423_512828_122.jpg", 보이 인 더 풀 2025
+https://www.tajotv2.com/video/m3u8//c55320e3/index.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.polinews.co.kr/news/photo/202503/686044_495967_4731.jpg", 귀신들 2025
+https://www.tajotv2.com/video/m3u8//d221f778/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://play.ly166.com:65/videos/20250530/68398d5980eee9b955aa86fa/983274/index.m3u8", 이 별에 필요한 2025
 https://play.ly166.com:65/videos/20250530/68398d5980eee9b955aa86fa/983274/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/15/122627.webp", 거룩한 밤 2025 韩语版
