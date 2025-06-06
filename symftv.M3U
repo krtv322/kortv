@@ -11,7 +11,7 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
-http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",TV Chosun
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
@@ -447,25 +447,25 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질)
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
-http://211.170.95.22/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
-http://211.170.95.22/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-http://211.170.95.22/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
-http://211.170.95.22/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
-http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스(고화질)
-http://211.170.95.22/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN(고화질)
-http://211.170.95.22/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a(고화질)
-http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국고화질 년비용🦆",tvN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
-http://211.170.95.22/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://live.ybtvyun.com/video/s10016-5adcf2b11d0d/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
@@ -473,29 +473,29 @@ https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
-http://211.170.95.22/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
-http://211.170.95.22/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV (고화질)
-http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.lg.co.kr/media/release/images/56374",더라이프 (고화질)
-http://211.170.95.22/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
-http://211.170.95.22/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/28_playy%EC%9B%94%EB%A9%94%EC%9D%B4%EB%93%9C%EC%98%81%ED%99%94.png" ,웰메이드 영화 (고화질)
-http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png",프리미엄 영화 (고화질)
-http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Groovv (고화질)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
-http://211.170.95.22/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
-http://211.170.95.22/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
-http://211.170.95.22/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="982",tvN SPORTS
 https://jmp2.uk/sam-KRBC800015MH.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
@@ -505,19 +505,19 @@ http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-http://211.170.95.22/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
-http://211.170.95.22/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
-http://211.170.95.22/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/SAlt9hi.png" ,장기TV (고화질)
-http://211.170.95.22/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/tXjSynh.gif" ,빌리어즈TV (고화질)
-http://211.170.95.22/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cdn.nextdaily.co.kr/news/photo/201805/52756_66305.jpg",FTV (고화질)
-http://211.170.95.22/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://m.fishingtv.kr/data/skin/fruit_puro_gls/FSTV/images/logo.png",한국낚시 (고화질)
-http://211.170.95.22/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://thumb.mt.co.kr/06/2025/03/2025031818220399050_1.jpg/dims/optimize/",최강야구
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://pimg.mk.co.kr/meet/neds/2018/06/image_readtop_2018_398218_15298668663363159.jpg",스타리그
@@ -525,35 +525,35 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="984",PGA Tour
 https://jmp2.uk/sam-KRBD3100007WB.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
-http://211.170.95.22/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",EBS少儿 (고화질)
-http://211.170.95.22/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",애니맥스 (고화질)
-http://211.170.95.22/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",애니플러스 (고화질)
-http://211.170.95.22/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",브라보키즈 (고화질)
-http://211.170.95.22/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/VcX0DzS.jpg" ,대교어린이TV (고화질)
-http://211.170.95.22/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",플레이런TV (고화질)
-http://211.170.95.22/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",폴라리스TV (고화질)
-http://211.170.95.22/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",한국경제TV
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",서울경제TV
 https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",토마토증권통 (고화질)
-http://211.170.95.22/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",매일경제TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Asia N (고화질)
-http://211.170.95.22/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/C1zvP3w.png" ,OBS (고화질)
-http://211.170.95.22/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OBS W (고화질)
-http://211.170.95.22/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",MBCNET
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NIB 남인천방송
@@ -571,7 +571,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",소상공인방송
 https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",CJ OnStyle
-http://211.170.95.22/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",GS My Shop
@@ -585,7 +585,7 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS샵플러스
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",롯데홈쇼핑
-http://211.170.95.22/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",신세계쇼핑
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국고화질 년비용🦆",tvN
