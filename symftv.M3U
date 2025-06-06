@@ -1566,9 +1566,14 @@ https://www.humortown.net/20250201/LTsV4c4e/1000kb/hls/index.m3u8
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2019/08/28/l_2019082801003317100260511.webp", 250606 추적 60분
+https://www.coinsarang.com/20250606/RuldYcS4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2023/07/09/AKR20230709012900003_01_i_P4.jpg", 250606 신상출시 편스토랑
+https://www.coinsarang.com/20250606/WOQdEpFI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250606 KBS 뉴스 9
+https://www.muumuutv.com/20250606/GHBojP3g/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250606 한국기행
+https://www.muumuutv.com/20250606/TVzgHMDE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202402/10/news-p.v1.20240210.fd080148fa794ef182db6cfe5c905fe6_P1.jpg", 250606 이십세기 힛-트쏭
 https://www.muumuutv.com/20250606/gYQEHYJu/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250606  MBC 뉴스데스크
@@ -5041,104 +5046,13 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 트롯 올스타전 수요일밤에 5회
-https://www.coinsarang.com/20250521/J61M81A8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 트롯 올스타전 수요일밤에 4회
-https://www.soratv2.com/20250514/zCfsk3nO/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 트롯 올스타전 수요일밤에 3회
-https://www.coinsarang.com/20250507/fcRIxpAv/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 트롯 올스타전 수요일밤에 2회
-https://www.coinsarang.com/20250423/u3seJe9f/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 트롯 올스타전 수요일밤에 1회
-https://www.coinsarang.com/20250416/BMhXSgBx/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 9회
-https://www.muumuutv.com/20250506/UaBLRYG5/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 8회
-https://www.muumuutv.com/20250429/HzQHbxBl/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 7회
-https://www.muumuutv.com/20250422/xk1ZezeJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 6회
-https://www.muumuutv.com/20250415/eCiUvIlc/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 5회
-https://www.muumuutv.com/20250408/O1jIiaEL/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 4회
-https://www.muumuutv.com/20250401/6NlvUUnw/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 3회
-https://www.muumuutv.com/20250325/v99r73kJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 2회
-https://www.muumuutv.com/20250121/wIA0maKM/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 신빨토크쇼 귀묘한 이야기 1회
-https://www.muumuutv.com/20250114/3RZEHHNW/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 14회
-https://vip.lz-cdn11.com/20230616/15666_bc3d1c4b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 13회
-https://vip.lz-cdn11.com/20230609/15339_d15e15be/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 12회
-https://vip.lz-cdn11.com/20230602/15018_83dd1dd7/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 11회
-https://vip.lz-cdn11.com/20230602/15019_bc381509/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 10회
-https://vip.lz-cdn11.com/20230602/15020_273724f5/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 9회
-https://vip.lz-cdn11.com/20230526/14696_0e948b3c/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 8회
-https://vip.lz-cdn11.com/20230521/14432_59f5a85e/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 7회
-https://vip.lz-cdn11.com/20230521/14433_977b32db/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 6회
-https://vip.lz-cdn11.com/20230521/14434_efc5744b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 5회
-https://vip.lz-cdn11.com/20230521/14435_049abcb9/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 4회
-https://vip.lz-cdn5.com/20230506/50805_5087c0a0/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 3회
-https://vip.lz-cdn5.com/20230506/50806_91aeace1/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 2회
-https://vip.lz-cdn5.com/20230506/50804_dae7cb95/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://wework.qpic.cn/wwpic/550335_miy0TZuCSf2RIMI_1683603373/0", 피의게임2 1회
-https://vip.lz-cdn5.com/20230506/50803_993018ce/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 최종회
-https://m3u8.hmrvideo.com/play/bc7166c09a6f479291fdd79e2015a406.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 10회
-https://v.cdnlz13.com/20240109/22734_2c818b44/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 9회
-https://v.cdnlz13.com/20240102/22327_27424ce2/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 8회
-https://v.cdnlz13.com/20240102/22328_96e39467/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 7회
-https://v.cdnlz13.com/20231226/22060_5aa46269/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 6회
-https://v.cdnlz13.com/20231226/22061_d574b88b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 5회
-https://v.cdnlz13.com/20231219/21778_bc505c1a/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 4회
-https://v.cdnlz13.com/20231219/21779_bd81a575/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 3회
-https://v.cdnlz13.com/20231212/21443_abf5f422/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 2회
-https://v.cdnlz13.com/20231212/21444_2a74dc8a/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20240625-1/67a0a29ebfbc434a1709e6e8db693960.jpg", 솔로지옥3 (2023~2024) 1회
-https://v.cdnlz13.com/20231212/21445_c2cb631b/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://k58.bozayo.net/data/file/show/239051075_HgkD3et2_275845b8bad250293015d23dd2b8e3d6a6d25442.jpg", 기안이쎄오 5회
-https://joovideo.cfd/static/streaming-playlists/hls/ca509e0e-ad60-4d92-8582-66f3b1f5c86c/ea54a24d-1025-4d96-ab8c-da892b229532-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://k58.bozayo.net/data/file/show/239051075_HgkD3et2_275845b8bad250293015d23dd2b8e3d6a6d25442.jpg", 기안이쎄오 4회
-https://joovideo.cfd/static/streaming-playlists/hls/d1918498-71f3-4cdb-8cd0-69def7024995/c0c9bdac-c953-4a18-8940-fd7258c2e919-450.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://k58.bozayo.net/data/file/show/239051075_HgkD3et2_275845b8bad250293015d23dd2b8e3d6a6d25442.jpg", 기안이쎄오 3회
-https://joovideo.cfd/static/streaming-playlists/hls/8d095d9f-cc6f-4dc3-b6e9-4d9b64ee0ff3/18a191b1-e743-43a4-9d31-b109a36242fc-450.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 미스터트롯3 2회
-https://www.soratv2.com/20241227/lCqJOUSX/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 미스터트롯3 1회
-https://www.soratv2.com/20241219/E98F0228/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241222 복면가왕 19회
-https://www.soratv2.com/20241222/m7ZRC59R/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241215 복면가왕 18회
-https://www.soratv2.com/20241215/eFPCHwBu/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241201 복면가왕 17회
-https://www.soratv2.com/20241201/705aOgmh/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241124 복면가왕 16회
-https://www.soratv2.com/20241124/dle5nVIQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241117 복면가왕 15회
-https://www.soratv2.com/20241117/svDXX9ZJ/1000kb/hls/index.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241222 쇼킹나이트 2회
+https://hls-vod.mbn.co.kr/vod2/936/2023/07/29/20230729012309_20_936_1334026_360.mp4/chunklist_pd180000.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtdm9kLm1ibi5jby5rci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5MzA3NTI1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=huIAVVUqojwbld50DkDEMq4J-zpfgvWptjRdr%7EN%7E0ioz6mRFWY9%7EnIGkM41IUFTTmh6ZNjl74NwkZpqOMQnqC8NH26TqbHou-9a6RW8EymF8Np-W65JVs%7EBWr1vGK9tW-%7E3qCowsTmHbmRYAoNwoQ4DOQ2Xc2qcUd4FkWckKyYs_&Key-Pair-Id=pub_hls-vod.mbn.co.kr
+#EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://qingutv8.xyz/upload/vod/20230829-1/93ed23a6d8b900b2f8805db64f7bd29c.jpg", 20241222 쇼킹나이트 1회
+https://hls-vod.mbn.co.kr/vod2/936/2023/07/24/20230724135048_20_936_1333818_360.mp4/chunklist_pd180000.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtdm9kLm1ibi5jby5rci8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5MzA3MzMzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=cjI3uFEluaIYcmX3gi7FYT29UuiNqpvSyKJPfllSvurzrtBH0Xnj5j2bIAh%7E9rbjLsNNGquFOUL9d-p8EoOd-gQlHQr2E2MdKZ54wT4LfT4TfSn-nLX7iUctsJXYZuYEtEnpt%7EpGeV3iB3t4DO2m7xsyXYDgZ6zm%7E4cXmjxrsno_&Key-Pair-Id=pub_hls-vod.mbn.co.kr
 
 
 
