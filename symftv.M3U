@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1749476368&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0OTQ3NjM2OH19fV19&Signature=V86TrCv~Ql-2OoKphYE9zQfqqS4vDmsbwKsRcpOSZ2hK2YcAaikwqvG~R~1bVjx~h~qdGYF1hFdIVfcUn-0J36gJ8PeF2Zl4yx65DkzoM5-KYokvGIw1ms96Go778SDjpPRMf-5wqxufZgCIRPbQSHzOrPN6AnPSLBwGQsy1npg0wikoTL5nIXgo8yMMtEQoeC7lhGoJcDJrQ9BuvelBBC6VQMnr-id1FE5UfNofCrQ4InXqjoWXPh6lndgHg~lmdFAi3o3oRInJ5tNF9cbWXPl6kBF7V9b6IYDZXMy4rKnYJv3JtkZggdXr08~K-NlafoP6bEV~wFpRMjAgrYNfkA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS 1
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS 2
@@ -442,7 +445,8 @@ https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",한국방송 위챗문의: kvtv399
+https://kbs-dokdo.gscdn.kbs.co.kr/myk_SD/kbs/playlist.m3u8?Expires=1749476561&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnMtZG9rZG8uZ3NjZG4ua2JzLmNvLmtyL215a19TRC9rYnMvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0OTQ3NjU2MX19fV19&Signature=RoKdHCQp9OuMsaiKIlYwpaWlLwRQ-52y7G1DBaDkUPevtIK6i7aN-uUApAu4QIK0oKxSqhGDh95AjgDcWMFfzGToKTtpO5zuAOqghIDuy-CNFZXO27ZBMKCtsuSzxFZ~5SwAMJ3Sd6Ybw8tPTW8DMGThuT22ocfoZcJjM43k~AAsbjCHn7Ecxvmd7V9EErcoRX4n9Eug71KcwoAVOa2poUOU9ny332oAelvPDDRAHn9tp-MM6aVr42pQmkXpVJV5b5wVI7zmZ2RDgAmw9RrRuvXKln8ZmF~Mm4TNImNx5SH3htLMzyPvZF9H3z05GBxQD3OPRiCnfgLVhkWbi8KA4A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질)
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
@@ -1557,6 +1561,12 @@ https://www.humortown.net/20250201/LTsV4c4e/1000kb/hls/index.m3u8
 https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.m3u8
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.news1.kr/system/photos/2025/3/20/7190154/high.jpg", 250607 지구마불 세계여행3
+https://www.muumuutv.com/20250607/4ELYmqoY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://bnt.kod.es/data/bnt/image/2025/05/13/bnt202505130272.680x.9.jpg", 250607 교환왔수다
+https://www.muumuutv.com/20250607/P52nTb0Z/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ss/2024/09/24/202423681727161944.jpg", 250607 토요일은 밥이 쏜다2 (토밥쏜다2)
 https://www.coinsarang.com/20250607/y11Z4uP8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://media.themoviedb.org/t/p/w58_and_h87_face/pQO1rgJs8WTkCL0fKH0Pp0wUpYa.jpg", 250607 SNL 코리아 리부트 시즌7
