@@ -1581,8 +1581,12 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250608 신비한TV 서프라이즈
+https://www.muumuutv.com/20250607/a2xLDSoM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/05/news-p.v1.20250605.f6481bcf4899436a9914eac9dd078219_P1.webp", 250608 최수종의 여행사담2
+https://www.muumuutv.com/20250607/PkUoa6e3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788961420808.jpg", 250608 TV 동물농장
+https://www.soratv2.com/20250607/tiluC4mv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250607 전지적 참견 시점
 https://www.coinsarang.com/20250607/dJJVm5gx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 25607 그것이 알고 싶다
@@ -3841,6 +3845,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/08/865352.webp", 世界奇妙物语35周年特别版:传奇名作一夜限
+https://svip.ryplay14.com/20250608/8035_50813748/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/08/816576.webp", 彼得:潘的梦幻岛噩梦
+https://svip.ryplay14.com/20250608/8037_73ec647d/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/07/897751.webp", 明日匆匆
 https://play.ly166.com:65/videos/20250607/6843cd2e80eee9b955821774/5gb789/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/06/123823.webp", 荒山惊魂
