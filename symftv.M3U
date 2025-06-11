@@ -59,6 +59,20 @@ http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국방송🦆",tvN Drama
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국방송🦆",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국방송🦆",MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",라이프타임
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",중화티비
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc Drama
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC every
@@ -373,20 +387,6 @@ http://1.214.67.38/vod/74701.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=HD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국방송🦆",tvN Drama
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국방송🦆",tvN Show
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국방송🦆",MNet
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",라이프타임
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",중화티비
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
