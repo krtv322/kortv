@@ -3644,7 +3644,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://xinlangtupian.com/cover/a74d5b21876a8f1e33c564988d564936.jpg", 파과 (2025)
+https://cdn7.ryplay7.com/20250612/14349_52ffecc9/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2024/0828/10_02_39__66ce772feabdf[X280,400].jpg", 영웅들의 눈물 (2024)
 https://www.tajotv2.com/video/m3u8//f4cde414/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7300784%2Fhigh.jpg&w=640&q=75", 주차금지 (2025)
@@ -3663,10 +3664,8 @@ https://www.tajotv2.com/video/m3u8//d221f778/index.m3u8
 https://play.ly166.com:65/videos/20250530/68398d5980eee9b955aa86fa/983274/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/15/122627.webp", 거룩한 밤 2025 韩语版
 https://cdn7.ryplay7.com/20250530/14221_afda9a89/2000k/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://xinlangtupian.com/cover/a74d5b21876a8f1e33c564988d564936.jpg", 파과 (2025)
-https://play.xluuss.com/play/QbYjkjAd/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250428-1/e25e6db3e3522697e09e04c864f809af.jpg", 스트리밍 (2025)
-https://svip.high21-playback.com/20250505/42847_b1c5abae/2000k/hls/mixed.m3u8
+https://cdn7.ryplay7.com/20250612/14354_e1405258/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0106/15_23_05__677b76c947457[W680-].jpg", 코넬의 상자 (2025)
 https://www.tajotv2.com/video/m3u8//e9656bef/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X280,400].jpg", 4월의 불꽃 (2025)
@@ -4032,6 +4031,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/12/430055.webp", 朱丽叶与罗密欧
+https://play.ly166.com:65/videos/20250612/684aaa0e5cf6b9c7468ee9bc/g230d6/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/12/609661.webp", 即兴卧底
+https://play.ly166.com:65/videos/20250612/684aa55d5cf6b9c7468e1445/gdb455/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/12/672993.webp", 环城案
+https://cdn7.ryplay7.com/20250612/14352_8f92027f/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/12/746101.webp", 录刀人
+https://cdn7.ryplay7.com/20250612/14353_5b1315bc/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/11/013800.webp", 未完成的电影
 https://tyyszywvod5.com/videos/202506/11/68497d7c590d7ebffc6756a6/7b76f0/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://tyyswimg.com/upload/vod/20250303-1/054882f85a6d99a5db3cb9ac1374d334.jpg", 鹦鹉的营生
