@@ -671,6 +671,8 @@ http://218.104.239.114:9901/tsfile/live/0019_1.m3u8
 http://59.32.97.178:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://61.156.228.12:8154/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
 http://36.136.38.87:9901/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
