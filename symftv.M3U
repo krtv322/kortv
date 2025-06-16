@@ -10,7 +10,7 @@ http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/IqmdThHZGJUCFYmnxaaaD0Gh71Gw2KhCzWA5R8G85qUMmSodRbmYsT1aAnDxOjR18OZgm1VyRTa5rqnoD0nVv7POG8hxAMR7BXjGcWkJtfRXRIRdV6yQosKdtmgRN4YkJ1hmXim_isJNRvqBY0GhyA.svg",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-http://www.hwado.net/webtv/catv/503_CFEA7803.php/.m3u8
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
@@ -331,8 +331,6 @@ http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00708&q=HD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
@@ -1254,7 +1252,10 @@ https://play.ly166.com:65/videos/20250524/6831c3fd5cf6b9c746f6bd68/g0c1gd/index.
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/16/385458.webp", 살롱드 홈즈 (2025) 1회
+https://svip.ryplay14.com/20250616/8236_39dc8075/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/07/.cache/512/20250407501418.png", 금주를 부탁해 (2025) 11회
+https://www.coinsarang.com/20250616/JUr7Gg95/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 43회
 https://www.coinsarang.com/20250616/TaWrQgpH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제36회
@@ -1315,22 +1316,6 @@ https://www.coinsarang.com/20250606/M29sYMey/1000kb/hls/index.m3u8
 https://www.coinsarang.com/20250531/LlNypMBJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 1회
 https://www.coinsarang.com/20250530/KtZPHXbH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 8회
-https://www.coinsarang.com/20250613/hCCFG3cV/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 7회
-https://www.coinsarang.com/20250613/iYOeLmTc/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 6회
-https://svip.ryplay14.com/20250606/7957_ac77f692/2000k/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 5회
-https://svip.ryplay14.com/20250606/7958_ed90c94e/2000k/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 4회
-https://www.coinsarang.com/20250530/viBav3C6/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 3회
-https://www.coinsarang.com/20250530/xA116jSc/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 2회
-https://www.coinsarang.com/20250530/iMKjgLPJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 1회
-https://www.coinsarang.com/20250530/iSRXhXwP/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/04/21/999599.webp", 마물 (2025) 7회
 https://play.ly166.com:65/videos/20250610/68480e8e5cf6b9c7460fe546/455fdg/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/04/21/999599.webp", 마물 (2025) 6회
@@ -1706,6 +1691,25 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ytn.co.kr/general/jpg/2022/0526/202205261756494709_d.jpg", 250616 톡파원 25시
+https://www.muumuutv.com/20250616/A6zXpqMp/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.newsculture.press/news/photo/202404/547315_689151_5910.jpg", 250616 푹 쉬면 다행이야
+https://www.coinsarang.com/20250616/gfNP2s82/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jn/2025/03/25/1409dfaeed0020.jpg", 250616 류학생 어남선 (류남생)
+https://www.muumuutv.com/20250616/f8n7Swtx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.yes24.com/momo/TopCate167/MidCate07/16660303.jpg", 250616 생활의 달인
+https://www.muumuutv.com/20250616/71BG8mLA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/25/news-p.v1.20250325.a017c61103b54611858ddf768f72769c_P1.webp", 250616 현역가왕2
+https://www.coinsarang.com/20250616/qMO0kmgy/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2022/1027/21624_635a7249a49ee[X240,370].jpg", 250616 박원숙의 같이 삽시다
+https://www.coinsarang.com/20250616/HBvJxA2L/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250616 KBS 뉴스 9
+https://www.muumuutv.com/20250616/knyRHuTc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250616 한국기행
+https://www.muumuutv.com/20250616/ydnwijLr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2023/03/13/article_13101621729844.jpg", 250616 무엇이든 물어보살
+https://www.coinsarang.com/20250616/V1pO5ALq/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250616 세계테마기행
 https://www.muumuutv.com/20250616/GlWCaYS2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/05/1b4db222-a90a-4faf-8d52-a26288737126.png", 250616 히든아이
@@ -3453,6 +3457,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/14/394872.webp",언니 유정 (2024)
+https://cdn7.ryplay7.com/20250614/14356_173c864e/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/16/659778.webp", 사관은 논한다 (2024)
+https://play.ly166.com:65/videos/20250616/685022ae5cf6b9c746b0bfab/g3cdgc/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://pic6.iqiyipic.com/image/20240618/f7/ed/v_176873918_m_601_zh-CN_m1_1013_569.webp", 기생수 이형기생 (2024)
 https://www.tajotv2.com/video/m3u8//e29f86e3/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://thumb.mt.co.kr/06/2025/01/2025010317287264922_1.jpg/dims/optimize/", 말할수 없는 비밀 (2025)
@@ -3595,10 +3604,8 @@ https://www.tajotv2.com/video/m3u8//eac272ae/index.m3u8
 https://vip.lz-cdn16.com/20230310/12118_86f1315f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250131-1/90cc03c83e600722aa0f25bdc03259f6.jpg",대가족 (2024)
 https://www.muumuutv.com/20250130/ZMBFkLMH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://qingutv10.xyz/upload/vod/20250131-1/462934d9523b0b57885bf0cc67ce81b1.jpg",언니 유정 (2024)
-https://www.muumuutv.com/20250130/L7EAMZUU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://assets.heimuer.tv/imgs/2025/01/07/5b936a99f2154872bf8892873a7fdf84.jpg",4분44초
-https://m3u8.hmrvideo.com/play/f969e2d1bdd24ccd9fd5cd871fe08a8a.m3u8
+https://play.ly166.com:65/videos/20250418/6801e2e1a3cd3e0b2e48959d/ccb7e9/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910597588.webp",夺命梦魇
 https://hn.bfvvs.com/play/xe74YQGa/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://k57.bozayo.net/data/file/movie/3556503041_a4buvUgF_9f16b0c0adc6d91600e1285d1777debbf3701ea7.jpg",원정빌라
@@ -3840,6 +3847,10 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/16/579412.webp", 关于永恒的证明
+https://play.ly166.com:65/videos/20250616/6850160680eee9b95504b0a7/cg02gb/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://c853gfsp.gdh2.szbdyd.com/touhou/webp/a0/a0f344fa887a7dbed0ee46186cdfdef1.webp", mopim
 https://play.ly166.com:65/videos/20250616/684fa7a180eee9b955e76ef4/36gega/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/16/716119.webp", 立冬的夏天
@@ -5354,12 +5365,28 @@ https://vip.lz-cdn11.com/20221022/11285_2d1efb72/1200k/hls/mixed.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마 넝쿨째 굴러온 당신🦆" tvg-logo="https://ojsfile.ohmynews.com/STD_IMG_FILE/2012/0615/IE001451868_STD.jpg", 넝쿨째 굴러온 당신 3회 
-https://vod.gscdn.kbs.co.kr/T2011-1071/T2011-1071_S000_20120303_PS-2012008764-01-000_00_M4H20500/chunklist.m3u8?Expires=1749813515&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92b2QuZ3NjZG4ua2JzLmNvLmtyL1QyMDExLTEwNzEvVDIwMTEtMTA3MV9TMDAwXzIwMTIwMzAzX1BTLTIwMTIwMDg3NjQtMDEtMDAwXzAwX000SDIwNTAwL2NodW5rbGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5ODEzNTE1fX19XX0_&Signature=OMgarchmjNaNspgrqbGL-n002Ldim0JxI46TcKHJ-acOaZwDwqGo9BVXHF12sxvh-dbHinzpzL2pqs9rRMQgSpdXycfTgF3JP~CIR67d4FvC5BPRwGkpAgqgVxtmA3eD6ZqbgFBSEmlEBDhCj4ekqwXb0YjVgWbx~J1phFbK6aEndheiiVawtuuLMdfqFy4BU8BARqA~dEafFQXt8nVdYyFPKsDkHMDnWMICE15J0hYa8NAt5zyKvgkMLeQq6xKQwdYvu4-xCR9H8Wt5cOP87VduOjny54jw025fM9tYZ~4AyNl9kHDJZlVlMC0Xrq4u-ZaNssvvLnfeLJj-nbwadg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉한국드라마 넝쿨째 굴러온 당신🦆" tvg-logo="https://ojsfile.ohmynews.com/STD_IMG_FILE/2012/0615/IE001451868_STD.jpg", 넝쿨째 굴러온 당신 2회 
-https://vod.gscdn.kbs.co.kr/T2011-1071/T2011-1071_S000_20120226_PS-2011185531-01-000_00_M4H20500/chunklist.m3u8?Expires=1749813348&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92b2QuZ3NjZG4ua2JzLmNvLmtyL1QyMDExLTEwNzEvVDIwMTEtMTA3MV9TMDAwXzIwMTIwMjI2X1BTLTIwMTExODU1MzEtMDEtMDAwXzAwX000SDIwNTAwL2NodW5rbGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5ODEzMzQ4fX19XX0_&Signature=ZD1JI2LvcU5A6RGjGZnRQN6j7KysnpWdJ~Yv584JM0-egmm-Wjx1iwohJJwkEg67SxwbQRIbqbpSXch-COcizFvPFyI~GeybiDBfShj6HTpIpPzWG4RJbIcvg4IEU1fH-vJOojf-tnwb6oWAC6KVTohK3qzkN~xQFW6lmZXttycATKlKYt4rAtZGQK1BNT80YvPNyrvpy3r5WyvOqDWCRXu2~UquDoLx3lfmMNDSqlS8BlJwjAP0cLLM4Ekzs38RkLb0Zvql9uorpW1KmE85hiSmcQxZ2FDfXOPqJd1AVgz9DL3APG0UTkUFpoZjlGLvyeRAL9VREdJnOhRDmYEWKg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 group-title="🐉한국드라마 넝쿨째 굴러온 당신🦆" tvg-logo="https://ojsfile.ohmynews.com/STD_IMG_FILE/2012/0615/IE001451868_STD.jpg", 넝쿨째 굴러온 당신 1회 
-https://vod.gscdn.kbs.co.kr/T2011-1071/T2011-1071_S000_20120225_PS-2011168231-01-000_00_M4H20500/chunklist.m3u8?Expires=1749813033&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly92b2QuZ3NjZG4ua2JzLmNvLmtyL1QyMDExLTEwNzEvVDIwMTEtMTA3MV9TMDAwXzIwMTIwMjI1X1BTLTIwMTExNjgyMzEtMDEtMDAwXzAwX000SDIwNTAwL2NodW5rbGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzQ5ODEzMDMzfX19XX0_&Signature=hlYUxBqoFDQpZXfubGKm1G5h1wMwolyEk6kw-pDfZcBWFbR-S4YCTalCHaCvOe47KdmZR4~C5tQhoxD6Ws6Mq~Er4cNYQHliA9-gVH-j3zo0pWpGcMMaKMEboMM~QiNySoDuSRQjeUOx86AXVQYyp26qdcPWx13UUkfD-pzn9ZN9ozH0lXShs1RXbh14wYXeM3hrnSge3QKLt-pawwEK5BRUykEw0W76eop4Ve7AZlgrBksSXzhUoMWKMgBwa1JpPSbYmhYv53Hzzqzcl-Zik7PMOWNW3c9PHajpDOmh40yZlTDetHSSusoygWDvLCY2cnf86Ezloh5DnsILjGTf6g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 8회
+https://www.coinsarang.com/20250613/hCCFG3cV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 7회
+https://www.coinsarang.com/20250613/iYOeLmTc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 6회
+https://svip.ryplay14.com/20250606/7957_ac77f692/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 5회
+https://svip.ryplay14.com/20250606/7958_ed90c94e/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 4회
+https://www.coinsarang.com/20250530/viBav3C6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 3회
+https://www.coinsarang.com/20250530/xA116jSc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 2회
+https://www.coinsarang.com/20250530/iMKjgLPJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 ONE : 하이스쿨 히어로즈🦆" tvg-logo="https://www.ddaily.co.kr/photos/2025/04/30/2025043010564212812_l.jpg", ONE : 하이스쿨 히어로즈 (2025) 1회
+https://www.coinsarang.com/20250530/iSRXhXwP/1000kb/hls/index.m3u8
 
 
 
