@@ -500,8 +500,6 @@ http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
-#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="982",tvN SPORTS
-https://jmp2.uk/sam-KRBC800015MH.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT (고화질)
@@ -510,8 +508,6 @@ http://mytv.dothome.co.kr/ch/catv/58.php
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://program-image.cloud.sbs.co.kr/golf2.jpg",SBSGOLF2
 https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTAyOTYwMTEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiM2JiNDczOWUtYThlZi00ZDZlLTg5ZTktZmJiNTdhNTkxMGQzIiwiaWF0IjoxNzUwMjg4ODExfQ.D-ctOrYhR9_8kPz-1mBxCxvsNvZZ0N38xBWPvdWZLAY
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-http://1.214.67.38/vod/57803.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -528,8 +524,14 @@ http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://pimg.mk.co.kr/meet/neds/2018/06/image_readtop_2018_398218_15298668663363159.jpg",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
+#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="982",tvN SPORTS
+https://jmp2.uk/sam-KRBC800015MH.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="984",PGA Tour
 https://jmp2.uk/sam-KRBD3100007WB.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",FIFA+
+https://jmp2.uk/sam-KR2900002NO.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
+https://jmp2.uk/sam-KR44000010Y.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",EBS少儿 (고화질)
