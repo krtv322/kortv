@@ -102,7 +102,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1750538825&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDUzODgyNX19fV19&Signature=iO6qwfyJfKY2gke2swLjv1x54~018GUSPmbzH7BiLrt4SjYhsnkIu5qP1B9EdLHriC2yWWAqQKI1~WxRSxT3dSip-LtTh5Dl~eKH3uBn1XEHaZNNKAjUEB6FvNSRqwllvhTq-jZ9gDjQlEv3cETEV~DCjxOtGT8g9dY32Wjz467YsPOuDl4l3jTfcQfXOHfZJm95zqeGB6zUcvr8STe7BXyI5LeZOHZCptZpMTl7T08n8FVF5PJNAZkZamjFNuBfhsMK50sgqYpZGPU0-6i0XsHmXQ25TTj79sEh2HrF0e8rR-hmL53s8kTfKBjmXfvxK~m0MkZmh2BZU5effjergw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1750636342&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDYzNjM0Mn19fV19&Signature=Qi~-sMF7poN7uwKNssVWG2jyroFjEv~qulGzoEcnpdwP9vru0yEgBtCuvFpeNsrnQAts1UmYdxEVEyOhht60uF6RXiQQatfEXft1mzNvt565kuvxiMDQmYDFv9vJsPLHHgYkgxo5F5LzLo7tUxF5mSgAzXC~b6lYj0rSnKQDOqEWUIpaf92pnWHdyXHjwQl7mfy6bjpBfFoebbENywJsfp2XpaxhGCZQ94kBKvHIA2HbjE9uy96WdtIqhgnyG3xZHpHKmmMB221o23uPJibA09o4Yaxb9sCcYX8B3hHFmpZflW5prusZk-Mf2leIFSY2bNaVX0FUuAAyp7b1D30GqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",벌거벗은 세계사
 https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
@@ -505,8 +505,6 @@ http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB
 http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://program-image.cloud.sbs.co.kr/golf2.jpg",SBSGOLF2
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTAzNzMyOTAsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiODlmNTI3MTItZWQ5MC00MDY5LWE5NmMtOGUxNjQzZTRiZjViIiwiaWF0IjoxNzUwMzY2MDkwfQ.NgR_8qI9R_luBtV-oOOIr140rrtkTZl3_1r9qIgP5Z8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -1266,8 +1264,8 @@ https://play.ly166.com:65/videos/20250524/6831c3fd5cf6b9c746f6bd68/g0c1gd/index.
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 7회 
+https://www.coinsarang.com/20250620/SCUWlXYa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 47회
 https://www.coinsarang.com/20250620/ALfUMGk8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제40회
@@ -1277,10 +1275,6 @@ https://www.coinsarang.com/20250620/zAY97wUk/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2025/05/600/20250508083529_2169818_1000_1426.jpg", 남주의 첫날밤을 가져버렸다 (2025) 4회
 https://www.coinsarang.com/20250619/jJJFumbQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 46회
-https://www.coinsarang.com/20250619/s5t3xmkk/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제39회
-https://www.coinsarang.com/20250619/29YRhBsH/1000kb/hls/index.m3u8
 
 
 
@@ -1721,7 +1715,40 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg-hams.hankookilbo.com/2025/03/06/debd4e7f-5050-4714-ae54-6a5db15ae203.jpg", 250620 더 시즌즈 - 박보검의 칸타빌레
+https://www.muumuutv.com/20250620/ef7iQ7xH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/01/news-p.v1.20250301.0e436770bdfc4bcfba8015c1aacf755b_P1.webp", 250620 하트페어링
+https://www.muumuutv.com/20250620/NjEAw1KW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250620 나 혼자 산다
+https://www.coinsarang.com/20250620/Z3YGs8dR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2025/05/23/2025052311352974529_1.jpg", 250620 하우스 오브 걸스
+https://www.muumuutv.com/20250620/lF8hr9R6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/04/25/news-p.v1.20250425.726a7200694040e2baddb5ddb8ca3e60_P1.webp", 250620 우리 아기가 태어났어요
+https://www.muumuutv.com/20250620/N5DmHsfD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.pennmike.com/news/photo/202505/100036_139269_3557.jpg", 250620 가는정 오는정 이민정
+https://www.muumuutv.com/20250620/79Zknu5V/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.c6b727df0f1b426ba050c3e8e61ed3ab_P1.jpg", 250620 용감한 형사들 4
+https://www.muumuutv.com/20250620/XCBYbfcD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202502/24/news-p.v1.20250224.170d74ed7c144f09a27073f56e65c2d8_P1.jpg", 250620 지지고 볶는 여행
+https://www.muumuutv.com/20250620/8CHbTMgE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202502/24/news-p.v1.20250224.170d74ed7c144f09a27073f56e65c2d8_P1.jpg", 250619 지지고 볶는 여행
+https://www.muumuutv.com/20250619/J70PEjvQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/02/21/news-p.v1.20230110.601d8b55f5d147618387ae44cfa59308_P1.webp", 250620 뿅뿅 지구오락실 시즌3
+https://www.muumuutv.com/20250620/oVfNX1aV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.imaeil.com/photos/2019/07/12/2019071217291464420_l.jpg", 250620 명의
+https://www.muumuutv.com/20250620/EZwIScjV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2019/08/28/l_2019082801003317100260511.webp", 250620 추적 60분
+https://www.coinsarang.com/20250620/JSTGJYrO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788931589030.jpg", 250620 THE 맛있는 녀석들
+https://www.muumuutv.com/20250620/0v5WJXvY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202402/10/news-p.v1.20240210.fd080148fa794ef182db6cfe5c905fe6_P1.jpg", 250620 이십세기 힛-트쏭
+https://www.muumuutv.com/20250620/z38qCByc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250620 KBS 뉴스 9
+https://www.muumuutv.com/20250620/LtB3TVnh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2023/07/09/AKR20230709012900003_01_i_P4.jpg", 250620 신상출시 편스토랑
+https://www.coinsarang.com/20250620/R5syR9DK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250620 한국기행
+https://www.muumuutv.com/20250620/p1UNSYv9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/201908/01.20312346.1.png", 250620 궁금한 이야기 Y
 https://www.coinsarang.com/20250620/3AmdhvD1/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/202410/01.38414988.1.jpg", 250620 요즘 육아 금쪽같은 내 새끼
@@ -4094,8 +4121,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ryzypics.com/upload/vod/20250504-1/cc83b1c388928a3c5ad3803847aa2912.webp", 猎金游戏
+https://vodcnd06.myqqdd.com/20250620/pfPWyBWg/2287kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://mtzy2.com/upload/vod/20250311-1/e689305d478fb978912135575bb5ef67.jpg", 皇家我们
 https://vodcnd04.myqqdd.com/20250311/KVXlf2qu/4208kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://mtzy2.com/upload/vod/20250311-1/98896e99fc459e21200268dbdd5f5a0b.jpg", 多幸运遇见你
@@ -5006,6 +5033,9 @@ https://tyyszywvod5.com/videos/202502/27/67c05f484deeb59d48786d0a/e47g4d/index.m
 
 
 
+
+#EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://ps.ssl.qhimg.com/t02346bbf9bf22bf273.jpg", 一千零一夜之拯救黄金城
+https://vodcnd14.myqqdd.com/20250620/F4sFuCHS/3244kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://mtzy2.com/upload/vod/20250107-16/2a5bf4f3b9256eef98a76d9bd697055e.jpg", 火影忍者剧场版:终章
 https://vodcnd04.myqqdd.com/20250307/diMaiPnF/3709kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉애니메이션🦆" tvg-logo="https://mtzy2.com/upload/vod/20250307-1/ba1f959c86a284a72111e8711cbeb87a.jpg", 火影忍者疾风传剧场版:失落之塔
