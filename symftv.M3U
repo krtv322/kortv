@@ -5157,10 +5157,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",FIFA+
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚预赛 吉尔吉斯坦VS阿联酋
-https://zb-play.rwabwo.com/public/181211309_1749561907_gqzm.flv?txSecret=946b2634b8afdd5ddfb28310b09d0b46&txTime=68488BA4
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",世亚预 乌兹别克斯坦VS卡塔尔
-https://zb-play.rwabwo.com/public/517618603_1749562618_gqzm.flv?txSecret=29153824ff977971254c0a9ff13fcdc3&txTime=68488BC8
+#EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+
 
 
 
