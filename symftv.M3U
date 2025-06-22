@@ -618,8 +618,6 @@ http://115.190.105.236:8123/live/cctv2?token=OK
 http://36.136.38.87:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://115.190.105.236:8123/live/cctv3?token=OK
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://115.190.105.236:8123/live/cctv4?token=OK
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
