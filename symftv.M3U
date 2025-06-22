@@ -81,6 +81,8 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",KFN
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_512_AEC3F43E.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
@@ -92,7 +94,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_237_CB945FED.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",맛잇는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",역사적 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1750720908&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDcyMDkwOH19fV19&Signature=PoiWgwL8Z7fdUbCmFHNWfg9lfxgQjuznydTWo5nZ7rUc0cd6teDGP9uDt6GirAcYgVNCESFe09QXrPbFHosCSgiPIAGuFTRNtnFONrAfXF5vqIJ7FIpImjENsZwnrtDKccxUOPQAUpQmGNFzin58HmhSHsEJwho7NWrKx~g0IffXcjRuLgGcd-KWIA3TBAmLlRD9ufe8LIp-ai~sCq3sr2FUjzdR296pjbQCnexkEbZtGgokBGdMMS8E6GM8RGAKEVF5h1-C~kizpMXA5kuQh8yB4XkTTXJUDAKgBq8qNtmiCZYvYq6A5~ax61CmlIgvCZPMBW2eXPLa2ymdE38Fyw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1750806372&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDgwNjM3Mn19fV19&Signature=An8qRKZ5gxzYZjP6X7Ufms1ojAvcRz1D2EaboaSc3p4RvHgBDnDA6Wu520IRZuBzGQDS4wpF4Dwso~~UAYklYtTpK2xguyu9ZsoPjorjGPPU~nRPU0m6lTgi4dHj43rRqVOyTzpDQ5R0A8N77tFBWydQ88gbQyyqaueC~RoNOOSc5IFbQ4ov~89CW3YUUDCMk85hHIJgiB9QOCyYH4DSQ-IrkrI~x7OjOZwWRrqlzJhQ9oYQPyAqhJe8k~61rQm7wWxOaqAehNgTpIoteDjIskMU5x4IGtVQVFiA2j97ipeKADQ3hKxaT~HBZgII4kMH8Fd3bgW0Wn~KfcHl6IcPWA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",벌거벗은 세계사
 https://6c3a25b5ffc14307b39a6a959806e536.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/724240eb-5902-4cc4-8f8c-95ebec24739f/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",나는 자연인이다
@@ -120,7 +122,7 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png",KBS KIDS
 http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",어린이 만화동산
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1750720848&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA3MjA4NDh9fX1dfQ__&Signature=fAQtq8QdrOlzVyMh9VvxT4zTFLsEQbkL9DuBrOr4QxviJY5OCmJ93om4VOx3ii3EAUF1WhC5jVrH5WfYicZ0bR~i8CUU6sH~zkrnP9qei7igupL2Zo2IG-vzXw9urz2xzvQq-IKw4YGQjZEpXfvdUKmz~uyRQybt3GqP8R18Kr703fqIwV~GB9yGEb31K1Bq0qDnKVqHQgmLEq5xtZlmz964uTbUstcGU08bONEg9CTx9JGk1sx4mlsTGrpSyHmwWz~GkZCvZspFogp0RBzf8qb5b16QISuS~bF0JSBiQwLpybz7NhfT6zZ~aLqSKU65wINWDafE6fPKmEvj4avBJQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1750806380&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEwLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTA4MDYzODB9fX1dfQ__&Signature=RJkjg06KGHUtEkWQTgB3qrJ1lZnblzRVugLAdbBrz0ZGUj2UJvcJz7Ev6Vb1tHqyeFpOIi4bAEf5yWEZTpQX48u9pq80E4lacYwyiO09pSJqTCFZBUMv87CO4llc9IKLLaRGvOmiO97EEgCCnqFAh-hxS5cEv71OfcV9sz0AmEbvKlbdyNZ0AjagFeW22AbbrMvDPBYET-xXowXiSO2dK~eXwgzMeyi2CcqOsXnQcOru8-Iqhgh8hli~iPWJf1QIsoYdT9gNFuRX6y8JR3gBW544561PvCZX7Y8To~-xtgeA17BXv0htinwnv1ifO7M9Gfabzp2UFaMYzG3aMQsomw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",뽀요티비
