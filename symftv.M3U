@@ -63,8 +63,6 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국방송🦆",MNet
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆",라이프타임
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00611&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",중화티비
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",ANIPLUS
@@ -83,16 +81,8 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",이벤트TV
-https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",FTV
-http://218.236.58.185:1935/FTVLIVE_WEB/Stream_web/chunklist_w1794675765.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",국방tv
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w1996345723.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
-https://parselink.winnie.in.th/kr_live/jtbc_golfsports.php
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서진이네
@@ -1276,19 +1266,16 @@ https://play.ly166.com:65/videos/20250524/6831c3fd5cf6b9c746f6bd68/g0c1gd/index.
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/16/920359.webp", 메스르를 든 사냥군  (2025) 5회
+https://play.ly166.com:65/videos/20250622/6858266780eee9b9555219cb/c9cf8b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 8회
+https://www.coinsarang.com/20250622/Ryjp4uvy/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 10회
+https://www.coinsarang.com/20250622/8JYhlj32/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 42회
 https://www.coinsarang.com/20250622/V1LScxA6/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 4회 
-https://play.ly166.com:65/videos/20250621/6856d55e80eee9b955996df5/e61ad5/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 7회
-https://www.coinsarang.com/20250621/CNdQQcOw/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 8회 
-https://www.coinsarang.com/20250621/1m03SHqP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 9회
-https://www.coinsarang.com/20250621/Qy8eWZCx/1000kb/hls/index.m3u8
-
-
 
 
 
@@ -1321,6 +1308,8 @@ https://play.ly166.com:65/videos/20250616/68503c765cf6b9c746b8dab0/e0b17g/index.
 https://play.ly166.com:65/videos/20250615/684ee98d5cf6b9c74670b916/428933/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202506/3298717_3415084_1042.jpg", 로드 투 외과의사  (2025) 1회
 https://www.coinsarang.com/20250614/ydZQ0ukp/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 4회 
+https://play.ly166.com:65/videos/20250621/6856d55e80eee9b955996df5/e61ad5/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 3회 
 https://play.ly166.com:65/videos/20250620/685576be80eee9b9552d84c6/59021e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 2회 
@@ -1355,6 +1344,8 @@ https://www.coinsarang.com/20250611/drj5Ou5l/1000kb/hls/index.m3u8
 https://www.coinsarang.com/20250610/fYVKjsX3/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 1회
 https://www.coinsarang.com/20250609/EuazdS6M/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 7회
+https://www.coinsarang.com/20250621/CNdQQcOw/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 6회
 https://www.coinsarang.com/20250615/nX27cxjq/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 5회
@@ -1367,6 +1358,8 @@ https://www.coinsarang.com/20250607/0dNtRxgB/1000kb/hls/index.m3u8
 https://www.coinsarang.com/20250601/q0vwrHET/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 1회 
 https://www.humortown.net/20250531/NQSsF9k4/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 8회 
+https://www.coinsarang.com/20250621/1m03SHqP/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 7회 
 https://www.coinsarang.com/20250620/SCUWlXYa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 6회 
@@ -1381,6 +1374,8 @@ https://www.coinsarang.com/20250606/M29sYMey/1000kb/hls/index.m3u8
 https://www.coinsarang.com/20250531/LlNypMBJ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 1회
 https://www.coinsarang.com/20250530/KtZPHXbH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 9회
+https://www.coinsarang.com/20250621/Qy8eWZCx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 8회
 https://www.coinsarang.com/20250615/Jj1t4hbP/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/04/15/.cache/512/20250415501118.jpg", 미지의 서울 (2025) 7회
@@ -1745,6 +1740,21 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250622 개그 콘서트
+https://www.coinsarang.com/20250622/hv2DGpsj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250622 이제 만나러 갑니다
+https://www.coinsarang.com/20250622/Pe5rBOyD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2023/11/program_b89a5eca-1e25-49b1-9fba-ee46062d1cb8.jpg", 250622 태어난 김에 세계일주 3
+https://www.coinsarang.com/20250622/mUcujzuh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/dDssBpGFdcWMuPWZl955JQ/739x416.webp", 250622 탐사보도 추적자들
+https://www.muumuutv.com/20250622/MvvckFlL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250622 미운 우리 새끼
+https://www.coinsarang.com/20250622/piwgRyLa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0064/2025/6/11/1749630797121_588670.jpg", 250622 크레이지 리치 코리안
+https://www.muumuutv.com/20250622/O0gMqYbF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 250622  냉장고를 부탁해 since 2014
+https://www.coinsarang.com/20250622/hb24xVbx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 250622 모-던 인물史 미스터.리
 https://www.muumuutv.com/20250622/GkdrMYay/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250622 KBS 뉴스 9
@@ -3957,6 +3967,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02450366063d1f6c64.jpg",想一个人死去
+https://tyyszywvod5.com/videos/202506/23/68583aec010cb608c916b617/36378a/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250622-1/d0cb4071c738ca15db24f71c553ec5af.jpg",窈窕淑女2025
 https://vodcnd14.myqqdd.com/20250622/L8nGlkj3/3732kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t023fd2b85f05a0bc9d.jpg",小蝇归来
