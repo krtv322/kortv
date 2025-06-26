@@ -601,77 +601,77 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+http://1.196.54.1:9901/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+http://1.196.54.1:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://106.52.196.79:80/TV/mui.php?id=cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+http://39.164.180.36:19901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+http://1.196.54.1:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+http://1.196.54.1:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://111.227.196.164:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
+http://39.164.180.36:19901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://39.164.180.36:19901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://1.196.54.1:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+http://1.196.54.1:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://106.52.196.79:80/TV/mui.php?id=cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+http://39.164.180.36:19901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://106.52.196.79:80/TV/mui.php?id=cctv7
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+http://1.196.54.1:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://106.52.196.79:80/TV/mui.php?id=cctv8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+http://39.164.180.36:19901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://106.52.196.79:80/TV/mui.php?id=cctv9
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+http://39.164.180.36:19901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
 http://36.136.38.87:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+http://39.164.180.36:19901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
 http://36.136.38.87:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+http://39.164.180.36:19901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://36.136.38.87:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+http://39.164.180.36:19901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://106.52.196.79:80/TV/mui.php?id=cctv13
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://106.52.196.79:80/TV/mui.php?id=cctv14
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://36.136.38.87:9901/tsfile/live/0014_1.m3u8
+http://39.164.180.36:19901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
 http://106.52.196.79:80/TV/mui.php?id=cctv15
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://36.136.38.87:9901/tsfile/live/0015_1.m3u8
+http://1.196.54.1:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+http://39.137.75.230/000000001000/1000000006000233001/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
 http://110.52.99.109:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://106.52.196.79:80/TV/mui.php?id=cctv17
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+http://1.196.54.1:9901/tsfile/live/1052_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",超级体育
