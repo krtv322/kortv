@@ -461,12 +461,6 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
-http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
-https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
-https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
@@ -601,75 +595,75 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://1.196.54.1:9901/tsfile/live/1037_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://1.196.54.1:9901/tsfile/live/1038_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://106.52.196.79:80/TV/mui.php?id=cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://182.125.175.237:9901/tsfile/live/0003_1.m3u8
+http://218.104.239.114:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://1.196.54.1:9901/tsfile/live/1040_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://1.196.54.1:9901/tsfile/live/1041_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://182.125.175.237:9901/tsfile/live/0005_1.m3u8
+http://111.227.196.164:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://1.196.54.1:9901/tsfile/live/0005_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://221.222.242.239:56787/mgtv/641886773.m3u8
+http://111.43.126.240:9003/hls/18/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://1.196.54.1:9901/tsfile/live/1042_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://106.52.196.79:80/TV/mui.php?id=cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://182.125.175.237:9901/tsfile/live/0007_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://106.52.196.79:80/TV/mui.php?id=cctv7
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://1.196.54.1:9901/tsfile/live/1044_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://106.52.196.79:80/TV/mui.php?id=cctv8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://182.125.175.237:9901/tsfile/live/0009_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://106.52.196.79:80/TV/mui.php?id=cctv9
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://182.125.175.237:9901/tsfile/live/0010_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://1.196.54.1:9901/tsfile/live/1046_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://1.196.54.1:9901/tsfile/live/1047_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://221.13.233.54:9901/tsfile/live/0011_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://1.196.54.1:9901/tsfile/live/1048_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://182.125.175.237:9901/tsfile/live/0012_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://1.196.54.1:9901/tsfile/live/1049_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://106.52.196.79:80/TV/mui.php?id=cctv13
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
 http://106.52.196.79:80/TV/mui.php?id=cctv14
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://1.196.54.1:9901/tsfile/live/1050_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
 http://106.52.196.79:80/TV/mui.php?id=cctv15
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://1.196.54.1:9901/tsfile/live/1051_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
 http://110.52.99.109:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://106.52.196.79:80/TV/mui.php?id=cctv17
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://1.196.54.1:9901/tsfile/live/1052_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",超级体育
@@ -689,83 +683,83 @@ http://123.160.231.147:9901/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
 http://110.52.99.109:9901/tsfile/live/1049_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
-http://182.125.175.237:9901/tsfile/live/0122_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
 http://58.243.224.242:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
-http://1.196.54.1:9901/tsfile/live/1079_1.m3u8
+http://218.104.239.114:9901/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
 http://218.104.239.114:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://182.125.175.237:9901/tsfile/live/0127_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://106.52.196.79:80/TV/mui.php?id=gdws
+http://101.74.31.134:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://1.196.54.1:9901/tsfile/live/1089_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
 http://222.134.245.16:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
-http://1.196.54.1:9901/tsfile/live/1098_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://1.196.54.1:9901/tsfile/live/1092_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
 http://123.160.231.147:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
+http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
 http://123.160.231.147:9901/tsfile/live/0135_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://182.125.175.237:9901/tsfile/live/0135_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1051_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
 http://110.52.99.109:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
-http://182.125.175.237:9901/tsfile/live/0124_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
 http://222.134.245.16:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://1.196.54.1:9901/tsfile/live/1076_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
-http://110.80.17.38:9999/tsfile/live/0113_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
-http://1.196.54.1:9901/tsfile/live/1090_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+http://106.115.25.84:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://1.196.54.1:9901/tsfile/live/1084_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://218.104.239.114:9901/tsfile/live/0127_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://1.196.54.1:9901/tsfile/live/1077_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1066_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://1.195.130.27:9901/tsfile/live/0130_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://1.195.130.27:9901/tsfile/live/0130_1.m3u8
+http://111.227.196.164:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
 http://110.52.99.109:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
-http://1.196.54.1:9901/tsfile/live/1083_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://1.196.54.1:9901/tsfile/live/1088_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://218.92.37.174:9901/tsfile/live/0120_2.m3u8
+http://123.160.231.147:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://1.196.54.1:9901/tsfile/live/1086_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1055_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
 http://123.160.231.147:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://218.104.239.114:9901/tsfile/live/0117_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
-http://1.196.54.1:9901/tsfile/live/1099_1.m3u8
+http://110.52.99.109:9901/tsfile/live/1057_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
 http://101.74.31.134:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
+http://111.227.196.164:9901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
 http://111.227.196.164:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
 http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://1.196.54.1:9901/tsfile/live/1053_1.m3u8
+http://123.160.231.147:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://182.125.175.237:9901/tsfile/live/0139_1.m3u8
+http://106.52.196.79:80/TV/mui.php?id=hnws
 #EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
 http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
@@ -773,35 +767,33 @@ http://111.227.196.164:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
 http://106.52.196.79:80/TV/mui.php?id=jxws
 #EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
-http://1.196.54.1:9901/tsfile/live/1095_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
-http://1.196.54.1:9901/tsfile/live/1091_1.m3u8
+http://112.132.10.54:9901/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
 http://123.160.231.147:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
+http://111.227.196.164:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
-http://1.196.54.1:9901/tsfile/live/1102_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
-http://182.125.175.237:9901/tsfile/live/0140_1.m3u8
+http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
 http://58.243.224.242:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
 http://218.92.37.174:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
-http://1.196.54.1:9901/tsfile/live/1105_1.m3u8
+http://124.128.73.58:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
 http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
-http://112.123.243.37:50085/tsfile/live/0141_1.m3u8
+http://58.19.38.162:9901/tsfile/live/0111_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
-http://113.25.252.226:9901/tsfile/live/1003_1.m3u8
+http://112.123.243.37:50085/tsfile/live/0141_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
-http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
+http://124.128.73.58:9901/tsfile/live/0109_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
 http://221.2.148.205:8154/tsfile/live/0109_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
-http://1.192.247.199:9901/tsfile/live/0141_1.m3u8
+http://58.243.224.242:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
-http://1.196.54.1:9901/tsfile/live/1100_1.m3u8
+http://112.123.243.37:50085/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",厦门卫视
 http://221.213.91.104:9901/tsfile/live/0109_2.m3u8
 
@@ -1268,8 +1260,8 @@ https://play.ly166.com:65/videos/20250524/6831c3fd5cf6b9c746f6bd68/g0c1gd/index.
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/04/program_ff92921a-080c-4c72-af8b-2c85d605b2e5.jpg", 노무사 노무진 (2025) 9회
+https://www.coinsarang.com/20250627/ZdLiR7S4/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 52회
 https://www.coinsarang.com/20250627/9irxagG1/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제45회
@@ -1799,8 +1791,18 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250627 KBS 뉴스 9
+https://www.muumuutv.com/20250627/duz1qb60/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250627 한국기행
+https://www.muumuutv.com/20250627/5j3zzy1S/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2023/07/09/AKR20230709012900003_01_i_P4.jpg", 250627 신상출시 편스토랑
+https://www.coinsarang.com/20250627/cnXpxIa9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202502/24/news-p.v1.20250224.170d74ed7c144f09a27073f56e65c2d8_P1.jpg", 250627 지지고 볶는 여행
+https://www.muumuutv.com/20250627/Yv12W2AY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202402/10/news-p.v1.20240210.fd080148fa794ef182db6cfe5c905fe6_P1.jpg", 250627 이십세기 힛-트쏭
+https://www.muumuutv.com/20250627/RBmiDeDQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/201908/01.20312346.1.png", 250627 궁금한 이야기 Y
+https://www.coinsarang.com/20250627/FJWv4BJq/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newimg/news/20250417/202061923_1280.jpg", 250627 SBS 8 뉴스
 https://www.muumuutv.com/20250627/ucmlqZMO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250627 사건 반장
@@ -4297,6 +4299,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t029f29309df5cf5d7a.jpg", 袭击2
+https://cdn7.ryplay7.com/20250627/14506_63ccdca3/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0293f04e3e0334b4c9.jpg", 狄仁杰之通天谜案
+https://play.ly166.com:65/videos/20250625/685b7ed080eee9b955bd9482/a0732g/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02ce51c5d6e1bf7ce0.jpg", 室町无赖
 https://www.tajotv2.com/video/m3u8//9214de92/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t026efe83c36489400c.jpg", 红土地
