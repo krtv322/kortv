@@ -52,6 +52,8 @@ http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 http://1.214.67.100/vod/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS뉴스.png",kbsnews
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC 뉴스
+https://jmp2.uk/sam-KRBC46000173Y.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/Tmb3xK8.png",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
