@@ -30,9 +30,6 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=FHD
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边龙鼎vs南通支云
-https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/hls.yjjcfw.com/live/955606581.m3u8?hwTime=6860E39E&edge_slice=true&user_session_id=31a31e67138e7ab0d32e98f48ae76603&hwSecret=44a68ae3509c8120e21745fd5170c1e0a32e5a7ecd7bf85dc30d8b5c26f82a1f&sub_m3u8=true
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
 https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
@@ -5262,9 +5259,8 @@ http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",延边龙鼎vs南通支云
-https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/hls.yjjcfw.com/live/955606581.m3u8?hwSecret=c319eb8f9183c5a748b16f6452a099f83505e764d94071662851c7f8d8c625ad&edge_slice=true&hwTime=6860E403&user_session_id=62a2b961b56e5efbc4a03cf6efb1c369&sub_m3u8=true
-
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",东京绿茵vs川崎前锋
+https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/pull.chaojiumq.com/live/sd-1-4256628.m3u8?txSecret=f7da9790f8d36cbe531a887171e163d4&user_session_id=89d72c13a67ea23da9d5817555204ed4&edge_slice=true&txTime=686100e6&sub_m3u8=true
 
 
 
