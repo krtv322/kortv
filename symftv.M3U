@@ -30,10 +30,10 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=FHD
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视 1
-http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",YBTV-1朝鲜语频道
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
-https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="🐉한국방송🦆",汪清综合
