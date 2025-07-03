@@ -3,9 +3,9 @@
 
 #EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399
 http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS 1
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS 2
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS2.png",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://i.namu.wiki/i/IqmdThHZGJUCFYmnxaaaD0Gh71Gw2KhCzWA5R8G85qUMmSodRbmYsT1aAnDxOjR18OZgm1VyRTa5rqnoD0nVv7POG8hxAMR7BXjGcWkJtfRXRIRdV6yQosKdtmgRN4YkJ1hmXim_isJNRvqBY0GhyA.svg",SBS
 https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
