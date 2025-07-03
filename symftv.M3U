@@ -599,13 +599,13 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://123.160.231.147:9901/tsfile/live/0001_1.m3u8
+http://101.74.31.134:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://123.160.231.147:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://106.52.196.79:80/TV/mui.php?id=cctv2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://123.160.231.147:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
@@ -649,7 +649,7 @@ http://123.160.231.147:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
 http://101.74.31.134:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://123.160.231.147:9901/tsfile/live/0012_1.m3u8
+http://106.52.196.79:80/TV/mui.php?id=cctv12
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://101.74.31.134:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
