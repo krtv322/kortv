@@ -605,7 +605,7 @@ http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://106.52.196.79:80/TV/mui.php?id=cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://123.160.231.147:9901/tsfile/live/0002_1.m3u8
+http://101.74.31.175:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
@@ -1702,7 +1702,18 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/03/11/2025031117121880985_l.jpg", 250706 언니네 산지직송 2
+https://www.muumuutv.com/20250706/RVEhejh2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/564/2015/12/10/1449735367171.jpg", 250706 휴먼다큐 사노라면
+https://www.muumuutv.com/20250706/ALYOB1jX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2021/0621/11158_60d05d160d6e3[S900,900].jpg", 250706 탐사기획 스트레이트
+https://www.muumuutv.com/20250706/EKwz0ii8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newimg/news/20250417/202061923_1280.jpg", 250706 SBS 8 뉴스
+https://www.muumuutv.com/20250706/KI6fIhqY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250706  MBC 뉴스데스크
+https://www.muumuutv.com/20250706/UEQRbB55/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/03/05/cms_temp_article_05120406738640.jpg", 250706 뭉쳐야 찬다 4
+https://www.coinsarang.com/20250706/WCoeKNzT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167780812.jpg", 250706 식객 허영만의 백반기행
 https://www.muumuutv.com/20250706/his0nnSf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250706 JTBC 뉴스룸
