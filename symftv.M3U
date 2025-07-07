@@ -599,18 +599,14 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
 https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆", sk스토아
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_520_FBB15CE6.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국고화질 년비용🦆",tvN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=HD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="🐉한국고화질 년비용🦆",tvN Drama
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=HD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="🐉한국고화질 년비용🦆",tvN Show
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=HD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="🐉한국고화질 년비용🦆",MNet
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=HD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",중화티비
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00544&q=HD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",ANIPLUS
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00901&q=HD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆", shop 채널
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_521_E8075215.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆", QYC쇼핑
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_522_DE83129B.m3u8
+
+
+
+
 
 
 
