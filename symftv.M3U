@@ -580,9 +580,9 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KT알파쇼핑
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑(U+)
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_517_A9FB9C88.m3u8
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS샵플러스
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_514_101A00A4.m3u8
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",롯데홈쇼핑
 http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",신세계쇼핑
@@ -599,8 +599,10 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS샵플러스
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_514_101A00A4.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑(U+)
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_517_A9FB9C88.m3u8
 
 
 
