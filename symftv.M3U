@@ -81,12 +81,10 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",tvn story
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",사랑의 콜센타
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KFN
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_512_AEC3F43E.m3u8
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w2128752943.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
