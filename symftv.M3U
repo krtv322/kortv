@@ -695,9 +695,9 @@ http://222.134.245.16:9901/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
 http://171.124.180.251:8899/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://112.123.243.37:50085/tsfile/live/0117_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/0119_2.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://101.74.31.175:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://182.113.6.126:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
 http://182.113.6.126:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
@@ -751,11 +751,11 @@ http://tpc.x3322.net:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
 http://218.92.37.174:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
-http://124.128.73.58:9901/tsfile/live/0110_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
 http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
-http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
+http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
 http://222.134.245.16:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
@@ -1210,6 +1210,10 @@ https://play.ly166.com:65/videos/20250524/6831c3fd5cf6b9c746f6bd68/g0c1gd/index.
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2025/05/600/20250508083529_2169818_1000_1426.jpg", 남주의 첫날밤을 가져버렸다 (2025) 9회
+https://www.coinsarang.com/20250709/VMPwh6lc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 60회
 https://www.coinsarang.com/20250709/CXe2spET/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제53회
@@ -1720,8 +1724,30 @@ https://play.ly166.com:65/videos/20250601/683bf6b180eee9b955229fc1/7a6cbb/index.
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202411/20/sportskhan/20241120183415586zhrn.png", 250709 요즘 남자 라이프 신랑수업
+https://www.coinsarang.com/20250709/LkV5MURw/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 250709 유 퀴즈 온 더 블럭
+https://www.coinsarang.com/20250709/HzKdgOXE/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://prismstudios.co.kr/storage/portfolio/kickagoal2/2024/07/15/mwE1721003437663.jpg", 250709 골 때리는 그녀들
+https://www.coinsarang.com/20250709/sNc6Omat/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2022/06/08/202206081558941494_1.jpg", 250709 생로병사의 비밀
+https://www.muumuutv.com/20250709/cdHk9fCg/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202411/06/4cb2b0f2-cff2-4aaf-8357-8c8f61e5a2d2.webp", 250709 슈팅스타2
+https://www.coinsarang.com/20250709/6FARdODq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250709 나는 자연인이다
+https://www.muumuutv.com/20250709/lFD8h1te/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250709 KBS 뉴스 9
+https://www.muumuutv.com/20250709/UDJHAMdC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250709 한국기행
+https://www.muumuutv.com/20250709/JsXb1Uyr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250709 세계테마기행
+https://www.muumuutv.com/20250709/pnEdMAhe/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo=https://thumb.mtstarnews.com/06/2025/07/2025070914321516802_1.jpg/dims/optimize/", 250709 스타건강랭킹 넘버원
+https://www.muumuutv.com/20250709/yZaatx0r/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo=https://image.ytn.co.kr/general/jpg/2025/0430/202504301114090039_d.jpg", 250709 티키타카 로드
+https://www.muumuutv.com/20250709/inju547J/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/14/news-p.v1.20250514.7787edaaf50041de8b3704958808f641_P1.jpg", 250709 영자와 세리의 <남겨서 뭐하게>
+https://www.muumuutv.com/20250709/CsnHqA1v/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kocca.kr/trend/vol17/img/s42/img_01.jpg", 250709 슈퍼맨이 돌아왔다
 https://www.coinsarang.com/20250709/Dzo9C4Fi/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250709 MBC 뉴스데스크
