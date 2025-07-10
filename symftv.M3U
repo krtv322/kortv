@@ -597,39 +597,39 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_517_A9FB9C88.m3u8
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://182.113.6.126:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
 http://106.52.196.79:80/TV/mui.php?id=cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://182.113.6.126:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
 http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://182.113.6.126:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://182.113.6.126:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://182.113.6.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://42.225.117.174:11199/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://112.123.243.37:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://106.52.196.79:80/TV/mui.php?id=cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://182.113.6.126:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.124.180.251:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://182.113.6.126:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://106.52.196.79:80/TV/mui.php?id=cctv7
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://182.113.6.126:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
 http://106.52.196.79:80/TV/mui.php?id=cctv8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
@@ -685,7 +685,7 @@ http://106.52.196.79:80/TV/mui.php?id=dfws
 #EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
 http://139.155.142.13:9177/migu.php?id=dfws
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://182.113.6.126:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
 http://218.104.239.114:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
@@ -697,17 +697,17 @@ http://171.124.180.251:8899/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
 http://tpc.x3322.net:9901/tsfile/live/0119_2.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://182.113.6.126:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
-http://182.113.6.126:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
 http://139.155.142.13:2025/z.php?id=hunanweishi
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://182.113.6.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.164.180.36:19901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
 http://123.52.15.154:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://182.113.6.126:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.124.180.251:8899/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
 http://123.52.15.154:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
