@@ -393,6 +393,8 @@ http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆",tvN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBC
+http://1.214.67.12/74701.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;480p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC
 https://everylive.space/live/jtbc/livestream.m3u8
 #EXTINF:-1 tvg-id="mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="🐉한국방송🦆",Mnet
 http://39.125.42.21:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=SD&apikey=5MY50EII66
