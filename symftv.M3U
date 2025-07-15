@@ -5844,13 +5844,12 @@ http://extraott.com:80/live/6772191932/1654508883/181534.m3u8
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",NBA夏季联赛 骑士vs热火
-https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/hls.yjjcfw.com/live/11522500028.m3u8?edge_slice=true&hwSecret=5236fee8fe3be90007e1bc88958c0aa850bfada7be3ce22d7f1de1f7732fa051&sub_m3u8=true&hwTime=68744619&user_session_id=289787f87feea9ab82e23cff7b575f41
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",NBA夏季联赛 骑士vs热火
-https://hls.yjjcfw.com/live/956037352.m3u8?hwSecret=e29852162e73e4ca400493901401cfcc2f42573bc761cec47cac8724a7beef58&hwTime=6874463C
-
-
-
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",东亚杯第3轮 中国男足vs中国香港
+https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/hls.yjjcfw.com/live/956252850.m3u8?edge_slice=true&user_session_id=0224a14276ff9f8fb3ebb6a6e9208460&sub_m3u8=true&hwSecret=122fd260fbd8a31fb5ba8ca7dc8e58dbba0e5e94c308d3fad12f89d97fe39fec&hwTime=687607D6
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",东亚杯第3轮 中国男足vs中国香港
+https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/hls.yjjcfw.com/live/956252850.m3u8?user_session_id=61133fda6c7a051356d6061a1d2c9039&hwTime=6876080B&edge_slice=true&hwSecret=df812cbf6dc6702cf73c595cf585e2423e97a9167c90726f07c14f92a695ef69&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",东亚杯第3轮 中国男足vs中国香港
+https://v4-a54b1deee602c6ce55d8a72a1b3b94dd.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4334208.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c1878701733010e85eb4aacca6903d19&txTime=6875fcc6&txSecret=e4022e830e92b72e0c1a04bcd134393c
 
 
 
