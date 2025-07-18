@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399
+#EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399 
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://47.237.74.77:7777/kbs.php?id=1
