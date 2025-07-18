@@ -1853,14 +1853,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hani.co.kr/imgdb/resize/2019/0419/155556460375_20190419.JPG", 250711 엄홍길의 둘레길따라
-https://www.muumuutv.com/20250711/gTbvYJZ8/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2023/07/09/AKR20230709012900003_01_i_P4.jpg", 250711 신상출시 편스토랑
-https://www.coinsarang.com/20250711/aa5WcyGL/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/13/news-p.v1.20240913.a5fcb79f7e3c401db8af0678c58476ac_P1.png", 250718 무쇠소녀단 2
+https://joovideo.cfd/static/streaming-playlists/hls/59c23016-8935-4083-b6ca-ab9264911fde/4fdf1b5f-8d3a-4a44-9f3a-8a93acaeb816-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240069D/site_poster_img1_20240524092652325.jpg", 250718 강철지구
+https://joovideo.cfd/static/streaming-playlists/hls/da5a3c39-55d7-4e06-a589-cccae6aee0ae/32a87509-2ed8-4fa4-a848-fdfc56e7a998-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/201908/01.20312346.1.png", 250718 궁금한 이야기 Y
 https://joovideo.cfd/static/streaming-playlists/hls/38e80901-cfdd-426e-8686-de74dc1decae/f561459c-0ab7-4677-9b87-636185f95401-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202502/24/news-p.v1.20250224.170d74ed7c144f09a27073f56e65c2d8_P1.jpg", 250718 지지고 볶는 여행
