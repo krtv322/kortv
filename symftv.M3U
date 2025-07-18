@@ -1289,7 +1289,7 @@ https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946209087930896384/1946
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 67회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946187529069924352/1946187529069924352.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t0289d51aefa7c67de9.jpg", 청담국제고등학교2 (2025) 제6회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946175931815170048/1946175931815170048.m3u8
+https://play.ly166.com:65/videos/20250718/687a1e6d80eee9b95529e83d/b5ea46/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 30회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946176015701250048/1946176015701250048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제60회
@@ -2301,8 +2301,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250718-1/e48472358be03970ea4645a8a5d8822e.jpg", 84제곱미터 2025
+https://play.ly166.com:65/videos/20250718/687a1fd480eee9b9552ae6fc/d14d60/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0623/11_27_07__6858bb7b091e6[W680-].jpg", 위장수사 2025
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250717/1945858045515010048/1945858045515010048.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img4.yna.co.kr/etc/inner/KR/2025/05/27/AKR20250527079300005_01_i_P4.jpg", 하이파이브 2025
@@ -2732,6 +2732,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b2a1bc838e48c17b.jpg", 维尔:达斯:大笑若愚
+https://vodcnd06.myqqdd.com/20250718/ycLwOYsY/5561kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02f618345fbee68ec8.jpg", 家人未满
+https://vodcnd06.myqqdd.com/20250718/UdximSzV/4151kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022e826164a9060b2b.jpg", 棉花软糖
+https://vodcnd12.myqqdd.com/20250620/70UAAI8p/3732kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0293d5f0ee8c292d41.jpg", 无处安身
+https://vodcnd06.myqqdd.com/20250718/kuCP2avz/2946kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250718-1/1911e28267223d426715a0382fa9aeb9.jpg", 魔鬼2025
+https://vodcnd06.myqqdd.com/20250718/iwU7eUC7/2934kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0216ea68f3414474b5.jpg", 私家侦探粤语
+https://play.ly166.com:65/videos/20250718/6879e6695cf6b9c746ad1fc8/66g966/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250717-1/1af53f94d47f7c00e2b3f8b7ebd1d42f.jpg", 整形手术回顾
 https://vodcnd12.myqqdd.com/20250716/XKrYE17P/4070kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02aff7fc94f4e5cd9f.jpg", 迷航昆仑墟:异生
