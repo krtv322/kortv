@@ -584,8 +584,8 @@ https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KT알파쇼핑
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑(U+)
-http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑
+http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS샵플러스
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",롯데홈쇼핑
@@ -608,8 +608,8 @@ http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑(U+)
-http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 
 
