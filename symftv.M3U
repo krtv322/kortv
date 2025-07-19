@@ -1281,20 +1281,18 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 49회
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946548973510725632/1946548973510725632.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 11회
 https://play.ly166.com:65/videos/20250718/687a60485cf6b9c7460c5468/g4c571/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 2회
 https://play.ly166.com:65/videos/20250718/687a600b80eee9b9556577d4/9e932c/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 1회
 https://play.ly166.com:65/videos/20250718/687a518380eee9b955566ba7/5ga867/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 67회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946187529069924352/1946187529069924352.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t0289d51aefa7c67de9.jpg", 청담국제고등학교2 (2025) 제6회
-https://play.ly166.com:65/videos/20250718/687a1e6d80eee9b95529e83d/b5ea46/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 30회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946176015701250048/1946176015701250048.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제60회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946176057644290048/1946176057644290048.m3u8
 
 
 
@@ -1331,6 +1329,8 @@ https://play.ly166.com:65/videos/20250712/6872740180eee9b9555c9e06/071cfa/index.
 https://play.ly166.com:65/videos/20250706/686a87f580eee9b955800254/2fd212/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 1회
 https://play.ly166.com:65/videos/20250705/686941005cf6b9c746582f75/d24a30/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t0289d51aefa7c67de9.jpg", 청담국제고등학교2 (2025) 제6회
+https://play.ly166.com:65/videos/20250718/687a1e6d80eee9b95529e83d/b5ea46/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t0289d51aefa7c67de9.jpg", 청담국제고등학교2 (2025) 제5회
 https://play.ly166.com:65/videos/20250717/6878ccb080eee9b955510f1b/813gaf/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t0289d51aefa7c67de9.jpg", 청담국제고등학교2 (2025) 제4회
@@ -1377,8 +1377,10 @@ https://play.ly166.com:65/videos/20250620/685576be80eee9b9552d84c6/59021e/index.
 https://play.ly166.com:65/videos/20250614/684d8c925cf6b9c7461c82c1/6d046c/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.spotvnews.co.kr/news/photo/202505/748882_1197591_3210.jpg", 우리영화 (2025) 1회 
 https://play.ly166.com:65/videos/20250613/684c45da80eee9b955386ed7/0gff95/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 30회
+https://play.ly166.com:65/videos/20250719/687b10c580eee9b955c2dd1b/8e43d1/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 29회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250717/1945808468845924352/1945808468845924352.m3u8
+https://play.ly166.com:65/videos/20250718/6879ce425cf6b9c7469aca0d/c3e106/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 28회
 https://play.ly166.com:65/videos/20250717/687885ab5cf6b9c746cf4620/b80263/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 27회
@@ -1463,8 +1465,10 @@ https://play.ly166.com:65/videos/20250608/684466b280eee9b955b48c3b/37b447/index.
 https://play.ly166.com:65/videos/20250601/683c781180eee9b955436b4d/98c8c7/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 1회 
 https://play.ly166.com:65/videos/20250601/683be06d80eee9b9551c9179/65f414/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제60회
+https://play.ly166.com:65/videos/20250719/687b113c80eee9b955c33fbb/d2c12f/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제59회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250717/1945818912658690048/1945818912658690048.m3u8
+https://play.ly166.com:65/videos/20250718/6879ce085cf6b9c7469a9f5d/6f4202/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제58회
 https://play.ly166.com:65/videos/20250717/687890eb5cf6b9c746d821a9/ae200a/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제57회
@@ -1581,6 +1585,8 @@ https://play.ly166.com:65/videos/20250501/68130932a3cd3e0b2ed182fc/2ad1g6/index.
 https://play.ly166.com:65/videos/20250430/6811bebacde7f10b66756c20/02cb90/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제1회
 https://play.ly166.com:65/videos/20250429/681090da2259a00b2fdbdc06/4f15d1/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 67회
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250718/1946187529069924352/1946187529069924352.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 66회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250717/1945821408269570048/1945821408269570048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 65회
@@ -1650,11 +1656,11 @@ https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250602/1929516659652038656/1929
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 33회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250530/1928427692500324352/1928427692500324352.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 32회
-https://www.coinsarang.com/20250529/EuXkt3qT/1000kb/hls/index.m3u8
+https://m3u8.hmrvideo.com/play/c72cde19f48b42fa829fc3840e5f4c2a.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 31회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250528/1927709334050050048/1927709334050050048.m3u8
+https://m3u8.hmrvideo.com/play/6eec9009fa4746bd960142433668c6d0.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 30회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250526/1926974764619010048/1926974764619010048.m3u8
+https://m3u8.hmrvideo.com/play/ba644bb3c7a748aa8f116b020cf28abc.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 29회
 https://m3u8.hmrvideo.com/play/0776eca2f5644fcebcbb2892e73882d2.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 28회
@@ -1825,9 +1831,42 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202506/27/news-p.v1.20250627.078c3374560b484597350d2dd9f4fcf5_P1.jpg", 250712  가보자GO 시즌5
+https://joovideo.cfd/static/streaming-playlists/hls/725ad7d8-4308-4b9b-852a-e9583dc8ed57/696eb34d-62b2-4015-99b9-8574ac6758ba-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.ilemonde.com/news/photo/201902/10243_20480_5056.jpg", 250719 극한직업
+https://joovideo.cfd/static/streaming-playlists/hls/3e5e8be4-84d7-4e83-bd9e-42ebeb843d01/921c6b90-930e-4e72-8b06-f48c2808eb7d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ojsfile.ohmynews.com/STD_IMG_FILE/2017/0517/IE002161859_STD.jpg", 250719  토요 랭킹쇼
+https://joovideo.cfd/static/streaming-playlists/hls/5ee9f1b6-c9ad-4f22-9dcc-9fb75361868f/5b66f537-7187-42ba-a2d8-b567b6b318fc-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250719 KBS 뉴스 9
+http://www.segyen.xyz:2100/20250719/rQFtaqAS/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250719  MBC 뉴스데스크
+https://joovideo.cfd/static/streaming-playlists/hls/8d0cbff0-f606-43cb-846a-ad3d11e1ee75/d336f498-fe5a-409b-921c-13bee1c4d7d0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newimg/news/20250417/202061923_1280.jpg", 250719 SBS 8 뉴스
+https://joovideo.cfd/static/streaming-playlists/hls/3a9218ae-dc6a-4231-a01d-c3b91721fee3/8964fee8-28f0-4589-968a-495cee3b20e7-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.starnewsk.com/news/photo/202402/40151_64840_404.jpg", 250719 차트를 달리는 남자
+https://joovideo.cfd/static/streaming-playlists/hls/f7df94d6-8c7a-436a-8618-6bc2f57eafe5/263a0aa5-be94-4b9e-981e-0778fc62912b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250719 JTBC 뉴스룸
+https://joovideo.cfd/static/streaming-playlists/hls/54c8cd08-f081-4783-8030-0dbf5c79a2ab/4b5237fa-cf93-45ab-b75f-f5ce5316dcb7-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg.hankookilbo.com/2019/08/19/201908191253063827_2.jpg", 250719 놀라운 토요일 도레미 마켓
+https://joovideo.cfd/static/streaming-playlists/hls/8c53d7cc-1635-4dd4-86c4-5c706034f47f/da9781e1-5fae-40e6-8f09-43d624db60ec-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788936471897.jpg", 250719 불편해도 괜찮아 시즌7
+https://joovideo.cfd/static/streaming-playlists/hls/1378a054-2777-4079-8cbf-b1d04f978ca8/2f824da5-234f-435c-ba0c-9be1ba36670d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mirae-biz.com/news/photo/202010/64307_55837_1427.jpg", 250719 동행
+http://www.segyen.xyz:2100/20250719/TpUZFmPJ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9788984318953.jpg", 250719 동네 한 바퀴
+https://joovideo.cfd/static/streaming-playlists/hls/9bef9c62-f39d-4988-af17-952247259415/b73e5198-e12c-49fe-810b-e58bd858ec2e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://db.kookje.co.kr/news2000/photo/2018/0317/L20180317.99099007148i1.jpg", 250719 접속! 무비월드
+https://joovideo.cfd/static/streaming-playlists/hls/d04523d2-45f7-45f0-b2b3-28858833b438/f70e8a8f-b81d-40d5-9b12-3a857a7dafec-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2024/09/26/isp20240926000339.500x.0.jpeg", 250719 영화가 좋다
+https://joovideo.cfd/static/streaming-playlists/hls/1e6eb216-17be-480d-a7af-8243667b92c5/37abc38a-12d5-4a4f-ab7c-9d59df7edb76-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 250719 불후의 명곡
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946537187222884352/1946537187222884352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250719  놀면 뭐하니
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946536809735524352/1946536809735524352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.board.sbs.co.kr/2025/05/21/7YP1747792648464-300.jpg", 250719 비 마이 보이즈
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250719/1946522989495455744/1946522989495455744.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202310/2835520_2885236_318.jpg", 250719 쇼 음악중심
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946491658052964352/1946491658052964352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2025/06/11/1749604413313969.jpg", 250719 장도바리바리
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250719/1946491217646850048/1946491217646850048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.imaeil.com/photos/2019/07/12/2019071217291464420_l.jpg", 250718 명의
@@ -1838,7 +1877,7 @@ https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946248262591844352/1
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946242579309924352/1946242579309924352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2025/05/23/2025052311352974529_1.jpg", 250718 하우스 오브 걸스
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250719/1946242264732930048/1946242264732930048.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/995/2025/06/11/174960627184.jpg", 250711 위대한쇼: 태권
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/995/2025/06/11/174960627184.jpg", 250719 위대한쇼: 태권
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250719/1946239035118850048/1946239035118850048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.c6b727df0f1b426ba050c3e8e61ed3ab_P1.jpg", 250718 용감한 형사들 4
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250719/1946227102789537792/1946227102789537792.m3u8
