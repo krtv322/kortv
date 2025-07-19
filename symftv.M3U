@@ -2712,8 +2712,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0281b7f4386fd4e9a3.jpg", 好戏时间7
+https://cdn7.ryplay7.com/20250711/14696_3350cee6/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ryzypics.com/upload/vod/20250605-1/85fbaac97817de06ce60c958f1f28cb3.webp", 自由落体
 https://cdn7.ryplay7.com/20250605/14304_7a478f33/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ryzypics.com/upload/vod/20250530-1/93e952a50d04a339613b9f0fb02cd0f1.webp", 星际监狱
