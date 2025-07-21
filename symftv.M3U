@@ -1866,7 +1866,7 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.news1.kr/system/photos/2025/7/3/7374513/high.jpg/dims/optimize", 250720 돌싱글즈7
 https://vod3.cf.dmcdn.net/sec2(m8NSame8KcLchZ3rGIsEn6-4GCEu9DVRV0WFjthleUwxO4cqZfXSRi5XzZxNzbPf13xPnVOPVnnNN9Ola7SEQg8wW-85NHD40vuvdb_drlNFnMeLSZgwD-722ms5wGBCZ2_84SpzHcz5C2kXylhmIYwyU6fb99JEes496bupQOc)/video/630/372/583273036_mp4_h264_aac_hd.m3u8#cell=cf3
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250720 개그 콘서트
-https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250721/1946965551490404352/1946965551490404352.m3u8
+https://bgp.ootv.kr:8888/202507/20/9uS7V28n/hls/index.m3u8?sign=e68fe36e919eb2d56e2b06bccee5a95d5bd12a90400aca279c11187500baac742270ed6439cec96ed8db10e8076cc9b3
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250720 심야괴담회 시즌5
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250721/1946965824283742208/1946965824283742208.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250713 이제 만나러 갑니다
@@ -2396,6 +2396,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0521/14_41_14__682d677a83491[X280,400].jpg", 주차금지 No Parking, 2025
+https://bgp.ootv.kr:8888/202506/10/TWvsd7ja/hls/index.m3u8?sign=e68fe36e919eb2d56e2b06bccee5a95d7ee56c7a3b470460bd4223acefc24557b22fbfd093c2f51b15659392d83c32ac
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0521/14_19_37__682d626903188[X280,400].jpg", 2035 더 그린라이트
+https://bgp.ootv.kr:8888/202506/12/ONircRjF/hls/index.m3u8?sign=e68fe36e919eb2d56e2b06bccee5a95d571cd38ddde1bae3ab277a99c51a156f4ab88d7c7f73798ed3f53cd308c3c575
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0623/11_18_25__6858b971b2a6c[W680-].jpg", 세하별 2025
 https://www.yadongnara56.site/video/m3u8//92b058c1/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250718-1/e48472358be03970ea4645a8a5d8822e.jpg", 84제곱미터 2025
