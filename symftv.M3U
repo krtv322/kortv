@@ -1328,6 +1328,9 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.joongangenews.com/news/photo/202506/428291_228746_3251.jpg", 견우와 선녀 (2025) 10회
 https://ootv.vviptv.com/m3u8/FE0dEk1VViwmOSFAXCFMTlhXHBhaJiBUQ00RHwtNTkNWWUBPEg==
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 69회
@@ -1336,20 +1339,21 @@ https://ootv.vviptv.com/m3u8/FE0dEk1VVk8mNRhGWSI6RgJaQS89Oz5UQ00RHwtNTkNWWUBDEg=
 https://ootv.vviptv.com/m3u8/FE0dEk1VVkRfHy1BOCkSMwVfMD5cGTZUQ00RHwtNTkNWWUdPEg==
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 32회
 https://ootv.vviptv.com/m3u8/FE0dEk1VVkBYP0UmJlwbQiQbJyVeAk1UQ00RHwtNTkNWWUdFEg==
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 2회
+https://ootv.vviptv.com/m3u8/FE0dEk1VViwmOSFAXCFMTlhXHBhaJiBUQ00RHwtNTkNWWUBPEg==
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 1회
 https://play.ly166.com:65/videos/20250722/687f02b25cf6b9c746827a08/ceb6cc/index.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 2회
 https://play.ly166.com:65/videos/20250718/687a600b80eee9b9556577d4/9e932c/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 1회
@@ -1748,7 +1752,22 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202504/21/news-p.v1.20250421.5de8a378d72b4de7954b578d54920fd5_P1.jpg", 250715 한일톱텐쇼
+https://ootv.vviptv.com/m3u8/FE0dEk1VViBfXg4AXjhANV5cPiZeGUBUQ00RHwtNTkNWWUJFEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170610083.jpg", 250722 벌거벗은 세계사
+https://ootv.vviptv.com/m3u8/FE0dEk1VViQgBAQVCloCIj1ZQCxXJkxUQ00RHwtNTkNWWUJEEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/behind/Img/site/Main/20250630_153713_5012.jpg", 250722 아무도 몰랐던, 비하인드
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkddP0MkWBYYDz8IPyEuGh5UQ00RHwtNTkNWWUJHEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 250722 모-던 인물史 미스터.리
+https://ootv.vviptv.com/m3u8/FE0dEk1VViBYDCRBXlZDElxZEUIfWjVUQ00RHwtNTkNWWUFPEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250722 JTBC 뉴스룸
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkJcPzMyBlszLggOF0FZWExUQ00RHwtNTkNWWUFBEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/07/13/30000700725_1280.jpg", 250722 신발 벗고 돌싱포맨
+https://ootv.vviptv.com/m3u8/FE0dEk1VViUeVkUlCwsDISFfPQwIJUNUQ00RHwtNTkNWWUJGEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 250722 신빨토크쇼 귀묘한 이야기
+https://ootv.vviptv.com/m3u8/FE0dEk1VVg5YARoHDVo/EVsNJEElDE1UQ00RHwtNTkNWWUFOEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.namdonews.com/news/photo/202209/696249_354147_3812.png", 250722 한블리 (한문철의 블랙박스 리뷰)
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkQDXQAhNxhELzsXGQMVDDZUQ00RHwtNTkNWWUFAEg==
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/news/2021/02/05/20210205_Xtvkym.jpg", 250722 시사기획 창
 https://ootv.vviptv.com/m3u8/FE0dEk1VVj5ZWUxFKxZHRh1dFjcmWyNUQ00RHwtNTkNWWUFDEg==
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2024/09/25/30000950753_1280.jpg", 250722 틈만나면
