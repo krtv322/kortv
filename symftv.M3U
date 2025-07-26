@@ -1378,7 +1378,7 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마  독수리 5형제를 부탁해🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 51회
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 51회
 https://www.coinsarang.com/20250726/oiEpKvBG/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 4회
 https://ootv.vviptv.com/m3u8/FE0dEk1VVkddIUIzAikERABYNTxZFgRUQ00RHwtNTkNWV0RDEg==
@@ -1846,7 +1846,17 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2020/12/13/104423157.3.jpg", 250726 특파원 보고 세계는 지금
+https://www.coinsarang.com/20250726/d5EWSsTo/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.ilemonde.com/news/photo/201902/10243_20480_5056.jpg", 250726 극한직업
+https://www.muumuutv.com/20250726/L6I2SgXF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/06/program_d9301417-2bd5-4b20-9e9b-256e1a72537b.jpg", 250726 아임 써니 땡큐
+https://www.muumuutv.com/20250726/Yitad0sa/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/06/program_d9301417-2bd5-4b20-9e9b-256e1a72537b.jpg", 250726 아임 써니 땡큐（고화질）
 https://ootv.vviptv.com/m3u8/FE0dEk1VVh8uI0URIiMGLDgaGiMcWDJUQ00RHwtNTkNWV0ZOEg==
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202506/27/news-p.v1.20250627.078c3374560b484597350d2dd9f4fcf5_P1.jpg", 250726  가보자GO 시즌5
 https://ootv.vviptv.com/m3u8/FE0dEk1VVk8tO0Q4X1g1AAYfQA9aWCNUQ00RHwtNTkNWV0ZAEg==
