@@ -1802,12 +1802,28 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2025/06/11/1749604413313969.jpg", 250726 장도바리바리
+https://ootv.vviptv.com/m3u8/FE0dEk1VViw4JxobKy5MTzpfLC4tCEBUQ00RHwtNTkNWV0ZHEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202310/2835520_2885236_318.jpg", 250726 쇼 음악중심
+https://ootv.vviptv.com/m3u8/FE0dEk1VVhReXRkMJlwVEwlaGkY2BR1UQ00RHwtNTkNWV0VOEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.board.sbs.co.kr/2025/05/21/7YP1747792648464-300.jpg", 250726 비 마이 보이즈
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkNeIEwyJ1hCQSMFEiAsOD1UQ00RHwtNTkNWV0VBEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9788984318953.jpg", 250726 동네 한 바퀴
+https://ootv.vviptv.com/m3u8/FE0dEk1VViADGR5DHiI/RTgWTTwBWBZUQ00RHwtNTkNWV0ZGEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788984315662.jpg", 250726  팔도밥상
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkdXVwBBWTs4Lh8kPRtbDRFUQ00RHwtNTkNWV0VDEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250726  놀면 뭐하니
+https://www.coinsarang.com/20250726/g0K3Y82q/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250726  놀면 뭐하니（고화질）
+https://ootv.vviptv.com/m3u8/FE0dEk1VVg4VJycBKCYsIC4jRkRfV0RUQ00RHwtNTkNWV0VAEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://db.kookje.co.kr/news2000/photo/2018/0317/L20180317.99099007148i1.jpg", 250726 접속! 무비월드
+https://www.muumuutv.com/20250726/d3cTgy6D/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.starnewsk.com/news/photo/202402/40151_64840_404.jpg", 250726 차트를 달리는 남자
+https://www.muumuutv.com/20250726/zDl6cxla/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mirae-biz.com/news/photo/202010/64307_55837_1427.jpg", 250726 동행
+https://www.muumuutv.com/20250726/cvRKPYtj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250726 JTBC 뉴스룸
+https://www.muumuutv.com/20250726/uq5niRUC/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250725 나 혼자 산다
 https://www.coinsarang.com/20250725/Uhq4bwt9/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250725 나 혼자 산다（고화질）
