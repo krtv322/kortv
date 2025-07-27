@@ -1378,6 +1378,9 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 52회
+https://www.ddetv.com/20250727/iz0ru2Zg/1000kb/hls/index.m3u8
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/20/news-p.v1.20250520.beaf0b4686714accb225e9dd280ada3f_P1.jpeg", 굿보이 (2025) 17회
 https://ootv.vviptv.com/m3u8/FE0dEk1VVk45WEZCJDY6Tgo8NhBZVhxUQ00RHwtNTkNWV0dOEg==
@@ -1385,8 +1388,7 @@ https://ootv.vviptv.com/m3u8/FE0dEk1VVk45WEZCJDY6Tgo8NhBZVhxUQ00RHwtNTkNWV0dOEg=
 https://play.ly166.com:65/videos/20250726/6884f9655cf6b9c746829c8f/dc91d1/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 7회
 https://play.ly166.com:65/videos/20250726/6884eb5a5cf6b9c7466f4fa5/g4g071/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 51회
-https://play.ly166.com:65/videos/20250727/6885affe80eee9b95555fb23/7e2e34/index.m3u8
+
 
 
 
@@ -1838,7 +1840,8 @@ https://m3u8.hmrvideo.com/play/35eca727b47b445c9b6c31b148cd4b26.m3u8
 https://m3u8.hmrvideo.com/play/0aa54066d5e24571acc5b9768b28c241.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 1회
 https://m3u8.hmrvideo.com/play/5e82f463eaac4956b576e8d526f5d993.m3u8
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 51회
+https://play.ly166.com:65/videos/20250727/6885affe80eee9b95555fb23/7e2e34/index.m3u8
 
 
 
@@ -1855,10 +1858,18 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/564/2015/12/10/1449735367171.jpg", 250727 휴먼다큐 사노라면
+https://www.muumuutv.com/20250727/v6dIBy1K/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg-hams.hankookilbo.com/2024/11/20/a6a30723-b8d0-47d6-a198-c69a5e4fcc21.jpg", 250727  내 아이의 사생활
+https://ootv.vviptv.com/m3u8/FE0dEk1VVkVdJQxCXQpBAV4VLE8mJUZUQ00RHwtNTkNWV0JPEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791130658452.jpg", 250727 성적을 부탁해 티처스 2
+https://ootv.vviptv.com/m3u8/FE0dEk1VVhFYWAdDGAstBFoHGjIhKRJUQ00RHwtNTkNWV0JOEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/03/05/cms_temp_article_05120406738640.jpg", 250727 뭉쳐야 찬다 4
+https://www.ddetv.com/20250727/vu4qc5mX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/03/05/cms_temp_article_05120406738640.jpg", 250727 뭉쳐야 찬다 4（고화질）
+https://ootv.vviptv.com/m3u8/FE0dEk1VVgYZAz9COB5GEy4+OD4JXxxUQ00RHwtNTkNWV0JAEg==
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167780812.jpg", 250727 식객 허영만의 백반기행
-https://ootv.vviptv.com/m3u8/FE0dEk1VVi5dKENEPTw9HC5bEgUjOhtUQ00RHwtNTkNWV0JDEg==
+https://www.muumuutv.com/20250727/Cz1k8Y1R/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 250727 1박 2일
 https://www.ddetv.com/20250727/kb0xyHhS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 250727 1박 2일（고화질）
@@ -3224,7 +3235,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c268c252d3232545.jpg", 忠犬帕尔马2
+https://vv.jisuzyv.com/play/lejy8qBd/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022d07fb314798020d.jpg", 高尔夫球也疯狂2
+https://vv.jisuzyv.com/play/rb267jvb/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022e0c5e4b6c1af12d.jpg", 英雄
+https://vv.jisuzyv.com/play/1aM0Jk3e/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022e2eb3fee2970732.jpg", 太空杀路
 https://vv.jisuzyv.com/play/yb8mMpod/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a7e942f840e2b6e8.jpg", 缉盗
