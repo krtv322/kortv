@@ -1378,6 +1378,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 8회
+https://www.ddetv.com/20250727/LfB0dy1N/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 52회
 https://www.ddetv.com/20250727/iz0ru2Zg/1000kb/hls/index.m3u8
 
@@ -1386,8 +1390,7 @@ https://www.ddetv.com/20250727/iz0ru2Zg/1000kb/hls/index.m3u8
 https://ootv.vviptv.com/m3u8/FE0dEk1VVk45WEZCJDY6Tgo8NhBZVhxUQ00RHwtNTkNWV0dOEg==
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 2회
 https://play.ly166.com:65/videos/20250726/6884f9655cf6b9c746829c8f/dc91d1/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 7회
-https://play.ly166.com:65/videos/20250726/6884eb5a5cf6b9c7466f4fa5/g4g071/index.m3u8
+
 
 
 
@@ -1448,6 +1451,8 @@ https://play.ly166.com:65/videos/20250716/687773ad5cf6b9c7462a18ee/486bf6/index.
 https://play.ly166.com:65/videos/20250716/6877758d80eee9b9557891c1/bb73g7/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250716-1/fa584fa8ff25cc79c4497a01da587be1.jpg", 파인 (2025) 1회
 https://play.ly166.com:65/videos/20250716/687773ad5cf6b9c7462a18ef/4583fb/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 7회
+https://play.ly166.com:65/videos/20250726/6884eb5a5cf6b9c7466f4fa5/g4g071/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 6회
 https://play.ly166.com:65/videos/20250720/687d092580eee9b9557aa041/4cee27/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 5회
@@ -1857,7 +1862,22 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2019-0296/2023/7/14/1689310812103_452984.jpg", 250727 다큐인사이트
+https://ootv.vviptv.com/m3u8/FE0dEk1VViNZWTwjHlYGTgRbMxoEDURUQ00RHwtNTkNWV0NAEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250727 미운 우리 새끼
+https://ootv.vviptv.com/m3u8/FE0dEk1VVj0iITMAV1csIwguQB4OCxtUQ00RHwtNTkNWV0NBEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0064/2025/6/11/1749630797121_588670.jpg", 250727 크레이지리치코리안
+https://ootv.vviptv.com/m3u8/FE0dEk1VVjJaDk03JQofICMOMUJWOzlUQ00RHwtNTkNWV0NDEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/202205/BF.30034871.1.jpg", 250727  FLEX 한끼
+https://ootv.vviptv.com/m3u8/FE0dEk1VVgFcXDMwBB4MGgVcHQUsAT9UQ00RHwtNTkNWV0NCEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 250727  냉장고를 부탁해 since 2014
+https://www.ddetv.com/20250727/Ud7FvBxK/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 250727  냉장고를 부탁해 since 2014（고화질）
+https://ootv.vviptv.com/m3u8/FE0dEk1VVjwkGhwUGgVGT1YrQxdWG0dUQ00RHwtNTkNWV0NEEg==
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250727 KBS 뉴스 9
+https://www.muumuutv.com/20250727/750jjm4N/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250727  MBC 뉴스데스크
+https://www.muumuutv.com/20250727/vwVvGztC/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/564/2015/12/10/1449735367171.jpg", 250727 휴먼다큐 사노라면
 https://www.muumuutv.com/20250727/v6dIBy1K/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg-hams.hankookilbo.com/2024/11/20/a6a30723-b8d0-47d6-a198-c69a5e4fcc21.jpg", 250727  내 아이의 사생활
