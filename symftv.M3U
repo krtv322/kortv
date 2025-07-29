@@ -1376,16 +1376,20 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제67회
+https://www.ddetv.com/20250729/QkGUHunv/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 36회
+https://www.ddetv.com/20250729/GjJHygrm/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 3회
 https://play.ly166.com:65/videos/20250728/68879e4a5cf6b9c746f8fbad/29gf9c/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.joongangenews.com/news/photo/202506/428291_228746_3251.jpg", 견우와 선녀 (2025) 11회
 https://play.ly166.com:65/videos/20250728/6887947280eee9b9552f0555/db5c37/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 73회
 https://www.ddetv.com/20250728/QEuq5ket/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제66회
-https://www.ddetv.com/20250728/l5mJZnas/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 35회
-https://www.ddetv.com/20250728/LhKJkADQ/1000kb/hls/index.m3u8
+
 
 
 
@@ -1482,6 +1486,8 @@ https://play.ly166.com:65/videos/20250624/685ab0cb5cf6b9c7460f359b/355285/index.
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.joongangenews.com/news/photo/202506/428291_228746_3251.jpg", 견우와 선녀 (2025) 1회
 https://play.ly166.com:65/videos/20250623/6859674380eee9b955df43c0/5fba3f/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 35회
+https://play.ly166.com:65/videos/20250729/68884d5b5cf6b9c746679b86/e1f705/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 35회
 https://play.ly166.com:65/videos/20250726/688473cf5cf6b9c746e4ad4f/36d93a/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 34회
 https://play.ly166.com:65/videos/20250725/688305b780eee9b955049f53/73935e/index.m3u8
@@ -1551,6 +1557,8 @@ https://play.ly166.com:65/videos/20250612/684a52a180eee9b955d3f142/5dgaab/index.
 https://play.ly166.com:65/videos/20250611/6849006d80eee9b95595edcb/31gf7e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 1회
 https://play.ly166.com:65/videos/20250610/6847bcc180eee9b9555672f6/b1a82b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제66회
+https://play.ly166.com:65/videos/20250729/68884d5b5cf6b9c746679b99/e966b7/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제65회
 https://play.ly166.com:65/videos/20250726/6884740b80eee9b95536720d/16d68e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제64회
@@ -1845,8 +1853,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250729 JTBC 뉴스룸
+https://www.muumuutv.com/20250729/52JXLGBm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250729 인간극장
+https://www.muumuutv.com/20250728/NcF0CT28/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/15/28009693-f5bf-4247-80f2-3ee90c2b47cb.jpg", 250728 오은영 리포트 결혼지옥
 https://www.ddetv.com/20250728/Q6pr0Hag/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250728 조선의 사랑꾼
