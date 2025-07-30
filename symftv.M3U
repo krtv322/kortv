@@ -2825,8 +2825,6 @@ https://joovideo.cfd/static/streaming-playlists/hls/a8784c42-fd12-4aad-8a28-61b8
 
 
 
-
-
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://suonipic.com/upload/vod/20230911-1/415a27382172829f564f3aeac3f404a2.jpg",	한국방송 위챗문의: kvtv399
 https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
@@ -2835,15 +2833,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.tvreportcdn.de/cms-content/uploads/2025/06/03/a625d83e-e477-4d79-82e8-604c2ddf96cb.jpg", 신명 2025
+https://europe.olemovienews.com/ts4/20250727/lb8zd3uv/mp4/lb8zd3uv.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img4.yna.co.kr/etc/inner/KR/2025/05/27/AKR20250527079300005_01_i_P4.jpg", 하이파이브 2025
+https://europe.olemovienews.com/ts4/20250712/4gc8euft/mp4/4gc8euft.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img6.yna.co.kr/etc/inner/KR/2025/05/09/AKR20250509134100005_01_i_P4.jpg", 소주전쟁 2025
+https://europe.olemovienews.com/ts4/20250707/bm7986zm/mp4/bm7986zm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e746674f3672195c.jpg",야당(2025)
+https://europe.olemovienews.com/ts4/20250625/3948gyki/mp4/3948gyki.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://xinlangtupian.com/cover/a74d5b21876a8f1e33c564988d564936.jpg", 파과 (2025)
+https://europe.olemovienews.com/ts4/20250611/mwz08jg6/mp4/mwz08jg6.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.nvp.co.kr/news/photo/202507/315635_316691_1055.jpg", 꿈꾸는 사진관 2025
 https://www.yadongnara56.site/video/m3u8//dbe56523/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0617/18_15_04__68513218b73df[X280,400].jpg", 된장이 2025
 https://www.yadongnara56.site/video/m3u8//0ad6e9de/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202505/715863_829851_88.jpg", 귤레귤레 2025
 https://www.yadongnara56.site/video/m3u8//3de60dbe/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.tvreportcdn.de/cms-content/uploads/2025/06/03/a625d83e-e477-4d79-82e8-604c2ddf96cb.jpg", 신명 2025
-https://cdn7.ryplay7.com/20250727/14839_d64e3a7a/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0417/18_12_57__6800c6195c8a0[X120,120].jpg", 영동선 2025
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkZPTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.discoverynews.kr/news/photo/202506/1067002_1101167_5457.png", 잔챙이 2025
@@ -2851,11 +2856,9 @@ https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkBETkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0623/11_18_25__6858b971b2a6c[W680-].jpg", 세하별 2025
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkBCTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250718-1/e48472358be03970ea4645a8a5d8822e.jpg", 84제곱미터 2025
-https://play.ly166.com:65/videos/20250718/687a1fd480eee9b9552ae6fc/d14d60/index.m3u8
+https://europe.olemovienews.com/ts4/20250718/29knaljq/mp4/29knaljq.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0623/11_27_07__6858bb7b091e6[W680-].jpg", 위장수사 2025
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkBHTkARHwZATkYf
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img4.yna.co.kr/etc/inner/KR/2025/05/27/AKR20250527079300005_01_i_P4.jpg", 하이파이브 2025
-https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkZOTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0623/18_02_52__6859183c79815[X280,400].jpg", 사라진 아이 미확인 동영상 2025
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkdFTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0529/17_07_38__683815caa2426[X280,400].jpg", 천국은 없다 2025
@@ -2864,8 +2867,6 @@ https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkZETkARHwZATkYf
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkZGTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://dawatv22.site/upload/vod/20250501-1/ef9e743ac1aa2046da5fbdfb436aa711.jpg", 부전시장 (2025)
 https://play.ly166.com:65/videos/20250704/6867f4e55cf6b9c74690af61/5e9407/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img6.yna.co.kr/etc/inner/KR/2025/05/09/AKR20250509134100005_01_i_P4.jpg", 소주전쟁 2025
-https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkRETkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0623/14_57_08__6858ecb42d388[X280,400].jpg", 흥신소 2025
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkRDTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="http://yoomovie.co.kr/files/byjt/1578897616350.jpg", 주유소 습격사건1
@@ -2878,8 +2879,6 @@ https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSUU1OTkARHwZATkYf
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSVkRGTkARHwZATkYf
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/02/17/30000975408_1280.jpg",기타맨 (2025)
 https://www.yadongnara56.site/video/m3u8//16ecafde/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e746674f3672195c.jpg",야당(2025)
-https://cdn7.ryplay7.com/20250624/14480_3c75ccf9/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.koreatimenews.com/data/photos/portnews/202505/20250521151451-49367.jpg",2035 더 그린라이트 (2025)
 https://www.yadongnara56.site/video/m3u8//53224f9f/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/06/14/394872.webp",언니 유정 (2024)
@@ -2890,8 +2889,6 @@ https://play.ly166.com:65/videos/20250616/685022ae5cf6b9c746b0bfab/g3cdgc/index.
 https://www.tajotv2.com/video/m3u8//e29f86e3/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://thumb.mt.co.kr/06/2025/01/2025010317287264922_1.jpg/dims/optimize/", 말할수 없는 비밀 (2025)
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSUEVDTkARHwZATkYf
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://xinlangtupian.com/cover/a74d5b21876a8f1e33c564988d564936.jpg", 파과 (2025)
-https://cdn7.ryplay7.com/20250612/14349_52ffecc9/2000k/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2024/0828/10_02_39__66ce772feabdf[X280,400].jpg", 영웅들의 눈물 (2024)
 https://www.tajotv2.com/video/m3u8//f4cde414/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7300784%2Fhigh.jpg&w=640&q=75", 주차금지 (2025)
@@ -5042,6 +5039,34 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 10集
+https://europe.olemovienews.com/ts3/20250125/signEDEH/mp4/signEDEH.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 9集
+https://europe.olemovienews.com/ts3/20250125/CHylknGn/mp4/CHylknGn.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 8集
+https://europe.olemovienews.com/ts3/20250124/fjCFbFhn/mp4/fjCFbFhn.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 7集
+https://europe.olemovienews.com/ts3/20250124/ptHFbAAJ/mp4/ptHFbAAJ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 6集
+https://europe.olemovienews.com/ts3/20250123/edokkBnu/mp4/edokkBnu.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 5集
+https://europe.olemovienews.com/ts3/20250123/oxAABwfw/mp4/oxAABwfw.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 4集
+https://europe.olemovienews.com/ts3/20250122/GFbivznm/mp4/GFbivznm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 3集
+https://europe.olemovienews.com/ts3/20250122/pAdvpDtE/mp4/pAdvpDtE.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 2集
+https://europe.olemovienews.com/ts3/20250122/EfkhtBjk/mp4/EfkhtBjk.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉东北剧场 乡村爱情17🦆" tvg-logo="https://static.olelive.com/upload/vod/20250122-1/4024c5a86faccac7e69b2447df83505a.jpg", 乡村爱情17 1集
+https://europe.olemovienews.com/ts3/20250122/qmCgIdoq/mp4/qmCgIdoq.mp4/index-v1-a1.m3u8
+
 
 
 
