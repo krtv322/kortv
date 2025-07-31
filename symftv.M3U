@@ -1825,8 +1825,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.paxetv.com/news/photo/202505/233733_211090_1726.png", 250731 와!진짜? 세상에 이런일이
+https://www.soratv20.com/20250731/I9IVRKIj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.koreana.or.kr/old/koreana/resource/image/sub/2018_summer/life6_1.png", 250731 어서와 한국은 처음이지 시즌2
+https://www.soratv20.com/20250731/Y6qHP9Yr/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/05/a9c0349f-f230-4f6f-b1f5-7bff9de0d562.jpg", 250731 실화탐사대
 https://www.muumuutv.com/20250731/kXwxuQkw/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2021/12/600/20211209110440_1695713_800_480.jpg", 250731 현장르포 특종세상
