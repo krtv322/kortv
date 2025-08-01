@@ -1351,6 +1351,11 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 77회
+https://www.ddetv.com/20250801/Kr2cX5Gs/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제70회
 https://www.ddetv.com/20250801/mrf1dcbp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 40회
@@ -1360,11 +1365,6 @@ https://europe.olemovienews.com/ts4/20250801/awdn60f8/mp4/awdn60f8.mp4/index-v1-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250723-1/20a0069cc668f4bb3608fb45115f55a5.jpg", 내 여자친구는 상남자 (2025) 4회
 https://europe.olemovienews.com/ts4/20250731/mxxioy27/mp4/mxxioy27.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 76회
-https://www.ddetv.com/20250731/p8f6VWWM/1000kb/hls/index.m3u8
-
-
-
 
 
 
@@ -1666,6 +1666,8 @@ https://play.ly166.com:65/videos/20250501/68130932a3cd3e0b2ed182fc/2ad1g6/index.
 https://play.ly166.com:65/videos/20250430/6811bebacde7f10b66756c20/02cb90/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제1회
 https://play.ly166.com:65/videos/20250429/681090da2259a00b2fdbdc06/4f15d1/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 76회
+https://www.ddetv.com/20250731/p8f6VWWM/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 75회
 https://bbtv.vviptv.com/m3u8/GUAdEkBYRURSUEJDTkARHwZATkcf
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 74회
@@ -1835,8 +1837,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250801 사건 반장
+https://www.muumuutv.com/20250801/Vw6y3k07/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202504/637515_994772_3918.jpg", 250801 동네스타K쇼
+https://www.soratv20.com/20250801/g7EZs2ac/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.inews24.com/v1/95880f408a4380.jpg", 250801 라이브 와이어
+https://www.muumuutv.com/20250801/7125SxZR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250801 MBC 뉴스데스크
+https://www.muumuutv.com/20250801/1dkAXeKh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2023-0081/2025/5/9/1746757296632_583744.jpg", 250801 스카우트6 얼리어잡터
+https://www.muumuutv.com/20250801/IKD3NSw9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://wimg.kyeongin.com/news/legacy/file/201806/20180629001920025_1.jpg", 250801 생생정보
+https://bbtv.vviptv.com/m3u8/GUAdEkBYRUdUU01ATkARHwZATkYf
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250801 JTBC 뉴스룸
+https://www.muumuutv.com/20250801/X6QE7pir/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250801 인간극장
 https://www.muumuutv.com/20250731/U7TpPn1s/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2025/0717/2025071621010580295_1752667265_1752656860.jpg", 250731 보이즈 2 플래닛
@@ -3331,6 +3345,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250801-1/7426a0b5fa31c807e9bfc9184c5c4e73.jpg", 我的牛津岁月
+https://europe.olemovienews.com/ts4/20250801/ujhjfv8z/mp4/ujhjfv8z.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250131-1/690c00db1393163ef48088208e6b4731.jpg", 哪吒之魔童闹海
 https://europe.olemovienews.com/ts4/20250731/xy7k5dka/mp4/xy7k5dka.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02156c1a8a07fa1084.jpg", 特朗普爱上在白宫当保洁的我
