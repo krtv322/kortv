@@ -2,6 +2,7 @@
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399 
+http://1.214.67.12/69801.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;1080p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 http://47.237.74.77:7777/kbs.php?id=1
@@ -18,13 +19,13 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checke
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
-http://1.214.67.12/69801.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;1080p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-http://1.214.67.12/74901.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;1080p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=HD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
-http://1.214.67.12/74701.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;1080p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 group-title="🐉한국방송🦆",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
@@ -7669,6 +7670,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
