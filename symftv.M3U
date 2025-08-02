@@ -2,7 +2,6 @@
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆", 한국방송 위챗문의: kvtv399 
-http://1.214.67.12/69801.m3u8?AdaptiveType=HLS&SessionID=805323bf-3428-4c52-9d33-134ab3f322b5&VOD_RequestID=v2M2-0101-1010-7272-5050-000020191018212239;LTE;1080p;WIFI&ALBUM_ID=747&ma=D0:17:C2:CE:D7:A1&APPNAME=hdtv&Prefix=I
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
@@ -7684,6 +7683,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
