@@ -1848,6 +1848,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250803 KBS 뉴스 9
+https://www.muumuutv.com/20250803/TGXmZa0l/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.ab21748290a94f64a4b5a529002d3c7f_P1.jpg", 250803 내 아이의 사생활
+https://www.muumuutv.com/20250803/9ccD9Xy7/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250803 JTBC 뉴스룸
+https://www.muumuutv.com/20250803/xoCXMxGB/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250721/0741/P001774431.jpg/dims/resize/F_webp,480", 250803 진짜 괜찮은 사람
+https://www.muumuutv.com/20250803/XoLNd28u/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791130658452.jpg", 250803 성적을 부탁해 티처스 2
+https://www.soratv20.com/20250803/dlT5bjYh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/03/05/cms_temp_article_05120406738640.jpg", 250803 뭉쳐야 찬다 4
 https://www.soratv20.com/20250803/ITwQTtAk/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167780812.jpg", 250803 식객 허영만의 백반기행
@@ -7373,6 +7387,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
