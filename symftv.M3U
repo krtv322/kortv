@@ -1366,26 +1366,31 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 2회
+https://europe.olemovienews.com/ts4/20250803/de7k7esj/mp4/de7k7esj.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 2회
+https://europe.olemovienews.com/ts4/20250803/vafnpjrw/mp4/vafnpjrw.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 10회
-https://www.ddetv.com/20250803/qrx97MhD/1000kb/hls/index.m3u8
+https://europe.olemovienews.com/ts4/20250803/2l9gmm4u/mp4/2l9gmm4u.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 53회
 https://www.ddetv.com/20250803/pkMLCo1d/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 2회
 https://europe.olemovienews.com/ts4/20250803/gzsds2y8/mp4/gzsds2y8.mp4/index-v1-a1.m3u8
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 1회
 https://europe.olemovienews.com/ts4/20250802/9b1ci8n1/mp4/9b1ci8n1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 1회
 https://europe.olemovienews.com/ts4/20250802/h0nml2cf/mp4/h0nml2cf.mp4/index-v1-a1.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 1회
 https://europe.olemovienews.com/ts4/20250803/cramu0u3/mp4/cramu0u3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 4회
@@ -1851,8 +1856,22 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250803 개그 콘서트
+https://www.muumuutv.com/20250803/ioAkLrSU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250803 심야괴담회 시즌5
+https://www.muumuutv.com/20250803/dUP5lVgA//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250803 이제 만나러 갑니다
+https://www.soratv20.com/20250803/hMcyFdjR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/996/2025/07/21/20250721112312_22_996_1066525_1080_7.jpg", 250803 돌싱글즈7
+https://www.soratv20.com/20250803/RvGOLn1B/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250803 미운 우리 새끼
+https://www.soratv20.com/20250803/RkaNOxlt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0064/2025/6/11/1749630797121_588670.jpg", 250803 크레이지리치코리안
+https://www.muumuutv.com/20250803/Q5SlFCT1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/202205/BF.30034871.1.jpg", 250803  FLEX 한끼
+https://www.muumuutv.com/20250803/AOcFHyCS/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 250803  냉장고를 부탁해 since 2014
+https://www.soratv20.com/20250803/fKx09FD6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250803 KBS 뉴스 9
 https://www.muumuutv.com/20250803/TGXmZa0l/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.ab21748290a94f64a4b5a529002d3c7f_P1.jpg", 250803 내 아이의 사생활
@@ -7388,6 +7407,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
