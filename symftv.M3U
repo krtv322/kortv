@@ -1368,8 +1368,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 53회
+https://www.ddetv.com/20250803/pkMLCo1d/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 2회
 https://europe.olemovienews.com/ts4/20250803/gzsds2y8/mp4/gzsds2y8.mp4/index-v1-a1.m3u8
 
@@ -1382,8 +1382,7 @@ https://europe.olemovienews.com/ts4/20250802/h0nml2cf/mp4/h0nml2cf.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250802/p6dwhpr2/mp4/p6dwhpr2.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 4회
 https://europe.olemovienews.com/ts4/20250802/ed5s3mjh/mp4/ed5s3mjh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 52회
-https://www.ddetv.com/20250802/EwXGV397/1000kb/hls/index.m3u8
+
 
 
 
@@ -1830,7 +1829,8 @@ https://m3u8.hmrvideo.com/play/35eca727b47b445c9b6c31b148cd4b26.m3u8
 https://m3u8.hmrvideo.com/play/0aa54066d5e24571acc5b9768b28c241.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 1회
 https://m3u8.hmrvideo.com/play/5e82f463eaac4956b576e8d526f5d993.m3u8
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://wework.qpic.cn/wwpic3az/48860_XE6iROXFQsGdgc5_1738468027/0", 독수리 5형제를 부탁해 52회
+https://www.ddetv.com/20250802/EwXGV397/1000kb/hls/index.m3u8
 
 
 
@@ -7373,6 +7373,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
