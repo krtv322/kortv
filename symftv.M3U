@@ -1366,7 +1366,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250723-1/20a0069cc668f4bb3608fb45115f55a5.jpg", 내 여자친구는 상남자 (2025) 5회
+https://www.ddetv.com/20250806/t86HcTWx/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 80회
+https://www.ddetv.com/20250806/xvdr0NHl/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제72회
 https://www.ddetv.com/20250806/UPSBfXqW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 43회
@@ -1376,20 +1379,14 @@ https://europe.olemovienews.com/ts4/20250806/pyh29iwm/mp4/pyh29iwm.mp4/index-v1-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250716-1/fa584fa8ff25cc79c4497a01da587be1.jpg", 파인 (2025) 8회
 https://europe.olemovienews.com/ts4/20250806/nf9jz92i/mp4/nf9jz92i.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 6회
-https://europe.olemovienews.com/ts4/20250805/a73efd3e/mp4/a73efd3e.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 2회
-https://www.ddetv.com/20250805/jTmsCL8O/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 79회
-https://www.ddetv.com/20250805/fPRc8Bb8/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
+https://europe.olemovienews.com/ts4/20250806/qlc4n2or/mp4/qlc4n2or.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 1회
 https://europe.olemovienews.com/ts4/20250805/egnww0hm/mp4/egnww0hm.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 2회
@@ -1420,6 +1417,8 @@ https://europe.olemovienews.com/ts4/20250730/k3af6n7g/mp4/k3af6n7g.mp4/index-v1-
 https://play.ly166.com:65/videos/20250724/6882548780eee9b9559a6764/fgab71/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250723-1/20a0069cc668f4bb3608fb45115f55a5.jpg", 내 여자친구는 상남자 (2025) 1회
 https://play.ly166.com:65/videos/20250724/68810e4780eee9b955947b96/9065ac/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 6회
+https://europe.olemovienews.com/ts4/20250805/a73efd3e/mp4/a73efd3e.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 5회
 https://europe.olemovienews.com/ts4/20250804/04xjzn6e/mp4/04xjzn6e.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 4회
@@ -1702,6 +1701,8 @@ https://play.ly166.com:65/videos/20250501/68130932a3cd3e0b2ed182fc/2ad1g6/index.
 https://play.ly166.com:65/videos/20250430/6811bebacde7f10b66756c20/02cb90/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제1회
 https://play.ly166.com:65/videos/20250429/681090da2259a00b2fdbdc06/4f15d1/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 79회
+https://www.ddetv.com/20250805/fPRc8Bb8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 78회
 https://www.ddetv.com/20250804/dpZ6RWh5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 77회
@@ -1877,8 +1878,30 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://prismstudios.co.kr/storage/portfolio/kickagoal2/2024/07/15/mwE1721003437663.jpg", 250806 골 때리는 그녀들
+https://www.soratv20.com/20250806/UcohUNe8/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2022/06/08/202206081558941494_1.jpg", 250806 생로병사의 비밀
+https://www.muumuutv.com/20250806/DxpbYk0Z/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/43/2933333a-3a52-4a12-8c51-2553c16f0bb5.jpg", 250806 한국기행
+https://www.muumuutv.com/20250806/G4doRXLF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250806 KBS 뉴스 9
+https://www.muumuutv.com/20250806/cHL3BRrD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250806 나는 자연인이다
+https://www.muumuutv.com/20250806/Z7BPvFPQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202505/14/news-p.v1.20250514.7787edaaf50041de8b3704958808f641_P1.jpg", 250806 영자와 세리의 <남겨서 뭐하게>
+https://www.muumuutv.com/20250806/IvZXJ1B2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250806 세계테마기행
+https://www.muumuutv.com/20250806/2rKWeZFk/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.lg.co.kr/media/release/images/60425", 250806 태군노래자랑3
+https://www.muumuutv.com/20250806/ApXKmQO0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250806 MBC 뉴스데스크
+https://www.muumuutv.com/20250806/FVkwQKHn/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250806 JTBC 뉴스룸
+https://www.muumuutv.com/20250806/v3tGZhI5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250806 사건 반장
+https://www.muumuutv.com/20250806/v3tGZhI5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250806 인간극장
+https://www.muumuutv.com/20250805/OMXCTmzU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202504/21/news-p.v1.20250421.5de8a378d72b4de7954b578d54920fd5_P1.jpg", 250805 한일톱텐쇼
 https://www.muumuutv.com/20250805/dPHBueit/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170610083.jpg", 250805 벌거벗은 세계사
@@ -7581,6 +7604,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
