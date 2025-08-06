@@ -1878,6 +1878,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 250806 유 퀴즈 온 더 블럭
+https://www.soratv20.com/20250806/CYSpkd2A//1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250806 대탈출 5회
+https://www.ddetv.com/20250806/a7Tufz51/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250806 대탈출 4회
+https://www.ddetv.com/20250806/SF7aKG0l/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://prismstudios.co.kr/storage/portfolio/kickagoal2/2024/07/15/mwE1721003437663.jpg", 250806 골 때리는 그녀들
 https://www.soratv20.com/20250806/UcohUNe8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2022/06/08/202206081558941494_1.jpg", 250806 생로병사의 비밀
@@ -2782,6 +2788,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/15_36_22__6879eb663c0c0[H500].jpg", 아이 킬 유 2025
+https://www.yadongnara56.site/video/m3u8//6319e56a/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img.tvreportcdn.de/cms-content/uploads/2025/06/03/a625d83e-e477-4d79-82e8-604c2ddf96cb.jpg", 신명 2025
 https://europe.olemovienews.com/ts4/20250727/lb8zd3uv/mp4/lb8zd3uv.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250718-1/e48472358be03970ea4645a8a5d8822e.jpg", 84제곱미터 2025
@@ -7604,6 +7615,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
