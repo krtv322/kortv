@@ -1371,6 +1371,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 https://www.ddetv.com/20250806/UPSBfXqW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 43회
 https://www.ddetv.com/20250806/pXnvgOH0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250716-1/fa584fa8ff25cc79c4497a01da587be1.jpg", 파인 (2025) 9회
+https://europe.olemovienews.com/ts4/20250806/pyh29iwm/mp4/pyh29iwm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250716-1/fa584fa8ff25cc79c4497a01da587be1.jpg", 파인 (2025) 8회
+https://europe.olemovienews.com/ts4/20250806/nf9jz92i/mp4/nf9jz92i.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 6회
 https://europe.olemovienews.com/ts4/20250805/a73efd3e/mp4/a73efd3e.mp4/index-v1-a1.m3u8
@@ -3183,6 +3187,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202583289.jpg", 封神第二部：战火西岐
+https://europe.olemovienews.com/ts4/20250806/m0nabb9q/mp4/m0nabb9q.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t026e15059d8c94b0fa.jpg", 同甘共苦
+https://europe.olemovienews.com/ts4/20250806/y76mr1i1/mp4/y76mr1i1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t024e8a04225f5e2132.jpg", 侏罗纪世界：重生
 https://europe.olemovienews.com/ts4/20250805/l3x4u7m6/mp4/l3x4u7m6.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250729-1/8979811b51c12721a71db218f83065ce.jpg", 南京照相馆【抢先版】
@@ -7522,6 +7532,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
