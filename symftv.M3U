@@ -1895,10 +1895,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250808  놀면 뭐하니
+https://www.soratv20.com/20250809/SWPQh5HC/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2006-0995/2024/10/4/1728007367440_544973.jpg", 250808 영화가 좋다
+https://www.muumuutv.com/20250808/jFazgE75/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250808 나 혼자 산다
 https://www.soratv20.com/20250808/ligDNRJ6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2025/06/19/isp20250619000293.800x.0.jpg", 250808 제철남자
@@ -2914,8 +2914,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0617/17_41_40__68512a44b260d[X280,400].jpg", 레슨 2025
+https://www.yadongnara56.site/video/m3u8//0eb2889b/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.stardailynews.co.kr/news/photo/202506/491498_518719_5333.png", 커미션 2025
 https://www.yadongnara56.site/video/m3u8//404e62f0/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a9bb4fe44a53d7d4.jpg", 전지적 독자 시점 2025
@@ -7750,6 +7750,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
