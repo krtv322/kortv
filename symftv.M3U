@@ -1368,7 +1368,7 @@ https://europe.olemovienews.com/ts4/20250809/ektwg43l/mp4/ektwg43l.mp4/index-v1-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 3회
 https://europe.olemovienews.com/ts4/20250809/0u24kbp6/mp4/0u24kbp6.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 4회
-https://www.ddetv.com/20250809/nKYz7Bq8/1000kb/hls/index.m3u8
+https://europe.olemovienews.com/ts4/20250810/c6lpnzc5/mp4/c6lpnzc5.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 6회
 https://europe.olemovienews.com/ts4/20250809/g48xac59/mp4/g48xac59.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
@@ -1395,12 +1395,12 @@ https://europe.olemovienews.com/ts4/20250803/vafnpjrw/mp4/vafnpjrw.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250802/h0nml2cf/mp4/h0nml2cf.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 3회
 https://europe.olemovienews.com/ts4/20250809/cvnfcru0/mp4/cvnfcru0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 5회
-https://europe.olemovienews.com/ts4/20250808/f709ybxp/mp4/f709ybxp.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 2회
 https://europe.olemovienews.com/ts4/20250803/gzsds2y8/mp4/gzsds2y8.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 1회
 https://europe.olemovienews.com/ts4/20250803/cramu0u3/mp4/cramu0u3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 5회
+https://europe.olemovienews.com/ts4/20250808/f709ybxp/mp4/f709ybxp.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 4회
 https://europe.olemovienews.com/ts4/20250802/ed5s3mjh/mp4/ed5s3mjh.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 3회
@@ -1904,12 +1904,22 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mtnews.net/news/photo/202408/19561_47181_4537.jpg", 250810 열린음악회
+https://www.muumuutv.com/20250810/ksRcItu9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.starnewsk.com/news/photo/202402/40151_64840_404.jpg", 250810 차트를 달리는 남자
+https://www.muumuutv.com/20250810/8MENSZg6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://db.kookje.co.kr/news2000/photo/2018/0317/L20180317.99099007148i1.jpg", 250810 접속! 무비월드
+https://www.muumuutv.com/20250810/ppceshrX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.sportschosun.com/article/html/2019/04/02/2019040301000192000010051.jpg", 250810 사장님 귀는 당나귀 귀
+https://www.soratv20.com/20250810/fS9LyIjY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 250810 전국노래자랑
+https://www.muumuutv.com/20250810/NI3qG4IH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250810 신비한TV 서프라이즈
+https://www.muumuutv.com/20250809/mIAx2lCt/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788961420808.jpg", 250810 TV 동물농장
+https://www.soratv20.com/20250809/u5pLBbPL/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250809 속풀이쇼 동치미
 https://www.soratv20.com/20250809/3NCjKHfN/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250802 그것이 알고 싶다
-https://www.soratv20.com/20250802/yAZpx3oT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250809 전지적 참견 시점
 https://www.soratv20.com/20250809/v7PHvqVW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791166686535.jpg", 250809 세상에 나쁜 개는 없다
@@ -2847,6 +2857,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://images.khan.co.kr/article/2025/05/04/news-p.v1.20250504.4f1c77f10f494f03b2728acde4100f1e_P1.webp", 비밀의 화원 2025
+https://www.yadongnara56.site/video/m3u8//0653494a/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0617/17_41_40__68512a44b260d[X280,400].jpg", 레슨 2025
 https://www.yadongnara56.site/video/m3u8//0eb2889b/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://cdn.stardailynews.co.kr/news/photo/202506/491498_518719_5333.png", 커미션 2025
@@ -3286,7 +3300,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02be8c84967062459a.jpg", 长安的荔枝
+https://europe.olemovienews.com/ts4/20250810/ev4wh808/mp4/ev4wh808.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/ddth/202173102.jpg", X医生：外科医生大门未知子 电影版
 https://europe.olemovienews.com/ts4/20250808/iy3z1xey/mp4/iy3z1xey.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/ddth/202615031.jpg", 终极拯救
@@ -3301,8 +3316,6 @@ https://europe.olemovienews.com/ts4/20250806/y76mr1i1/mp4/y76mr1i1.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250805/l3x4u7m6/mp4/l3x4u7m6.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250729-1/8979811b51c12721a71db218f83065ce.jpg", 南京照相馆【抢先版】
 https://europe.olemovienews.com/ts4/20250728/bj2sm40a/mp4/bj2sm40a.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02be8c84967062459a.jpg", 长安的荔枝
-https://vv.jisuzyv.com/play/PdyRMLRe/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202595961.jpg", 疯狂的佛牌
 https://europe.olemovienews.com/ts4/20250802/699z2fx7/mp4/699z2fx7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250801-1/7426a0b5fa31c807e9bfc9184c5c4e73.jpg", 我的牛津岁月
@@ -7685,6 +7698,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
