@@ -1960,10 +1960,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250811 세계테마기행
+https://www.muumuutv.com/20250811/nAQQb7PM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.yes24.com/momo/TopCate167/MidCate07/16660303.jpg", 250811 생활의 달인
+https://www.muumuutv.com/20250811/wuEMPyi0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250811 KBS 뉴스 9
+https://www.muumuutv.com/20250811/0bupIept/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/06/23/AKR20250623107200005_01_i_P4.jpg", 250811 오은영 스테이
+https://www.soratv20.com/20250811/Feler3Aa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.xportsnews.com/contents/images/upload/article/2023/0829/1693289959462984.jpg", 250811 절친 토큐멘터리 4인용식탁
 https://www.muumuutv.com/20250811/VjtSqF2g/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2022/1027/21624_635a7249a49ee[X240,370].jpg", 250811 박원숙의 같이 삽시다
@@ -7925,6 +7929,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
