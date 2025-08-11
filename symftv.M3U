@@ -707,38 +707,7 @@ http://43.138.196.212/mi0gu.php?id=cctv15
 http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://43.138.196.212/mi0gu.php?id=cctv17
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
-http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://183.238.120.178:4430/hls/9/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://112.80.201.222:9003/hls/12/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://112.80.201.222:9003/hls/13/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://112.80.201.222:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://tpc.x3322.net:9901/tsfile/live/1042_1.m3u8
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
@@ -775,6 +744,40 @@ http://106.52.196.79:80/TV/mui.php?id=cctv15
 http://183.238.120.90:4430/hls/16/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://106.52.196.79:80/TV/mui.php?id=cctv17
+
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
+http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://183.238.120.178:4430/hls/9/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://112.80.201.222:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://112.80.201.222:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://112.80.201.222:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://tpc.x3322.net:9901/tsfile/live/1042_1.m3u8
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",超级体育
@@ -1399,8 +1402,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 3회
+https://www.ddetv.com/20250811/SAS5cFNS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 83회
 https://www.ddetv.com/20250811/UOksjSNS/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제75회
@@ -1408,34 +1411,30 @@ https://www.ddetv.com/20250811/8xEgMvhv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 46회
 https://www.ddetv.com/20250811/1XkfGPsR/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 4회
-https://europe.olemovienews.com/ts4/20250810/qktfwm8x/mp4/qktfwm8x.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 12회
-https://europe.olemovienews.com/ts4/20250810/0ydhmrw0/mp4/0ydhmrw0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 4회
-https://europe.olemovienews.com/ts4/20250810/2yz5ixws/mp4/2yz5ixws.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 2회
 https://www.ddetv.com/20250810/lrQNeb4t/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://www.ddetv.com/20250809/1FLHWdPh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 2회
 https://europe.olemovienews.com/ts4/20250806/qlc4n2or/mp4/qlc4n2or.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 1회
 https://europe.olemovienews.com/ts4/20250805/egnww0hm/mp4/egnww0hm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 4회
+https://europe.olemovienews.com/ts4/20250810/qktfwm8x/mp4/qktfwm8x.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 3회
 https://europe.olemovienews.com/ts4/20250809/7t1irbs7/mp4/7t1irbs7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 2회
 https://europe.olemovienews.com/ts4/20250803/de7k7esj/mp4/de7k7esj.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 1회
 https://europe.olemovienews.com/ts4/20250802/9b1ci8n1/mp4/9b1ci8n1.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 4회
+https://europe.olemovienews.com/ts4/20250810/2yz5ixws/mp4/2yz5ixws.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 3회
 https://europe.olemovienews.com/ts4/20250809/0u24kbp6/mp4/0u24kbp6.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 2회
@@ -1520,6 +1519,8 @@ https://play.ly166.com:65/videos/20250716/687773ad5cf6b9c7462a18ee/486bf6/index.
 https://play.ly166.com:65/videos/20250716/6877758d80eee9b9557891c1/bb73g7/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250716-1/fa584fa8ff25cc79c4497a01da587be1.jpg", 파인 (2025) 1회
 https://play.ly166.com:65/videos/20250716/687773ad5cf6b9c7462a18ef/4583fb/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 12회
+https://europe.olemovienews.com/ts4/20250810/0ydhmrw0/mp4/0ydhmrw0.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 11회
 https://europe.olemovienews.com/ts4/20250809/ektwg43l/mp4/ektwg43l.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/0617/25818_6850f1f13ac59[X120,120].jpg", 서초동 (2025) 10회
@@ -1958,10 +1959,31 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.xportsnews.com/contents/images/upload/article/2023/0829/1693289959462984.jpg", 250811 절친 토큐멘터리 4인용식탁
+https://www.muumuutv.com/20250811/VjtSqF2g/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2022/1027/21624_635a7249a49ee[X240,370].jpg", 250811 박원숙의 같이 삽시다
+https://www.soratv20.com/20250811/0z8SakOY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2023/03/13/article_13101621729844.jpg", 250811 무엇이든 물어보살
+https://www.muumuutv.com/20250811/JqElVklX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumb.mt.co.kr/cdn-cgi/image/f=avif,w=600,h=315,q=100/06/2025/06/2025063014277224656_1.jpg", 250811 우리는 잉꼬부부가 아닙니다
+https://www.muumuutv.com/20250811/0odUnm6B/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250811 MBC 뉴스데스크
+https://www.muumuutv.com/20250811/KPxF989j/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250811 JTBC 뉴스룸
+https://www.muumuutv.com/20250811/DbIuiI2G/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250811 사건 반장
+https://www.muumuutv.com/20250811/pE42Nr0z/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250811 인간극장
+https://www.muumuutv.com/20250810/Mh4pnfjf/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250810 개그 콘서트
 https://www.soratv20.com/20250810/kAJO7KZz/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250810 심야괴담회 시즌5
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250811/1954576095122690048/1954576095122690048.m3u8
+https://www.soratv20.com/20250810/9wFzQbdX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250810 이제 만나러 갑니다
 https://www.soratv20.com/20250810/9qZiVKjp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/996/2025/07/21/20250721112312_22_996_1066525_1080_7.jpg", 250810 돌싱글즈7
@@ -7859,6 +7881,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
