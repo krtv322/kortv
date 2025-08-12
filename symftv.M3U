@@ -1914,6 +1914,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img0.yna.co.kr/photo/cms/2017/07/21/01/C0A8CAE20000015D641E36CF0000014C_P4.jpg", 250812 PD수첩
+https://www.muumuutv.com/20250812/bGBVVlWY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/05/a350adbf-f6cb-4f19-93ff-d1a2afa39b2c.jpg", 250812 개와 늑대의 시간
+https://www.muumuutv.com/20250812/8g1Cqa36/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/lets1ggi/Img/site/Main/202507090429374670.jpg", 250812 한끼합쇼
 https://www.muumuutv.com/20250812/9siv1loc/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2024/09/25/30000950753_1280.jpg", 250812 틈만나면
@@ -7921,6 +7927,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
