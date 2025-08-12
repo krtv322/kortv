@@ -1341,6 +1341,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250721-1/7346ece82c7554062ce30e6b3224a970.jpg", 아이쇼핑 (2025) 8회
+https://www.ddetv.com/20250812/4qraJq5l/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 4회
 https://www.ddetv.com/20250812/L8uh68LL/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 84회
@@ -1910,10 +1914,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/lets1ggi/Img/site/Main/202507090429374670.jpg", 250812 한끼합쇼
+https://www.muumuutv.com/20250812/9siv1loc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2024/09/25/30000950753_1280.jpg", 250812 틈만나면
+https://www.soratv20.com/20250812/BSLdeFqw/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202303/29/news-p.v1.20230329.7d7b02832c1d4c94bab0318ee15e2ecf_P1.jpg", 250812 스모킹 건
+https://www.muumuutv.com/20250812/51cNFTGE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250618073620_1c5b764860de0c354bd99f06c41a0ebe.jpg", 250812  어쩌다 어른 10주년
 https://www.muumuutv.com/20250812/sf6s6XSp/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250812 KBS 뉴스 9
@@ -7915,6 +7921,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
