@@ -1926,8 +1926,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/997/2025/06/23/175063909546.jpg", 250813 두유노집밥
+https://www.soratv20.com/20250813/3BDh3EWU/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.namdonews.com/news/photo/202209/696249_354147_3812.png", 250813 한블리 (한문철의 블랙박스 리뷰)
 https://www.muumuutv.com/20250813/3jwQX7xj/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202411/20/sportskhan/20241120183415586zhrn.png", 250813 요즘 남자 라이프 신랑수업
@@ -7981,6 +7981,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
