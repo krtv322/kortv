@@ -742,41 +742,41 @@ http://183.238.120.90:4430/hls/16/index.m3u8
 http://106.52.196.79:80/TV/mui.php?id=cctv17
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://221.13.235.100:9901/tsfile/live/0001_1.m3u8
+https://tv-1.iill.top/migu/cctv1
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://221.13.235.100:9901/tsfile/live/0002_1.m3u8
+https://tv-1.iill.top/migu/cctv2
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://221.13.235.100:9901/tsfile/live/0003_1.m3u8
+https://tv-1.iill.top/migu/cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://221.13.235.100:9901/tsfile/live/0004_1.m3u8
+https://tv-1.iill.top/migu/cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://221.13.235.100:9901/tsfile/live/0005_1.m3u8
+https://tv-1.iill.top/migu/cctv5
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+https://tv-1.iill.top/migu/cctv5p
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://221.13.235.100:9901/tsfile/live/0006_1.m3u8
+https://tv-1.iill.top/migu/cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
-http://221.13.235.100:9901/tsfile/live/0007_1.m3u8
+https://tv-1.iill.top/migu/cctv7
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://221.13.235.100:9901/tsfile/live/0008_1.m3u8
+https://tv-1.iill.top/migu/cctv8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://221.13.235.100:9901/tsfile/live/1005_1.m3u8
+https://tv-1.iill.top/migu/cctv9
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://221.13.235.100:9901/tsfile/live/0010_1.m3u8
+https://tv-1.iill.top/migu/cctv10
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://221.13.235.100:9901/tsfile/live/0011_1.m3u8
+https://tv-1.iill.top/migu/cctv11
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://221.13.235.100:9901/tsfile/live/0012_1.m3u8
+https://tv-1.iill.top/migu/cctv12
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://221.13.235.100:9901/tsfile/live/0013_1.m3u8
+https://tv-1.iill.top/migu/cctv13
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://221.13.235.100:9901/tsfile/live/0014_1.m3u8
+https://tv-1.iill.top/migu/cctv14
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://221.13.235.100:9901/tsfile/live/0015_1.m3u8
+https://tv-1.iill.top/migu/cctv15
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+https://tv-1.iill.top/migu/cctv16
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+https://tv-1.iill.top/migu/cctv17
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
@@ -8087,6 +8087,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
