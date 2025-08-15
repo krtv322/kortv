@@ -529,7 +529,11 @@ http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF 2
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTQ3MDM4MzgsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZjlmMWYxMjAtYzgyYS00YzE2LWE0NjUtYmI5OTFkYzYzNDVhIiwiaWF0IjoxNzU0Njk2NjM4fQ.lzsdQXGOv7N1NDXXHQVMoNJIr0QbjFnGWjuk7G0juaA
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTUyMzY4MTMsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMzZjN2Q2ODktOTA2OC00ZjdmLTk0NjgtMGI5MTJkYzA3NDkxIiwiaWF0IjoxNzU1MjI5NjEzfQ.Pe49WAJ2dufD0N-68C39WCZQaKPgCFa8QOI7CnJWMZY
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1755263269~acl=*%2Fentry%2F*~data=hdntl~hmac=8a9b764af9a69c460936ebe1d3d179cb396fc21ac5d4ed5e2831839866787b11/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -562,14 +566,6 @@ https://krtv.site/kakotvlive/kakotvlive36/spotvprimehd.php
 https://krtv.site/kakotvlive/kakotvlive36/spotvonhd.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON 2
 https://krtv.site/kakotvlive/kakotvlive36/spotvon2.php
-#EXTINF:-1 channel-id="samsung-KRBC800015MH" tvg-id="KRBC800015MH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="982",tvN SPORTS
-https://jmp2.uk/sam-KRBC800015MH.m3u8
-#EXTINF:-1 channel-id="samsung-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png" group-title="🐉한국고화질 년비용🦆" tvg-chno="984",PGA Tour
-https://jmp2.uk/sam-KRBD3100007WB.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",FIFA+
-https://jmp2.uk/sam-KR2900002NO.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://jmp2.uk/sam-KR44000010Y.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KBSKids
@@ -8047,6 +8043,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
