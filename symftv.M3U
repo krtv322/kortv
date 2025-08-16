@@ -667,42 +667,7 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://43.138.196.212/mi0gu.php?id=cctv1
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://43.138.196.212/mi0gu.php?id=cctv2
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://43.138.196.212/mi0gu.php?id=cctv3
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://43.138.196.212/mi0gu.php?id=cctv4
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://43.138.196.212/111.php?id=cctv5
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://43.138.196.212/mi0gu.php?id=cctv6
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://43.138.196.212/mi0gu.php?id=cctv7
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://43.138.196.212/mi0gu.php?id=cctv8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://43.138.196.212/mi0gu.php?id=cctv9
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://43.138.196.212/mi0gu.php?id=cctv10
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://43.138.196.212/111.php?id=cctv11
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://43.138.196.212/mi0gu.php?id=cctv12
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://43.138.196.212/mi0gu.php?id=cctv13
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://43.138.196.212/mi0gu.php?id=cctv14
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://43.138.196.212/mi0gu.php?id=cctv15
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://43.138.196.212/mi0gu.php?id=cctv17
+
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
@@ -713,9 +678,9 @@ http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
+http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://113.26.202.52:1299/tsfile/live/0016_1.m3u8
+http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://106.52.196.79:80/TV/mui.php?id=cctv6
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
@@ -856,7 +821,7 @@ http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
@@ -880,7 +845,42 @@ http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://tpc.x3322.net:9901/tsfile/live/1042_1.m3u8
 
-
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://43.138.196.212/mi0gu.php?id=cctv1
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://43.138.196.212/mi0gu.php?id=cctv2
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://43.138.196.212/mi0gu.php?id=cctv3
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://43.138.196.212/mi0gu.php?id=cctv4
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://43.138.196.212/111.php?id=cctv5
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://43.138.196.212/mi0gu.php?id=cctv6
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
+http://43.138.196.212/mi0gu.php?id=cctv7
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://43.138.196.212/mi0gu.php?id=cctv8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://43.138.196.212/mi0gu.php?id=cctv9
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://43.138.196.212/mi0gu.php?id=cctv10
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://43.138.196.212/111.php?id=cctv11
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://43.138.196.212/mi0gu.php?id=cctv12
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://43.138.196.212/mi0gu.php?id=cctv13
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://43.138.196.212/mi0gu.php?id=cctv14
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://43.138.196.212/mi0gu.php?id=cctv15
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://43.138.196.212/mi0gu.php?id=cctv17
 
 
 
@@ -8106,6 +8106,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
