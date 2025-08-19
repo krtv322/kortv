@@ -1898,10 +1898,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/lets1ggi/Img/site/Main/202507090429374670.jpg", 250819 한끼합쇼
+https://www.ddetv.com/20250819/nTTlgfL6/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/news/2021/02/05/20210205_Xtvkym.jpg", 250819 시사기획 창
+https://www.ddetv.com/20250819/k3DofvfM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250819 KBS 뉴스 9
+https://www.ddetv.com/20250819/nc45KnZX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250618073620_1c5b764860de0c354bd99f06c41a0ebe.jpg", 250819  어쩌다 어른 10주년
+https://www.ddetv.com/20250819/HTeTscbT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250819 MBC 뉴스데스크
 https://www.ddetv.com/20250819/8fRBFuFh/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202210/2578471_2585656_3045.png", 250819 이웃집 찰스
@@ -8379,6 +8383,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
