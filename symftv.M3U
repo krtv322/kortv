@@ -529,11 +529,11 @@ http://mytv.dothome.co.kr/ch/catv/58.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF 2
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTU2NTQ0NjksInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZjM3MTJmZTQtOWFmYS00OTllLTlkZGEtODcyMDM1YmMxOWIxIiwiaWF0IjoxNzU1NjQ3MjY5fQ.RTGPD_QuvHcVUMiMNEuVAyBxO-dkByi0XtI1Yog30AI
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTU2OTI3MTUsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNTNmMzk5YzktOWIwYi00YThhLWE5N2EtN2IyOTJmYTliY2I3IiwiaWF0IjoxNzU1Njg1NTE1fQ.5j9EQyQ3MQHLthES8NJzsFB5CHvUHnTDGXSD9Nx8zgg
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1755679680~acl=*%2Fentry%2F*~data=hdntl~hmac=4de54a22c99c5c2f4a49757755f67736bffe8c3f7e1a2d4e2fd6cdbbaea6aed6/chunklist.m3u8
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1755717857~acl=*%2Fentry%2F*~data=hdntl~hmac=d7eb0c1e6d0b165b6ed6af67c86c061761723f65b2218311a7b60baf371095eb/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -8406,6 +8406,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
