@@ -470,7 +470,7 @@ http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
 http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KBS강원
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
-#EXTINF:-1 tvg-id="KCTV 광주 CH05 (720p) [Not 24/7]"tvg-logo="https://i.imgur.com/IHkZpaI.png"group-title="General":http-referrer="":http-user-agent="",KCTV 광주 CH05 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCTV 광주 CH05 (720p) [Not 24/7]"tvg-logo="https://i.imgur.com/IHkZpaI.png"group-title="🐉한국방송🦆":http-referrer="":http-user-agent="",KCTV 광주 CH05 (720p) [Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://kenpark76.github.io/logo/SBS.png" group-title="🐉한국방송🦆",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
@@ -560,6 +560,21 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7ShO5pdx6qZfpHlGmEfTN5B4uZjDTHh5VGBEB9jZ&secret=3e346c2d333f3ee2c6e6e6564e20b745&time=1742501727
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBC
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 89회
+https://www.segyen.com/20250820/FMAsw7mW/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제79회
+https://www.segyen.com/20250820/kdHqLC95/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 53회
+https://www.segyen.com/20250820/Mg64guAf/1000kb/hls/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://106.52.196.79:80/TV/mui.php?id=cctv1
