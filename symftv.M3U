@@ -1918,7 +1918,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/channela/2025/05/22/000002751760/00000275176020250522074822102.jpg", 250821 브레인 아카데미
+https://www.ddetv.com/20250821/k6Q3erjM/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20230823/P001743263.jpg/dims/resize/F_webp,480", 250821 뚜벅이 맛총사
+https://www.ddetv.com/20250821/teJm9R7a/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/public/share/menumng/%ED%95%B8%EC%8D%B8%EA%B0%80%EC%9D%B4%EC%A6%88banner1920.jpg?v=1744593888", 250821 핸썸가이즈
+https://www.ddetv.com/20250821/bgllb0Z3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.etvguide.co.kr/news/photo/202310/9243_13430_4923.png", 250821 왔다! 내 손주
+https://www.ddetv.com/20250821/z97pVosB/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2021/12/600/20211209110440_1695713_800_480.jpg", 250821 현장르포 특종세상
 https://www.ddetv.com/20250821/KAUD0rbE/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202504/29/news-p.v1.20250429.45ab1b9ae96b462199307eabd4b86a09_P1.png", 250821 1호가 될 순 없어 리턴 스페셜
@@ -8508,6 +8515,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
