@@ -3808,7 +3808,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02fc2cafdcdc7a3139.jpg", 家的方向
+https://cdn7.ryplay7.com/20250821/15072_e7cccbca/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b282c10bfbe5331d.jpg", CopaHalf
+https://vv.jisuzyv.com/play/7e5jGzBa/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t020fdf3cb32d1f6915.jpg", F1:狂飙飞车
 https://europe.olemovienews.com/ts4/20250821/9anday6g/mp4/9anday6g.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t025c43d6d84cb6fb66.jpg", 民间摆渡人
@@ -8467,6 +8470,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
