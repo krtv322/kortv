@@ -26,7 +26,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png",조선방송 (576p)
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-id="KoreanCentralTelevision.kp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",조선방송 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
@@ -1331,8 +1331,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 1회
+https://joovideo.cfd/static/streaming-playlists/hls/37404e7e-4be7-4967-a37f-080220aad95e/bdfb9a68-ae71-4f15-9e28-1052e4e29823-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 6회
 https://www.segyen.com/20250822/b2Gk2Sff/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 12회
@@ -8548,6 +8548,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
