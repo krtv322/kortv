@@ -1334,6 +1334,16 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 6회
+https://www.segyen.com/20250824/ioeK2Ofd/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0052/2025/8/5/1754368614879_595851.jpg", 트웰브 (2025) 2회
+https://www.segyen.com/20250824/izF7jaDu/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 2회
 https://www.segyen.com/20250823/oRXorNlV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 7회
@@ -1344,10 +1354,6 @@ https://europe.olemovienews.com/ts4/20250823/1t1582th/mp4/1t1582th.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250823/kskonq8t/mp4/kskonq8t.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250731/0031/P001774812.jpg/dims/resize/F_webp,1280", 여행을 대신해 드립니다  (2025) 7회
 https://europe.olemovienews.com/ts4/20250823/vq6tmb47/mp4/vq6tmb47.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0052/2025/8/5/1754368614879_595851.jpg", 트웰브 (2025) 1회
-https://europe.olemovienews.com/ts4/20250823/lub7syk5/mp4/lub7syk5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 5회
-https://play.ly166.com:65/videos/20250824/68aa9df75cf6b9c74628fa0e/f88179/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 2회
 https://joovideo.cfd/static/streaming-playlists/hls/a9524167-56c9-4276-b50b-4194490d62be/282b4dcc-4d1c-4d17-bd0f-7807a4787034-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b6fba19c4b72d149.jpg", 배불리힐스 (2025) 2회
@@ -1357,24 +1363,14 @@ https://vv.jisuzyv.com/play/QdJLBkya/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 6회
-https://europe.olemovienews.com/ts4/20250822/r7e6hj54/mp4/r7e6hj54.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 5회
-https://europe.olemovienews.com/ts4/20250822/t7usqbfb/mp4/t7usqbfb.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 4회
-https://europe.olemovienews.com/ts4/20250822/flcjtqh1/mp4/flcjtqh1.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 3회
-https://europe.olemovienews.com/ts4/20250822/mzcon5gc/mp4/mzcon5gc.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 2회
-https://europe.olemovienews.com/ts4/20250822/2z8b17d1/mp4/2z8b17d1.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 1회
-https://europe.olemovienews.com/ts4/20250822/51g03ku2/mp4/51g03ku2.mp4/index-v1-a1.m3u8
 
 
 
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0052/2025/8/5/1754368614879_595851.jpg", 트웰브 (2025) 1회
+https://europe.olemovienews.com/ts4/20250823/lub7syk5/mp4/lub7syk5.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 1회
 https://joovideo.cfd/static/streaming-playlists/hls/37404e7e-4be7-4967-a37f-080220aad95e/bdfb9a68-ae71-4f15-9e28-1052e4e29823-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 2회
@@ -1385,6 +1381,8 @@ https://europe.olemovienews.com/ts4/20250818/z6gtka04/mp4/z6gtka04.mp4/index-v1-
 https://vv.jisuzyv.com/play/xboEBGNe/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 1회
 https://europe.olemovienews.com/ts4/20250823/kvzp01di/mp4/kvzp01di.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 5회
+https://play.ly166.com:65/videos/20250824/68aa9df75cf6b9c74628fa0e/f88179/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 4회
 https://play.ly166.com:65/videos/20250818/68a29e3b80eee9b95565ab77/g5ab33/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 3회
@@ -1975,8 +1973,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.ab21748290a94f64a4b5a529002d3c7f_P1.jpg", 250824 내 아이의 사생활
+https://www.yadongtown.com/20250824/0eZAgdbq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791130658452.jpg", 250824 성적을 부탁해 티처스 2
+https://www.yadongtown.com/20250824/qb7B9uNI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250721/0741/P001774431.jpg/dims/resize/F_webp,480", 250824 진짜 괜찮은 사람
+https://www.yadongtown.com/20250824/Os3BxiWD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/08/program_3fbab0c5-53e0-4fbd-9eb0-9bc08880537a.jpg", 250824 탐사기획 스트레이트
+https://www.yadongtown.com/20250824/trQ4i0q1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/03/05/cms_temp_article_05120406738640.jpg", 250824 뭉쳐야 찬다 4
+https://www.soratv20.com/20250824/y8UNLRLq/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250824 MBC 뉴스데스크
+https://www.yadongtown.com/20250824/fdngfaZ2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250824 JTBC 뉴스룸
+https://www.yadongtown.com/20250824/buLP0wqy/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 250824 1박 2일
 https://www.yadongtown.com/20250824/5q1VQ4lO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 250824 런닝맨
@@ -5968,6 +5978,21 @@ https://europe.olemovienews.com/ts3/20250122/qmCgIdoq/mp4/qmCgIdoq.mp4/index-v1-
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 6회
+https://europe.olemovienews.com/ts4/20250822/r7e6hj54/mp4/r7e6hj54.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 5회
+https://europe.olemovienews.com/ts4/20250822/t7usqbfb/mp4/t7usqbfb.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 4회
+https://europe.olemovienews.com/ts4/20250822/flcjtqh1/mp4/flcjtqh1.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 3회
+https://europe.olemovienews.com/ts4/20250822/mzcon5gc/mp4/mzcon5gc.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 2회
+https://europe.olemovienews.com/ts4/20250822/2z8b17d1/mp4/2z8b17d1.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 애마부인🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b48328001d92e226.jpg", 애마부인 (2025) 1회
+https://europe.olemovienews.com/ts4/20250822/51g03ku2/mp4/51g03ku2.mp4/index-v1-a1.m3u8
+
+
+
 
 
 
@@ -8664,6 +8689,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
