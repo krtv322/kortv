@@ -1972,6 +1972,21 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 250824 1박 2일
+https://www.yadongtown.com/20250824/5q1VQ4lO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 250824 런닝맨
+https://www.soratv20.com/20250824/fsoB2dH0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2020/0615/611318110014690868_1.jpg", 250824 복면가왕
+https://www.soratv20.com/20250824/Juv34iYj/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mtnews.net/news/photo/202408/19561_47181_4537.jpg", 250824 열린음악회
+https://www.yadongtown.com/20250824/3z8SqC2p/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.sportschosun.com/article/html/2019/04/02/2019040301000192000010051.jpg", 250824 사장님 귀는 당나귀 귀
+https://www.yadongtown.com/20250824/tbZh3yxv/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.chosun.com/resizer/v2/2JXRRCKUVFACTDI5ZUNOPOWC2Y.jpg?auth=0b44ada01170788228ccd2d50a205b157846a198a7c078da86bce675366cffa2&width=616", 250824 싱코리아
 https://www.yadongtown.com/20250824/dUfARaXy/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 250824 전국노래자랑
@@ -3950,6 +3965,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t023f63e78d0ced835f.jpg", 外面有个僵尸啊
+https://vv.jisuzyv.com/play/0dNPJz6a/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02fe31f8b14ad75d4e.jpg", 夜世界体验
+https://vv.jisuzyv.com/play/0dNPJqpa/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250824-1/8cc619e4a2f1a06bdb3d77b586ff1ada.jpg", 凶器
 https://europe.olemovienews.com/ts4/20250823/naq24kp3/mp4/naq24kp3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e17f120359689b77.jpg", 真假故事:美国男星遇袭奇案
@@ -8644,6 +8664,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
