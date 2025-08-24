@@ -533,7 +533,7 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiO
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/720/hdntl=exp=1756023169~acl=*%2Fentry%2F*~data=hdntl~hmac=240938da3e8743b5bf8995724c08f56b5ee37aeb20ff61fe225748f65f16e1fb/chunklist.m3u8
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/720/hdntl=exp=1756059234~acl=*%2Fentry%2F*~data=hdntl~hmac=fefc4344ea548dd2fd6d2e835927a3c4d92814626c693bb02a238eb616366c2c/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -1337,7 +1337,7 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 2회
 https://www.segyen.com/20250823/oRXorNlV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 7회
-https://www.segyen.com/20250823/p6Jh2axC/1000kb/hls/index.m3u8
+https://europe.olemovienews.com/ts4/20250824/BMO5iX71/mp4/BMO5iX71.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 7회
 https://europe.olemovienews.com/ts4/20250823/1t1582th/mp4/1t1582th.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.board.sbs.co.kr/2025/07/25/7cM1753424134795.jpg", 트라이: 우리는 기적이 된다 (2025) 10회
@@ -1347,10 +1347,13 @@ https://europe.olemovienews.com/ts4/20250823/vq6tmb47/mp4/vq6tmb47.mp4/index-v1-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0052/2025/8/5/1754368614879_595851.jpg", 트웰브 (2025) 1회
 https://europe.olemovienews.com/ts4/20250823/lub7syk5/mp4/lub7syk5.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 5회
-https://www.segyen.com/20250823/3oCUtV2B/1000kb/hls/index.m3u8
+https://play.ly166.com:65/videos/20250824/68aa9df75cf6b9c74628fa0e/f88179/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 2회
 https://joovideo.cfd/static/streaming-playlists/hls/a9524167-56c9-4276-b50b-4194490d62be/282b4dcc-4d1c-4d17-bd0f-7807a4787034-master.m3u8
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b6fba19c4b72d149.jpg", 배불리힐스 (2025) 2회
+https://vv.jisuzyv.com/play/ZdPRLq6a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02b6fba19c4b72d149.jpg", 배불리힐스 (2025) 1회
+https://vv.jisuzyv.com/play/QdJLBkya/index.m3u8
 
 
 
@@ -1969,7 +1972,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.chosun.com/resizer/v2/2JXRRCKUVFACTDI5ZUNOPOWC2Y.jpg?auth=0b44ada01170788228ccd2d50a205b157846a198a7c078da86bce675366cffa2&width=616", 250824 싱코리아
+https://www.yadongtown.com/20250824/dUfARaXy/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 250824 전국노래자랑
+https://www.yadongtown.com/20250824/kGCXDnSI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250824 신비한TV 서프라이즈
+https://www.soratv20.com/20250823/9yD9iwCX/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788961420808.jpg", 250824 TV 동물농장
+https://www.yadongtown.com/20250823/V3SccpmH/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250823그것이 알고 싶다
 https://www.soratv20.com/20250823/w9fZazeC/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250823 전지적 참견 시점
@@ -3487,10 +3497,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/0811/14_23_10__68997e3ea255b[W680-].jpg", 815 사수작전 2025
+https://www.yadongnara56.site/video/m3u8//d6687468/index.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img0.yna.co.kr/etc/inner/KR/2025/07/26/AKR20250726026300005_01_i_P4.jpg", 수연의 선율 2025
+https://www.yadongnara56.site/video/m3u8//5565a9f9/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022fe44a420fb98074.jpg", 구수마녀 2025
 https://vv.jisuzyv.com/play/9avO0gXb/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0417/18_12_57__6800c6195c8a0[X120,120].jpg", 영동선 2025
@@ -3940,6 +3950,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250824-1/8cc619e4a2f1a06bdb3d77b586ff1ada.jpg", 凶器
+https://europe.olemovienews.com/ts4/20250823/naq24kp3/mp4/naq24kp3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e17f120359689b77.jpg", 真假故事:美国男星遇袭奇案
 https://vv.jisuzyv.com/play/vbmB580d/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02bedf622581712d75.jpg", 为母则刚
@@ -8632,6 +8644,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
