@@ -1971,8 +1971,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0113/2017/10/31/1509412391184_54130.jpg", 250825 가요무대
+https://joovideo.cfd/static/streaming-playlists/hls/71f47643-e23f-45f8-91a1-304c1a0275ba/09fd79f1-825e-43ca-bd81-860c5c1356c9-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/04/15/eOl1744698466660.jpg", 250825 더 트롯 쇼
+https://joovideo.cfd/static/streaming-playlists/hls/207aa9ef-4e39-4f34-a16b-89d5be9a1872/aa28b7d6-799c-4fbe-918a-6dd953ece7ff-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250825142633_22ce9aa4e02c0829fa4203e8070a2e79.jpg", 250825 새 물결을 포착하라
+https://joovideo.cfd/static/streaming-playlists/hls/1bfe15a8-9a04-4fa0-abf8-181a8aee21b0/08b6f99a-b52b-455b-9092-d11d327a707a-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/15/28009693-f5bf-4247-80f2-3ee90c2b47cb.jpg", 250825 오은영 리포트 결혼지옥
 https://www.soratv20.com/20250825/Vw8B3HAD/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/07/06/PG87952291_w152_h152.png", 250825 동상이몽2 너는 내 운명
@@ -2001,6 +2005,8 @@ https://www.soratv20.com/20250825/mAoXpcAk/1000kb/hls/index.m3u8
 https://www.yadongtown.com/20250825/4cgjKant/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.xportsnews.com/contents/images/upload/article/2023/0829/1693289959462984.jpg", 250825 절친 토큐멘터리 4인용식탁
 https://www.yadongtown.com/20250825/YLk5HQcY/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/843/2025/02/04/173864413860.jpg", 250804 한번 더 체크타임
+https://joovideo.cfd/static/streaming-playlists/hls/35d19cfc-468b-49c9-8992-9b3615a65817/6ab29557-bd8c-454a-ab63-e2311493f123-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240804/0941/P001759951.jpg/dims/resize/F_webp,480", 250825 히든아이
 https://www.yadongtown.com/20250825/lhvdEiLu/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250825 MBC 뉴스데스크
@@ -2009,6 +2015,8 @@ https://www.yadongtown.com/20250825/ixhJbBCd/1000kb/hls/index.m3u8
 https://www.yadongtown.com/20250825/mJ6y3sT5/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250825 JTBC 뉴스룸
 https://www.yadongtown.com/20250825/LtsxjIuF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0844/2025/4/7/1744004589991_577586.jpg", 250825 2TV 생생정보
+https://joovideo.cfd/static/streaming-playlists/hls/a6958a03-36e4-430d-8179-c3bc9483708c/8e1818af-e098-427d-9f73-74b300df3bc3-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250825 인간극장
 https://www.yadongtown.com/20250824/S9y4Huiu/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250824 이제 만나러 갑니다
@@ -8303,6 +8311,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
