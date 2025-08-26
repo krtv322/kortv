@@ -1333,6 +1333,11 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 8회
+https://www.segyen.com/20250826/pdW35T7K/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 93회
 https://www.segyen.com/20250826/euXfDGE0/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 57회
@@ -1342,7 +1347,6 @@ https://www.segyen.com/20250826/kkReV0kw/1000kb/hls/index.m3u8
 https://europe.olemovienews.com/ts4/20250825/SaBDGFbZ/mp4/SaBDGFbZ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 7회
 https://europe.olemovienews.com/ts4/20250826/KZ4hrctr/mp4/KZ4hrctr.mp4/index-v1-a1.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제82회
 https://play.ly166.com:65/videos/20250826/68ad40805cf6b9c74680af4e/bg960e/index.m3u8
 
@@ -1980,8 +1984,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250826 KBS 뉴스 9
+https://www.yadongtown.com/20250826/VtXe4N2C/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250826 MBC 뉴스데스크
 https://www.yadongtown.com/20250826/nB1Vatg2/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250826 사건 반장
@@ -8341,6 +8345,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
