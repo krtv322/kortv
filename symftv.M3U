@@ -1334,8 +1334,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 4회
+https://europe.olemovienews.com/ts4/20250826/DbXr29Ni/mp4/DbXr29Ni.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 8회
 https://www.segyen.com/20250826/pdW35T7K/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 93회
@@ -1343,10 +1343,8 @@ https://www.segyen.com/20250826/euXfDGE0/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 57회
 https://www.segyen.com/20250826/kkReV0kw/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 3회
-https://europe.olemovienews.com/ts4/20250825/SaBDGFbZ/mp4/SaBDGFbZ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 7회
-https://europe.olemovienews.com/ts4/20250826/KZ4hrctr/mp4/KZ4hrctr.mp4/index-v1-a1.m3u8
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제82회
 https://play.ly166.com:65/videos/20250826/68ad40805cf6b9c74680af4e/bg960e/index.m3u8
 
@@ -1368,6 +1366,8 @@ https://europe.olemovienews.com/ts4/20250823/lub7syk5/mp4/lub7syk5.mp4/index-v1-
 https://joovideo.cfd/static/streaming-playlists/hls/a9524167-56c9-4276-b50b-4194490d62be/282b4dcc-4d1c-4d17-bd0f-7807a4787034-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 1회
 https://joovideo.cfd/static/streaming-playlists/hls/37404e7e-4be7-4967-a37f-080220aad95e/bdfb9a68-ae71-4f15-9e28-1052e4e29823-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 3회
+https://europe.olemovienews.com/ts4/20250825/SaBDGFbZ/mp4/SaBDGFbZ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 2회
 https://europe.olemovienews.com/ts4/20250819/318tlyva/mp4/318tlyva.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 1회
@@ -1388,6 +1388,8 @@ https://play.ly166.com:65/videos/20250817/68a153c35cf6b9c746c14692/eae5b8/index.
 https://play.ly166.com:65/videos/20250811/6899826f80eee9b955f0e6f4/b0d1a2/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://play.ly166.com:65/videos/20250810/689832cf5cf6b9c746672a27/44479a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 7회
+https://europe.olemovienews.com/ts4/20250826/KZ4hrctr/mp4/KZ4hrctr.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 6회
 https://europe.olemovienews.com/ts4/20250820/e3ae2ndp/mp4/e3ae2ndp.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 5회
@@ -1983,7 +1985,44 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.youtube.com/vi/XBJZi2IDNik/mqdefault.jpg", 250826 진서연의 NO
+https://joovideo.cfd/static/streaming-playlists/hls/cdb2a83b-2181-4556-baa6-8575e7e98283/2bb2f2a3-65c9-46c1-bced-657369530aba-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202504/21/news-p.v1.20250421.5de8a378d72b4de7954b578d54920fd5_P1.jpg", 250826 한일톱텐쇼
+https://ontvkorea.com/static/streaming-playlists/hls/a673e1ae-d3dc-4325-b6b2-810f02655621/fac7dc6a-7844-4e6a-a790-8d9b9ddb896d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 250826 모-던 인물史 미스터.리
+https://www.yadongtown.com/20250826/cRU95o4L/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170610083.jpg", 250826 벌거벗은 세계사
+https://www.yadongtown.com/20250826/QlOasNZc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/07/13/30000700725_1280.jpg", 250826 신발 벗고 돌싱포맨
+https://www.soratv20.com/20250826/1DXsyATm/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2024/09/25/30000950753_1280.jpg", 250826 틈만나면
+https://www.soratv20.com/20250826/jXMZcAXF/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/05/a350adbf-f6cb-4f19-93ff-d1a2afa39b2c.jpg", 250826 개와 늑대의 시간
+https://www.yadongtown.com/20250826/Psh29635/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/03/19/news-p.v1.20250319.e386b9aeb8bd450eb818d3e6520df716_P1.webp", 250826 신빨토크쇼 귀묘한 이야기
+https://www.yadongtown.com/20250826/FYLz86R3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img0.yna.co.kr/photo/cms/2017/07/21/01/C0A8CAE20000015D641E36CF0000014C_P4.jpg", 250826 PD수첩
+https://www.yadongtown.com/20250826/FYW05oO2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/lets1ggi/Img/site/Main/202507090429374670.jpg", 250826 한끼합쇼
+https://www.yadongtown.com/20250826/Aq62czU9/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250811/0920/P001775056.jpg/dims/resize/F_webp,480", 250826 아이돌 페스타 대작전 - 전국반짝투어
+https://joovideo.cfd/static/streaming-playlists/hls/c7c2acc3-d128-41d0-abf2-dcdcca241ed4/a66c4e91-eeb8-46fc-8429-5101f071fcff-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/08/19/sSf1755578923276.jpg", 250826 섬총각 영웅
+https://joovideo.cfd/static/streaming-playlists/hls/945ad17c-d789-4dee-8b43-2bf284dad4f1/7f964809-be67-420a-8529-ff88bb5ac9fc-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/07/program_16f5ec41-4ba6-4c46-8e09-38c94d15e7af.jpg", 250826 이유 있는 건축 공간여행자
+https://joovideo.cfd/static/streaming-playlists/hls/50f6d0a0-de6c-4966-b6a4-8ba5a73b7ad5/e85a471c-f224-4076-b217-179adbc0a2a6-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/public/images/2022/10/14/14/32/4/14fcfc28-3a48-47fe-91c0-e3d4d291b5de.jpg", 250826 세계테마기행
+https://joovideo.cfd/static/streaming-playlists/hls/ef061cad-5d78-4d9c-bb0d-4f58ec5ee7ea/d06e7faf-e0d7-48bd-975c-665c92b84340-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250729/0045/P001774751.jpg/dims/resize/F_webp,480", 250826 KCON LA
+https://joovideo.cfd/static/streaming-playlists/hls/f5498eaa-2a4c-4585-b590-efd09b748515/e1197ba2-e12e-4992-8700-528ba665698a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20241031/0436/P001763546.jpg/dims/resize/F_webp,480", 250826 임원희의 미식전파사
+https://joovideo.cfd/static/streaming-playlists/hls/55c0cbeb-107b-4568-8f6a-deafbbe10551/7982c4a0-b73e-497c-b084-414560876bd3-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250618073620_1c5b764860de0c354bd99f06c41a0ebe.jpg", 250826 어쩌다 어른 10주년
+https://joovideo.cfd/static/streaming-playlists/hls/06db2391-2298-4503-8831-b45984f40c92/e9440482-6ba4-4831-a742-71ccfffa3530-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202210/2578471_2585656_3045.png", 250826 이웃집 찰스
+https://joovideo.cfd/static/streaming-playlists/hls/1c9c1c03-6b52-4012-a549-a0a8ecd26f2d/0a51fc0d-e728-48cd-bc42-1d9210a13cd5-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202303/29/news-p.v1.20230329.7d7b02832c1d4c94bab0318ee15e2ecf_P1.jpg", 250826 스모킹 건
+https://www.yadongtown.com/20250826/wSO33KwV/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/13/news-p.v1.20231113.4b717a0c451440b69570b951a507b978_P1.webp", 250826 KBS 뉴스 9
 https://www.yadongtown.com/20250826/VtXe4N2C/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250826 MBC 뉴스데스크
@@ -8345,6 +8384,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
