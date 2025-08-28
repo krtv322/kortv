@@ -1996,8 +1996,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.topstarnews.net/news/photo/202505/15653934_1559807_835.jpg", 250828 사랑의 콜센타 세븐스타즈
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250829/1961105619813535744/1961105619813535744.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 250828 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
 https://joovideo.cfd/static/streaming-playlists/hls/ad8c8546-849a-4133-9399-e12c6f283272/ebee19f1-47b3-4e98-b235-212a9d6b81dc-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2021/12/600/20211209110440_1695713_800_480.jpg", 250828 현장르포 특종세상
@@ -7693,6 +7693,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
