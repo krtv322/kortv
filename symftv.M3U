@@ -1992,11 +1992,11 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250828 대탈출 10회 - 더 스토리
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250820/1958161134523650048/1958161134523650048.m3u8
+https://play.ly166.com:65/videos/20250821/68a6b8ef5cf6b9c746c72751/5830eg/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250828 대탈출 9회 - 더 스토리
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250820/1958160316634370048/1958160316634370048.m3u8
+https://play.ly166.com:65/videos/20250821/68a6b8ef5cf6b9c746c72752/e588d3/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250828 대탈출 8회 - 더 스토리
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250813/1955606509782175744/1955606509782175744.m3u8
+https://play.ly166.com:65/videos/20250814/689d6baf80eee9b955c518f7/9ab5d0/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.bntnews.co.kr/data/bnt/image/2025/04/15/bnt202504150186.680x.9.jpg", 250827 트롯 올스타전 수요일밤에
 https://www.yadongtown.com/20250827/YRQ7wP36/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 250827 나는 SOLO (나는 솔로)
@@ -8443,6 +8443,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
