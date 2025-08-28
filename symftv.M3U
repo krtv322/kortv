@@ -531,7 +531,7 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiO
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1756392670~acl=*%2Fentry%2F*~data=hdntl~hmac=e92a2c856adf56ecbe889681bafd9c5e613879a73f191f40fdcb4f01ff35d6f6/chunklist.m3u8
+https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1756414163~acl=*%2Fentry%2F*~data=hdntl~hmac=d54f0134fff28bb140e609f1b29d3826a286064188d97b9acbb53a334166789a/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -1331,17 +1331,12 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 59회
+https://joovideo.cfd/static/streaming-playlists/hls/f2f1ea56-7fa7-44be-b562-e8305db1c7cc/3797f836-d6f3-40a7-abe4-d51e072afa76-master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250723-1/20a0069cc668f4bb3608fb45115f55a5.jpg", 내 여자친구는 상남자 (2025) 11회
 https://europe.olemovienews.com/ts4/20250827/D0gYJ9eh/mp4/D0gYJ9eh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 94회
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250827/1960683043689730048/1960683043689730048.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제83회
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250827/1960672536954015744/1960672536954015744.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 58회
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250827/1960668049052930048/1960668049052930048.m3u8
+
 
 
 
@@ -1513,6 +1508,8 @@ https://play.ly166.com:65/videos/20250725/68839a8b80eee9b9559c47fb/71fc5e/index.
 https://play.ly166.com:65/videos/20250718/687a600b80eee9b9556577d4/9e932c/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 1회
 https://play.ly166.com:65/videos/20250718/687a518380eee9b955566ba7/5ga867/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 58회
+https://play.ly166.com:65/videos/20250828/68afd17380eee9b9551fdb72/0c99be/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 57회
 https://play.ly166.com:65/videos/20250827/68ae954780eee9b9550af739/55g928/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 56회
@@ -1627,6 +1624,8 @@ https://play.ly166.com:65/videos/20250612/684a52a180eee9b955d3f142/5dgaab/index.
 https://play.ly166.com:65/videos/20250611/6849006d80eee9b95595edcb/31gf7e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 1회
 https://play.ly166.com:65/videos/20250610/6847bcc180eee9b9555672f6/b1a82b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제83회
+https://play.ly166.com:65/videos/20250828/68afd00c80eee9b9551e6af9/8794c1/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제82회
 https://play.ly166.com:65/videos/20250826/68ad40805cf6b9c74680af4e/bg960e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제81회
@@ -1791,6 +1790,8 @@ https://play.ly166.com:65/videos/20250501/68130932a3cd3e0b2ed182fc/2ad1g6/index.
 https://play.ly166.com:65/videos/20250430/6811bebacde7f10b66756c20/02cb90/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제1회
 https://play.ly166.com:65/videos/20250429/681090da2259a00b2fdbdc06/4f15d1/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 94회
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250827/1960683043689730048/1960683043689730048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 93회
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250826/1960323633779970048/1960323633779970048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 92회
@@ -1800,7 +1801,7 @@ https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250822/1958870391330050048/1958
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 90회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250821/1958503872075010048/1958503872075010048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 89회
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250820/1958144378274975744/1958144378274975744.m3u8
+https://vv.jisuzyv.com/play/6dBz49Wd/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 88회
 https://vv.jisuzyv.com/play/xboEqBKe/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 87회
@@ -3610,6 +3611,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0201e2af4a3c29a290.jpg", 周四推理俱乐部
+https://europe.olemovienews.com/ts4/20250828/IiT45Lmg/mp4/IiT45Lmg.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250828-1/93f9dd4590541e1c1669a4a14291c4dc.webp", 单身星球:爱的希腊大冒险
+https://vv.jisuzyv.com/play/Pe9n434a/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t027ac015e176e1ac06.jpg", 克里斯托弗:尼森:真实美丽人生颂
+https://vv.jisuzyv.com/play/vbmBJOOd/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250827-1/dfd1d01821d2b0f5c3e90e183b87adc8.jpg", 魔法蓝精灵
 https://europe.olemovienews.com/ts4/20250827/Eq4Ds06m/mp4/Eq4Ds06m.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e8e293238d0a24f0.jpg", 不梦幻足球队
@@ -8433,6 +8443,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
