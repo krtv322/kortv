@@ -1334,11 +1334,11 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 96회
-https://joovideo.cfd/static/streaming-playlists/hls/7f045330-5386-4ed7-87a3-946e0aa499a7/ceb3810b-465d-482c-9b16-bb4584bf3efb-master.m3u8
+http://www.segyen4.xyz:2100/20250829/CZanA2IZ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제85회
-https://joovideo.cfd/static/streaming-playlists/hls/a8979653-0d47-4e01-80ba-ed290300a831/41b038a7-557c-4351-85a4-9b329ca7dad8-master.m3u8
+http://www.segyen4.xyz:2100/20250829/uvX6vr8U/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 60회
-https://joovideo.cfd/static/streaming-playlists/hls/8fe1492e-ecf0-459a-bf0e-ba43bd5bfec2/3083f305-7c3d-4781-9e36-365234ebf657-master.m3u8
+http://www.segyen4.xyz:2100/20250829/ZGagVSf8/1000kb/hls/index.m3u8
 
 
 
@@ -1982,6 +1982,28 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img8.yna.co.kr/etc/inner/KR/2019/08/29/AKR20190829132800062_01_i_P4.jpg", 250829 나이야가라
+https://joovideo.cfd/static/streaming-playlists/hls/2c4c5ede-28c8-4cf3-9e79-beac9cbbb697/dd9aad91-abf0-4545-852d-189b2a67d9ce-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/2887450690_FcLmXfRw_d4818ad355dbaa7a6b2894633ada35953efd576c.jpg", 250829 ENA 케이팝업 차트쇼
+https://joovideo.cfd/static/streaming-playlists/hls/cbca90b9-c04c-4789-b6f8-32483ccffe6c/3060f2b6-39e2-4407-842a-f2f746137ac4-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.inews24.com/v1/95880f408a4380.jpg", 250829 라이브 와이어
+https://joovideo.cfd/static/streaming-playlists/hls/2739eec4-a9e0-4cbc-a3b1-38520cb293d2/56b1b3d5-9a2e-44e4-96f1-8d02003f9c15-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2023-0081/2025/5/9/1746757296632_583744.jpg", 250829 스카우트 6 얼리어잡터
+https://joovideo.cfd/static/streaming-playlists/hls/97ed1c3b-0ddc-4a42-92cf-1f2bcfb68928/1360b2e5-67a0-4596-b633-790e74bdd50e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newimg/news/20250710/202090117_1280.jpg", 250829 SBS 8 뉴스
+https://joovideo.cfd/static/streaming-playlists/hls/6eea305a-bbc9-48bb-a401-335f5524eb33/fbd9718f-5be5-45af-9220-a215defd8608-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20240625/art_1719042398.jpg", 250829 MBC 뉴스데스크
+https://joovideo.cfd/static/streaming-playlists/hls/1369017b-11b1-4662-acc3-1b5abdb02947/6476c3f6-a43c-44e5-86c9-101e3cc9a049-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://criminology.kr/data/file/gallery02/3076652677_AIFvx5jR_0f7d37ce00a8fee5e75eafc23d1d14f265400559.jpg", 250829 사건 반장
+https://joovideo.cfd/static/streaming-playlists/hls/0951a126-52c1-4a6c-9036-f65c4c4a5c69/0db2e332-b9a6-4f5e-a09a-9c9cbbaeaf8d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250829 JTBC 뉴스룸
+https://joovideo.cfd/static/streaming-playlists/hls/0ec46f16-af05-4ae0-bad5-90fce27894d3/2b8169f2-9a18-41f5-baad-a0a3e6cabf84-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tn.tv.nate.com/unsafe/1200x288/http://img.kbsmedia.co.kr/smrapi/img_data/T2024-0332/pIKVgVxQnbvc.jpg", 250829 걸어서 세계속으로 트래블홀릭
+https://joovideo.cfd/static/streaming-playlists/hls/fb863471-ab03-49d0-95ce-7307ef2384f7/b58b62a9-a93d-403d-9e08-0431ce1b6a11-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250829 인간극장
+http://www.segyen4.xyz:2100/20250828/rbZM9KqB/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2025/0717/2025071621010580295_1752667265_1752656860.jpg", 250828 보이즈 2 플래닛
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250829/1961106416735490048/1961106416735490048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250825/0610/P001775777.jpg/dims/resize/F_webp,480", 250828 각집부부
@@ -2024,7 +2046,7 @@ https://joovideo.cfd/static/streaming-playlists/hls/deaf5086-bbe3-49ad-b56a-2993
 https://joovideo.cfd/static/streaming-playlists/hls/52a68541-1df3-47dd-ba85-2d0f9cc0993e/73b6c6d9-3362-4d0b-9f11-147f2769cfa6-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2021/05/31/AKR20210531105000005_01_i_P4.jpg", 250828 JTBC 뉴스룸
 https://joovideo.cfd/static/streaming-playlists/hls/06e00e1b-3b96-4ea9-9f63-ccd8d238a33b/c310fe07-6ab6-4645-95dc-146f77122a05-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250827 인간극장
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202108/2296953_2287136_107.png", 250828 인간극장
 https://joovideo.cfd/static/streaming-playlists/hls/48b59f4c-5d75-42bd-9d7b-f2100a1ab2e7/cdcc2a20-97de-400e-80aa-f76b770ade22-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250618/0406/P001772883.jpg/dims/resize/F_webp,480", 250828 대탈출 10회 - 더 스토리
 https://play.ly166.com:65/videos/20250821/68a6b8ef5cf6b9c746c72751/5830eg/index.m3u8
@@ -7680,6 +7702,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
