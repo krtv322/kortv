@@ -2012,7 +2012,45 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250822 나 혼자 산다
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250830 전지적 참견 시점
+http://www.segyen4.xyz:2100/20250830/lcS2p3Zb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-id="KoreanCentralTelevision.kp" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250830 속풀이쇼 동치미
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://videos.theboda1.com/hls/68b327c1f97822ae4e34ad5a.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/02/program_c8d99fa0-d669-4b67-8472-3a765c12717f.jpg", 250830 쇼 음악중심
+https://ontvkorea.com/static/streaming-playlists/hls/0dda22d2-5582-4297-b4cc-d12c8579f867/ccb92cd3-2951-4960-865d-b1653094d6b2-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/06/02/6d0fc900-5049-4c67-bdaf-72606a4f81c0.jpg", 250830 비 마이 보이즈
+https://ontvkorea.com/static/streaming-playlists/hls/55b8dc0c-f94b-4041-ac0d-4932fe1614a7/4b3c8e3e-3d1b-4962-bfa7-808d33636d6a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 250830 불후의 명곡
+https://ontvkorea.com/static/streaming-playlists/hls/516a41c7-f097-4d94-90e2-76bf12c4f592/70a7f185-80f6-4bd6-94fd-337733e3116b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.starnewsk.com/news/photo/202402/40151_64840_404.jpg", 250830 차트를 달리는 남자
+https://joovideo.cfd/static/streaming-playlists/hls/f07a0b50-84f0-43d4-bc4b-31509c1facff/b9f4a7e3-718b-47a6-9bb0-e9b53757af7e-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0090/2025/3/27/1743050576328_575163.jpg", 250830 인생이 영화
+https://joovideo.cfd/static/streaming-playlists/hls/2562ef51-f50d-4c39-8c0f-fe32f883be04/5f5b340a-e782-4238-ac96-617a6bbebe2a-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250830 그것이 알고 싶다
+https://joovideo.cfd/static/streaming-playlists/hls/cf07e41e-6c4a-4099-83df-097bc0a62db4/9be288dd-2eb2-48e8-997b-a2d57e395b02-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2024/11/11/news-p.v1.20241111.ef770b9a4ab044b689469b3110807062_P1.webp", 250830 살림하는 남자들 시즌2
+http://www.segyen4.xyz:2100/20250830/r07tvYhO/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.m-i.kr/news/photo/202508/1268113_1046785_3623.jpg", 250830  직장인들 시즌2
+http://www.segyen4.xyz:2100/20250830/TrVhWKdQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/aa4c02dd-d1cf-4aa3-af7f-1c186deae120.jpg", 250830 아는 형님
+http://www.segyen4.xyz:2100/20250830/FkdokSBD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.fillcon.co.kr/files/programs/eae25b3c3ab0cbfdf0484a26b9164fb5.png", 250830 니돈내산 독박투어3
+http://www.segyen4.xyz:2100/20250830/9BSzlTNU/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.podbbang.com/pbi/t/430/240/p/14145.jpg?20250427", 250830 강적들
+http://www.segyen4.xyz:2100/20250830/Z80IHUS3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202506/27/news-p.v1.20250627.078c3374560b484597350d2dd9f4fcf5_P1.jpg", 250830  가보자GO 시즌5
+http://www.segyen4.xyz:2100/20250830/PdiQhiON/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg.hankookilbo.com/2019/08/19/201908191253063827_2.jpg", 250830 놀라운 토요일 도레미 마켓 HD
+http://www.segyen4.xyz:2100/20250830/k3LZrkU5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202506/654176_1017704_180.jpg", 250830 추성훈의 밥값은 해야지
+http://www.segyen4.xyz:2100/20250830/5KR6dsL1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250830  놀면 뭐하니
+http://www.segyen4.xyz:2100/20250830/grfgjuJb/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250829 나 혼자 산다
 http://www.segyen4.xyz:2100/20250829/yuLzYKnT/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1002/2025/07/14/175245683388.jpg", 250829 렛츠고 파크골프 환장의 짝꿍
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250830/1961454522995970048/1961454522995970048.m3u8
@@ -7783,6 +7821,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
