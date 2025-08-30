@@ -1334,6 +1334,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0052/2025/8/5/1754368614879_595851.jpg", 트웰브 (2025) 3회
+https://europe.olemovienews.com/ts4/20250830/NYGeImob/mp4/NYGeImob.mp4/index-v1-a1.m3u8
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 8회
 https://europe.olemovienews.com/ts4/20250830/7np3rcOh/mp4/7np3rcOh.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/07/11/131981066.1.jpg", 착한 사나이 (2025) 14회
@@ -7764,6 +7768,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
