@@ -2026,6 +2026,8 @@ https://ontvkorea.com/static/streaming-playlists/hls/0dda22d2-5582-4297-b4cc-d12
 https://ontvkorea.com/static/streaming-playlists/hls/55b8dc0c-f94b-4041-ac0d-4932fe1614a7/4b3c8e3e-3d1b-4962-bfa7-808d33636d6a-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 250830 불후의 명곡
 https://ontvkorea.com/static/streaming-playlists/hls/516a41c7-f097-4d94-90e2-76bf12c4f592/70a7f185-80f6-4bd6-94fd-337733e3116b-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 250830 불후의 명곡 년비용
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1961822929687810048/1961822929687810048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.starnewsk.com/news/photo/202402/40151_64840_404.jpg", 250830 차트를 달리는 남자
 https://joovideo.cfd/static/streaming-playlists/hls/f07a0b50-84f0-43d4-bc4b-31509c1facff/b9f4a7e3-718b-47a6-9bb0-e9b53757af7e-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0090/2025/3/27/1743050576328_575163.jpg", 250830 인생이 영화
@@ -7839,6 +7841,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
