@@ -675,7 +675,7 @@ http://106.52.196.79:80/TV/mui.php?id=cctv3
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
 http://106.52.196.79:80/TV/mui.php?id=cctv4
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://125.42.151.241:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://110.181.238.30:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
@@ -7861,6 +7861,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
