@@ -1336,7 +1336,7 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 9회
-https://ontvkorea.com/static/streaming-playlists/hls/43ee1d5e-8107-4dc9-9704-ef1259da543d/77ec2b30-5a1c-4a25-960c-6f05b01a7d26-master.m3u8
+https://europe.olemovienews.com/ts4/20250831/6gpbrFr1/mp4/6gpbrFr1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 7회
 https://ontvkorea.com/static/streaming-playlists/hls/a82b83f1-4bb6-4b15-9a51-73352124360f/afca886d-61b6-4a0d-b55d-8a4378a07159-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 9회
@@ -2013,13 +2013,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.sportschosun.com/article/html/2019/04/02/2019040301000192000010051.jpg", 250831 사장님 귀는 당나귀 귀
+http://www.segyen4.xyz:2100/20250831/MInaMVSh/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 250831 전국노래자랑
+http://www.segyen4.xyz:2100/20250831/cnjPKftR/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250831 신비한TV 서프라이즈
+http://www.segyen4.xyz:2100/20250830/hPz9KauG/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250831 신비한TV 서프라이즈 년비용
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1962106674353410048/1962106674353410048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788961420808.jpg", 250831 TV 동물농장
+http://www.segyen4.xyz:2100/20250830/hJwOZf9C/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250830 전지적 참견 시점
 http://www.segyen4.xyz:2100/20250830/lcS2p3Zb/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-id="KoreanCentralTelevision.kp" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250830 속풀이쇼 동치미
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://videos.theboda1.com/hls/68b327c1f97822ae4e34ad5a.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250830 속풀이쇼 동치미
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1962099837642084352/1962099837642084352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/02/program_c8d99fa0-d669-4b67-8472-3a765c12717f.jpg", 250830 쇼 음악중심
 https://ontvkorea.com/static/streaming-playlists/hls/0dda22d2-5582-4297-b4cc-d12c8579f867/ccb92cd3-2951-4960-865d-b1653094d6b2-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/06/02/6d0fc900-5049-4c67-bdaf-72606a4f81c0.jpg", 250830 비 마이 보이즈
@@ -2034,12 +2041,16 @@ https://joovideo.cfd/static/streaming-playlists/hls/f07a0b50-84f0-43d4-bc4b-3150
 https://joovideo.cfd/static/streaming-playlists/hls/2562ef51-f50d-4c39-8c0f-fe32f883be04/5f5b340a-e782-4238-ac96-617a6bbebe2a-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250830 그것이 알고 싶다
 https://joovideo.cfd/static/streaming-playlists/hls/cf07e41e-6c4a-4099-83df-097bc0a62db4/9be288dd-2eb2-48e8-997b-a2d57e395b02-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250830 그것이 알고 싶다 년비용
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1961817477092610048/1961817477092610048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2024/11/11/news-p.v1.20241111.ef770b9a4ab044b689469b3110807062_P1.webp", 250830 살림하는 남자들 시즌2
 http://www.segyen4.xyz:2100/20250830/r07tvYhO/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2024/11/11/news-p.v1.20241111.ef770b9a4ab044b689469b3110807062_P1.webp", 250830 살림하는 남자들 시즌2 년비용
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1961812716553375744/1961812716553375744.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.m-i.kr/news/photo/202508/1268113_1046785_3623.jpg", 250830  직장인들 시즌2
 http://www.segyen4.xyz:2100/20250830/TrVhWKdQ/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.m-i.kr/news/photo/202508/1268113_1046785_3623.jpg", 250830  직장인들 시즌2 년비용
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250831/1961828927546724352/1961828927546724352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/aa4c02dd-d1cf-4aa3-af7f-1c186deae120.jpg", 250830 아는 형님
 http://www.segyen4.xyz:2100/20250830/FkdokSBD/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/aa4c02dd-d1cf-4aa3-af7f-1c186deae120.jpg", 250830 아는 형님 년비용
@@ -3030,6 +3041,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t020b452e8f43951d43.jpg", 恐惧小屋:夏天的最后一个周末
+https://vv.jisuzyv.com/play/negvwLld/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250831-1/2843271ac656d96aae33d43565739227.jpg", 阿克萨达姆神庙:金刚沙提行动
+https://vv.jisuzyv.com/play/7e5j29Za/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t026ff8d4f322f958ec.jpg", 战斗吧木兰
+https://play.ly166.com:65/videos/20250830/68b309fd5cf6b9c746651ed7/gd81b1/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02bac73c9989364fc1.jpg", 爱在当下
+https://vv.jisuzyv.com/play/Pe9nVB3a/index.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02ef528fdb646cee0e.jpg", 有病才会喜欢你
+https://europe.olemovienews.com/ts4/20250831/95poFuYJ/mp4/95poFuYJ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0253e85bea483c00e9.jpg", 陌生号码:高中短信诈骗疑云
 https://vv.jisuzyv.com/play/mbkzq46a/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250829-1/dd2b15795533e07bd9be04dc808c5c65.jpg", 和山田进行LV:999的恋爱
@@ -3050,8 +3072,6 @@ https://vv.jisuzyv.com/play/vbmBJOOd/index.m3u8
 https://europe.olemovienews.com/ts4/20250827/Eq4Ds06m/mp4/Eq4Ds06m.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e8e293238d0a24f0.jpg", 不梦幻足球队
 https://vv.jisuzyv.com/play/9avOVlmb/index.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t027ac015e176e1ac06.jpg", 克里斯托弗:尼森:真实美丽人生颂
-https://vv.jisuzyv.com/play/vbmBJOOd/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250827-1/f0c92ed5152c72abc8ac7dcc0594e1b1.jpg", 啊你好
 https://vv.jisuzyv.com/play/0dNPqM8a/index.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t026e15059d8c94b0fa.jpg", 同甘共苦
@@ -7841,6 +7861,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
