@@ -2021,6 +2021,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250831 이제 만나러 갑니다
 https://joovideo.cfd/static/streaming-playlists/hls/f2da8f5d-616d-467c-b7cd-90889a9df081/445b9f46-686e-4c63-bd27-f9cba879ffea-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250831 이제 만나러 갑니다 미국회선용
+https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2900984&ads.content_title=on-my-way-to-meet-you-e713&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fv1%2F202508%2Fvariety%2Fon-my-way-to-meet-you%2F2708641_20250831_180p-2025-08-31-15-30-42.mp4%2FHLS%2Fmaster_720p.m3u8&ads.device_ifa=b477062b-e895-480c-8c4b-57aa00aea217
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250831 심야괴담회 시즌5
 https://joovideo.cfd/static/streaming-playlists/hls/f293cce4-57e7-41a9-8225-bd4f92966d4a/d723a68f-1adc-49bb-b02b-7811b6bdb00e-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250831 개그 콘서트 SUPER LIVE
@@ -7932,6 +7934,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
