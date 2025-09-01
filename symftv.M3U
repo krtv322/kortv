@@ -2107,6 +2107,8 @@ http://www.segyen4.xyz:2100/20250830/lcS2p3Zb/1000kb/hls/index.m3u8
 https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1962107701962084352/1962107701962084352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250830 속풀이쇼 동치미
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250831/1962099837642084352/1962099837642084352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250830 속풀이쇼 동치미 미국회선용
+https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2898696&ads.content_title=dongchimi-e664&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fv1%2F202508%2Fvariety%2Fdongchimi%2F2707842_20250830_180p-2025-08-30-15-46-35.mp4%2FHLS%2Fmaster_720p.m3u8&ads.device_ifa=b477062b-e895-480c-8c4b-57aa00aea217
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/02/program_c8d99fa0-d669-4b67-8472-3a765c12717f.jpg", 250830 쇼 음악중심
 https://ontvkorea.com/static/streaming-playlists/hls/0dda22d2-5582-4297-b4cc-d12c8579f867/ccb92cd3-2951-4960-865d-b1653094d6b2-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/06/02/6d0fc900-5049-4c67-bdaf-72606a4f81c0.jpg", 250830 비 마이 보이즈
@@ -7930,6 +7932,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
