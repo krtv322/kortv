@@ -531,7 +531,7 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiO
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1756703766~acl=*%2Fentry%2F*~data=hdntl~hmac=dee64d32a5e868ef355a70b214a9789b6d5224352b1d195806696cb56e4c28c9/chunklist.m3u8
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1756828895~acl=*%2Fentry%2F*~data=hdntl~hmac=2c2ae7b9aea4843287c72ba69dc0361f86492566aa5958ef58f41102139b219d/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -1347,13 +1347,13 @@ https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250901/1962493976384770048/196
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 97회 년비미국회선전용
 https://hls-ipv4.ondemandkorea.com/kcp-content-ingest/processing/EP00097-Good-Luck-115580145-2025-09-01-13-29-48.mp4/HLS/bumper/kcp_master_1080p.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제86회
-https://ontvkorea.com/static/streaming-playlists/hls/c718adac-8bbc-4515-b9ef-287db2197bd8/e6ff9255-d358-4942-8dc8-24597c217926-720.m3u8
+https://play.ly166.com:65/videos/20250902/68b6728f80eee9b9552ead9b/77185b/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제86회년비
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250901/1962494060270850048/1962494060270850048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제86회 년비미국회선전용
 https://hls-ipv4.ondemandkorea.com/kcp-content-ingest/processing/EP00086-Queens-House-115570258-2025-09-01-13-17-48.mp4/HLS/bumper/kcp_master_1080p.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 61회
-https://joovideo.cfd/static/streaming-playlists/hls/0d1e3ffd-32b9-4769-9c07-dd84c59b9248/d27cdccb-9597-4d87-bfec-86782e8ae677-master.m3u8
+https://play.ly166.com:65/videos/20250902/68b6728f80eee9b9552ead98/114259/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 61회년비
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250901/1962493997356290048/1962493997356290048.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 61회 년비미국회선전용
@@ -8023,6 +8023,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
