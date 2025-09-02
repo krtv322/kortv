@@ -2060,16 +2060,18 @@ https://joovideo.cfd/static/streaming-playlists/hls/a38f6311-5600-49ab-a8e7-ec17
 https://hls-ipv4.ondemandkorea.com/kcp-content-ingest/processing/EP00137-Oh-Eun-Yeongs-Report-Marriage-Hell-115616374-2025-09-01-18-41-40.mp4/HLS/bumper/kcp_master_1080p.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/07/06/PG87952291_w152_h152.png", 250901 동상이몽2 너는 내 운명
 https://joovideo.cfd/static/streaming-playlists/hls/927131df-47a2-4201-8132-396b7ee8047d/e1e2bd7e-8365-4df4-9cce-0b8a8c483575-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/07/06/PG87952291_w152_h152.png", 250901 동상이몽2 너는 내 운명 년비용
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250902/1962573961757855744/1962573961757855744.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/07/06/PG87952291_w152_h152.png", 250901 동상이몽2 너는 내 운명 년비미국회선전용
 https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2903506&ads.content_title=same-bed-different-dreams-2-you-are-my-destiny-1-e404&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fkcp-content-ingest%2Fprocessing%2FEP00404-Same-Bed-Different-Dreams-2-You-Are-My-Destiny-115605047-2025-09-01-16-13-39.mp4%2FHLS%2Fmaster_1080p.m3u8&ads.device_ifa=cdaf98a8-3dba-41a0-b760-0ac765383c72
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼 
 https://joovideo.cfd/static/streaming-playlists/hls/34e98341-cfd9-4dc0-9d8e-5ba9fdc6640e/a5d3401c-bf1d-49e9-9995-a6dd49b4a603-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼  년비용
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250902/1962535877481730048/1962535877481730048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼 년비미국회선전용
 https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2903486&ads.content_title=chosun-wedding-e92&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fv1%2F202509%2Fvariety%2Fchosun-wedding%2F2709519_20250901_180p-2025-09-01-15-14-41.mp4%2FHLS%2Fmaster_1080p.m3u8&ads.device_ifa=cdaf98a8-3dba-41a0-b760-0ac765383c72
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0113/2017/10/31/1509412391184_54130.jpg", 250901 가요무대
 https://joovideo.cfd/static/streaming-playlists/hls/48e4f65c-11ed-4ebe-aefc-1c941bbf39ac/28f5aa7e-0257-481c-8424-45125eb16b4e-master.m3u8
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0113/2017/10/31/1509412391184_54130.jpg", 250901 가요무대
-https://mediafactory.gscdn.kbs.co.kr/vod/2025/09/01/68b5a98686473a0ef3adae6b/video/20250901_231747_500k_1756736210693.m3u8?Expires=1756769186&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYWZhY3RvcnkuZ3NjZG4ua2JzLmNvLmtyL3ZvZC8yMDI1LzA5LzAxLzY4YjVhOTg2ODY0NzNhMGVmM2FkYWU2Yi92aWRlby8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU2NzY5MTg2fX19XX0_&Signature=SypmOAiBreiszWPe0HYB-jLrWS3j7aA6PKgj20CPmXsw67wsOAA-I7ifOuwV6ARZubtuIE0sTjxPUYKfjLw2GvHLaTh0Gez0gf4vMVvCHYtuPecc5tQA7qeQe266uQ3fCy00BkawP~voARMDc6l44Rq6zUVM5c1ONHLwo3LW8AnVFNXfclfIOnd937TrpJbiWhFGdrGU7UJcUyzz-yMhLB3tmOry~CdTyVEwLUStwjJAIf~qn9XcZL0M3UBp5YhnsJj~9UpGlZna2FY4eNWBS2mGiQcuPAd~ZpUZ~EQTadncKXukyA4e3bkWRnaygPRx1BdnY8dzG-7MbtPAkYxt6Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0113/2017/10/31/1509412391184_54130.jpg", 250901 가요무대 년비미국회선전용
 https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2903405&ads.content_title=golden-oldies-1-e1923&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fkcp-content-ingest%2Fprocessing%2FEP01912-Golden-Oldies-115603841-2025-09-01-15-05-38.mp4%2FHLS%2Fmaster_1080p.m3u8&ads.device_ifa=cdaf98a8-3dba-41a0-b760-0ac765383c72
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.yes24.com/momo/TopCate167/MidCate07/16660303.jpg", 250901 생활의 달인
@@ -2113,7 +2115,7 @@ https://joovideo.cfd/static/streaming-playlists/hls/f2da8f5d-616d-467c-b7cd-9088
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250831 이제 만나러 갑니다 미국회선용
 https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2900984&ads.content_title=on-my-way-to-meet-you-e713&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fv1%2F202508%2Fvariety%2Fon-my-way-to-meet-you%2F2708641_20250831_180p-2025-08-31-15-30-42.mp4%2FHLS%2Fmaster_720p.m3u8&ads.device_ifa=b477062b-e895-480c-8c4b-57aa00aea217
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250831 심야괴담회 시즌5
-https://joovideo.cfd/static/streaming-playlists/hls/f293cce4-57e7-41a9-8225-bd4f92966d4a/d723a68f-1adc-49bb-b02b-7811b6bdb00e-master.m3u8
+https://play.ly166.com:65/videos/20250902/68b673835cf6b9c746f13f77/1496ge/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 250831 개그 콘서트 SUPER LIVE
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250901/1962257334050885632/1962257334050885632.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/996/2025/07/21/20250721112312_22_996_1066525_1080_7.jpg", 250831 돌싱글즈7
@@ -8023,6 +8025,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
