@@ -2064,8 +2064,8 @@ https://joovideo.cfd/static/streaming-playlists/hls/927131df-47a2-4201-8132-396b
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250902/1962573961757855744/1962573961757855744.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/PG/2017/07/06/PG87952291_w152_h152.png", 250901 동상이몽2 너는 내 운명 년비미국회선전용
 https://ol.ondemandkorea.com/gs/stream/master/odk-avod-web/hls.m3u8?ads.publisher_app_name=ondemandkorea&ads.publisher_app_bundle=com.ondemandkorea&ads.publisher_app_url=https%3A%2F%2Fwww.ondemandkorea.com&ads.content_id=2903506&ads.content_title=same-bed-different-dreams-2-you-are-my-destiny-1-e404&ads.content_genre=variety&stream_url=https%3A%2F%2Fhls-ipv4.ondemandkorea.com%2Fkcp-content-ingest%2Fprocessing%2FEP00404-Same-Bed-Different-Dreams-2-You-Are-My-Destiny-115605047-2025-09-01-16-13-39.mp4%2FHLS%2Fmaster_1080p.m3u8&ads.device_ifa=cdaf98a8-3dba-41a0-b760-0ac765383c72
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼 
-https://joovideo.cfd/static/streaming-playlists/hls/34e98341-cfd9-4dc0-9d8e-5ba9fdc6640e/a5d3401c-bf1d-49e9-9995-a6dd49b4a603-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼 z
+https://bodaponi.b-cdn.net/%EC%A1%B0%EC%84%A0%EC%9D%98%20%EC%82%AC%EB%9E%91%EA%BE%BC.E92.250901.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼  년비용
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20250902/1962535877481730048/1962535877481730048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/01/05/news-p.v1.20250105.6d8f6d08bcc44c5f9a0ebf3d0f394548_P1.webp", 250901 조선의 사랑꾼 년비미국회선전용
@@ -8025,6 +8025,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
