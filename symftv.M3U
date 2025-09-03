@@ -2033,8 +2033,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kocca.kr/trend/vol17/img/s42/img_01.jpg", 250903 슈퍼맨이 돌아왔다
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4.E588.250903.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/08/12/article_12120327712580.jpg", 250903 내 새끼의 연애
+https://bodaponi.b-cdn.net/%EB%82%B4%20%EC%83%88%EB%81%BC%EC%9D%98%20%EC%97%B0%EC%95%A0.E03.250903.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 250902 모-던 인물史 미스터.리
 https://bodaponi.b-cdn.net/%EB%AA%A8%EB%8D%98%EC%9D%B8%EB%AC%BC%EC%82%AC%EC%82%AC%20%EB%AF%B8%EC%8A%A4%ED%84%B0%20%EB%A6%AC.250902.E25.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.youtube.com/vi/XBJZi2IDNik/mqdefault.jpg", 250902 진서연의 NO
@@ -8200,6 +8202,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
