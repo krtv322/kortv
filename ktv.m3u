@@ -15,6 +15,8 @@ http://koreatv.dothome.co.kr/kbs2.php
 https://krtv.site/kakotvlive/kakotvlive36/kbs2.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 https://krtv.site/kakotvlive/kakotvlive36/sbs.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
+http://43.248.119.227:8080/live/sbs2.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV (406p) [Not 24/7]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
