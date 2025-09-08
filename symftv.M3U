@@ -1332,6 +1332,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제91회
+https://bodaponi.b-cdn.net/%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91.E91.250908.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 66회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E66.250908.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 10회
 https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E10.250907.1080p.H264-F1RST.mp4
@@ -1487,7 +1491,7 @@ https://europe.olemovienews.com/ts4/20250809/cvnfcru0/mp4/cvnfcru0.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250803/gzsds2y8/mp4/gzsds2y8.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 1회
 https://europe.olemovienews.com/ts4/20250803/cramu0u3/mp4/cramu0u3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 66회
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 65회
 https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.250905.S01E65.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 64회
 https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E64.250904.1080p.H264-F1RST.mp4
@@ -2014,10 +2018,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/600xX/2025/08/04/news-p.v1.20250804.0ab598ff3f854b8b8fadfea8159c16b5_P1.webp", 250908 옷장전쟁
+https://bodaponi.b-cdn.net/%EC%98%B7%EC%9E%A5%EC%A0%84%EC%9F%81.7%ED%9A%8C.250908.1080p.NF.WEB-DL.x264.AAC2.0-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ps.ssl.qhimg.com/t023b51de30dc7ae618.jpg", 250908 짧아유
+https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0.4%ED%9A%8C.250908.1080p.HS.WEB-DL.x264.AAC2.0-LoveBug.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=3&simg=2025082810224903709d3244b4fed58141237106.jpg&nmt=29", 250907 백투더뮤직 시즌2
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250908/1964763891770724352/1964763891770724352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250907 이제 만나러 갑니다
@@ -8482,6 +8486,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
