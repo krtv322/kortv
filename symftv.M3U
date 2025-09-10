@@ -1330,17 +1330,20 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 104회
+https://bodaponi.b-cdn.net/%EB%8C%80%EC%9A%B4%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%9D%BC.E104.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 68회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E68.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제93회
+https://bodaponi.b-cdn.net/%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91.E93.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02235e0ac0885f80c5.jpg", 북극성 (2025) 3회
+https://europe.olemovienews.com/ts4/20250910/KvNwIaC5/mp4/KvNwIaC5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02235e0ac0885f80c5.jpg", 북극성 (2025) 2회
+https://europe.olemovienews.com/ts4/20250910/nRuMDHbR/mp4/nRuMDHbR.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02235e0ac0885f80c5.jpg", 북극성 (2025) 1회
+https://europe.olemovienews.com/ts4/20250910/cqQnwxFW/mp4/cqQnwxFW.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 103회
-https://bodaponi.b-cdn.net/%EB%8C%80%EC%9A%B4%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%9D%BC.E103.250909.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제92회
-https://bodaponi.b-cdn.net/%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91.E92.250909.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 67회
-https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E67.250909.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 11회
-https://europe.olemovienews.com/ts4/20250909/Fp7OzFm2/mp4/Fp7OzFm2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 8회
-https://europe.olemovienews.com/ts4/20250909/RpWrevKp/mp4/RpWrevKp.mp4/index-v1-a1.m3u8
+
 
 
 
@@ -1381,6 +1384,8 @@ https://joovideo.cfd/static/streaming-playlists/hls/f39f9cf4-1570-4818-a7d0-0337
 https://joovideo.cfd/static/streaming-playlists/hls/a9524167-56c9-4276-b50b-4194490d62be/282b4dcc-4d1c-4d17-bd0f-7807a4787034-master.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ontvkorea.com/lazy-static/thumbnails/62d7a724-818e-4547-89ea-58ac9a7fa71d.jpg", 버터플라이 (2025) 1회
 https://joovideo.cfd/static/streaming-playlists/hls/37404e7e-4be7-4967-a37f-080220aad95e/bdfb9a68-ae71-4f15-9e28-1052e4e29823-master.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 8회
+https://europe.olemovienews.com/ts4/20250909/RpWrevKp/mp4/RpWrevKp.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 7회
 https://europe.olemovienews.com/ts4/20250908/SVuT4lic/mp4/SVuT4lic.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 6회
@@ -1427,50 +1432,6 @@ https://play.ly166.com:65/videos/20250817/68a153c35cf6b9c746c14692/eae5b8/index.
 https://play.ly166.com:65/videos/20250811/6899826f80eee9b955f0e6f4/b0d1a2/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://play.ly166.com:65/videos/20250810/689832cf5cf6b9c746672a27/44479a/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 10회
-https://europe.olemovienews.com/ts4/20250909/hwAAYK1L/mp4/hwAAYK1L.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 9회
-https://europe.olemovienews.com/ts4/20250902/1soppLg7/mp4/1soppLg7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 8회
-https://europe.olemovienews.com/ts4/20250827/sceOVBrp/mp4/sceOVBrp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 7회
-https://europe.olemovienews.com/ts4/20250826/KZ4hrctr/mp4/KZ4hrctr.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 6회
-https://europe.olemovienews.com/ts4/20250820/e3ae2ndp/mp4/e3ae2ndp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 5회
-https://europe.olemovienews.com/ts4/20250819/iiuvxxhi/mp4/iiuvxxhi.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 4회
-https://europe.olemovienews.com/ts4/20250813/10f4xo78/mp4/10f4xo78.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 3회
-https://europe.olemovienews.com/ts4/20250812/dasc6z79/mp4/dasc6z79.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 2회
-https://europe.olemovienews.com/ts4/20250806/qlc4n2or/mp4/qlc4n2or.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 1회
-https://europe.olemovienews.com/ts4/20250805/egnww0hm/mp4/egnww0hm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 12회
-https://europe.olemovienews.com/ts4/20250907/Z2NxdgyT/mp4/Z2NxdgyT.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 11회
-https://europe.olemovienews.com/ts4/20250906/XADHmmyK/mp4/XADHmmyK.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 10회
-https://europe.olemovienews.com/ts4/20250831/I8rpPxHG/mp4/I8rpPxHG.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 9회
-https://europe.olemovienews.com/ts4/20250830/IyK1ccLi/mp4/IyK1ccLi.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 8회
-https://europe.olemovienews.com/ts4/20250824/kTBq9oZM/mp4/kTBq9oZM.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 7회
-https://europe.olemovienews.com/ts4/20250823/1t1582th/mp4/1t1582th.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 6회
-https://europe.olemovienews.com/ts4/20250817/0bxxl13z/mp4/0bxxl13z.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 5회
-https://europe.olemovienews.com/ts4/20250816/b7r8ruc0/mp4/b7r8ruc0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 4회
-https://europe.olemovienews.com/ts4/20250810/qktfwm8x/mp4/qktfwm8x.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 3회
-https://europe.olemovienews.com/ts4/20250809/7t1irbs7/mp4/7t1irbs7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 2회
-https://europe.olemovienews.com/ts4/20250803/de7k7esj/mp4/de7k7esj.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 1회
-https://europe.olemovienews.com/ts4/20250802/9b1ci8n1/mp4/9b1ci8n1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 11회
 https://europe.olemovienews.com/ts4/20250907/uWBY8Klx/mp4/uWBY8Klx.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 10회
@@ -1493,6 +1454,8 @@ https://europe.olemovienews.com/ts4/20250809/cvnfcru0/mp4/cvnfcru0.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250803/gzsds2y8/mp4/gzsds2y8.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 1회
 https://europe.olemovienews.com/ts4/20250803/cramu0u3/mp4/cramu0u3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 67회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E67.250909.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 66회
 https://vv.jisuzyv.com/play/Le37BYQe/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 65회
@@ -1625,6 +1588,8 @@ https://play.ly166.com:65/videos/20250612/684a52a180eee9b955d3f142/5dgaab/index.
 https://play.ly166.com:65/videos/20250611/6849006d80eee9b95595edcb/31gf7e/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 1회
 https://play.ly166.com:65/videos/20250610/6847bcc180eee9b9555672f6/b1a82b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제92회
+https://bodaponi.b-cdn.net/%EC%97%AC%EC%99%95%EC%9D%98%20%EC%A7%91.E92.250909.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제92회
 https://vv.jisuzyv.com/play/PdRW2OOe/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제90회
@@ -1807,6 +1772,8 @@ https://play.ly166.com:65/videos/20250501/68130932a3cd3e0b2ed182fc/2ad1g6/index.
 https://play.ly166.com:65/videos/20250430/6811bebacde7f10b66756c20/02cb90/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제1회
 https://play.ly166.com:65/videos/20250429/681090da2259a00b2fdbdc06/4f15d1/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 103회
+https://bodaponi.b-cdn.net/%EB%8C%80%EC%9A%B4%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%9D%BC.E103.250909.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 102회
 https://bodaponi.b-cdn.net/%EB%8C%80%EC%9A%B4%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%9D%BC.E102.250908.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 101회
@@ -2023,11 +1990,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250903 나는 자연인이다
+https://joovideo.cfd/static/streaming-playlists/hls/8799d341-b6e5-424a-bccd-5f7b497d4921/6bd9ccce-838a-4d5b-a364-fc9238712385-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kocca.kr/trend/vol17/img/s42/img_01.jpg", 250910 슈퍼맨이 돌아왔다
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4.E589.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/08/12/article_12120327712580.jpg", 250910 내 새끼의 연애
+https://bodaponi.b-cdn.net/%EB%82%B4%20%EC%83%88%EB%81%BC%EC%9D%98%20%EC%97%B0%EC%95%A0.E04.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/02/24/mcg1677215477946-152-152.png", 250909 수학 없는 수학여행
+https://bodaponi.b-cdn.net/%EC%88%98%ED%95%99%20%EC%97%86%EB%8A%94%20%EC%88%98%ED%95%99%EC%97%AC%ED%96%89.S01E10.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://occ-0-64-58.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABW6rP4u1w8o5FzvVjFtIwAQY_6KkPfAQ84FZPrs47QV2Hy6vGl8XQ5rxda22EYgJ2C3LWA9wggEvMfWJ6h1xmDiDbFIActUK7P8L.webp?r=16a", 250910 데스 키스 게임: 키스를 잘해야 사는 드라마
+https://bodaponi.b-cdn.net/%EB%8D%B0%EC%8A%A4%20%ED%82%A4%EC%8A%A4%20%EA%B2%8C%EC%9E%84%20%20%ED%82%A4%EC%8A%A4%EB%A5%BC%20%EC%9E%98%ED%95%B4%EC%95%BC%20%EC%82%AC%EB%8A%94%20%EB%93%9C%EB%9D%BC%EB%A7%88%20E06%20[%EC%9E%90%EC%B2%B4%EC%9E%90%EB%A7%89]%202025.1080p.KORSUB.WEBRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.youtube.com/vi/XBJZi2IDNik/mqdefault.jpg", 250909 진서연의 NO
 https://bodaponi.b-cdn.net/%EC%A7%84%EC%84%9C%EC%97%B0%EC%9D%98%20NO.E03.250909.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202504/21/news-p.v1.20250421.5de8a378d72b4de7954b578d54920fd5_P1.jpg", 250909 한일가왕전
@@ -3026,6 +2998,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e1fec8c870f8a25f.jpg", 강령:귀신놀이 2025
+https://europe.olemovienews.com/ts4/20250910/MfVbx71i/mp4/MfVbx71i.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0617/16_50_05__68511e2dc4c92[X280,400].jpg", 위장수사 2025
 https://www.yadongnara56.site/video/m3u8//f22d3e6e/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02280a6b8968f19960.jpg", 고백의 역사 2025
@@ -3480,6 +3456,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t027942ae3ea7b25e82.jpg", 亲爱的，别！
+https://europe.olemovienews.com/ts4/20250910/zoieozku/mp4/zoieozku.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02466dcc2d7f75128e.jpg", 德古拉
+https://europe.olemovienews.com/ts4/20250910/IbhPsB61/mp4/IbhPsB61.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250909-1/3e23c29804933fb8d3980d436657d2fd.jpg", 独一无二
 https://europe.olemovienews.com/ts4/20250909/9SKehprn/mp4/9SKehprn.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250814-1/0ae3636f89984c0a32579b5caeccc1ef.jpg",  祖屋
@@ -5582,6 +5563,60 @@ https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 11회
+https://europe.olemovienews.com/ts4/20250909/Fp7OzFm2/mp4/Fp7OzFm2.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 10회
+https://europe.olemovienews.com/ts4/20250909/hwAAYK1L/mp4/hwAAYK1L.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 9회
+https://europe.olemovienews.com/ts4/20250902/1soppLg7/mp4/1soppLg7.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 8회
+https://europe.olemovienews.com/ts4/20250827/sceOVBrp/mp4/sceOVBrp.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 7회
+https://europe.olemovienews.com/ts4/20250826/KZ4hrctr/mp4/KZ4hrctr.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 6회
+https://europe.olemovienews.com/ts4/20250820/e3ae2ndp/mp4/e3ae2ndp.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 5회
+https://europe.olemovienews.com/ts4/20250819/iiuvxxhi/mp4/iiuvxxhi.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 4회
+https://europe.olemovienews.com/ts4/20250813/10f4xo78/mp4/10f4xo78.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 3회
+https://europe.olemovienews.com/ts4/20250812/dasc6z79/mp4/dasc6z79.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 2회
+https://europe.olemovienews.com/ts4/20250806/qlc4n2or/mp4/qlc4n2or.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 첫, 사랑을 위하여🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20250724/0520/P001774559.jpg/dims/resize/F_webp,1280", 첫, 사랑을 위하여 1회
+https://europe.olemovienews.com/ts4/20250805/egnww0hm/mp4/egnww0hm.mp4/index-v1-a1.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 12회
+https://europe.olemovienews.com/ts4/20250907/Z2NxdgyT/mp4/Z2NxdgyT.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 11회
+https://europe.olemovienews.com/ts4/20250906/XADHmmyK/mp4/XADHmmyK.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 10회
+https://europe.olemovienews.com/ts4/20250831/I8rpPxHG/mp4/I8rpPxHG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 9회
+https://europe.olemovienews.com/ts4/20250830/IyK1ccLi/mp4/IyK1ccLi.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 8회
+https://europe.olemovienews.com/ts4/20250824/kTBq9oZM/mp4/kTBq9oZM.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 7회
+https://europe.olemovienews.com/ts4/20250823/1t1582th/mp4/1t1582th.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 6회
+https://europe.olemovienews.com/ts4/20250817/0bxxl13z/mp4/0bxxl13z.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 5회
+https://europe.olemovienews.com/ts4/20250816/b7r8ruc0/mp4/b7r8ruc0.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 4회
+https://europe.olemovienews.com/ts4/20250810/qktfwm8x/mp4/qktfwm8x.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 3회
+https://europe.olemovienews.com/ts4/20250809/7t1irbs7/mp4/7t1irbs7.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 2회
+https://europe.olemovienews.com/ts4/20250803/de7k7esj/mp4/de7k7esj.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 에스콰이어🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/beyondthebar/Img/site/Main/202507151104548702.jpg", 에스콰이어 (2025) 1회
+https://europe.olemovienews.com/ts4/20250802/9b1ci8n1/mp4/9b1ci8n1.mp4/index-v1-a1.m3u8
 
 
 
@@ -8564,6 +8599,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
