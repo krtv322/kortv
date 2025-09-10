@@ -1990,8 +1990,31 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250903 나는 자연인이다
-https://joovideo.cfd/static/streaming-playlists/hls/8799d341-b6e5-424a-bccd-5f7b497d4921/6bd9ccce-838a-4d5b-a364-fc9238712385-master.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 250910 나는 SOLO (나는 솔로)
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO%20%EB%82%98%EB%8A%94%20%EC%86%94%EB%A1%9C.E218.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumb.mtstarnews.com/cdn-cgi/image/f=avif/21/2025/09/2025090212475617734_1.jpg", 250910 내 멋대로 과몰입클럽
+https://bodaponi.b-cdn.net/%EB%82%B4%20%EB%A9%8B%EB%8C%80%EB%A1%9C%20-%20%EA%B3%BC%EB%AA%B0%EC%9E%85%ED%81%B4%EB%9F%BD.E02.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202509/03/SpoChosun/20250903171523022tyek.jpg", 250910 괴담노트
+https://bodaponi.b-cdn.net/%EA%B4%B4%EB%8B%B4%EB%85%B8%ED%8A%B8.E02.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2021/11/16/AKR20211116155200005_02_i_P4.jpg", 2500910 라디오스타
+https://bodaponi.b-cdn.net/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.E931.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1004/2025/08/22/175582230730.png", 2500910 불멸의 라이벌
+https://bodaponi.b-cdn.net/%EB%B6%88%EB%A9%B8%EC%9D%98%20%EB%9D%BC%EC%9D%B4%EB%B2%8C.E03.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202411/20/sportskhan/20241120183415586zhrn.png", 250910 요즘 남자 라이프 신랑수업
+https://bodaponi.b-cdn.net/%EC%9A%94%EC%A6%98%20%EB%82%A8%EC%9E%90%20%EB%9D%BC%EC%9D%B4%ED%94%84%20-%20%EC%8B%A0%EB%9E%91%EC%88%98%EC%97%85.E180.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://prismstudios.co.kr/storage/portfolio/kickagoal2/2024/07/15/mwE1721003437663.jpg", 250910 골 때리는 그녀들
+https://bodaponi.b-cdn.net/%EA%B3%A8%20%EB%95%8C%EB%A6%AC%EB%8A%94%20%EA%B7%B8%EB%85%80%EB%93%A4.E188.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.namdonews.com/news/photo/202209/696249_354147_3812.png", 2500910 한블리 (한문철의 블랙박스 리뷰)
+https://bodaponi.b-cdn.net/%ED%95%9C%EB%AC%B8%EC%B2%A0%EC%9D%98%20%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%20%EB%A6%AC%EB%B7%B0.E142.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 250910 유 퀴즈 온 더 블럭
+https://bodaponi.b-cdn.net/%EC%9C%A0%20%ED%80%B4%EC%A6%88%20%EC%98%A8%20%EB%8D%94%20%EB%B8%94%EB%9F%AD.E310.250910.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250910 나는 자연인이다
+https://joovideo.cfd/static/streaming-playlists/hls/e68ff7e3-7030-49d6-b020-3e70a7d59dd7/6c7fcc44-4aeb-4ea3-b05c-025eae07f6f0-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kocca.kr/trend/vol17/img/s42/img_01.jpg", 250910 슈퍼맨이 돌아왔다
 https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4%20%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4.E589.250910.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2025/08/12/article_12120327712580.jpg", 250910 내 새끼의 연애
@@ -8599,6 +8622,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
