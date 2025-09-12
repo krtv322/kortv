@@ -531,7 +531,7 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiO
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
-https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1757712971~acl=*%2Fentry%2F*~data=hdntl~hmac=34184eca3cee48bf235886273f7e268a450189559d89fd6bf1ccdcb9e987029e/chunklist.m3u8
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1757752704~acl=*%2Fentry%2F*~data=hdntl~hmac=642f837c75225ed57d3543b4537263ec39fc35c038deb7b826ebdf08a8654f47/chunklist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/7MfIRcp.jpg" ,STATV (고화질)
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
@@ -1333,6 +1333,17 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 12회
+https://bodaponi.b-cdn.net/%EB%A9%94%EB%A6%AC%20%ED%82%AC%EC%A6%88%20%ED%94%BC%ED%94%8C.S01E12.250912.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제4회
+https://europe.olemovienews.com/ts4/20250912/IyenhUSB/mp4/IyenhUSB.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제3회
+https://europe.olemovienews.com/ts4/20250912/degsHoG1/mp4/degsHoG1.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02daff72731eea7a64.jpg", 사마귀 : 살인자의 외출 제3회
+https://europe.olemovienews.com/ts4/20250912/BKIYH9LA/mp4/BKIYH9LA.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 106회
 https://bodaponi.b-cdn.net/%EB%8C%80%EC%9A%B4%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%9D%BC.E106.250912.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20250429-1/5ada1bd373cdadebc83c6ba0c31f78d3.jpg", 여왕의 집 (2025) 제96회
@@ -2043,8 +2054,40 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250912 나 혼자 산다
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250913/1966563332068610048/1966563332068610048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714214_826502_422.jpg", 250912 슈팅스타 시즌 2
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8C%85%EC%8A%A4%ED%83%80%20%EC%8B%9C%EC%A6%8C2.250912.E03.250912.1080p.CP.WEB-DL.AAC.2.0.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1002/2025/07/14/175245683388.jpg", 250912 렛츠고 파크골프 환장의 짝꿍
+https://bodaponi.b-cdn.net/%EB%A0%9B%EC%B8%A0%EA%B3%A0%20%ED%8C%8C%ED%81%AC%EA%B3%A8%ED%94%84%20%ED%99%98%EC%9E%A5%EC%9D%98%20%EC%A7%9D%EA%BF%8D.E03.250912.1080p.H264-F1RST%20a.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250415/1455/P001770389.jpg/dims/resize/F_webp,480", 250912 트롯 올스타전 금요일밤에
+https://joovideo.cfd/static/streaming-playlists/hls/b11c3b93-ce9a-4858-a3bd-30e7d5d34773/ee0de3a0-6eae-4d6d-9a5b-f47c26720a2c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240069D/site_poster_img1_20240524092652325.jpg", 250912 강철지구
+https://bodaponi.b-cdn.net/%EA%B0%95%EC%B2%A0%EC%A7%80%EA%B5%AC.E46.250912.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 250912 더 시즌즈 - 10CM의 쓰담쓰담
+https://bodaponi.b-cdn.net/%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88%20-%2010CM%EC%9D%98%20%EC%93%B0%EB%8B%B4%EC%93%B0%EB%8B%B4.E02.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_pEPVfevb_d67a2413abe1c7a9cf006ae2f6a81a074c643452.jpg", 250912 살롱드돌 - 너 참 말 많다
+https://bodaponi.b-cdn.net/%EC%82%B4%EB%A1%B1%EB%93%9C%EB%8F%8C%20%20%EB%84%88%20%EC%B0%B8%20%EB%A7%90%20%EB%A7%8E%EB%8B%A4.E08.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumb.mt.co.kr/06/2025/02/2025020410257250949_1.jpg/dims/optimize/", 250912 무쇠소녀단2
+https://bodaponi.b-cdn.net/%EB%AC%B4%EC%87%A0%EC%86%8C%EB%85%80%EB%8B%A8%202.E10.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202409/06/news-p.v1.20240906.c6b727df0f1b426ba050c3e8e61ed3ab_P1.jpg", 250912 용감한 형사들 4
+https://bodaponi.b-cdn.net/%EC%9A%A9%EA%B0%90%ED%95%9C%20%ED%98%95%EC%82%AC%EB%93%A4%204.E51.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/983/2024/10/07/172826274774.jpg", 250912 전현무계획2
+https://bodaponi.b-cdn.net/%EC%A0%84%ED%98%84%EB%AC%B4%EA%B3%84%ED%9A%8D2.E46.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202502/24/news-p.v1.20250224.170d74ed7c144f09a27073f56e65c2d8_P1.jpg", 250912 지지고 볶는 여행
+https://bodaponi.b-cdn.net/%EC%A7%80%EC%A7%80%EA%B3%A0%20%EB%B3%B6%EB%8A%94%20%EC%97%AC%ED%96%89.E27.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/228x128/pbbsres.kbs.co.kr/T2019-0286-04-578866/2025/07/25/3013580_1753401348281.jpg", 250912 신상출시 편스토랑
+https://bodaponi.b-cdn.net/%EC%8B%A0%EC%83%81%EC%B6%9C%EC%8B%9C%20%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91.E288.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202402/10/news-p.v1.20240210.fd080148fa794ef182db6cfe5c905fe6_P1.jpg", 250912 이십세기 힛-트쏭
+https://bodaponi.b-cdn.net/%EC%9D%B4%EC%8B%AD%EC%84%B8%EA%B8%B0%20%ED%9E%9B-%ED%8A%B8%EC%8F%AD.E281.250912.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/288x410/programres.kbs.co.kr/t2000-0027/2023/9/7/1694061263576_465730.jpg", 250912 뮤직뱅크
+https://joovideo.cfd/static/streaming-playlists/hls/197ddc01-7de0-4f59-aad3-2adc722cbb34/4df04a58-2538-45f1-bf34-f2744671a1f1-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2024/05/03/SLQ1714696337440-600-847.jpg", 250912 SBS 인기가요
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250908/1964738306507935744/1964738306507935744.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/05/3WD1757032315920-640-360.png", 250912  궁금한 이야기
+https://joovideo.cfd/static/streaming-playlists/hls/f6997f98-1a50-4111-a268-f8b407b9c35b/84f9872c-d497-4297-b273-a83aacba2622-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2200051D/site_poster_img1_20230320050707417.jpg", 250912  요즘 육아 금쪽같은 내 새끼
+https://bodaponi.b-cdn.net/%EC%9A%94%EC%A6%98%20%EC%9C%A1%EC%95%84%20%EA%B8%88%EC%AA%BD%EA%B0%99%EC%9D%80%20%EB%82%B4%20%EC%83%88%EB%81%BC.E252.250912.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2023/01/20/news-p.v1.20230120.a217986a56f443dc8a30b25301e1fedd_P1.webp", 250912 THE 맛있는 녀석들
 https://bodaponi.b-cdn.net/%EB%A7%9B%EC%9E%88%EB%8A%94%20%EB%85%80%EC%84%9D%EB%93%A4%20%EB%B3%B8%ED%8E%B8.250912.S01E530.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202504/637515_994772_3918.jpg", 250912 동네스타K쇼
@@ -2279,8 +2322,6 @@ https://bodaponi.b-cdn.net/%ED%8A%B8%EB%A1%AF%20%EC%98%AC%EC%8A%A4%ED%83%80%EC%A
 https://bodaponi.b-cdn.net/%EB%8D%94%20%EC%8B%9C%EC%A6%8C%EC%A6%88%20-%2010CM%EC%9D%98%20%EC%93%B0%EB%8B%B4%EC%93%B0%EB%8B%B4.E01.250905.720p-NEXT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202508/666900_1035011_3414.jpg", 250905 으라차차 멸치캠프
 https://bodaponi.b-cdn.net/%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%A9%B8%EC%B9%98%EC%BA%A0%ED%94%84_250905.S01E04.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240069D/site_poster_img1_20240524092652325.jpg", 250905 강철지구
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250906/1964023471587594240/1964023471587594240.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250905 나 혼자 산다
 https://bodaponi.b-cdn.net/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.E612.250905.1080p-NEXT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_pEPVfevb_d67a2413abe1c7a9cf006ae2f6a81a074c643452.jpg", 250905 살롱드돌 - 너 참 말 많다
@@ -8103,6 +8144,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
