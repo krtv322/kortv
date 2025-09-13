@@ -2051,7 +2051,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202508/666900_1035011_3414.jpg", 250912 으라차차 멸치캠프
 https://univas.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-variety/202509/0912/%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%A9%B8%EC%B9%98%EC%BA%A0%ED%94%84-250912-E5.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20250913%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250913T062455Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25EC%259C%25BC%25EB%259D%25BC%25EC%25B0%25A8%25EC%25B0%25A8%2520%25EB%25A9%25B8%25EC%25B9%2598%25EC%25BA%25A0%25ED%2594%2584-250912-E5.mp4&X-Amz-Signature=6c94e686bed903affa0ef65f46a65d1d940e69d7331e8773be2cd8cd5e73640c
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 250912 나 혼자 산다
@@ -8146,6 +8145,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
