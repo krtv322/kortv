@@ -1338,7 +1338,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 11회
+https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E11.250913.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2025/06/20/news-p.v1.20250620.c6973f79d0c94eeca15b5c4b137ead54_P1.webp", 메리 킬즈 피플  (2025) 12회
 https://bodaponi.b-cdn.net/%EB%A9%94%EB%A6%AC%20%ED%82%AC%EC%A6%88%20%ED%94%BC%ED%94%8C.S01E12.250912.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
@@ -2053,6 +2054,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202508/12/1fb4cbde-15b3-429c-96f5-47c80e25e876.webp", 250913 60분 소개팅: 30분마다 뉴페이스
+https://bodaponi.b-cdn.net/60%EB%B6%84%20%EC%86%8C%EA%B0%9C%ED%8C%85%2030%EB%B6%84%EB%A7%88%EB%8B%A4%20%EB%89%B4%ED%8E%98%EC%9D%B4%EC%8A%A4%20E05.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202506/654176_1017704_180.jpg", 250913 추성훈의 밥값은 해야지
+https://bodaponi.b-cdn.net/%EC%B6%94%EC%84%B1%ED%9B%88%EC%9D%98%20%EB%B0%A5%EA%B0%92%EC%9D%80%20%ED%95%B4%EC%95%BC%EC%A7%80.E08.250913.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://newsimg.hankookilbo.com/2019/08/19/201908191253063827_2.jpg", 250913 놀라운 토요일 도레미 마켓 HD
+https://bodaponi.b-cdn.net/%EB%86%80%EB%9D%BC%EC%9A%B4%20%ED%86%A0%EC%9A%94%EC%9D%BC.E383.250913.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 250913 불후의 명곡
 https://bodaponi.b-cdn.net/%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1.E722.250913.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250913  놀면 뭐하니
@@ -8159,6 +8166,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
