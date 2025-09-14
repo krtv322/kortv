@@ -2073,12 +2073,12 @@ https://joovideo.cfd/static/streaming-playlists/hls/e4048331-2d4f-4cca-90ca-298a
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.m-i.kr/news/photo/202508/1268113_1046785_3623.jpg", 250914 직장인들 시즌2
+https://bodaponi.b-cdn.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EB%93%A4%20%EC%8B%9C%EC%A6%8C2.E06.250913.%EC%9D%B4%EB%AF%BC%EC%A0%95.1080p.WEB-DL.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250914 신비한TV 서프라이즈
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%84%ED%95%9CTV%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.E1179.250914.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250913 전지적 참견 시점
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250914/1966946838254850048/1966946838254850048.m3u8
+https://bodaponi.b-cdn.net/%EC%A0%84%EC%A7%80%EC%A0%81%20%EC%B0%B8%EA%B2%AC%20%EC%8B%9C%EC%A0%90.S01E364.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250913 속풀이쇼 동치미
 https://bodaponi.b-cdn.net/%EC%86%8D%ED%92%80%EC%9D%B4%EC%87%BC%20%EB%8F%99%EC%B9%98%EB%AF%B8.E666.250914.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0341/2025/8/13/1755068811491_598570.jpg", 250913 KBS 전국투어콘서트
@@ -8211,6 +8211,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
