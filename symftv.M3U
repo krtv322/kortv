@@ -2093,8 +2093,6 @@ https://bodaponi.b-cdn.net/%EC%9E%84%EC%9B%90%ED%9D%AC%EC%9D%98%20%EB%AF%B8%EC%8
 https://bodaponi.b-cdn.net/%EC%85%B0%ED%94%84%EC%9D%98%20%EC%9D%B4%EB%AA%A8%EC%A7%91.E05.250916.1080p.WEB-DL.x264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 250916 배불리힐스
 https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%205%ED%99%94%20k.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250830  놀면 뭐하니
-https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.S01E295.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/02/e04e4c40-4eb1-4e96-8550-0f6b7e5a3fc0.jpeg", 250915 불꽃야구
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250916/1967629104719204352/1967629104719204352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2022/1027/21624_635a7249a49ee[X240,370].jpg", 2500915 박원숙의 같이 삽시다
@@ -5020,7 +5018,16 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능 놀면 뭐하니🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250830  놀면 뭐하니
+https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.S01E295.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능 놀면 뭐하니🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250823  놀면 뭐하니
+https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E294.250823.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 놀면 뭐하니🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250816  놀면 뭐하니
+https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E293.250816.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 놀면 뭐하니🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250809  놀면 뭐하니
+https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E292.250809.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 놀면 뭐하니🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 250802  놀면 뭐하니
+https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E291.1080p.WAVVE.WEB-DL.H264.AAC.mp4
 
 
 
@@ -7990,6 +7997,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
