@@ -976,16 +976,10 @@ https://mt01.utako.moe/bstbs/index.m3u8
 https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
 https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
-https://mt01.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
-https://mt01.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
-https://mt01.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
 https://mt01.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
@@ -1010,8 +1004,7 @@ https://ca01.utako.moe/Animax/index.m3u8
 https://ca01.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://ca01.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",JCOM BS
-https://mt01.utako.moe/jcom_bs/index.m3u8
+
 
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
@@ -2048,13 +2041,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202509/3372200_3498557_5927.png", 250916 한 컷의 비밀
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250917/1968005732242690048/1968005732242690048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/07/program_16f5ec41-4ba6-4c46-8e09-38c94d15e7af.jpg", 250916 이유 있는 건축 공간여행자
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20250917/1967987801593090048/1967987801593090048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://tn.tv.nate.com/unsafe/1200x288/http://img.tvchosun.com/upload_img/broad_image/2025091209263821315042088840470.jpg", 250916 우리 아기가 또 태어났어요
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250917/1967997301934919680/1967997301934919680.m3u8
+https://bodaponi.b-cdn.net/%EC%9A%B0%EB%A6%AC%20%EC%95%84%EA%B8%B0%EA%B0%80%20%EB%98%90%20%ED%83%9C%EC%96%B4%EB%82%AC%EC%96%B4%EC%9A%94.E01.250916.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.youtube.com/vi/XBJZi2IDNik/mqdefault.jpg", 250916 진서연의 NO
 https://bodaponi.b-cdn.net/%EC%A7%84%EC%84%9C%EC%97%B0%EC%9D%98%20NO.E04.250916.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250630/1631/P001773405.jpg/dims/resize/F_webp,480", 250916 아무도 몰랐던 비하인드
@@ -7997,6 +7989,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
