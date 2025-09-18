@@ -1333,6 +1333,11 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 74회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E74.250918.1080p.H264-F1RST.mp4
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 9회
 https://bodaponi.b-cdn.net/%ED%8F%AD%EA%B5%B0%EC%9D%98%EC%85%B0%ED%94%84%EB%A7%9B%EC%A2%8B%EC%9D%80%EC%BD%94%EB%A9%98%ED%84%B0%EB%A6%AC.250917.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 109회
@@ -2051,14 +2056,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202509/03/SpoChosun/20250903171523022tyek.jpg", 250910 괴담노트
-https://bodaponi.b-cdn.net/%EA%B4%B4%EB%8B%B4%EB%85%B8%ED%8A%B8.E02.250910.1080p.H264-F1RST.mp4
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/08/12/2025081115443501680_l.jpg", 250917 미친맛집: 미식가 친구의 맛집 시즌3
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91%20%EC%8B%9C%EC%A6%8C3.6%ED%9A%8C.250918.1080p.NF.WEB-DL.x264.AAC2.0-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202509/03/SpoChosun/20250903171523022tyek.jpg", 250917 괴담노트
+https://bodaponi.b-cdn.net/%EA%B4%B4%EB%8B%B4%EB%85%B8%ED%8A%B8.E03.250916.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 250917 나는 자연인이다
 https://joovideo.cfd/static/streaming-playlists/hls/f5abfa9c-dde6-4ea9-902c-a242648794e1/cd38265e-200c-42c3-8ffb-bfc4230fae4d-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/08/program_2c409fb0-06c3-4436-b028-ec8c083d55cd.jpg", 250917 손석희의 질문들3
@@ -8039,6 +8040,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
