@@ -2089,18 +2089,24 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 250914 전국노래자랑
+https://bodaponi.b-cdn.net/%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91.E2133.250921.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250512/0210/P001771283.jpg/dims/resize/F_webp,480", 250921 씬캐처
+https://bodaponi.b-cdn.net/%EC%94%AC%EC%BA%90%EC%B2%98.E01.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/09/06/news-p.v1.20250906.9bc15d60b48e49298b743c4500249db7_P1.webp", 250921 대식좌의 밥상
+https://bodaponi.b-cdn.net/%EB%8C%80%EC%8B%9D%EC%A2%8C%EC%9D%98%20%EB%B0%A5%EC%83%81.E03.250921.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 250921 신비한TV 서프라이즈
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%84%ED%95%9CTV%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.E1180.250921.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 250920 전지적 참견 시점
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250921/1969436430308610048/1969436430308610048.m3u8
+https://bodaponi.b-cdn.net/%EC%A0%84%EC%A7%80%EC%A0%81%20%EC%B0%B8%EA%B2%AC%20%EC%8B%9C%EC%A0%90.E365.250920.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 250920 속풀이쇼 동치미
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250921/1969426573694210048/1969426573694210048.m3u8
+https://bodaponi.b-cdn.net/%EC%86%8D%ED%92%80%EC%9D%B4%EC%87%BC%20%EB%8F%99%EC%B9%98%EB%AF%B8.E667.250920.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0341/2025/8/13/1755068811491_598570.jpg", 250920 KBS 전국투어콘서트
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250921/1969430285653250048/1969430285653250048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/baddog/images/2025/03/26/13/48/51/c5eb5d2d-b86f-4244-b28a-8f8b384f3041.jpg", 250920 세상에 나쁜 개는 없다
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250920/1969412543747330048/1969412543747330048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 250913 그것이 알고 싶다
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250921/1969433913726210048/1969433913726210048.m3u8
+https://bodaponi.b-cdn.net/%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4.S01E1460.250920.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2024/11/11/news-p.v1.20241111.ef770b9a4ab044b689469b3110807062_P1.webp", 250920 살림하는 남자들 시즌2
 https://bodaponi.b-cdn.net/%EC%82%B4%EB%A6%BC%ED%95%98%EB%8A%94%20%EB%82%A8%EC%9E%90%EB%93%A4%20%EC%8B%9C%EC%A6%8C2.E423.250920.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.fillcon.co.kr/files/programs/eae25b3c3ab0cbfdf0484a26b9164fb5.png", 250920 니돈내산 독박투어3
@@ -8191,6 +8197,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
