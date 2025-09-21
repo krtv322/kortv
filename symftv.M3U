@@ -670,6 +670,10 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1756266807-0-0-8c4ca6bb3d80148bb53c1f4cae92b26d
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1756266921-0-0-c980775f013612d85a4758efb97fabc4
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://liveali-tpsdr.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073L/playlist.m3u8?wsSecret=0b47542ec97e1cbf2a50b57a6fe4d73f&wsTime=1758446977
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://liveali-tpsdr.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073M/playlist.m3u8?wsSecret=235b28e3cbe1c23e9a1cddb20a42d3c4&wsTime=1758447581
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1756266937-0-0-33bb9c95be9914da6d6c52039673ce89
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
@@ -8213,6 +8217,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
