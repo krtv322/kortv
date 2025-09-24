@@ -1897,8 +1897,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제10화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E10.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제9화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E09.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제8화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E08.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제7화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E07.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제6화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E06.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제5화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E05.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/25/6fa53a00-70d2-468e-b9b7-7c73657c2730.jpg", 250924 크라임씬 제로 제0화
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%9D%BC%EC%9E%84%EC%94%AC%20%EB%A6%AC%ED%84%B4%EC%A6%88.E00.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250630/1631/P001773405.jpg/dims/resize/F_webp,480", 250923 아무도 몰랐던 비하인드
 https://bodaponi.b-cdn.net/%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%B0%EB%9E%90%EB%8D%98,%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C.250923.E12.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/07/program_16f5ec41-4ba6-4c46-8e09-38c94d15e7af.jpg", 250923 이유 있는 건축 공간여행자
@@ -8367,6 +8379,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
