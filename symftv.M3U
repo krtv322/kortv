@@ -2979,8 +2979,8 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250926-1/a7af65597da7de46f262ed7c42543d58.jpg", 좀비딸
+https://europe.olemovienews.com/ts4/20250925/nH4cP6vw/mp4/nH4cP6vw.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250917-1/b16c684767d648d4de6bf2d50fa6790a.jpg", 恶魔搬进来了
 https://europe.olemovienews.com/ts4/20250917/cnyTvo5o/mp4/cnyTvo5o.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e1fec8c870f8a25f.jpg", 강령:귀신놀이 2025
@@ -8519,6 +8519,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
