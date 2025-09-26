@@ -1933,7 +1933,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2025/0717/2025071621010580295_1752667265_1752656860.jpg", 250925 보이즈 2 플래닛
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250926/1971264203134210048/1971264203134210048.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.topstarnews.net/news/photo/202505/15653934_1559807_835.jpg", 250925 사랑의 콜센타 세븐스타즈
@@ -8519,6 +8518,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
