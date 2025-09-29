@@ -1342,16 +1342,12 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250913-1/1ee62e3b6730aeae6a6e28d640f0cd8f.jpg", 백번의 추억 제6회
-https://bodaponi.b-cdn.net/%EB%B0%B1%EB%B2%88%EC%9D%98%20%EC%B6%94%EC%96%B5.E06.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c2df0e36a1cf93dc.jpg", 컨피던스맨 제8회
-https://bodaponi.b-cdn.net/%EC%BB%A8%ED%94%BC%EB%8D%98%EC%8A%A4%EB%A7%A8%20KR.E08.250928.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 12회
-https://bodaponi.b-cdn.net/%ED%8F%AD%EA%B5%B0%EC%9D%98%20%EC%85%B0%ED%94%84.%EC%B5%9C%EC%A2%85%ED%9A%8C.E12.250928.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0051/VbRm3szUcpZL.jpg", 은수 좋은 날 제4화
-https://bodaponi.b-cdn.net/%EC%9D%80%EC%88%98%20%EC%A2%8B%EC%9D%80%20%EB%82%A0.E04.250928.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 16회
-https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E16.250928.1080p.H264-F1RST.mp4
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 81회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E81.250929.1080p.H264-F1RST.mp4
+
+
 
 
 
@@ -1383,6 +1379,8 @@ https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A
 https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E02.250923.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제1화
 https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.%EC%B2%AB%ED%9A%8C.E01.250922.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0051/VbRm3szUcpZL.jpg", 은수 좋은 날 제4화
+https://bodaponi.b-cdn.net/%EC%9D%80%EC%88%98%20%EC%A2%8B%EC%9D%80%20%EB%82%A0.E04.250928.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0051/VbRm3szUcpZL.jpg", 은수 좋은 날 제3화
 https://bodaponi.b-cdn.net/%EC%9D%80%EC%88%98%20%EC%A2%8B%EC%9D%80%20%EB%82%A0.E03.250927.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0051/VbRm3szUcpZL.jpg", 은수 좋은 날 제2화
@@ -1405,6 +1403,8 @@ https://bodaponi.b-cdn.net/%EC%8B%A0%EC%82%AC%EC%9E%A5%20%ED%94%84%EB%A1%9C%EC%A
 https://europe.olemovienews.com/ts4/20250917/zESzgAH7/mp4/zESzgAH7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250915/0545/P001775535.jpg/dims/resize/F_webp,480", 신사장 프로젝트 제1화
 https://europe.olemovienews.com/ts4/20250916/vJLzgneq/mp4/vJLzgneq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250913-1/1ee62e3b6730aeae6a6e28d640f0cd8f.jpg", 백번의 추억 제6회
+https://bodaponi.b-cdn.net/%EB%B0%B1%EB%B2%88%EC%9D%98%20%EC%B6%94%EC%96%B5.E06.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250913-1/1ee62e3b6730aeae6a6e28d640f0cd8f.jpg", 백번의 추억 제5회
 https://bodaponi.b-cdn.net/%EB%B0%B1%EB%B2%88%EC%9D%98%20%EC%B6%94%EC%96%B5.E05.250927.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250913-1/1ee62e3b6730aeae6a6e28d640f0cd8f.jpg", 백번의 추억 제4회
@@ -1429,6 +1429,8 @@ https://europe.olemovienews.com/ts4/20250910/KvNwIaC5/mp4/KvNwIaC5.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250910/nRuMDHbR/mp4/nRuMDHbR.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02235e0ac0885f80c5.jpg", 북극성 (2025) 1회
 https://europe.olemovienews.com/ts4/20250910/cqQnwxFW/mp4/cqQnwxFW.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c2df0e36a1cf93dc.jpg", 컨피던스맨 제8회
+https://bodaponi.b-cdn.net/%EC%BB%A8%ED%94%BC%EB%8D%98%EC%8A%A4%EB%A7%A8%20KR.E08.250928.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c2df0e36a1cf93dc.jpg", 컨피던스맨 제7회
 https://bodaponi.b-cdn.net/%EC%BB%A8%ED%94%BC%EB%8D%98%EC%8A%A4%EB%A7%A8%20KR.E07.250927.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c2df0e36a1cf93dc.jpg", 컨피던스맨 제6회
@@ -1515,6 +1517,8 @@ https://europe.olemovienews.com/ts4/20250825/SaBDGFbZ/mp4/SaBDGFbZ.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250819/318tlyva/mp4/318tlyva.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250725/0055/P001774275.jpg/dims/resize/F_webp,480", 금쪽같은 내 스타 (2025) 1회
 https://europe.olemovienews.com/ts4/20250818/z6gtka04/mp4/z6gtka04.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 12회
+https://bodaponi.b-cdn.net/%ED%8F%AD%EA%B5%B0%EC%9D%98%20%EC%85%B0%ED%94%84.%EC%B5%9C%EC%A2%85%ED%9A%8C.E12.250928.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 11회
 https://bodaponi.b-cdn.net/%ED%8F%AD%EA%B5%B0%EC%9D%98%20%EC%85%B0%ED%94%84.E11.250927.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 10회
@@ -1537,6 +1541,8 @@ https://europe.olemovienews.com/ts4/20250830/6R1RbjIk/mp4/6R1RbjIk.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250824/OXWY55Qr/mp4/OXWY55Qr.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250731/0525/P001774816.jpg/dims/resize/F_webp,480", 폭군의 셰프 (2025) 1회
 https://europe.olemovienews.com/ts4/20250823/kvzp01di/mp4/kvzp01di.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 16회
+https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E16.250928.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 15회
 https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E15.250927.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 14회
@@ -1976,12 +1982,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ps.ssl.qhimg.com/t023b51de30dc7ae618.jpg", 250929 짧아유
+https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0.7%ED%9A%8C.250929.1080p.HS.WEB-DL.x264.AAC2.0-LoveBug.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 250928 심야괴담회 시즌5
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20250929/1972331108402073600/1972331108402073600.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 250928 이제 만나러 갑니다
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20250929/1972322845468004352/1972322845468004352.m3u8
+https://bodaponi.b-cdn.net/%EC%9D%B4%EC%A0%9C%20%EB%A7%8C%EB%82%98%EB%9F%AC%20%EA%B0%91%EB%8B%88%EB%8B%A4.E717.250928.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=3&simg=2025082810224903709d3244b4fed58141237106.jpg&nmt=29", 250928 백투더뮤직 시즌2
 https://joovideo.cfd/static/web-videos/3f6f533e-2a8c-4d5b-8bcd-1c1d55c86a64-360.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0090/2025/3/27/1743050576328_575163.jpg", 250928 인생이 영화
@@ -8704,6 +8710,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
