@@ -3390,6 +3390,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.chosun.com/resizer/v2/Y6HJARRNRRC2JBSC4TSSAQDSCA.jpg?auth=e1009abbd2f1b0b1b7520ea5f0043370849eb152dcfbe576a13579a9ef4ce336&width=616", 악마가 이사왔다
 https://bodaponi.b-cdn.net/%EC%95%85%EB%A7%88%EA%B0%80%20%EC%9D%B4%EC%82%AC%EC%99%94%EB%8B%A4%20bb.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250914-1/00fb104188506b8b35465ac3d8953e50.jpg", 금구 세가지파편
@@ -3861,8 +3864,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251001-1/464079680e15eeb12585f9367a5d8af9.jpg", 偷天盗日
+https://europe.olemovienews.com/ts4/20250930/an1is5r9/mp4/an1is5r9.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250810-1/7382459791c28217ab998ca9b75ebc58.jpg", 长安的荔枝
 https://europe.olemovienews.com/ts4/20250929/dIPwnDCg/mp4/dIPwnDCg.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250930-1/6044ca9e4e55db1de5fbae90b98acd82.jpg", 器子
@@ -8952,6 +8955,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
