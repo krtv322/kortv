@@ -1500,14 +1500,15 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 17회
+https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E17.251004.1080p.H264-F1RST.mp4
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250928074146_4c49cf04ab85121b1fc05d9336347deb.jpg", 화자의 스칼렛 제1화
 https://bodaponi.b-cdn.net/tvN%20X%20TVING%20%EB%8B%A8%ED%8E%B8%20%EB%93%9C%EB%9D%BC%EB%A7%88%20%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98%20-%20%ED%99%94%EC%9E%90%EC%9D%98%20%EC%8A%A4%EC%B9%BC%EB%A0%9B.251003.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/19/d4936b9b-f0dc-4951-a9e2-43761d1aee5f.jpg", 달까지 가자 제5화
 https://bodaponi.b-cdn.net/%EB%8B%AC%EA%B9%8C%EC%A7%80%20%EA%B0%80%EC%9E%90.E05.251003.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제10회
-https://bodaponi.b-cdn.net/%EB%A7%88%EC%9D%B4%20%EC%9C%A0%EC%8A%A4.E10.251003.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제9회
-https://bodaponi.b-cdn.net/%EB%A7%88%EC%9D%B4%20%EC%9C%A0%EC%8A%A4.E09.251003.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 미리보기
 https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8~%EB%A6%AC%EB%B3%B4%EA%B8%B0.E01.251003.1080p.WANNA.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://xinlangtupian.com/cover/07efc6993f625bff549d19d1518f3537.jpg", 대운을 잡아라 (2025) 121회
@@ -1670,6 +1671,10 @@ https://europe.olemovienews.com/ts4/20250912/BKIYH9LA/mp4/BKIYH9LA.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20250906/kEU3PYbN/mp4/kEU3PYbN.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ps.ssl.qhimg.com/t02daff72731eea7a64.jpg", 사마귀 : 살인자의 외출 제1회
 https://europe.olemovienews.com/ts4/20250905/v7pqA7vc/mp4/v7pqA7vc.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제10회
+https://bodaponi.b-cdn.net/%EB%A7%88%EC%9D%B4%20%EC%9C%A0%EC%8A%A4.E10.251003.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제9회
+https://bodaponi.b-cdn.net/%EB%A7%88%EC%9D%B4%20%EC%9C%A0%EC%8A%A4.E09.251003.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제8회
 https://bodaponi.b-cdn.net/%EB%A7%88%EC%9D%B4%20%EC%9C%A0%EC%8A%A4.E08.250926.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/11/27b0bb28-2652-4e27-a75b-22d0ecdd86fd.jpg", 마이 유스 (2025) 제7회
@@ -2137,6 +2142,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.slist.kr/news/photo/202506/654176_1017704_180.jpg", 251004 추성훈의 밥값은 해야지
+https://bodaponi.b-cdn.net/%EC%B6%94%EC%84%B1%ED%9B%88%EC%9D%98%20%EB%B0%A5%EA%B0%92%EC%9D%80%20%ED%95%B4%EC%95%BC%EC%A7%80.E11.251004.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etoday.co.kr/pto_db/2017/03/20170318053855_1035980_460_260.jpg", 251004 불후의 명곡
+https://bodaponi.b-cdn.net/%EB%B6%88%ED%9B%84%EC%9D%98%20%EB%AA%85%EA%B3%A1.%EC%B6%94%EC%84%9D%EA%B8%B0%ED%9A%8D.E725.251004.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/03/14/30000675676_1280.jpg", 251004  놀면 뭐하니
 https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E300.251004.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/03/21/30000981835_1280.jpg", 251004 저스트 메이크업 제3화
@@ -3987,6 +3998,11 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a82bde13673e23ef32b1b8c13087942c.jpg", 东极岛
+https://europe.olemovienews.com/ts4/20251004/jes0j1f1/mp4/jes0j1f1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a65f201bbed225de220a5e24e52ec345.jpg", 火烧天堂镇
 https://europe.olemovienews.com/ts4/20251003/n1g3ixp2/mp4/n1g3ixp2.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/74d1dfcaaf39c836dc2c74a1a5868103.jpg", 史蒂夫
@@ -9206,6 +9222,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
