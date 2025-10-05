@@ -1907,11 +1907,24 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2020/0615/611318110014690868_1.jpg", 251005 복면가왕
+https://joovideo.cfd/static/streaming-playlists/hls/21730668-faa9-419a-91fb-434f61b04e74/f9a52ef5-5f23-49cb-b134-67cc7d21f06c-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 251005 전국노래자랑
+https://joovideo.cfd/static/streaming-playlists/hls/19a4e0f0-8b94-4cfc-8b3e-80ce5f151d59/47541524-9b00-4adc-92cf-fca11b769ec6-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 251005 출발! 비디오 여행
+https://joovideo.cfd/static/streaming-playlists/hls/cdb664ec-1255-48a9-a5dc-e53b77071831/93bd9817-eeaf-4e46-a21a-464f6680b0e0-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/08/04/YLl1691125810777-152-152.png", 251005 TV 동물농장
+https://joovideo.cfd/static/streaming-playlists/hls/9dd998fc-7f9f-4002-973c-9387c33b4711/2839b147-db30-41fe-be5b-daffcde6b78d-master.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 251005 1박 2일
+https://bodaponi.b-cdn.net/1%EB%B0%95%202%EC%9D%BC%20%EC%8B%9C%EC%A6%8C4.E295.251005.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 251005 런닝맨
+https://bodaponi.b-cdn.net/%EB%9F%B0%EB%8B%9D%EB%A7%A8.E772.251005.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.sportschosun.com/article/html/2019/04/02/2019040301000192000010051.jpg", 251005 사장님 귀는 당나귀 귀
+https://bodaponi.b-cdn.net/%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80.E326.251005.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 251005 신비한TV 서프라이즈
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%84%ED%95%9CTV%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.E1182.251005.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/09/06/news-p.v1.20250906.9bc15d60b48e49298b743c4500249db7_P1.webp", 251005 대식좌의 밥상
+https://bodaponi.b-cdn.net/%EB%8C%80%EC%8B%9D%EC%A2%8C%EC%9D%98%20%EB%B0%A5%EC%83%81.E05.251005.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 251004 전지적 참견 시점
 https://bodaponi.b-cdn.net/%EC%A0%84%EC%A7%80%EC%A0%81%20%EC%B0%B8%EA%B2%AC%20%EC%8B%9C%EC%A0%90.E367.251004.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0341/2025/8/13/1755068811491_598570.jpg", 251004 KBS 전국투어콘서트
@@ -1933,7 +1946,7 @@ https://joovideo.cfd/static/streaming-playlists/hls/c587f35a-5792-4e88-a200-475d
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.podbbang.com/pbi/t/430/240/p/14145.jpg?20250427", 251004 강적들
 https://bodaponi.b-cdn.net/%EA%B0%95%EC%A0%81%EB%93%A4.E608.251004.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://www.kbsn.co.kr/m/images/upload/program/20240205/2024020594052849-Program_home_640_690_M(cecac9).png", 251004 차트를 달리는 남자
-https://joovideo.cfd/static/streaming-playlists/hls/01cdb186-ebc1-4b53-b317-267910d15e8f/aa4364d4-0dd3-41cc-815f-6ddb1bdd0b3e-master.m3u8
+https://bodaponi.b-cdn.net/%EC%B0%A8%ED%8A%B8%EB%A5%BC%20%EB%8B%AC%EB%A6%AC%EB%8A%94%20%EB%82%A8%EC%9E%90.E456.251004.720p-NEXT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.fillcon.co.kr/files/programs/eae25b3c3ab0cbfdf0484a26b9164fb5.png", 251004 니돈내산 독박투어3
 https://bodaponi.b-cdn.net/%EB%8B%88%EB%8F%88%EB%82%B4%EC%82%B0%20%EB%8F%85%EB%B0%95%ED%88%AC%EC%96%B44.E19.251004.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2018-0429/2023/4/18/1681796323112_441229.jpg", 251004 동네 한 바퀴
@@ -9290,6 +9303,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
