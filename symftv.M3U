@@ -3834,6 +3834,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251005-1/4f244a5ad315f4df99fc74fc02aa06df.jpg", 致命录像带：万圣节
+https://europe.olemovienews.com/ts4/20251005/hpx110ww/mp4/hpx110ww.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a82bde13673e23ef32b1b8c13087942c.jpg", 东极岛
 https://europe.olemovienews.com/ts4/20251004/jes0j1f1/mp4/jes0j1f1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a65f201bbed225de220a5e24e52ec345.jpg", 火烧天堂镇
@@ -9303,6 +9307,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
