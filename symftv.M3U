@@ -1943,7 +1943,7 @@ https://bodaponi.b-cdn.net/%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%98%20%EB%B0%9C%EB%9
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/09/program_ec0c468f-3234-4376-8087-a278c16d8c76.jpg", 251007 시골마을 이장우 2
 https://bodaponi.b-cdn.net/%EC%8B%9C%EA%B3%A8%EB%A7%88%EC%9D%84%20%EC%9D%B4%EC%9E%A5%EC%9A%B0%202.E02.251007.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250818/0621/P001775499.jpg/dims/resize/F_webp,480", 251007 촌장주점
-https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251007/1975479247967490048/1975479247967490048.m3u8
+https://bodaponi.b-cdn.net/%EC%B4%8C%EC%9E%A5%EC%A3%BC%EC%A0%90.E08.251007.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/09/program_c77f5a3c-2106-4947-acda-38242291ef3d.jpg", 251007 2025 아이돌스타 선수권대회
 https://bodaponi.b-cdn.net/2025%20%EC%B6%94%EC%84%9D%ED%8A%B9%EC%A7%91%20%EC%95%84%EC%9D%B4%EB%8F%8C%EC%8A%A4%ED%83%80%20%EC%84%A0%EC%88%98%EA%B6%8C%EB%8C%80%ED%9A%8C%20(%EC%95%84%EC%9C%A1%EB%8C%80).E02.251007.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/filewww/news/2025/09/23/175858739668d1ea04762de.png", 251007 돈마카세
@@ -3454,8 +3454,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0903/13_11_03__68b7bfd730678[X280,400].jpg", 빌리브 (2025)
+https://bodaponi.b-cdn.net/%EB%B9%8C%EB%A6%AC%EB%B8%8C%20,2025.1080p.WEBRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/14_40_57__6879de69cbcdb[X280,400].jpg", 추적 (2025)
 https://www.yadongnara56.site/video/m3u8//d46a4275/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0806/13_43_56__6892dd8ceaac5[X280,400].jpg", 비밀일 수밖에 (2025)
@@ -9457,6 +9457,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
