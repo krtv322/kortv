@@ -1937,7 +1937,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/10/08/595307ff-400e-41f2-961d-8a184e3b5b11.JPG", 251009 천만트롯쇼
 https://bodaponi.b-cdn.net/%EC%B2%9C%EB%A7%8C%ED%8A%B8%EB%A1%AF%EC%87%BC.E02.251009.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202412/20/news-p.v1.20241220.1d1895d66e23474aac131d3cc079001d_P1.jpg", 251009 이혼숙려캠프
@@ -1974,6 +1973,8 @@ https://joovideo.cfd/static/streaming-playlists/hls/66507e58-786c-47de-8452-4acc
 https://joovideo.cfd/static/streaming-playlists/hls/abd0aa1a-fd6b-4085-b2a4-cf4fe3e750af/2afc530d-2562-4df2-a75d-0a6d4d2fcdbb-master.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/issue/2108744515_aWe7TSZo_fc6e6b7c7506ef2e721e77eaa0d20635e2cab4d6[W680-].jpg", 251009 도라이버: 잃어버린 핸들을 찾아서 시즌2
 https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20251009.S02E17.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202510/02/d4b43f1f-8e24-4638-b75b-d4a74b004759.webp", 251009 완벽한 식탁
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251010/1976348077065375744/1976348077065375744.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0307/2020/4/22/1587513934591_256054.jpg", 251008 스튜디오 K
 https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4K.E286.251008.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/10/08/595307ff-400e-41f2-961d-8a184e3b5b11.JPG", 251008 천만트롯쇼
@@ -9583,6 +9584,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
