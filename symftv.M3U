@@ -1937,14 +1937,13 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2018-0562/2025/6/23/1750665070511_589922.jpg", 2501002  옥탑방의 문제아들
-https://bodaponi.b-cdn.net/%EC%98%A5%ED%83%91%EB%B0%A9%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%95%84%EB%93%A4.E286.251002.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250825/0610/P001775777.jpg/dims/resize/F_webp,480", 251002 각집부부
-https://bodaponi.b-cdn.net/%EA%B0%81%EC%A7%91%EB%B6%80%EB%B6%80.E06.251002.1080p.H264-F1RST.mp4
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/10/08/595307ff-400e-41f2-961d-8a184e3b5b11.JPG", 251009 천만트롯쇼
-https://joovideo.cfd/static/streaming-playlists/hls/b6c09a82-4217-427f-abae-c6c948ceef5f/b0a69f8d-167c-461b-aad3-f2f178e98445-master.m3u8
+https://bodaponi.b-cdn.net/%EC%B2%9C%EB%A7%8C%ED%8A%B8%EB%A1%AF%EC%87%BC.E02.251009.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202412/20/news-p.v1.20241220.1d1895d66e23474aac131d3cc079001d_P1.jpg", 251009 이혼숙려캠프
-https://joovideo.cfd/static/streaming-playlists/hls/a6807810-e995-41a3-9ed0-955c8c8ea10b/af44e43b-4764-4b47-aec7-966d57e110a9-master.m3u8
+https://bodaponi.b-cdn.net/%EC%9D%B4%ED%98%BC%EC%88%99%EB%A0%A4%EC%BA%A0%ED%94%84.E57.251009.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file2.nocutnews.co.kr/newsroom/image/2019/02/26/20190226132318732111_0_777_1158.jpg", 251009 구해줘 홈즈
+https://bodaponi.b-cdn.net/%EA%B5%AC%ED%95%B4%EC%A4%98!%20%ED%99%88%EC%A6%88.E319.251009.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2025/10/01/2c358b2b-5896-4ffe-b16a-daa67fc7b842248w640.jpg", 251009 뉴-올드보이 박찬욱
 https://bodaponi.b-cdn.net/%EB%89%B4-%EC%98%AC%EB%93%9C%EB%B3%B4%EC%9D%B4%20%EB%B0%95%EC%B0%AC%EC%9A%B1.E02.251009.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 251009 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
@@ -9584,6 +9583,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
