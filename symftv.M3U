@@ -75,6 +75,8 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",장기TV
+http://141.164.53.195/kakotvlive/brain.php
 #EXTINF:-1 group-title="🐉한국방송🦆",KFN
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w2128752943.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
@@ -208,7 +210,7 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CBS
-https://krtv.site/kakotvlive/kakotvlive27/cbs.php
+http://141.164.53.195/kakotvlive/cbs.php
 #EXTINF:-1 group-title="🐉한국방송🦆",cts
 https://video.cdn.cts.tv/index_1.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CGN
@@ -9620,6 +9622,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
