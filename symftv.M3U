@@ -71,6 +71,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC에브리원
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",mbcon
+http://141.164.53.195/kakotvlive/mbcon.php
+#EXTINF:-1 group-title="🐉한국방송🦆",inet
+http://141.164.53.195/kakotvlive/inet.php
+#EXTINF:-1 group-title="🐉한국방송🦆",sbsplus
+http://141.164.53.195/kakotvlive/sbsplus.php
+#EXTINF:-1 group-title="🐉한국방송🦆",tvnshow
+http://141.164.53.195/kakotvlive/tvnshow.php
+#EXTINF:-1 group-title="🐉한국방송🦆",ocnmovies
+http://141.164.53.195/kakotvlive/ocnmovies.php
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn
+http://141.164.53.195/kakotvlive/ocn.php
+#EXTINF:-1 group-title="🐉한국방송🦆",ocnmovies2
+http://141.164.53.195/kakotvlive/ocnmovies2.php
+#EXTINF:-1 group-title="🐉한국방송🦆",histrory
+http://141.164.53.195/kakotvlive/histrory.php
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",인기영화
@@ -9632,6 +9648,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
