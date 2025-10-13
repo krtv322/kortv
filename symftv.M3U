@@ -2015,7 +2015,7 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 251012 개그 콘서트 SUPER LIVE
-https://wiselife.blog/hls/68ebdc7af97822ae4e34bebb.m3u8
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8%EC%BD%98%EC%84%9C%ED%8A%B8.E1142.251012.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 251012 이제 만나러 갑니다
 https://wiselife.blog/hls/68ebdbf3f97822ae4e34beb9.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 251012 심야괴담회 시즌5
@@ -9411,6 +9411,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
