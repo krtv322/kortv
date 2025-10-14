@@ -3370,6 +3370,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231207/0448/P000152099.jpg/dims/resize/F_webp,480", 가족의 비밀 (2025)
+https://bodaponi.b-cdn.net/%EA%B0%80%EC%A1%B1%EC%9D%98%20%EB%B9%84%EB%B0%80%20,2025.1080p.WEBRip.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0811/10_17_27__689944a7cf12f[X280,400].jpg", 다른 것으로 알려질 뿐이지 (2025)
+https://bodaponi.b-cdn.net/%EB%8B%A4%EB%A5%B8%20%EA%B2%83%EC%9C%BC%EB%A1%9C%20%EC%95%8C%EB%A0%A4%EC%A7%88%20%EB%BF%90%EC%9D%B4%EC%A7%80%20Merely%20Known%20as%20Something%20Else,%202025.1080p.WEBRip.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250628072507_5abfc3ceac2bd7445a2d29bef4111177.jpg", 여름이 지나가면 (2025)
+https://bodaponi.b-cdn.net/%EC%97%AC%EB%A6%84%EC%9D%B4%20%EC%A7%80%EB%82%98%EA%B0%80%EB%A9%B4%20When%20This%20Summer%20is%20Over,%202025.1080p.WEBRip.H264.AAC%20kk.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0903/13_11_03__68b7bfd730678[X280,400].jpg", 빌리브 (2025)
 https://bodaponi.b-cdn.net/%EB%B9%8C%EB%A6%AC%EB%B8%8C%20,2025.1080p.WEBRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/14_40_57__6879de69cbcdb[X280,400].jpg", 추적 (2025)
@@ -3380,8 +3386,6 @@ https://www.yadongnara56.site/video/m3u8//e49a4ca7/index.m3u8
 https://www.yadongnara56.site/video/m3u8//5a6ae510/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0714/17_40_26__6874c27aac5e3[X280,400].jpg", 우리 둘 사이에 (2025)
 https://www.yadongnara56.site/video/m3u8//199de4b3/index.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0625/10_04_11__685b4b0be9b68[X280,400].jpg", 여름이 지나가면 2025
-https://www.yadongnara56.site/video/m3u8//eda40d66/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0821/18_05_39__68a6e163bb1ef[X280,400].JPG", 서부리 사나이 2025
 https://www.yadongnara56.site/video/m3u8//bd71cae8/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/17_56_06__687a0c267fe90[X280,400].jpg", 815 사수작전 2025
@@ -9439,6 +9443,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
