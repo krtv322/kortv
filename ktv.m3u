@@ -3,67 +3,43 @@
 http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
 http://koreatv.dothome.co.kr/kbs1.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
-http://141.164.53.195/kakotvlive/kbs1.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",KBS1대구
 http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://koreatv.dothome.co.kr/kbs2.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-http://141.164.53.195/kakotvlive/kbs2.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
-http://141.164.53.195/kakotvlive/sbs.php
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV (406p) [Not 24/7]
+http://110.42.54.62:8080/live/sbs.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS JTV (406p) [Not 24/7]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://koreatv.dothome.co.kr/mbc.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC
-http://141.164.53.195/kakotvlive/mbc.php
 #EXTINF:-1  group-title="🐉한국방송🦆",MBC제주TV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC춘천
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
-http://141.164.53.195/kakotvlive/mbn.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
-http://141.164.53.195/kakotvlive/tvchosun.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🐉한국방송🦆",채널A
-http://141.164.53.195/kakotvlive/channela.php
-#EXTINF:-1 group-title="🐉한국방송🦆",채널A
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
-http://141.164.53.195/kakotvlive/yna.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
-http://141.164.53.195/kakotvlive/ytn.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",tvN
-http://141.164.53.195/kakotvlive/tvn.php
-#EXTINF:-1 group-title="🐉한국방송🦆",JTBC
-http://141.164.53.195/kakotvlive/jtbc.php
-#EXTINF:-1 group-title="🐉한국방송🦆",ENA
-http://141.164.53.195/kakotvlive/ena.php
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",iNET
-http://141.164.53.195/kakotvlive/inet.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边1台.png",YBTV-1朝鲜语
@@ -80,46 +56,8 @@ http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
 http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",kbsnews
 http://mytv.dothome.co.kr/ch/catv/1.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC ON
-http://141.164.53.195/kakotvlive/mbcon.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SBS PLUS
-http://141.164.53.195/kakotvlive/sbsplus.php
-#EXTINF:-1  group-title="🐉한국방송🦆",중화 TV
-http://141.164.53.195/kakotvlive/zhtv.php
-#EXTINF:-1 group-title="🐉한국방송🦆",OCN
-http://141.164.53.195/kakotvlive/ocn.php
-#EXTINF:-1 group-title="🐉한국방송🦆",OCN Movies
-http://141.164.53.195/kakotvlive/ocnmovies.php
-#EXTINF:-1 group-title="🐉한국방송🦆",OCN Movies 2
-http://141.164.53.195/kakotvlive/ocnmovies2.php
-#EXTINF:-1 group-title="🐉한국방송🦆" ,HISTORY
-http://141.164.53.195/kakotvlive/histrory.php
 #EXTINF:-1  group-title="🐉한국방송🦆",FTV
 http://218.236.58.185:1935/FTVLIVE_WEB/Stream_web/chunklist_w1794675765.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",KBS N 스포츠
-http://141.164.53.195/kakotvlive/koreansports.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC스포츠
-http://141.164.53.195/kakotvlive/mbcnsports.php
-#EXTINF:-1 group-title="🐉한국방송🦆",스카이스포츠
-http://141.164.53.195/kakotvlive/skysports.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SBS스포츠
-http://141.164.53.195/kakotvlive/sbssports.php
-#EXTINF:-1 group-title="🐉한국방송🦆",TVN Sports
-http://141.164.53.195/kakotvlive/tvnsports.php
-#EXTINF:-1  group-title="🐉한국방송🦆",SPOTV
-http://141.164.53.195/kakotvlive/spotv.php
-#EXTINF:-1  group-title="🐉한국방송🦆",SPOTV2
-http://141.164.53.195/kakotvlive/spotv2.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV Prime HD
-http://141.164.53.195/kakotvlive/spotvprimehd.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV ON HD
-http://141.164.53.195/kakotvlive/spotvonhd.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SPOTV ON 2
-https://krtv.site/kakotvlive/kakotvlive27/spotvon2.php
-#EXTINF:-1 group-title="🐉한국방송🦆",바둑TV
-http://141.164.53.195/kakotvlive/baduktv.php
-#EXTINF:-1 group-title="🐉한국방송🦆",장기티비
-http://141.164.53.195/kakotvlive/brain.php
 #EXTINF:-1 group-title="🐉한국방송🦆" ,NIB 남인천방송
 http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" ,다문화TV
