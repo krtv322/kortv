@@ -8,10 +8,10 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS2.png",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 206
-http://1.214.67.206/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
+https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-http://koreatv.dothome.co.kr/mbc.php
+http://www.hwado.net/webtv/catv/503_CFEA7803.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
@@ -74,8 +74,6 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",장기TV
-http://141.164.53.195/kakotvlive/brain.php
 #EXTINF:-1 group-title="🐉한국방송🦆",KFN
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w2128752943.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
@@ -209,7 +207,7 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CBS
-http://141.164.53.195/kakotvlive/kakotvlive36/cbs.php
+http://141.164.53.195/kakotvlive/cbs.php
 #EXTINF:-1 group-title="🐉한국방송🦆",cts
 https://video.cdn.cts.tv/index_1.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CGN
@@ -384,8 +382,6 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="🐉한국방송🦆",韩·EBS-1
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00772&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="🐉한국방송🦆"tvg-logo="https://kenpark76.github.io/logo/SBS.png",SBS
-https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun 
@@ -399,8 +395,6 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=HD&
 https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",EBS+1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆",tvN
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",tvN
 https://everylive.space/live/tvn/livestream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTBC
@@ -411,7 +405,6 @@ http://39.125.42.21:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=SD&api
 http://211.170.95.22/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 38
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 80
 http://1.214.67.12:80/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 100
@@ -426,8 +419,8 @@ http://1.214.67.101/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 http://1.214.67.103/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS 120
 http://1.214.67.210/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-
-
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
+http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 
 
 
@@ -446,7 +439,7 @@ http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-http://1.214.67.38/vod/50301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
@@ -457,10 +450,8 @@ http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a(고화질)
 http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",ENA
-http://141.164.53.195/kakotvlive/ena.php
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국고화질 년비용🦆",tvN
-http://141.164.53.195/kakotvlive/tvn.php
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSStory
@@ -475,16 +466,6 @@ http://koreatv.dothome.co.kr/kbsjoy.php
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,SBS PLUS
-http://141.164.53.195/kakotvlive/sbsplus.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,tvN Show
-http://141.164.53.195/kakotvlive/tvnshow.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC ON
-http://141.164.53.195/kakotvlive/mbcon.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,HISTORY
-http://141.164.53.195/kakotvlive/histrory.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,iNET
-http://141.164.53.195/kakotvlive/inet.php
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국고화질 년비용🦆",TV Chosun 2 (720p)
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" ,GMTV (고화질)
@@ -499,12 +480,6 @@ http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png",프리미엄 영화 (고화질)
 http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OCN
-http://141.164.53.195/kakotvlive/ocn.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OCN Movies
-http://141.164.53.195/kakotvlive/ocnmovies.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",OCN Movies 2
-http://141.164.53.195/kakotvlive/ocnmovies2.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",HCN 부산방송 (고화질)
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Groovv (고화질)
@@ -547,22 +522,6 @@ https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.co
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SKY SPORTS F1
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KBS N 스포츠
-http://141.164.53.195/kakotvlive/koreansports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",MBC스포츠
-http://141.164.53.195/kakotvlive/mbcnsports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",스카이스포츠
-http://141.164.53.195/kakotvlive/skysports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SBS스포츠
-http://141.164.53.195/kakotvlive/sbssports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",TVN Sports
-http://141.164.53.195/kakotvlive/tvnsports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV Prime HD
-http://141.164.53.195/kakotvlive/spotvprimehd.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON HD
-http://141.164.53.195/kakotvlive/spotvonhd.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON 2
-http://141.164.53.195/kakotvlive/spotvon2.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",IB SPORTS
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
@@ -653,7 +612,22 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",KBS N 스포츠
+http://141.164.53.195/kakotvlive/koreansports.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",MBC스포츠
+http://141.164.53.195/kakotvlive/mbcnsports.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",스카이스포츠
+http://141.164.53.195/kakotvlive/skysports.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SBS스포츠
+http://141.164.53.195/kakotvlive/sbssports.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",TVN Sports
+http://141.164.53.195/kakotvlive/tvnsports.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV Prime HD
+http://141.164.53.195/kakotvlive/spotvprimehd.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON HD
+http://141.164.53.195/kakotvlive/spotvonhd.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON 2
+http://141.164.53.195/kakotvlive/spotvon2.php
 
 
 
@@ -9461,6 +9435,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
