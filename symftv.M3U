@@ -2027,9 +2027,24 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2025/09/22/c2384290-902c-40f3-ba12-3db14f92ddb3755w640.jpg", 251019 SBS 인기가요
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20251019/1979829601052004352/1979829601052004352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2025/1010/25984_68e8f7f2e1bbc[X224,320].jpg", 251019 셰프의 손길 완벽 한 끼
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251019/1979810516964610048/1979810516964610048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 251019 전국노래자랑
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251019/1979807392208130048/1979807392208130048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 251019 출발! 비디오 여행
+https://scdn.global-cloud-cdn.com/master/m3u8/hls/20251019/1979799087486210048/1979799087486210048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250614/1445/P001772812.jpg/dims/resize/F_webp,480", 251019 왔수다 만물트럭 시즌2
+https://bodaponi.b-cdn.net/%EC%99%94%EC%88%98%EB%8B%A4%20%EB%A7%8C%EB%AC%BC%ED%8A%B8%EB%9F%AD%20%EC%8B%9C%EC%A6%8C2.E03.251019.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961420372.jpg", 251019 신비한TV 서프라이즈
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%84%ED%95%9CTV%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.E1184.251019.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251019 배불리힐스 제10화
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251019/1979826140747010048/1979826140747010048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251018 배불리힐스 제9화
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251012/1977278541464735744/1977278541464735744.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://www.kbsn.co.kr/m/images/upload/program/20240205/2024020594052849-Program_home_640_690_M(cecac9).png", 251018 차트를 달리는 남자
+https://bodaponi.b-cdn.net/%EC%B0%A8%ED%8A%B8%EB%A5%BC%20%EB%8B%AC%EB%A6%AC%EB%8A%94%20%EB%82%A8%EC%9E%90.E458.251018.720p-NEXT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img9.yna.co.kr/photo/cms/2018/05/19/01/C0A8CAE20000016375DD8BEF00000053_P4.jpg", 251018 그것이 알고 싶다
 https://bodaponi.b-cdn.net/%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4%20E1462%20%20251018.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 251018 전지적 참견 시점
@@ -9732,6 +9747,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
