@@ -466,6 +466,14 @@ http://koreatv.dothome.co.kr/kbslife.php
 http://koreatv.dothome.co.kr/kbsdrama.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSJoy
 http://koreatv.dothome.co.kr/kbsjoy.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,sbsplus
+http://koreatv.dothome.co.kr/sbsplus.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,sbsfune
+http://koreatv.dothome.co.kr/sbsfune.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,sbsbiz
+http://koreatv.dothome.co.kr/sbsbiz.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,mbcnet
+http://koreatv.dothome.co.kr/mbcnet.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
@@ -9818,6 +9826,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
