@@ -1525,14 +1525,18 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 93회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E93.251022.1080p.H264-F1RST.mp4
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250909/0005/P001776159.jpg/dims/resize/F_webp,480", 착한 여자 부세미 제8화
 https://bodaponi.b-cdn.net/%EC%B0%A9%ED%95%9C%20%EC%97%AC%EC%9E%90%20%EB%B6%80%EC%84%B8%EB%AF%B8.E08.251021.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제7화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.S01E07.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250915/0545/P001775535.jpg/dims/resize/F_webp,480", 신사장 프로젝트 제10화
 https://wiselife.blog/hls/68f787c3f97822ae4e34c283.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 92회
-https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.S01E92.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+
 
 
 
@@ -1819,6 +1823,8 @@ https://play.ly166.com:65/videos/20250817/68a153c35cf6b9c746c14692/eae5b8/index.
 https://play.ly166.com:65/videos/20250811/6899826f80eee9b955f0e6f4/b0d1a2/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://play.ly166.com:65/videos/20250810/689832cf5cf6b9c746672a27/44479a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 92회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.S01E92.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 91회
 https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E91.251020.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 90회
@@ -2031,7 +2037,7 @@ https://bodaponi.b-cdn.net/%EA%B9%80%EC%B0%BD%EC%98%A5%EC%87%BC%204.E03.251021.1
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/singagain4/Img/site/Main/202510130855352089.jpg", 251021 싱어게인4
 https://bodaponi.b-cdn.net/%EC%8B%B1%EC%96%B4%EA%B2%8C%EC%9D%B8%20%EC%8B%9C%EC%A6%8C4.S01E02.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2021/07/13/30000700725_1280.jpg", 251021 신발 벗고 돌싱포맨
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251022/1980670391231844352/1980670391231844352.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B0%9C%20%EB%B2%97%EA%B3%A0%20%EB%8F%8C%EC%8B%B1%ED%8F%AC%EB%A7%A8.E205.251021.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202303/29/news-p.v1.20230329.7d7b02832c1d4c94bab0318ee15e2ecf_P1.jpg", 251021 스모킹 건
 https://bodaponi.b-cdn.net/%EC%8A%A4%EB%AA%A8%ED%82%B9%20%EA%B1%B4.S01E115.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/05/a350adbf-f6cb-4f19-93ff-d1a2afa39b2c.jpg", 251021 개와 늑대의 시간
@@ -2049,7 +2055,7 @@ https://bodaponi.b-cdn.net/%EC%8B%9C%EA%B3%A8%EB%A7%88%EC%9D%84%20%EC%9D%B4%EC%9
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/592x333/pbbsres.kbs.co.kr/T2011-1097-04-428648/2025/09/26/3163775_1758874113748.jpg", 251021 시사기획 창
 https://wiselife.blog/hls/68f79e74f97822ae4e34c296.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2025/09/23/d446a890-c9eb-4e32-8970-4face500bdf4455w640.jpg", 251021 우리들의 발라드
-https://wiselife.blog/hls/68f796e5f97822ae4e34c28d.m3u8
+https://bodaponi.b-cdn.net/%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%98%20%EB%B0%9C%EB%9D%BC%EB%93%9C.E05.251021.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170610083.jpg", 251021 벌거벗은 한국사 2
 https://bodaponi.b-cdn.net/%EB%B2%8C%EA%B1%B0%EB%B2%97%EC%9D%80%20%ED%95%9C%EA%B5%AD%EC%82%AC%20%EC%8B%9C%EC%A6%8C2.S01E07.251021.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251017/0010/P001777856.jpg/dims/resize/F_webp,480", 251021 대놓고 두집살림
@@ -10017,6 +10023,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
