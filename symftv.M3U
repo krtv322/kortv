@@ -4569,8 +4569,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251026-1/c24137da3c137f70db83dff11bdc50f8.jpg", 创：战神
+https://europe.olemovienews.com/ts4/20251026/6KoFpP2v/mp4/6KoFpP2v.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251025-1/3b00c34f4e8aaddd6cca21950841d497.jpg", 赎梦
 https://europe.olemovienews.com/ts4/20251025/y4o527t3/mp4/y4o527t3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251024-1/92a308470a887d4a4d4aa617ebf67add.jpg", 炸裂白宫
@@ -10357,6 +10357,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
