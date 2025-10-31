@@ -939,181 +939,10 @@ http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 
 #EXTINF:-1 tvg-id="nhk" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="🐉일본방송🦮",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd08
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW) (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd08
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx07
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs11
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs12
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs20
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs08
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs18
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs19
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs21
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs14
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs15
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs23
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs25
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24 
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs27
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs22
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs20
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs14
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs12
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs26
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs17
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs21
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs26
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs13
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs18
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs19
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs28
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs25
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome) 
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs10
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel (Primehome)  
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs08
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs24
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs09
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome) 
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)  
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-
-
-
 #EXTINF:-1 group-title="🐉일본방송🦮",NHKG
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",Nippon TV (540p)
@@ -1172,131 +1001,12 @@ https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9WvIBSpypx2Lr8C2qE5yag==.jpg?type=live&thumbnail=thumbnail_small.jpg",Golf Network HD JP
-http://171.244.62.178/jptv2/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
-http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK G JP
-http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK E JP
-http://171.244.62.178/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg",Nippon TV JP  
-http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",TBS TV JP
-http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",FUJI TV JP
-http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV Asahi JP
-http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",TV TOKYO JP
-http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg",NHK BSP JP
-http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Nippon JP
-http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Asahi JP
-http://171.244.62.178/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS TBS JP
-http://171.244.62.178/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS Japan JP
-http://171.244.62.178/jptv2/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg",BS FUJI JP
-http://171.244.62.178/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg",WOWOW Prime JP
-http://171.244.62.178/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
-#EXTINF:-1 group-title="🐉일본방송🦮",Animax JP
-http://171.244.62.178/jptv2/get.php?id=iyXsMcSj-uHvpI6JnMMlTg==
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://mt01.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://mt01.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://mt01.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://mt01.utako.moe/suntv/index.m3u8
-
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://mt01.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 https://ca01.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
 https://ca01.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://ca01.utako.moe/skya/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://mt01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
@@ -1559,12 +1269,14 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/05/7b7171a5-1163-43c1-b1fb-0921dbdf05dd.jpg", 퍼스트레이디 제12화
-https://bodaponi.b-cdn.net/%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%94.E12.251030.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제14화
-https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E14.251030.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제6화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8%20E06%20aa.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제25화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E25.251031.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 97회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E97.251031.1080p.H264-F1RST.mp4
+
+
+
 
 
 
@@ -1592,6 +1304,8 @@ https://bodaponi.b-cdn.net/%EC%8A%A4%ED%94%BC%EB%A6%BF%20%ED%95%91%EA%B1%B0%EC%8
 https://bodaponi.b-cdn.net/%EC%84%9C%EC%9A%B8%20%EC%9E%90%EA%B0%80%EC%97%90%20%EB%8C%80%EA%B8%B0%EC%97%85%20%EB%8B%A4%EB%8B%88%EB%8A%94%20%EA%B9%80%20%EB%B6%80%EC%9E%A5%20%EC%9D%B4%EC%95%BC%EA%B8%B0.E02.251026.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251016/0120/P001777840.jpg/dims/resize/F_webp,480", 서울 자가에 대기업 다니는 김 부장 이야기 제1화
 https://bodaponi.b-cdn.net/%EC%84%9C%EC%9A%B8%20%EC%9E%90%EA%B0%80%EC%97%90%20%EB%8C%80%EA%B8%B0%EC%97%85%20%EB%8B%A4%EB%8B%88%EB%8A%94%20%EA%B9%80%20%EB%B6%80%EC%9E%A5%20%EC%9D%B4%EC%95%BC%EA%B8%B0.%EC%B2%AB%20%EB%B0%A9%EC%86%A1.E01.251025.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제14화
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E14.251030.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제13화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E13.251029.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제12화
@@ -1631,17 +1345,17 @@ https://bodaponi.b-cdn.net/%ED%83%9C%ED%92%8D%EC%83%81%EC%82%AC.E02.251012.1080p
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251005123854_9801249b4371f37f5eed2d2d51f506c8.JPG", 태풍상사 제1화
 https://bodaponi.b-cdn.net/%ED%83%9C%ED%92%8D%EC%83%81%EC%82%AC.E01.251011.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제6화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8.E06.251025.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251025/3Fp7zgXn/mp4/3Fp7zgXn.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제5화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8.E05.251024.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251024/MIJqGXus/mp4/MIJqGXus.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제4화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8%20E04%20pp.mp4
+https://europe.olemovienews.com/ts4/20251018/zlsov9pr/mp4/zlsov9pr.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제3화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8.E03.251017.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251017/kNXaEmqF/mp4/kNXaEmqF.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제2화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8.E02.251011.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251011/gErif5HE/mp4/gErif5HE.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/0Hn1758868432809.jpg", 우주메리미 제1화
-https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A9%94%EB%A6%AC%EB%AF%B8.E01.251010.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251010/bhlgU4dA/mp4/bhlgU4dA.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250909/0005/P001776159.jpg/dims/resize/F_webp,480", 착한 여자 부세미 제10화
 https://bodaponi.b-cdn.net/%EC%B0%A9%ED%95%9C%20%EC%97%AC%EC%9E%90%20%EB%B6%80%EC%84%B8%EB%AF%B8.E10.251028.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250909/0005/P001776159.jpg/dims/resize/F_webp,480", 착한 여자 부세미 제9화
@@ -1662,6 +1376,8 @@ https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251007/1975230043395330048/197
 https://bodaponi.b-cdn.net/%EC%B0%A9%ED%95%9C%20%EC%97%AC%EC%9E%90%20%EB%B6%80%EC%84%B8%EB%AF%B8.E02.250930.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250909/0005/P001776159.jpg/dims/resize/F_webp,480", 착한 여자 부세미 제1화
 https://bodaponi.b-cdn.net/%EC%B0%A9%ED%95%9C%20%EC%97%AC%EC%9E%90%20%EB%B6%80%EC%84%B8%EB%AF%B8.E01.250929.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/05/7b7171a5-1163-43c1-b1fb-0921dbdf05dd.jpg", 퍼스트레이디 제12화
+https://bodaponi.b-cdn.net/%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%94.E12.251030.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/05/7b7171a5-1163-43c1-b1fb-0921dbdf05dd.jpg", 퍼스트레이디 제11화
 https://bodaponi.b-cdn.net/%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%94.E11.251029.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/05/7b7171a5-1163-43c1-b1fb-0921dbdf05dd.jpg", 퍼스트레이디 제10화
@@ -2099,7 +1815,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0030/2017/11/1/1509512091755_55541.jpg", 251031 인간극장
+https://wiselife.blog/hls/6904a3191d944bfddc3427e4.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://bnt.kod.es/data/bnt/image/2025/08/07/bnt202508070089.680x.0.jpg", 251030 으라차차 멸치캠프 제11화
+https://bodaponi.b-cdn.net/%EC%9C%BC%EB%9D%BC%EC%B0%A8%EC%B0%A8%20%EB%A9%B8%EC%B9%98%EC%BA%A0%ED%94%84%2011%ED%9A%8C%20uu.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202508/12/1fb4cbde-15b3-429c-96f5-47c80e25e876.webp", 251030 60분 소개팅: 30분마다 뉴페이스 제11화
+https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%2011%ED%9A%8C%20uu.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251030 짧아유 제11화
+https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0%20E11%20uu.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250814092142_b46ce9a821b7c91eda4a56aa6e301e4b.png", 251030 셰프의 이모집 제11화
+https://bodaponi.b-cdn.net/%EC%85%B0%ED%94%84%EC%9D%98%20%EC%9D%B4%EB%AA%A8%EC%A7%91%2011%ED%9A%8C%20uu.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_VigbOSzx_6141502660cbd8e064a3e5f97ad167140f2fd202.png", 251030 완벽한 식탁
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251017/1978872083391844352/1978872083391844352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202412/20/news-p.v1.20241220.1d1895d66e23474aac131d3cc079001d_P1.jpg", 251030 이혼숙려캠프
@@ -2117,7 +1842,7 @@ https://bodaponi.b-cdn.net/%EA%BC%AC%EB%A6%AC%EC%97%90%EA%BC%AC%EB%A6%AC%EB%A5%B
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251017/0805/P001777923.jpg/dims/resize/F_webp,480", 251030 식스센스: 시티투어2
 https://bodaponi.b-cdn.net/%EC%8B%9D%EC%8A%A4%EC%84%BC%EC%8A%A4%20%EC%8B%9C%ED%8B%B0%ED%88%AC%EC%96%B4.E08.250410.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/05/a9c0349f-f230-4f6f-b1f5-7bff9de0d562.jpg", 251030 실화탐사대
-https://wiselife.blog/hls/690378f91d944bfddc3427c2.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A4%ED%99%94%ED%83%90%EC%82%AC%EB%8C%80.S01E334.251030.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/566/2021/12/15/16395315549.jpg", 251030 현장르포 특종세상
 https://wiselife.blog/hls/690378e31d944bfddc3427c1.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2019-0348/2025/9/26/1758852671886_607673.jpg", 251030 개는 훌륭하다
@@ -2125,7 +1850,7 @@ https://bodaponi.b-cdn.net/%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/10/15/xad1760505357779.jpg", 251030 별의별토크 : 보고보고보고서
 https://bodaponi.b-cdn.net/%EB%B3%84%EC%9D%98%EB%B3%84%ED%86%A0%ED%81%AC%20%20%EB%B3%B4%EA%B3%A0%EB%B3%B4%EA%B3%A0%EB%B3%B4%EA%B3%A0%EC%84%9C.E02.251030.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.newskr.kr/news/photo/202510/101289_90505_5719.jpg", 251030 너의 순위는
-https://wiselife.blog/hls/69036ce91d944bfddc3427b9.m3u8
+https://bodaponi.b-cdn.net/%EB%84%88%EC%9D%98%20%EC%88%9C%EC%9C%84%EB%8A%94.E02.251030.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250825/0610/P001775777.jpg/dims/resize/F_webp,480", 251030 각집부부
 https://bodaponi.b-cdn.net/%EA%B0%81%EC%A7%91%EB%B6%80%EB%B6%80.E09.251030.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/public/lectures/2025/10/14/14/60648300/bbf4b4f1-d538-490c-aca0-0dd7a8ca8159.jpg", 251030 세계테마기행
@@ -2137,7 +1862,7 @@ https://wiselife.blog/hls/690359011d944bfddc3427ab.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/10/22/f3d5d185-07af-493b-bb5a-6be59e150a46.jpg", 251030 세트포유
 https://bodaponi.b-cdn.net/%EC%84%B8%ED%8A%B8%ED%8F%AC%EC%9C%A0.E01.251030.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/08/12/2025081115443501680_l.jpg", 251030 미친맛집: 미식가 친구의 맛집 시즌3 12
-https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91%20%EC%8B%9C%EC%A6%8C3%2012%ED%9A%8C.mp4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91%20%EC%8B%9C%EC%A6%8C3%2012%ED%9A%8C%20uu.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.jtbc.co.kr/images/logo/favion-192x192.png", 251029 이태원 참사 3주기 추모 다큐
 https://wiselife.blog/hls/6903474f1d944bfddc34279e.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.mk.co.kr/meet/neds/2018/06/image_readtop_2018_368495_15286973093347568.jpg", 251029 나는 자연인이다
@@ -2233,7 +1958,7 @@ https://bodaponi.b-cdn.net/%EC%85%80%EB%9F%BD%EB%B3%91%EC%82%AC%EC%9D%98%20%EB%B
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0844/2025/4/7/1744004589991_577586.jpg", 251028 2TV 생생정보
 https://wiselife.blog/hls/6900b9961d944bfddc342737.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251025080433_ca46cfa77dd9b142974b10547c110601.jpg", 251028 피지컬: 아시아 제4화
-https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EC%95%84%EC%8B%9C%EC%95%84%20S01E04%20nn.mp4
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EC%95%84%EC%8B%9C%EC%95%84%20S01E04%20uu.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251025080433_ca46cfa77dd9b142974b10547c110601.jpg", 251028 피지컬: 아시아 제3화
 https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EC%95%84%EC%8B%9C%EC%95%84%20S01E03%20nn.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251025080433_ca46cfa77dd9b142974b10547c110601.jpg", 251028 피지컬: 아시아 제2화
@@ -2273,7 +1998,7 @@ https://bodaponi.b-cdn.net/%EC%9B%B0%EC%BB%B4%20%ED%88%AC%20%EC%B0%90%EC%9D%B4%E
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/04/15/eOl1744698466660.jpg", 251027 더 트롯쇼
 https://bodaponi.b-cdn.net/%EB%8D%94%ED%8A%B8%EB%A1%AF%EC%87%BC.E150.251027.1080p.H265-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.etnews.com/news/article/2023/03/13/article_13101621729844.jpg", 251027 무엇이든 물어보살
-https://bodaponi.b-cdn.net/%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4.E338.251027.1080p.H265-F1RST.mp4
+https://bodaponi.b-cdn.net/%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4.E338.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2022/1027/21624_635a7249a49ee[X240,370].jpg", 251027 박원숙의 같이 삽시다
 https://bodaponi.b-cdn.net/%EB%B0%95%EC%9B%90%EC%88%99%EC%9D%98%20%EA%B0%99%EC%9D%B4%20%EC%82%BD%EC%8B%9C%EB%8B%A4%20%EC%8B%9C%EC%A6%8C3.E232.251027.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/29/7819778e-6330-40b3-8b2b-7e3246caedf3.jpg", 251027 하나부터 열까지
@@ -2287,7 +2012,7 @@ https://bodaponi.b-cdn.net/2025%20MBC%20%EB%8C%80%ED%95%99%EA%B0%80%EC%9A%94%EC%
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/issue/2108744515_aWe7TSZo_fc6e6b7c7506ef2e721e77eaa0d20635e2cab4d6[W680-].jpg", 251019 도라이버: 잃어버린 핸들을 찾아서 시즌2 제20화
 https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EB%82%98%EC%82%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C%20%EC%8B%9C%EC%A6%8C2%2020%ED%9A%8C.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251019 배불리힐스 제11화
-https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%20%EC%A0%9C11%ED%99%94%20251026.mp4
+https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%2011%ED%9A%8C%20uu.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251027 짧아유
 https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0.S01E11.251027.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 251026 이제 만나러 갑니다
@@ -4275,6 +4000,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0515/15_21_19__682587df4e3e5[X280,400].jpg", 스위트홈 감독판
+https://bodaponi.b-cdn.net/%EC%8A%A4%EC%9C%84%ED%8A%B8%ED%99%88%20%EA%B0%90%EB%8F%85%ED%8C%90%20SWEET%20HOME,%202025.1080p.WEBRip.H264.AAC%20uu.mp4
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0826/13_26_52__68ad378c8bb00[X280,400].jpg", 가족의 비밀
+https://bodaponi.b-cdn.net/%EA%B0%80%EC%A1%B1%EC%9D%98%20%EB%B9%84%EB%B0%80%20,2025.1080p.WEBRip.H264.AAC%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20241002091612_146d8317c0db5026e4dcfa81a3cf3767.jpg", 얼굴 
 https://bodaponi.b-cdn.net/%EC%96%BC%EA%B5%B4%202025.1080p.WEBRip.FHD.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251028-1/94a7ae8196df3dc0c4d1e9c35cba6157.jpg", 태양의 노래
@@ -4287,10 +4017,8 @@ https://bodaponi.b-cdn.net/%ED%99%88%EC%BA%A0%20HOMECAM,%202025.1080p.WEBRip.H26
 https://europe.olemovienews.com/ts4/20251027/fB8Wc6JI/mp4/fB8Wc6JI.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251017-1/13441943fb3dcfaa6ab2fd6f6e1cadbf.jpg", 굿뉴스 (2025)
 https://europe.olemovienews.com/ts4/20251017/B4cwZMFa/mp4/B4cwZMFa.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231207/0448/P000152099.jpg/dims/resize/F_webp,480", 가족의 비밀 (2025)
-https://bodaponi.b-cdn.net/%EA%B0%80%EC%A1%B1%EC%9D%98%20%EB%B9%84%EB%B0%80%20,2025.1080p.WEBRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0811/10_17_27__689944a7cf12f[X280,400].jpg", 다른 것으로 알려질 뿐이지 (2025)
-https://bodaponi.b-cdn.net/%EB%8B%A4%EB%A5%B8%20%EA%B2%83%EC%9C%BC%EB%A1%9C%20%EC%95%8C%EB%A0%A4%EC%A7%88%20%EB%BF%90%EC%9D%B4%EC%A7%80%20Merely%20Known%20as%20Something%20Else,%202025.1080p.WEBRip.H264.AAC.mp4
+https://bodaponi.b-cdn.net/%EB%8B%A4%EB%A5%B8%20%EA%B2%83%EC%9C%BC%EB%A1%9C%20%EC%95%8C%EB%A0%A4%EC%A7%88%20%EB%BF%90%EC%9D%B4%EC%A7%80%20Merely%20Known%20as%20Something%20Else,%202025.1080p.WEBRip.H264.AAC%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250628072507_5abfc3ceac2bd7445a2d29bef4111177.jpg", 여름이 지나가면 (2025)
 https://bodaponi.b-cdn.net/%EC%97%AC%EB%A6%84%EC%9D%B4%20%EC%A7%80%EB%82%98%EA%B0%80%EB%A9%B4%20When%20This%20Summer%20is%20Over,%202025.1080p.WEBRip.H264.AAC%20kk.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0903/13_11_03__68b7bfd730678[X280,400].jpg", 빌리브 (2025)
@@ -4300,17 +4028,17 @@ https://www.yadongnara56.site/video/m3u8//d46a4275/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0806/13_43_56__6892dd8ceaac5[X280,400].jpg", 비밀일 수밖에 (2025)
 https://www.yadongnara56.site/video/m3u8//e49a4ca7/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0724/18_31_49__6881fd85f001d[X280,400].jpg", 마지막 숙제 (2025)
-https://www.yadongnara56.site/video/m3u8//5a6ae510/index.m3u8
+https://bodaponi.b-cdn.net/%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%88%99%EC%A0%9C%20,2025.1080p.WEBRip.H264.AAC%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0714/17_40_26__6874c27aac5e3[X280,400].jpg", 우리 둘 사이에 (2025)
 https://www.yadongnara56.site/video/m3u8//199de4b3/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0821/18_05_39__68a6e163bb1ef[X280,400].JPG", 서부리 사나이 2025
-https://www.yadongnara56.site/video/m3u8//bd71cae8/index.m3u8
+https://bodaponi.b-cdn.net/%EC%84%9C%EB%B6%80%EB%A6%AC%20%EC%82%AC%EB%82%98%EC%9D%B4%20,2025.1080p.WEBRip.H264.AAC%20%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/17_56_06__687a0c267fe90[X280,400].jpg", 815 사수작전 2025
 https://www.yadongnara56.site/video/m3u8//d6687468/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0714/14_52_17__68749b112b06f[X280,400].jpg", 수연의 선율 2025
 https://www.yadongnara56.site/video/m3u8//5565a9f9/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0805/13_29_18__6891889ea5db9[X280,400].jpg", 비밀의 화원 2025
-https://www.yadongnara56.site/video/m3u8//0653494a/index.m3u8
+https://bodaponi.b-cdn.net/%EB%B9%84%EB%B0%80%EC%9D%98%20%ED%99%94%EC%9B%90%20A%20Bee%20and%20a%20Silkworm,%202025.1080p.WEBRip.H264.AAC%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0814/15_20_59__689d804b06d9e[X280,400].jpg", 엄마없는 하늘아래 (2025)
 https://www.yadongnara56.site/video/m3u8//220af91b/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F2%2F19%2F7139405%2Fhigh.jpg&w=640&q=75", 3일 (2025)
@@ -4326,7 +4054,7 @@ https://europe.olemovienews.com/ts4/20251001/p9zn16yp/mp4/p9zn16yp.mp4/index-v1-
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.chosun.com/resizer/v2/Y6HJARRNRRC2JBSC4TSSAQDSCA.jpg?auth=e1009abbd2f1b0b1b7520ea5f0043370849eb152dcfbe576a13579a9ef4ce336&width=616", 악마가 이사왔다
 https://bodaponi.b-cdn.net/%EC%95%85%EB%A7%88%EA%B0%80%20%EC%9D%B4%EC%82%AC%EC%99%94%EB%8B%A4%20bb.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250914-1/00fb104188506b8b35465ac3d8953e50.jpg", 금구 세가지파편
-https://vv.jisuzyv.com/play/wdLX7nwd/index.m3u8
+https://bodaponi.b-cdn.net/%EA%B8%88%EC%A7%80%EA%B5%AC%EC%97%AD%20%EC%84%B8%20%EA%B0%80%EC%A7%80%20%ED%8C%8C%ED%8E%B8%20Forbidden%20Zone%20,2025.1080p.WEBRip.H264.AAC%20uu.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02cd69f75b02442120.jpg", 사마귀
 https://europe.olemovienews.com/ts4/20250926/oPxWa06p/mp4/oPxWa06p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02cd69f75b02442120.jpg", 사마귀
@@ -6775,6 +6503,48 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제15화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E15.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제14화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E14.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제13화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E13.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제12화
+https://bodaponi.b-cdn.net/Bloody.Game.S03E12.1080p.H264.AAC.KCW.WEB-DL-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제11화
+https://bodaponi.b-cdn.net/Bloody.Game.S03E11.1080p.H264.AAC.KCW.WEB-DL-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제10화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98%20%EA%B2%8C%EC%9E%84%20%EC%8B%9C%EC%A6%8C3%2010%ED%9A%8C.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제9화
+https://bodaponi.b-cdn.net/Bloody.Game.S03E09.1080p.H264.AAC.KCW.WEB-DL-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제8화
+https://bodaponi.b-cdn.net/Bloody.Game.S03E08.1080p.H264.AAC.KCW.WEB-DL-LoveBug.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제7화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E07.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제6화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E06.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제5화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E05.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제4화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E04.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제3화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E03.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제2화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E02.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
+#EXTINF:-1 group-title="🐉한국예능 피의 게임3🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231228/0230/P000205285.jpg/dims/resize/F_webp,480", 피의 게임3 제1화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%9D%98.%EA%B2%8C%EC%9E%84.%EC%8B%9C%EC%A6%8C3.E01.1080p.WAVVE.WEB-DL.AAC2.0.x264.mp4
 
 
 
@@ -10686,6 +10456,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
