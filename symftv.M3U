@@ -969,6 +969,16 @@ http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
 #EXTINF:-1 tvg-id="nhk" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="🐉일본방송🦮",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮",ntv news24
+https://www.youtube.com/embed/t9kwjZBLI-A?autoplay=1
+#EXTINF:-1 group-title="🐉일본방송🦮",tbs news24
+https://www.youtube.com/embed/Anr15FA9OCI?autoplay=1
+#EXTINF:-1 group-title="🐉일본방송🦮",abn news24
+https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1
+#EXTINF:-1 group-title="🐉일본방송🦮",nbn news24
+https://www.youtube.com/embed/-C6FE2m7kX8?autoplay=1
+#EXTINF:-1 group-title="🐉일본방송🦮",htb news24
+https://www.youtube.com/embed/om8hFNKvrf8?autoplay=1
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
@@ -9725,6 +9735,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
