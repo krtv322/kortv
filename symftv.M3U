@@ -21,11 +21,11 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-http://1.214.67.206/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
-http://1.214.67.206/vod/74701.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-id="KoreanCentralTelevision.kp" , 조선방송 (576p)
 https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",평양 FM 방송
@@ -74,10 +74,6 @@ https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.co
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",KFN
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w2128752943.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT
-http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
-http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",서진이네
@@ -496,8 +492,6 @@ http://1.214.67.38/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Groovv (고화질)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cdn.k-unron.com/news/photo/202409/3007195_16414_120.jpg",프로야구 5경기
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_505_1FCDA797.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
@@ -507,11 +501,9 @@ http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF (고화질)
 http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png",JTBC GOLFSPOT (고화질)
-http://mytv.dothome.co.kr/ch/catv/58.php
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF (고화질)
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBSGOLF.png",SBSGOLF 2
-https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTY2Nzg2MjIsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiOGRmNDdiZDktMjZjOC00ZDViLTgzZTUtNTljMWUwMjg0NzliIiwiaWF0IjoxNzU2NjcxNDIyfQ.SDRpu2BBqAB76O5f5XvkvR_wuTH7RI5m3EZC8mSOmUI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
@@ -969,16 +961,6 @@ http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8b715ebc7cdf.m3u8
 #EXTINF:-1 tvg-id="nhk" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="🐉일본방송🦮",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="🐉일본방송🦮",ntv news24
-https://www.youtube.com/embed/t9kwjZBLI-A?autoplay=1
-#EXTINF:-1 group-title="🐉일본방송🦮",tbs news24
-https://www.youtube.com/embed/Anr15FA9OCI?autoplay=1
-#EXTINF:-1 group-title="🐉일본방송🦮",abn news24
-https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1
-#EXTINF:-1 group-title="🐉일본방송🦮",nbn news24
-https://www.youtube.com/embed/-C6FE2m7kX8?autoplay=1
-#EXTINF:-1 group-title="🐉일본방송🦮",htb news24
-https://www.youtube.com/embed/om8hFNKvrf8?autoplay=1
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="QVC.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
@@ -9735,6 +9717,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
