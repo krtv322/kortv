@@ -454,6 +454,12 @@ http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://cnlive.org/channel/fa5561c/index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 http://1.214.67.38/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN
+http://180.69.60.42:8856/udp/239.192.67.226:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Movies
+http://180.69.60.42:8856/udp/239.192.67.227:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Thrills
+http://180.69.60.42:8856/udp/239.192.67.228:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSStory
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSLife
@@ -492,6 +498,12 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질)
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSN 스포츠
+http://180.69.60.42:8856/udp/239.192.67.132:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC Sports+
+http://180.69.60.42:8856/udp/239.192.67.131:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,SBS Sports
+http://180.69.60.42:8856/udp/239.192.67.130:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
@@ -9772,6 +9784,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
