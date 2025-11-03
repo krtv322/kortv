@@ -25,7 +25,7 @@ https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_52_12C896BD.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
+http://211.170.95.22/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-id="KoreanCentralTelevision.kp" , 조선방송 (576p)
 https://tv.intchoson.com/kctv/main_stream.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",평양 FM 방송
@@ -9802,6 +9802,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
