@@ -1296,7 +1296,16 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 
 
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250930/2300/P001777275.jpg/dims/resize/F_webp,480", 비형전: 도깨비의 주인 제12화
+https://bodaponi.b-cdn.net/%EB%B9%84%ED%98%95%EC%A0%84%20-%20%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%20%EC%A3%BC%EC%9D%B8.E12.251106.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250930/2300/P001777275.jpg/dims/resize/F_webp,480", 비형전: 도깨비의 주인 제11화
+https://bodaponi.b-cdn.net/%EB%B9%84%ED%98%95%EC%A0%84%20-%20%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%20%EC%A3%BC%EC%9D%B8.E11.251106.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제29화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E29.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제19화
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E19.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 101회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.S01E101.251106.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg/dims/resize/F_webp,480", 친애하는 X 제4화
 https://bodaponi.b-cdn.net/%EC%B9%9C%EC%95%A0%ED%95%98%EB%8A%94%20X.E04.251106.1080p.TVING.WEB-DL.H264.AAC.mp4
@@ -1308,12 +1317,7 @@ https://bodaponi.b-cdn.net/%EC%B9%9C%EC%95%A0%ED%95%98%EB%8A%94%20X.E02.251106.1
 https://bodaponi.b-cdn.net/%EC%B9%9C%EC%95%A0%ED%95%98%EB%8A%94%20X.E01.251106.1080p.TVING.WEB-DL.H264.AAC.mp4
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제18화
-https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E18.251105.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제28화
-https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E28.251105.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 100회
-https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E100.251105.1080p.H264-F1RST.mp4
+
 
 
 
@@ -1345,6 +1349,8 @@ https://bodaponi.b-cdn.net/%EC%84%9C%EC%9A%B8%20%EC%9E%90%EA%B0%80%EC%97%90%20%E
 https://bodaponi.b-cdn.net/%EC%84%9C%EC%9A%B8%20%EC%9E%90%EA%B0%80%EC%97%90%20%EB%8C%80%EA%B8%B0%EC%97%85%20%EB%8B%A4%EB%8B%88%EB%8A%94%20%EA%B9%80%20%EB%B6%80%EC%9E%A5%20%EC%9D%B4%EC%95%BC%EA%B8%B0.%EC%B2%AB%20%EB%B0%A9%EC%86%A1.E01.251025.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251016/0120/P001777840.jpg/dims/resize/F_webp,480", 서울 자가에 대기업 다니는 김 부장 이야기 제4화
 https://bodaponi.b-cdn.net/%EC%84%9C%EC%9A%B8%20%EC%9E%90%EA%B0%80%EC%97%90%20%EB%8C%80%EA%B8%B0%EC%97%85%20%EB%8B%A4%EB%8B%88%EB%8A%94%20%EA%B9%80%20%EB%B6%80%EC%9E%A5%20%EC%9D%B4%EC%95%BC%EA%B8%B0.E04.251102.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제18화
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E18.251105.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제17화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E17.251104.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제16화
@@ -1475,6 +1481,8 @@ https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.S01E03.1080p.WEB-DL.H264.AAC.WV-Cd
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E02.250925.1080p.WV.WEB-DL.H264-MiR.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.newskr.kr/news/photo/202509/100775_89970_3845.jpg", 단죄 제1화
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E01.250924.1080p.WV.WEB-DL.H264-MiR.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제28화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E28.251105.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제27화
 https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E27.251104.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제26화
@@ -1679,6 +1687,8 @@ https://play.ly166.com:65/videos/20250817/68a153c35cf6b9c746c14692/eae5b8/index.
 https://play.ly166.com:65/videos/20250811/6899826f80eee9b955f0e6f4/b0d1a2/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://play.ly166.com:65/videos/20250810/689832cf5cf6b9c746672a27/44479a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 100회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E100.251105.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 99회
 https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E99.251104.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 98회
@@ -1903,6 +1913,46 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/08/12/2025081115443501680_l.jpg", 251106 미친맛집: 미식가 친구의 맛집 시즌3 12
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251106/1986420236756324352/1986420236756324352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://wimg.munhwa.com/news/cms/2025/09/04/news-p.v1.20250904.e2bb0a3b80e347daae1a5d2706cca948_P1.jpg", 251106  언프리티 랩스타 : 힙팝 프린세스
+https://wiselife.blog/hls/690cd6741d944bfddc342a6e.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202412/20/news-p.v1.20241220.1d1895d66e23474aac131d3cc079001d_P1.jpg", 251106 이혼숙려캠프
+https://bodaponi.b-cdn.net/%EC%9D%B4%ED%98%BC%EC%88%99%EB%A0%A4%EC%BA%A0%ED%94%84.E61.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.topstarnews.net/news/photo/202505/15653934_1559807_835.jpg", 251106 사랑의 콜센타 세븐스타즈
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%BD%9C%EC%84%BC%ED%83%80%20%EC%84%B8%EB%B8%90%EC%8A%A4%ED%83%80%EC%A6%88.%ED%99%98%EC%8A%B9%EC%B9%9C%EA%B5%AC.E26.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.yna.co.kr/etc/inner/KR/2021/02/18/AKR20210218066700005_01_i_P4.jpg", 251106 꼬리에 꼬리를 무는 그날 이야기
+https://bodaponi.b-cdn.net/%EA%BC%AC%EB%A6%AC%EC%97%90%EA%BC%AC%EB%A6%AC%EB%A5%BC%EB%AC%B4%EB%8A%94%EA%B7%B8%EB%82%A0%EC%9D%B4%EC%95%BC%EA%B8%B0.E199.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 251106 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO%20%EA%B7%B8%20%ED%9B%84,%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EA%B3%84%EC%86%8D%EB%90%9C%EB%8B%A4(%EB%82%98%EC%86%94%EC%82%AC%EA%B3%84).E138.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file2.nocutnews.co.kr/newsroom/image/2019/02/26/20190226132318732111_0_777_1158.jpg", 251106 구해줘 홈즈
+https://bodaponi.b-cdn.net/%EA%B5%AC%ED%95%B4%EC%A4%98!%20%ED%99%88%EC%A6%88.E323.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251017/0805/P001777923.jpg/dims/resize/F_webp,480", 251106 식스센스: 시티투어2
+https://bodaponi.b-cdn.net/%EC%8B%9D%EC%8A%A4%EC%84%BC%EC%8A%A4%20%EC%8B%9C%ED%8B%B0%ED%88%AC%EC%96%B42.E02.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2019-0348/2025/9/26/1758852671886_607673.jpg", 251106 개는 훌륭하다
+https://bodaponi.b-cdn.net/%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4.E230.251106.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.etvguide.co.kr/news/photo/202310/9243_13430_4923.png", 251106 왔다! 내 손주
+https://wiselife.blog/hls/690cb34c1d944bfddc342a57.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/joydata/CP00000001/prog/enter/janggosince2014/img/20250810_210735_733_1.jpg", 251106 역사 이야기꾼들
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251106/1986440138728804352/1986440138728804352.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/10/15/xad1760505357779.jpg", 251106 별의별토크 : 보고보고보고서
+https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251107/1986476083905695744/1986476083905695744.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.newskr.kr/news/photo/202510/101289_90505_5719.jpg", 251106 너의 순위는
+https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251107/1986465052890370048/1986465052890370048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/566/2021/12/15/16395315549.jpg", 251106 현장르포 특종세상
+https://wiselife.blog/hls/690ca59a1d944bfddc342a4f.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/05/a9c0349f-f230-4f6f-b1f5-7bff9de0d562.jpg", 251106 실화탐사대
+https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251106/1986436636480770048/1986436636480770048.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2018-0562/2025/6/23/1750665070511_589922.jpg", 2501106  옥탑방의 문제아들
+https://wiselife.blog/hls/690c9cda1d944bfddc342a4a.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250825/0610/P001775777.jpg/dims/resize/F_webp,480", 251106 각집부부
+https://wiselife.blog/hls/690c9c7a1d944bfddc342a48.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/public/lectures/2025/10/14/14/60648300/bbf4b4f1-d538-490c-aca0-0dd7a8ca8159.jpg", 251106 세계테마기행
+https://wiselife.blog/hls/690c9a7c1d944bfddc342a46.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0844/2025/4/7/1744004589991_577586.jpg", 251106 2TV 생생정보
+https://wiselife.blog/hls/690c908b1d944bfddc342a41.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2010-1657/2017/9/27/1506493546491_27374.jpg", 251106 한국인의 밥상
+https://wiselife.blog/hls/690c900a1d944bfddc342a3f.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0030/2017/11/1/1509512091755_55541.jpg", 251106 인간극장
 https://wiselife.blog/hls/690c51bc1d944bfddc342a27.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251104/1735/P001778740.jpg/dims/resize/F_webp,480", 251105 출장 십오야 X 스타쉽 전국체전
@@ -9992,6 +10042,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
