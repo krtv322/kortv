@@ -1944,10 +1944,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="http://www.kbsn.co.kr/m/images/upload/program/20240205/2024020594052849-Program_home_640_690_M(cecac9).png", 251108 차트를 달리는 남자
+https://wiselife.blog/hls/690f23cf1d944bfddc342acc.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0877/2017/10/10/1507615696510_31085.jpg", 251108  동행
+https://wiselife.blog/hls/690f232a1d944bfddc342aca.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ytn.co.kr/general/jpg/2025/0722/202507221437175647_d.jpg", 251108  형수다2(형사들의 수다)
+https://bodaponi.b-cdn.net/%ED%98%95%EC%88%98%EB%8B%A42(%ED%98%95%EC%82%AC%EB%93%A4%EC%9D%98%20%EC%88%98%EB%8B%A4).E04.251108.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/288x410/programres.kbs.co.kr/t2000-0027/2023/9/7/1694061263576_465730.jpg", 251107 뮤직뱅크
 https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251107/1986772285662564352/1986772285662564352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/09/26/iTf1758868731507.jpg", 251107 내겐 너무 까칠한 매니저 - 비서진
@@ -1957,7 +1959,7 @@ https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4K.E290.251107.108
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 251107 나 혼자 산다
 https://bodaponi.b-cdn.net/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.E621.251107.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250415/1455/P001770389.jpg/dims/resize/F_webp,480", 251107 트롯 올스타전 금요일밤에
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251108/1986835326047490048/1986835326047490048.m3u8
+https://bodaponi.b-cdn.net/%ED%8A%B8%EB%A1%AF%20%EC%98%AC%EC%8A%A4%ED%83%80%EC%A0%84%20%EA%B8%88%EC%9A%94%EC%9D%BC%20%EB%B0%A4%EC%97%90.E09.251107.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1002/2025/07/14/175245683388.jpg", 251107 렛츠고 파크골프 환장의 짝꿍
 https://bodaponi.b-cdn.net/%EB%A0%9B%EC%B8%A0%EA%B3%A0%20%ED%8C%8C%ED%81%AC%EA%B3%A8%ED%94%84%20%ED%99%98%EC%9E%A5%EC%9D%98%20%EC%A7%9D%EA%BF%8D.E10.251107.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 251107 더 시즌즈 - 10CM의 쓰담쓰담
@@ -3630,8 +3632,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251107-1/990835f7fb0b57356f02e1c9e5f6a36b.jpg", 중간계
+https://europe.olemovienews.com/ts4/20251107/LTxnAswJ/mp4/LTxnAswJ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0515/15_21_19__682587df4e3e5[X280,400].jpg", 3670
 https://bodaponi.b-cdn.net/3670%202025.251101.1080p.WEBRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0515/15_21_19__682587df4e3e5[X280,400].jpg", 스위트홈 감독판
@@ -4155,6 +4157,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250204-1/62826ae98e24f1f58605680f15934f24.jpg", 蛟龙行动
+https://europe.olemovienews.com/ts4/20251107/mgdfw5t9/mp4/mgdfw5t9.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251107-1/f116c41c8e258c9642b6d77434afd665.jpg", 弗兰肯斯坦
+https://europe.olemovienews.com/ts4/20251107/4omlrBj0/mp4/4omlrBj0.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251105-1/35e5e1ffa1dec290ed1047b052cca549.jpg", 轻于鸿毛
 https://europe.olemovienews.com/ts4/20251105/7pvxc260/mp4/7pvxc260.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251104-1/bd5cea12be1deb43c3162bdbd5e53448.jpg", 黑色电话2
@@ -5825,34 +5833,47 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 浦项制铁vs淡滨尼流浪者 18:00
-https://pull03.yyzb456.top/live/stream-308116_lhd.flv?auth_key=1762427882-0-0-1ec405d42b1402d540ef9a12816459b1
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 浦项制铁vs淡滨尼流浪者 18:00
-https://pull03.yyzb456.top/live/stream-433829_lhd.flv?auth_key=1762427882-0-0-34ece41e9bbe29f88f81d88e818cd4dd
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 托特纳姆热刺vs曼彻斯特联 20:30
+https://pull03.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1762598959-0-0-191c783a12dff91bd91f10dd882aca55
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 托特纳姆热刺vs曼彻斯特联 20:30
+https://pull03.yyzb456.top/live/stream-516701_lhd.flv?auth_key=1762602660-0-0-40d31ceed97ffaf71ea5d78e24e3e470
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 托特纳姆热刺vs曼彻斯特联 20:30
+https://pull03.yyzb456.top/live/stream-746673_lhd.flv?auth_key=1762601787-0-0-51a32c1a44229997894429efb60603b0
 
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 北京国安vs和富大埔 20:15
-https://pull03.yyzb456.top/live/stream-308116_lhd.flv?auth_key=1762427942-0-0-5649f7e6727fea071727c23e90c95ffa
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 北京国安vs和富大埔 20:15
-https://pull03.yyzb456.top/live/stream-516701_lhd.flv?auth_key=1762412197-0-0-4bf7bc64d9aa1720c36ce824bd83697f
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 北京国安vs和富大埔 20:15
-https://pull03.yyzb456.top/live/stream-558696_lhd.flv?auth_key=1762383423-0-0-a4362589105299b5c45219ee4ea71043
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 贝尔格莱德红星vs里尔 01:45
-https://pull03.yyzb456.top/live/stream-765648_lhd.flv?auth_key=1762383320-0-0-f147bb3e9b14c1665577f9ba554b0a54
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",西甲 赫罗纳vs阿拉维斯 21:00
+https://pull03.yyzb456.top/live/stream-705956_lhd.flv?auth_key=1762556365-0-0-afe56146d436efdad73401e3919f75fe
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",西甲 赫罗纳vs阿拉维斯 21:00
+https://pull03.yyzb456.top/live/stream-190118_lhd.flv?auth_key=1762592450-0-0-b6032e8cf11fac36cdba9571b1e9bb60
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",西甲 赫罗纳vs阿拉维斯 21:00
+https://pull03.yyzb456.top/live/stream-265460_lhd.flv?auth_key=1762556898-0-0-0ea6cba5802e449740ff8dd750acbae4
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧会杯 美因茨vs佛罗伦萨 01:45
-https://pull03.yyzb456.top/live/stream-534857_lhd.flv?auth_key=1762394236-0-0-c80d96c2f8061c8de73e5f3232d1878a
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",Euro 费内巴切vs里昂 01:45
-https://pull03.yyzb456.top/live/stream-721538_lhd.flv?auth_key=1762367205-0-0-12b008116406ac149a8f4463990df8fa
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧罗巴杯 格拉斯哥流浪者vs罗马 04:00
-https://pull03.yyzb456.top/live/stream-780421_lhd.flv?auth_key=1762383262-0-0-208de35b94e614691125a668f63eb0f3
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",意甲 科莫vs卡利亚里 22:00
+https://pull03.yyzb456.top/live/stream-439458_lhd.flv?auth_key=1762604703-0-0-b3be18ae04c7d2043622e673aa546e52
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",意甲 莱切vs维罗纳 22:00
+https://pull03.yyzb456.top/live/stream-613431_lhd.flv?auth_key=1762563849-0-0-4fba91bdc72060c223bb9733e01490ac
 
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧罗巴杯  斯图加特vs 费耶诺德 04:00
-https://pull03.yyzb456.top/live/stream-551893_lhd.flv?auth_key=1762383361-0-0-b3beea7d34f649992b8e7eea3419ae56
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",德甲 勒沃库森 VS 海登海姆 22:30
+https://pull03.yyzb456.top/live/stream-233418_lhd.flv?auth_key=1762592573-0-0-3afe83e9293dd6ad10a86be95c554fb1
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",德甲 汉堡 VS 多特蒙德 22:30
+https://pull03.yyzb456.top/live/stream-5611355_lhd.flv?auth_key=1762597924-0-0-ac0adce501b7abe9e448eccd7c712a4e
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",德甲 柏林联合 VS 拜仁慕尼黑 22:30
+https://pull03.yyzb456.top/live/stream-308116_lhd.flv?auth_key=1762602839-0-0-04ff14b0692506c26e58c482eff4fc4f
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧罗巴杯 皇家贝蒂斯vs里昂 04:00
-https://pull03.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1762392274-0-0-1271c0737ae068a6d54909e0fcdef093
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",意甲  尤文图斯vs 都灵 01:00
+https://pull03.yyzb456.top/live/stream-765648_lhd.flv?auth_key=1762605004-0-0-a80593cb005420d9affe5b8620c2e3ce
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超  桑德兰vs 阿森纳 01:30
+https://pull03.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1762598959-0-0-191c783a12dff91bd91f10dd882aca55
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",西甲 马德里竞技vs莱万特 01:30
+https://pull03.yyzb456.top/live/stream-956896_lhd.flv?auth_key=1762554518-0-0-09655813c5f623ec57d8ec26b7131ec0
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",意甲 帕尔马vsAC米兰 03:45
+https://pull03.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1762555000-0-0-e33cd08b9a6bc40be9bd46a9b6eb1698
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 切尔西vs狼队 04:00
+https://pull03.yyzb456.top/live/stream-330076_lhd.flv?auth_key=1762555349-0-0-7c7d3ebc3b67242f83004d0e670dc0b6
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",西甲 西班牙人vs 比利亚雷亚尔 04:00
+https://pull03.yyzb456.top/live/stream-705956_lhd.flv?auth_key=1762556365-0-0-afe56146d436efdad73401e3919f75fe
 
 
 
@@ -10112,6 +10133,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
