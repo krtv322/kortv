@@ -1958,7 +1958,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0030/2017/11/1/1509512091755_55541.jpg", 251110 인간극장
+https://wiselife.blog/hls/691165c41d944bfddc342b57.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/08/12/2025081115443501680_l.jpg", 251109 미친맛집: 미식가 친구의 맛집 시즌3 제13화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91%20%EC%8B%9C%EC%A6%8C3%2013%ED%9A%8C%20xx.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251109 짧아유 제12화
+https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0%20E12%20xx.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/issue/2108744515_aWe7TSZo_fc6e6b7c7506ef2e721e77eaa0d20635e2cab4d6[W680-].jpg", 251109 도라이버: 잃어버린 핸들을 찾아서 시즌3 1
+https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20S03E01.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2025/09/22/c2384290-902c-40f3-ba12-3db14f92ddb3755w640.jpg", 251109 SBS 인기가요
 https://scdn.global-cloud-cdn.com/master/m3u8/hls/20251109/1987459312657764352/1987459312657764352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 251109 심야괴담회 시즌5
@@ -1992,27 +1999,27 @@ https://bodaponi.b-cdn.net/1%EB%B0%95%202%EC%9D%BC%20%EC%8B%9C%EC%A6%8C4.E300.25
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 251109 런닝맨
 https://bodaponi.b-cdn.net/%EB%9F%B0%EB%8B%9D%EB%A7%A8.E777.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251109 배불리힐스 제13화
-https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251109/1987486680487170048/1987486680487170048.m3u8
+https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%2013%ED%9A%8C%20xx.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.kmib.co.kr/online_image/2020/0615/611318110014690868_1.jpg", 251109 복면가왕
 https://bodaponi.b-cdn.net/%EB%B3%B5%EB%A9%B4%EA%B0%80%EC%99%95.E518.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0096/2023/11/2/1698901272777_477142.jpg", 251109 열린음악회
-https://wiselife.blog/hls/691075c91d944bfddc342b23.m3u8
+https://bodaponi.b-cdn.net/%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C.E1548.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/671/2025/07/28/175366357131.jpg", 251109  알토란
-https://scdn.global-cloud-cdn.com/master/m3u8/hls/20251109/1987486344951238656/1987486344951238656.m3u8
+https://bodaponi.b-cdn.net/%EC%95%8C%ED%86%A0%EB%9E%80.E566.1080p.251109.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250419/1440/P001770336.jpg/dims/resize/F_webp,480", 251109 싱코리아
 https://bodaponi.b-cdn.net/%EC%8B%B1%EC%BD%94%EB%A6%AC%EC%95%84.E16.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.sportschosun.com/article/html/2019/04/02/2019040301000192000010051.jpg", 251109 사장님 귀는 당나귀 귀
 https://bodaponi.b-cdn.net/%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80.E330.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 251109 전국노래자랑
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251019/1979807392208130048/1979807392208130048.m3u8
+https://bodaponi.b-cdn.net/%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91.E2140.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251025/1046/P001778273.jpg/dims/resize/F_webp,480", 251109 2025 군인 요리대회 軍 급식대전 제3회
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251109/1987439473599844352/1987439473599844352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 251109 출발! 비디오 여행
-https://s1cdn.global-cloud-cdn.com/master/m3u8/hls/20251109/1987438592796004352/1987438592796004352.m3u8
+https://bodaponi.b-cdn.net/%EC%B6%9C%EB%B0%9C!%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%97%AC%ED%96%89.S01E1611.251109.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250614/1445/P001772812.jpg/dims/resize/F_webp,480", 251109 왔수다 만물트럭 시즌2
 https://bodaponi.b-cdn.net/%EC%99%94%EC%88%98%EB%8B%A4%20%EB%A7%8C%EB%AC%BC%ED%8A%B8%EB%9F%AD%20%EC%8B%9C%EC%A6%8C2.E06.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/08/04/YLl1691125810777-152-152.png", 251109 TV동물농장
-https://wiselife.blog/hls/69100a511d944bfddc342b0f.m3u8
+https://bodaponi.b-cdn.net/TV%20%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5.E1246.251109.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202508/12/1fb4cbde-15b3-429c-96f5-47c80e25e876.webp", 251109 60분 소개팅: 30분마다 뉴페이스 제13화
 https://bodaponi.b-cdn.net/60%EB%B6%84%20%EC%86%8C%EA%B0%9C%ED%8C%85%2030%EB%B6%84%EB%A7%88%EB%8B%A4%20%EB%89%B4%ED%8E%98%EC%9D%B4%EC%8A%A4%20E13.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/08/c1c425d9-05f4-4680-80c8-62996d5e65fd.jpg", 251109 장도바리바리 시즌2 제8화
@@ -4270,6 +4277,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 下
+https://europe.olemovienews.com/ts4/20251110/qA5j8J0I/mp4/qA5j8J0I.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 上
+https://europe.olemovienews.com/ts4/20251110/kWgdgb1v/mp4/kWgdgb1v.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251109-1/054215069bc9041700e5f11173cc04f1.jpg", 好运
 https://europe.olemovienews.com/ts4/20251108/SgFO7BJW/mp4/SgFO7BJW.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250204-1/62826ae98e24f1f58605680f15934f24.jpg", 蛟龙行动
@@ -10246,6 +10261,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
