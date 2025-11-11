@@ -1950,15 +1950,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251027/0806/P001778171.jpg/dims/resize/F_webp,480", 251102 야구대표자: 덕후들의 리그 시즌3 제4화
+https://bodaponi.b-cdn.net/%EC%95%BC%EA%B5%AC%EB%8C%80%ED%91%9C%EC%9E%90%20-%20%EB%8D%95%ED%9B%84%EB%93%A4%EC%9D%98%20%EB%A6%AC%EA%B7%B8%20%EC%8B%9C%EC%A6%8C3.E04.2511101080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251027/0806/P001778171.jpg/dims/resize/F_webp,480", 251102 야구대표자: 덕후들의 리그 시즌3 제3화
+https://bodaponi.b-cdn.net/%EC%95%BC%EA%B5%AC%EB%8C%80%ED%91%9C%EC%9E%90%20-%20%EB%8D%95%ED%9B%84%EB%93%A4%EC%9D%98%20%EB%A6%AC%EA%B7%B8%20%EC%8B%9C%EC%A6%8C3.E03.251110.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/600xX/2025/08/04/news-p.v1.20250804.0ab598ff3f854b8b8fadfea8159c16b5_P1.webp", 251110 옷장전쟁
 https://scdn.global-cloud-cdn.com/s01/m3u8/hls/20251110/1987851375412908032/1987851375412908032.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/25/f4bad146-84eb-42e5-9312-a66349badeb8.jpg", 251110 최강야구
-https://scdn.global-cloud-cdn.com/master/m3u8/hls/20251111/1987934107862175744/1987934107862175744.m3u8
+https://bodaponi.b-cdn.net/%EC%B5%9C%EA%B0%95%EC%95%BC%EA%B5%AC%202025.E125.251110.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/15/28009693-f5bf-4247-80f2-3ee90c2b47cb.jpg", 251110 오은영 리포트 결혼지옥
 https://bodaponi.b-cdn.net/%EC%98%A4%EC%9D%80%EC%98%81%20%EB%A6%AC%ED%8F%AC%ED%8A%B8%20-%20%EA%B2%B0%ED%98%BC%20%EC%A7%80%EC%98%A5.E146.251110.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://photo.jtbc.co.kr/news/jam_photo/202509/03/fcb132f7-56b1-49ad-a227-2f61622bc120.jpg", 251110 고소영의 펍스토랑
@@ -3797,6 +3796,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251111-1/fa67e482615a58884f3733ae3b8b70c3.jpg", 온리갓 노우즈 에드리띵
+https://europe.olemovienews.com/ts4/20251111/w2NL21uf/mp4/w2NL21uf.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251107-1/990835f7fb0b57356f02e1c9e5f6a36b.jpg", 중간계
 https://europe.olemovienews.com/ts4/20251107/LTxnAswJ/mp4/LTxnAswJ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0515/15_21_19__682587df4e3e5[X280,400].jpg", 3670
@@ -4322,10 +4328,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251111-1/6534b813e7bfbaa30f5086d571e65dde.jpg", 急转直下
+https://europe.olemovienews.com/ts4/20251111/v4464ZqM/mp4/v4464ZqM.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251111-1/09de2edf0f1caa7e19cfd2d6fadd482a.jpg", 排队的女人
+https://europe.olemovienews.com/ts4/20251111/Ih1lysGT/mp4/Ih1lysGT.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 下
 https://europe.olemovienews.com/ts4/20251110/qA5j8J0I/mp4/qA5j8J0I.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 上
@@ -10333,6 +10339,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
