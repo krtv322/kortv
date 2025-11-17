@@ -2031,17 +2031,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/11/15/28009693-f5bf-4247-80f2-3ee90c2b47cb.jpg", 251110 오은영 리포트 결혼지옥
-https://bodaponi.b-cdn.net/%EC%98%A4%EC%9D%80%EC%98%81%20%EB%A6%AC%ED%8F%AC%ED%8A%B8%20-%20%EA%B2%B0%ED%98%BC%20%EC%A7%80%EC%98%A5.E146.251110.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://photo.jtbc.co.kr/news/jam_photo/202509/03/fcb132f7-56b1-49ad-a227-2f61622bc120.jpg", 251110 고소영의 펍스토랑
-https://bodaponi.b-cdn.net/%EA%B3%A0%EC%86%8C%EC%98%81%EC%9D%98%ED%8E%8D%EC%8A%A4%ED%86%A0%EB%9E%91.%EC%B5%9C%EC%A2%85%ED%9A%8C.E10.251110.1080p.H264-F1RST.mp4
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251117 짧아유 제14화
 https://s1cdn.global-cloud-cdn.com/s01/m3u8/hls/20251117/1990370033804644352/1990370033804644352.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/600xX/2025/08/04/news-p.v1.20250804.0ab598ff3f854b8b8fadfea8159c16b5_P1.webp", 251117 옷장전쟁
@@ -10720,6 +10709,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
