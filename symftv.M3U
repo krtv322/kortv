@@ -1986,15 +1986,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250818/0621/P001775499.jpg/dims/resize/F_webp,480", 251111 촌장주점
-https://bodaponi.b-cdn.net/%EC%B4%8C%EC%9E%A5%EC%A3%BC%EC%A0%90.E13.251111.1080p.TVING.WEB-DL.H264.AAC.mp4
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251114/0655/P001779134.jpg/dims/resize/F_webp,480", 251125 고나리돌: NEW STEP
+https://bodaponi.b-cdn.net/%EA%B3%A0%EB%82%98%EB%A6%AC%EB%8F%8C-%20NEW%20STEP.E02.251125.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250818/0621/P001775499.jpg/dims/resize/F_webp,480", 251125 촌장주점
+https://bodaponi.b-cdn.net/%EC%B4%8C%EC%9E%A5%EC%A3%BC%EC%A0%90.E15.251125.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/25/227f667a-6851-4bff-a5ad-7cdee83352b2.jpg", 251125 케냐 간 세끼
-https://vod.catopolice.com/hls/6925cec65ea3a6341e8fc2d9.m3u8
+https://bodaponi.b-cdn.net/%EC%BC%80%EB%83%90%20%EA%B0%84%20%EC%84%B8%EB%81%BC%20S01E03.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Program/20257/133960898007419870.jpg", 251125 PD수첩
 https://bodaponi.b-cdn.net/PD%20%EC%88%98%EC%B2%A9.S01E1485.251125.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/singagain4/Img/site/Main/202510130855352089.jpg", 251125 싱어게인4
@@ -2036,7 +2033,7 @@ https://bodaponi.b-cdn.net/%EC%85%B0%ED%94%84%EC%9D%98%20%EC%9D%B4%EB%AA%A8%EC%A
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251125 짧아유 제15화
 https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0%20S01E15%20251124.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/25/f4bad146-84eb-42e5-9312-a66349badeb8.jpg", 251124 최강야구
-https://vod.catopolice.com/hls/69250f9d5ea3a6341e8fc2b8.m3u8
+https://bodaponi.b-cdn.net/%EC%B5%9C%EA%B0%95%EC%95%BC%EA%B5%AC%202025.E127.251125.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/01/15/1e783163-1270-4ba6-b41f-3185e0de45cc.jpg", 251124 짠한형
 https://vod.catopolice.com/hls/69244f335ea3a6341e8fc292.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/11/program_15dd99e4-d5a0-4124-acd2-09c6ea0847c7.jpg", 251124 남극의 셰프 제2회
@@ -10004,6 +10001,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
