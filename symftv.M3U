@@ -1289,10 +1289,10 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&s
 http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제45화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E45.251128.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 116회
+https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E116.251128.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img8.yna.co.kr/photo/yna/YH/2025/11/11/PYH2025111109910001300_P4.jpg", 제4차 사랑혁명 제12화
 https://bodaponi.b-cdn.net/%EC%A0%9C4%EC%B0%A8%20%EC%82%AC%EB%9E%91%ED%98%81%EB%AA%85.S01E12.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
@@ -1306,10 +1306,6 @@ https://europe.olemovienews.com/ts4/20251127/hT0c09Gx/mp4/hT0c09Gx.mp4/index-v1-
 https://bodaponi.b-cdn.net/%ED%82%A4%EC%8A%A4%EB%8A%94%20%EA%B4%9C%ED%9E%88%20%ED%95%B4%EC%84%9C!.E06.251127.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제34화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E34.251127.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제44화
-https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E44.251127.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 114회
-https://vod.catopolice.com/hls/69282f5d5ea3a6341e8fc325.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg/dims/resize/F_webp,480", 친애하는 X 제10화
 https://europe.olemovienews.com/ts4/20251127/YGEAQBv1/mp4/YGEAQBv1.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251021/1250/P001776344.jpg/dims/resize/F_webp,480", 친애하는 X 제9화
@@ -1607,6 +1603,8 @@ https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.S01E03.1080p.WEB-DL.H264.AAC.WV-Cd
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E02.250925.1080p.WV.WEB-DL.H264-MiR.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.newskr.kr/news/photo/202509/100775_89970_3845.jpg", 단죄 제1화
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E01.250924.1080p.WV.WEB-DL.H264-MiR.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제44화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E44.251127.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제43화
 https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E43.251126.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제42화
@@ -1757,6 +1755,8 @@ https://play.ly166.com:65/videos/20250817/68a153c35cf6b9c746c14692/eae5b8/index.
 https://play.ly166.com:65/videos/20250811/6899826f80eee9b955f0e6f4/b0d1a2/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 1회
 https://play.ly166.com:65/videos/20250810/689832cf5cf6b9c746672a27/44479a/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 115회
+https://vod.catopolice.com/hls/69282f5d5ea3a6341e8fc325.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 114회
 https://bodaponi.b-cdn.net/%ED%83%9C%EC%96%91%EC%9D%84%20%EC%82%BC%ED%82%A8%20%EC%97%AC%EC%9E%90.E114.251126.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/05/program_6ae395b1-8f55-4d13-b623-803393b205fb.jpg", 태양을 삼킨 여자 (2025) 113회
@@ -10121,6 +10121,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
