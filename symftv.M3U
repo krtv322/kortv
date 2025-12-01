@@ -2048,13 +2048,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/11/24/2Ms1763957156492.jpg", 251130 갱단과의 전쟁
+https://vod.catopolice.com/hls/692c7f665ea3a6341e8fc3c6.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/28/c1f500ad-1746-48ff-ba17-4005703ea571.jpg", 251130 스파이크 워
+https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8C%8C%EC%9D%B4%ED%81%AC%20%EC%9B%8C.E01.251130.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 251130 출발! 비디오 여행
+https://bodaponi.b-cdn.net/%EC%B6%9C%EB%B0%9C!%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%97%AC%ED%96%89.S01E1614.251130.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251130 배불리힐스 제16화
+https://bodaponi.b-cdn.net/I%20AM%20BOXER%20(%EC%95%84%EC%9D%B4%20%EC%97%A0%20%EB%B3%B5%EC%84%9C).E02.251128.1080p.H264-F1RST%20h.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.yjb0802.com/news/photo/202401/38389_37597_5249.jpg", 251130 이제 만나러 갑니다
 https://vod.catopolice.com/hls/692c80945ea3a6341e8fc3c8.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/05/30/dcc2490a-7c25-4ee7-882e-1186024d020a.jpg", 251130 심야괴담회 시즌5
@@ -2146,7 +2147,7 @@ https://vod.catopolice.com/hls/6929d9cc5ea3a6341e8fc378.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250415/1455/P001770389.jpg/dims/resize/F_webp,480", 251128 트롯 올스타전 금요일밤에
 https://bodaponi.b-cdn.net/%ED%8A%B8%EB%A1%AF%20%EC%98%AC%EC%8A%A4%ED%83%80%EC%A0%84%20%EA%B8%88%EC%9A%94%EC%9D%BC%EB%B0%A4%EC%97%90.E11.251128.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/public/share/contentsmng/kr/%EB%A9%94%EC%9D%B8%EB%B9%84%EC%A3%BC%EC%96%BC3_1762337171800.jpg?v=1762396928", 251128 I AM BOXER (아이 엠 복서)
-https://bodaponi.b-cdn.net/I%20AM%20BOXER%20(%EC%95%84%EC%9D%B4%20%EC%97%A0%20%EB%B3%B5%EC%84%9C).E02.251128.1080p.H264-F1RST.mp4
+https://bodaponi.b-cdn.net/I%20AM%20BOXER%20(%EC%95%84%EC%9D%B4%20%EC%97%A0%20%EB%B3%B5%EC%84%9C).E02.251128.1080p.H264-F1RST%20h.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1002/2025/07/14/175245683388.jpg", 251128 렛츠고 파크골프 환장의 짝꿍
 https://bodaponi.b-cdn.net/%EB%A0%9B%EC%B8%A0%EA%B3%A0%20%ED%8C%8C%ED%81%AC%EA%B3%A8%ED%94%84%20%ED%99%98%EC%9E%A5%EC%9D%98%20%EC%A7%9D%EA%BF%8D.E13.251128.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 251128 더 시즌즈 - 10CM의 쓰담쓰담
@@ -4036,6 +4037,13 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/ed98b5a3085382f9ce4ad06b73d58678.jpg", 山怪巨魔2
+https://europe.olemovienews.com/ts4/20251201/mpTEkFvI/mp4/mpTEkFvI.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/3556b094044789ee4edcb8afc2f2a91a.jpg", 疯狂动物城2【抢先版】
+https://europe.olemovienews.com/ts4/20251130/0Ir6YGg4/mp4/0Ir6YGg4.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251130-1/3f2f2fae5528025c5448f740a308bc9d.png", 无迹之人
+https://europe.olemovienews.com/ts4/20251130/qqRLz37B/mp4/qqRLz37B.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250701-1/beee52b3ed3c686e4d37a2d2522c2c91.jpg", 名侦探柯南：独眼的残像
 https://europe.olemovienews.com/ts4/20251129/3d9TixBR/mp4/3d9TixBR.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251128-1/2fecca7713322652eea482c37ff92b31.jpg", 左撇子女孩
@@ -10279,6 +10287,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
