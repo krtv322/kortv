@@ -1292,6 +1292,14 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/29/1931aa25-4eec-499c-9de0-23e5321cdb75.jpg", 조각도시 제12회
+https://europe.olemovienews.com/ts4/20251203/B9EgU5Rv/mp4/B9EgU5Rv.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/09/29/1931aa25-4eec-499c-9de0-23e5321cdb75.jpg", 조각도시 제11회
+https://europe.olemovienews.com/ts4/20251203/DVn5wDFn/mp4/DVn5wDFn.mp4/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2025/11/10/AKR20251110153200005_04_i_P4.jpg", 다음생은 없으니까 제8화
 https://bodaponi.b-cdn.net/%EB%8B%A4%EC%9D%8C%EC%83%9D%EC%9D%80%20%EC%97%86%EC%9C%BC%EB%8B%88%EA%B9%8C.E08.251202.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250926/0420/P001777015.jpg/dims/resize/F_webp,480", 얄미운 사랑 제10화
@@ -2076,8 +2084,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img5.yna.co.kr/etc/inner/KR/2025/11/12/AKR20251112134800005_01_i_P4.jpg", 251202 베일드 뮤지션
+https://bodaponi.b-cdn.net/%EB%B2%A0%EC%9D%BC%EB%93%9C%EB%AE%A4%EC%A7%80%EC%85%98%20S01E04%20251203.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/25/227f667a-6851-4bff-a5ad-7cdee83352b2.jpg", 251202 케냐 간 세끼 6
+https://bodaponi.b-cdn.net/%EC%BC%80%EB%83%90%20%EA%B0%84%20%EC%84%B8%EB%81%BC%20S01E06.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/25/227f667a-6851-4bff-a5ad-7cdee83352b2.jpg", 251202 케냐 간 세끼 5
+https://bodaponi.b-cdn.net/%EC%BC%80%EB%83%90%20%EA%B0%84%20%EC%84%B8%EB%81%BC%20S01E05.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/11/25/227f667a-6851-4bff-a5ad-7cdee83352b2.jpg", 251202 케냐 간 세끼 4
+https://bodaponi.b-cdn.net/%EC%BC%80%EB%83%90%20%EA%B0%84%20%EC%84%B8%EB%81%BC%20S01E04.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250818/0621/P001775499.jpg/dims/resize/F_webp,480", 251202 촌장주점
+https://bodaponi.b-cdn.net/%EC%B4%8C%EC%9E%A5%EC%A3%BC%EC%A0%90.E16.251202.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/singagain4/Img/site/Main/202510130855352089.jpg", 251202싱어게인4
 https://vod.catopolice.com/hls/692f1f0e5ea3a6341e8fc414.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/973/2024/05/16/171584059535.jpg", 251202 한일톱텐쇼
@@ -4139,10 +4155,10 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251026-1/c24137da3c137f70db83dff11bdc50f8.jpg", 创：战神
+https://europe.olemovienews.com/ts4/20251028/FSDBzbmQ/mp4/FSDBzbmQ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251202-1/91ae66f7f3e81b2c46b371ffb0043eed.jpg", 日掛中天
+https://europe.olemovienews.com/ts4/20251202/ZQsed9iy/mp4/ZQsed9iy.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251202-1/e8a7a4000eb9d08ecfc46ba386e98ef0.jpg", 铁血战士：杀戮之地
 https://europe.olemovienews.com/ts4/20251201/TUHvztPI/mp4/TUHvztPI.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/ed98b5a3085382f9ce4ad06b73d58678.jpg", 山怪巨魔2
@@ -10394,6 +10410,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
