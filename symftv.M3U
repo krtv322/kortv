@@ -952,6 +952,81 @@ https://stream1.freetv.fun/d10b157216483dbbe97818c472af25e7f9ba086e7abe82c0bebf8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮",tbs
 https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK 総合
+https://nl.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK教育(Eテレ)
+https://nl.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",日本テレビ(日テレ)
+https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",テレビ朝日 
+https://nl.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS
+https://nl.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",テレビ東京(テレ東)
+https://nl.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png",フジテレビ
+https://nl.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8 
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K_2025.png",NHK BSP4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo_2025.svg/2560px-BS11_logo_2025.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222_2025.png",BS12
+https://nl.utako.moe/bs12/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo_2025.svg/2560px-AT-X_logo_2025.svg.png",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.svg",グリーンチャンネル
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png",Animax
+https://nl.utako.moe/Animax/video.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png",BS 日テレ
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi",BS 朝日
+https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/640px-BS-TBS_2025.svg.png",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo_2025.svg/640px-BS_TV_Tokyo_logo_2025.svg.png",BS テレ東
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji",BS フジ
+https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thunb/8/8c/Japan_BS_10_logo_2025.svg/250px-Japan_BS_10_logo_2025.svg.png",BS10
+https://nl.utako.moe/bs10/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv_news24",日テレ NEWS 24
+https://nl.utako.moe/news24/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_news",TBS NEWS
+https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
+
+
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp_2025.png",TBS チャンネル 1
+https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp_2025.png",TBS チャンネル 2
+https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one_jp_2025.png",フジテレビONE　スポーツ・バラエティ
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two_jp_2025.png",フジテレビTWO　ドラマ・アニメ
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_next",フジテレビNEXT　ライブ・プレミアム
+https://nl.utako.moe/fuji_next/index.m3u8
+
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime_2025.png",WOWOWプライム
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live_2025.png",WOWOWライブ 
+https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png",WOWOWシネマ
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="music_on_tv",MUSIC ON! TV（エムオン!）
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv",MTV
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 tvg-dt="54" tvg-id="rch_54" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png" group-title="🐉일본방송🦮",オリコンニュース
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="CGNTVJapan.jp" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png",CGNTV Japan
@@ -9877,6 +9952,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
