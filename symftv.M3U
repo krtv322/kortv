@@ -482,6 +482,12 @@ http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN
+http://180.69.60.42:8856/udp/239.192.67.226:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Movies
+http://180.69.60.42:8856/udp/239.192.67.227:49220
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Thrills
+http://180.69.60.42:8856/udp/239.192.67.228:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",HCN 부산방송 (고화질)
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",Groovv (고화질)
@@ -617,17 +623,7 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",NS 홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",스카이스포츠
-http://141.164.53.195/kakotvlive/skysports.php
 
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",TVN 
-http://141.164.53.195/kakotvlive/tvnsports.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV Prime HD
-http://141.164.53.195/kakotvlive/spotvprimehd.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON HD
-http://141.164.53.195/kakotvlive/spotvonhd.php
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",SPOTV ON 2
-http://141.164.53.195/kakotvlive/spotvon2.php
 
 
 
@@ -1160,13 +1156,14 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆" ,OCN
-http://180.69.60.42:8856/udp/239.192.67.226:49220
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆" ,OCN Movies
-http://180.69.60.42:8856/udp/239.192.67.227:49220
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆" ,OCN Thrills
-http://180.69.60.42:8856/udp/239.192.67.228:49220
+#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS1
+http://180.69.60.42:8856/udp/239.192.67.100:49220
+#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS2
+http://180.69.60.42:8856/udp/239.192.67.99:49220
+#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS
+http://180.69.60.42:8856/udp/239.192.67.98:49220
+#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBC
+http://180.69.60.42:8856/udp/239.192.67.101:49220
 #EXTINF:-1 group-title="🐉한국방송 예비용🦆",ytn
 https://amg01614-amg01614c1-amgplt0187.playout.now3.amagi.tv/playlist/amg01614-amg01614c1-amgplt0187/cb513f0073777b8f9cc9216ed7d31fdd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05dece0be81168297021c8e3eb3fc69c110eacdb093a32c8027a2c8212058c7c087799ce1f0b8e32fc39261bfa0663537ddcee51b3764cc59e0a9b1c78ddfc9f3826785958815e5bf7b458f6fae65943dc3fbcb44a4c953244e6d442d4dd18b3d5c9529c418e7ff340cfc1a68ed51af2bca226eb0b906d630f2a698d906ac98612a1cd8d273692752d4b1f5be2a89cec4b3dc8444c51b7efc7be7cfa0181852c976568b80899418a358642ae54f1b11ffad9d1b5575206b4d6527726a3fcd2ec915162f02bb6f896b71f7d89e62b7b46dd68df2d3921e292a179a1cd0193a43784bd67103dce851fe0f7da82ffa0b2449d28cfb59bf2506d4047010f8753a6b162c92cdc22faa47b22495e50a2976a90f49f3474611883d45a834043f4dddfd4d9436f93614317e9658e5f486ecf613c2ae028adcf6939d07c4bef5f3ceb480a8257f2bc20f0d5a88f7738bad3894df16beab80bdcf209a67f395858c598475c4a4269d5e072323378d73783b9afc8562b51beadbe94ac543c172b28510385f1e27e8ffca3437c469b1e4c03701913e442bc2ddc574c542a9e4d8be10f20d2006c79bfa667105b69c1ccfc8384839a12b07a879aa86c76613409db3a161962d2a2ff3a97591b240b37ea036d55b8144e50ef94c497faea0f9fc616c053661175ccf3127e1d4b636678f8fa0985048ef978ba94da4ccd9dee7824d566d16b7897d6dd53ecf491c23d69face53096e93895eaf1c2ec819c02e86c64fdbb8540812394c3aa4e430e64bb7ccc0a841ff2ba841117b981ed1f8cdb6c1750c8cfb2e34371947651c38177c56c5b0ba670f75f8b929f262e8ee41be4d46384d2db4ea0f5a8de5721895344c8ec4cab3e32c619e72b00cc1468b0d36a85e192be58c0bfe82a6f6e9f5173e62f797db813f3ceafba1f8c5346a032c1196c44d5c74d95c9ee4c14c6c7f0e88a898edd87b857ba046d33434b3864ec2fd9d74c6a694ecfc7e19575b1d9bab92a8448ae85317f1134f2e5c7b84e1a0bc83d8fac5477b6467c2bb34ceeea11d17b98af601da22bbe77604e2905660da6639fb2d9e4c13e52bbd293e71f082d4206b8f8b389a439f9ae01c0ca23c5eb5171031f73ccd8eb13f3bbafc0b5605a44b269c6788cdee595b59a7862970795a42465f91087704d01346e95abeede9b428078b02810076ff5aa7d058aaa743bfa09cbdfeab682bf7b73f17f40ef502f6769d8ec1ab6ed6260bc05f981466a9c8cfbe99bcb5d0e1eb5e0b48d814e14aa210bdc9a6967903700afd07294525f95d8e4b3e5a9ac05addb40f0ba2dbee08d709444f61456199f9df7ad0e2e6454c1e46ad3f81a0acc3490b0260ef324b/116/1280x720_4143876/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송 예비용🦆",연합뉴스
@@ -1211,146 +1208,7 @@ https://amg01923-amg01923c88-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-
 https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8?url=https%3A%2F%2Fwww.ondemandkorea.com%2Fplayer%2Flive%3FchannelId%3D203&genre=News&content_genre=News&ic=IAB12&content_cat=IAB12&content_id=223&content_title=news-today&content_channel=news-today&us_privacy=1---&gdpr=0&gdpr_consent=0&did=c7e4d738-f47f-49a8-ae7d-bc506ee45559&dnt=0&coppa=0&is_lat=0&app_name=OnDemandKorea&app_domain=ondemandkorea.com&app_category=Entertainment&app_bundle=com.ondemandkorea&content_length=3600&content_rating=TV-PG&content_network=odkmedia&content_context=1&content_prodqual=1&device_type=2&ifa_type=dpid&player_width=1920&player_height=1080&livestream=1&custom_9=guest&custom_4=c7e4d738-f47f-49a8-ae7d-bc506ee45559&app_store_url=&app_domain=ondemandkorea.com&paln=AQzzBGQE2_42cY7yFp1yXBgsxb5tppO2XUejMWS8Jxmflk6wTe4UsoKWbYq5UzD9CdxGjU2TTMKhT73GOMhj0zbAkEUo49HXYoAtVA94zlxIn-433VVVYUKBUgy6EczZc_Y3S1jMBv6EU-1KOQlTAKEGdUGu39CQmNm1suDHMfRotCLJjTvei-hAz6Mz284hISIJlyyjPjc_fYup6C41ROaJ25xi9BF4xVTPVs1V-4PY9nwEj4isl8MQs-WfkIfrohlZUg_6bReWstPtIRnT9RBALEPaWZuFO3LLv3Srp6UU2EVtJRNR4-zFPJWDclD_jS6k7ky8ezmaNg9hTphF2l_MM6eKOtByFdWwUlgF7P39vn2olXM2_XljjmEYtge5qyEs44vhpbA7UeAHay7Df1pK7QnWyNZ5NTlIVAZwE6gFf3d5emDwNCZiue_NhTTypR3S3Ifoyxg3Oh3PHCYueTZadDgsCLxvK_CWGj65GuCfA2dilqE3t0sqloE02iKfxHxFJ9udDb51G4rDeSmMEiE87FWhcDt7I0oWH7oPlvlmS57p9jM3KeUHPjKr-xVvTzUUqdgBrRj7szLiCYkZzX5yH_h2Pj0fAsTBpDRr6s7NblXF0RqRYwxNNqSc3wcwJDIeVxxIuh7aXeLrDPOOKvdrhuAw6cAgebTjVj1tP6WHUS2q5yixuKGA3Pf386zN4AkEnaxVmLGErLKsZ_fJ5iqDkm4YJ-vBGhQEdMySOdLmiC4URdY3YVr0PC-4vFv0ttN4S54pVveRHVh6p1omiWzCZAFvZXY3_wmbDZ9MjX_YUANcpzfCPpWQzIQCYaLS9gD56AmAKPBD-Rds3p2I2KxJE51lQa6yzmygBBZS-IxphcMBDW6sqkG3bKCqVryao3T_9CHCxuuEGWKaPyUQ4SDkx8qtWdeV7ypr5utbg4BFobgxM4RVYLjiYfI6A5YrZDTZxo4zTiUWyscc1_X9-IznqUUZk-U_IuO514I6XqRyy7N2D0PI0jU8MCkDC9NH7CQsff1k6Y9LSCV0ccho8pK2KnfXZ0tkgKP7xzpEswHaY1RL3Z5ydJ73sHdx3X_J_q0I9ll3fmbvklJ9imZWdnjonHURVbgmxqlg7TfIdARlikLHhrJ6pIvQjsn_0ot_bD4IvO2o0vY0Hqd2DAxW-x42fpxRGhiTXWbItF7KVL6wo9U14kgkkyydudZUejYLIbz0
 #EXTINF:-1 group-title="🐉한국방송 예비용🦆",아리랑티비
 https://amg01923-amg01923c148-amgplt0456.playout.now3.amagi.tv/playlist/amg01923-amg01923c148-amgplt0456/cb513f0073777b8f9cc9216ed7d31fdd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff695c811fd5716d340f5b63c009967a05dece0be81168297021c8e3eb3fc69c110eacdb093a32c8027a2c8212058c7c087799ce1f0b8e32fc39261bfa0663537ddcee51b3764cc59e0a9b1c78ddfc9f3826785958815e5bf7b408f1fee30846d16cbcb44a4c953244e6d442d4dd18e8d2c90d9817d024f0179d97f483da1aa6bcab26ea38f226004e237e80f21ff9ad0cfb97d73378f61b29560e6ae2ac9eff4732f434292df7f1cfba68fe1dca822a936536f5039742de4fe004a906a9f54baeb984dc4a4037aac157134bca8fa198f22732b361b6b6ff870016f1f5016b53c660e77b595ffa98cc0181d001ccfb49e6b060194a86fb0198cab7d7ebe7de12d1239e90f2d5691b4f3b4903830aa6d76fd87c8d2eadcb477409181df7ed3faf85d65024674192bf5dd50769d1b1edaafe2c6a87374125820cd84b1553cf357879e222eb834e03e34b2f8b2138e94c34894cf1bd22e1fdaa8f6c37bcc8c251eb7deab407a09568c83c661868d9f33c4f7a4e68deea6a08420aa934e7dcc7af780704e9faccf0c45837153c16087fe18ee0748b9cff2a1218d256287406737df7548c03b5634d0e3abb7db9cd592ef76c4924e0a60049437c93bad7ebe3d2da4db125bea59b303c045562a941664c0f83ecff33963c4e68735e8530705aad02282180f49bbfe2ea06cf8c749536631966b79f7d2c265c5766079a9e6cfc51f0961ce3f0a038cbeb9d0037e656c2514af2bab96ff7fd91c63d6cfacb072b89f6b95fadf2865a75ae49bde132b5855b0f08394408f19a55eb5aaaade2ad49b40ddd8287e38802d6b2eca1c26e16c69c4f213a0a546d113ab081cddaa8b2451373eea935e81f9583e52bdf36415d71fff868688ffa7015923c7f2ac2caaed9fd9b574998249ce1aa1160be3c496607ef1893c3b17dc0a55167a09929c806cb808584dedfc92731256927a4f850477ce2eb91e608cca20775e3858aaa8f20c735aa02b28ab221f32fe0e5884effc0d3aea03720575401a89ab7e2428ff54a64ab6bd7481a1d9ea1ede02aae89eb492bbc1da8ae2f5a8312321dc5a2f001880cbde53225aec74a51c77b3fc4afae75448674e9707c2db1fe80683addca40c61eccdba4593ef96274d34e5065a36be9c7ee391d8692274000bd4557f634eeaefe535675a2971c5509051e1a04d400116cd33764a115a5f7a0d64c259d0a9e002fb51bf696b7c630ca4450a2930c91e4f45642deb5f9a96f2cfc824e/94/1280x720_253000/index.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS1
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBC
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=cYv0MwcyxtgbkvkdS30WL46OlWzp3kWCZFidZJGK&secret=e621dd2e826c29c6b98bd22932c77424&time=1742499690
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=CK45nVecsqumJABGLWQSH9lLnJLYCsrHqRYvh8yT&secret=c924444c2e10e6a9d11fd26170a3f60c&time=1742499811
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",TV조선
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvchosun_540&sid=fKZsnPIjdoVZrjIWsqL5dPcQwba75T2ANFPAQIih&secret=18d00e092d1f8fa5a6107f0328ff4972&time=1742500050
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",YTN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",연합뉴스TV
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=newsy_540&sid=aMAYwrglW2l9anHE3tYS8r8mdHIK9eoLvfM8gz8k&secret=bdb9ae84defc939403a2fbc11cb0007a&time=1696422007
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",채널A
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",tvN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=8Neso11HboGsckMnkXhZO5OQooX8FjkJGh3JNyhN&secret=9968228025ba44af1c1ed3e5ef93498e&time=1745188012
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",ENA
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",OCN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=QtQBylJvJQcdJTyPvSmkcyTaTQnDW18QPLxRm916&secret=f3749b2fa5a52bd49d01c9201e341d7f&time=1745187689
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",OCN Movies
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",OCN Movies2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",PLAYY Best
-https://7f64fcad72b448b0abf2ed97158dbb3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-15psa9qvune5y/b857cfec-192e-4d9e-97a6-77756ffeafad/1.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",PLAYY Hot
-https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",EBS1
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",EBS2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",뉴스Y
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=DzpUFHjcsBWVT59UIekH9Ru1NlsNITdMENCIwOYj&secret=627df873aaaabccbbfacb5cf54826ff2&time=1742500601
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",tvN Sports
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=8LbyMvKsXavagjD6y1ZNlDZMivTbD8w8Ylaki0aF&secret=4f3264b31cd2376538d9af4207f9be85&time=1745187636
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBSNSPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBC SPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SKY SPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=pH6yUXa60MB3GgwLqcF31039Ai2OnSHrGKDojHkd&secret=beb8328410c3c40918ee06d0e9d19d29&time=1742500977
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS SPORTS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS GOLF
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhWLBSxgMrdde29keoesdXq7JqYoo8mFcL&secret=bbde0e71fad0fca7d433ed9cc50f7c83&time=1745186535
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC GOLF
-http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF956ADF0AB46A0C5E48207BC8773/chunklist_w1885910863.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC GOLF&SPORTS
-http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC3
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SPOTV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SPOTV2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SPOTV Prime
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SPOTV On
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SPOTV Prime+
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",BilliardsTV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",OGN starleague
-https://55f887befec549d2afddb0b28715cfd9.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rsz07gqditpfv/7c517435-53ef-4ec4-92ad-dab4e3999f1e/2.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",tvN Show
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBC every1
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS Plus
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",Channel E
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS Drama
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q3B5WSCH4URY8GiHOmAi4YrNVPWKot9vVlo9Vif3&secret=af52b1a2db7f1a11eee422a86931dfa4&time=1742559860
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",코메디TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",MBC On
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",중화TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",바둑TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=BUdcXyBWIi9dQgC9QbarQyw1r2Punh3ScBDyvPkx&secret=46f15e2f7aa89b944adadb345e1d66af&time=1742555602
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",브레인TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=pXLsKDVuSzSlCPzDBtZ3Tjp06jRx0Cjb6hMFnxt4&secret=1f34a19c2968298e793fc294a26ec99c&time=1742555675
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",FTV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=bZKhHcxaPkJGE3mmH8UPN66ooPuufcWyGBuvtjTO&secret=5d91e5de24f5cb3123ee6e659939bdb5&time=1742555798
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",네셔날지오그래피
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",디스커버리
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",Nat Geo Wild
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=0wJqyjtLKS6wxrUnZ6cnaRHDVz6ztklaA1tOzALv&secret=8a3bcec4a32f89003264607c049a2ce3&time=1742556081
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",History
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",iNET
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JEI 재능TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6FyzRQMkri2LhZ71Mjao59LSpdVKNNnvDkJW&secret=1fd8004ee3d2c119d064ec88b38d97b3&time=1742556811
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",육아방송
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",뽀요 TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",KBS kids
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvFwNcDZn2ZKO972L101Y0O54pvVUu&secret=e5d3211063e265afd0cd9f542d9d3de2&time=1742557009
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",Toonivers
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=eCxHR168RlUUkQqYOIWVyWfIUxPu06nBlSxHIO46&secret=96b99d3a3fdfca5375de61e8c24350b4&time=1742557506
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",Cartoon
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=RyguKlLteLqv9rk0RS2MXuF7i1rMwPylYuihkE8h&secret=285476c7f0a52c71c066532526326dde&time=1742558094
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",어린이TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",어린이TV
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",CNN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cnn_kr_540&sid=7ySL8aoIyy2NPbS1ENkvzkgj9C3GvJq2bdQ7PneQ&secret=0477f93d5d7e29a87ad3482bd1ecf100&time=1742558366
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",BBC
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=bbc_kr_540&sid=NvDfJvaZ3zU7NbrHR43AaUgWJK2zdoOc8KCQzTll&secret=aa2b347766700a37e0d86da63886687d&time=1742558446
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",NHK World
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ5jdk6wCPjw6VcPfOv76Syot6CoP9YgzBLFeHjZ&secret=a86dad9133b53ffc834fe98b63c98919&time=1742558568
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",한국경제
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r1dt55tnyXZwly6i1geE6psoDdZvce&secret=d1de772e9eeb5dcf1636c239f633cdb2&time=1742500679
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",SBS GOLF
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=wvV5OWL5DOQOa8ZNzj0NAEWKK1a8Sqwe9P6BNO7v&secret=54d885727fdc6a668c4268c37e4cbf79&time=1733757070
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC GOLF
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",JTBC GOLF&SPORTS
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=jtbc_3_540&sid=Kbs4voRRyc3QvGzdb1lJBnED1bqGFp3Jl9tG9319&secret=c8dc614a20fc15d35312c1562895ea30&time=1696829901
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",tvN Sports
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t86TZJFPZlUGRsZtf6hKtiACMlOpIOMIOXHZQCC&secret=6d2a3daba14e4b18a09426c6695ab206&time=1742502545
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",OCN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=xj4lHGf3jWSxgXazNuLLcjeF93qQsCWm3Ps4Yeno&secret=6d25cb8da847b90813c339a3905d892a&time=1742502142
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆",현대홈쇼핑
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
+
 
 
 
@@ -9330,6 +9188,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
