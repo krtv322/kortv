@@ -1774,12 +1774,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0307/2020/4/22/1587513934591_256054.jpg", 251217 스튜디오 K
+https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20K.S01E295.251217.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2024/0917/25394_66e9762f54f2a[X120,120].jpg", 251217 언포게터블 듀엣
 https://bodaponi.b-cdn.net/%EC%96%B8%ED%8F%AC%EA%B2%8C%ED%84%B0%EB%B8%94%20%EB%93%80%EC%97%A3.E07.251217.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2021/11/16/AKR20211116155200005_02_i_P4.jpg", 251217 라디오스타
-https://vod.catopolice.com/hls/6942d8385ea3a6341e8fc725.m3u8
+https://bodaponi.b-cdn.net/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.S01E945.251217.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 251217 나는 SOLO (나는 솔로)
 https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO.E232.251217.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/Tggeul/Img/site/Main/202512101008476866.jpg", 251217 T끌모아 해결
@@ -9559,6 +9559,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
