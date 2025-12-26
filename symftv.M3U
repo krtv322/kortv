@@ -1288,31 +1288,52 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/11/03/IPM1762126563553-640-360.jpg", 키스는 괜히 해서! 제14화
-https://bodaponi.b-cdn.net/%ED%82%A4%EC%8A%A4%EB%8A%94%20%EA%B4%9C%ED%9E%88%20%ED%95%B4%EC%84%9C!.%EC%B5%9C%EC%A2%85.E14.251225.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제4회
-https://bodaponi.b-cdn.net/%EB%B9%8C%EB%9F%B0%EC%A6%88.E04.251225.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제3회
-https://bodaponi.b-cdn.net/%EB%B9%8C%EB%9F%B0%EC%A6%88.E03.251225.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251217092717_582c74728aedff5a5b57be6a5943bca8.jpg", 청년 김대건 제3화
+https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E03.251226.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제55화
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E55.251226.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제64화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E64.251226.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제10화
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E10.251226.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제4화
+https://europe.olemovienews.com/ts4/20251226/apH0OR3K/mp4/apH0OR3K.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제3화
+https://europe.olemovienews.com/ts4/20251226/Lf1gQXFn/mp4/Lf1gQXFn.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2025/11/17/d48c45a4-a132-4c1b-bffb-4a7d6da20c41230w640.jpg", 모범택시3 제11화
+https://europe.olemovienews.com/ts4/20251226/Zrcm36WC/mp4/Zrcm36WC.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제8화
+https://europe.olemovienews.com/ts4/20251226/vfaH8vbN/mp4/vfaH8vbN.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제7화
+https://europe.olemovienews.com/ts4/20251226/Z0p2wRbg/mp4/Z0p2wRbg.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제6화
+https://europe.olemovienews.com/ts4/20251226/m8meLjw3/mp4/m8meLjw3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제5화
+https://europe.olemovienews.com/ts4/20251226/72gC0FRH/mp4/72gC0FRH.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제4화
+https://europe.olemovienews.com/ts4/20251226/9lu85jVS/mp4/9lu85jVS.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제3화
+https://europe.olemovienews.com/ts4/20251226/8yQWWBMN/mp4/8yQWWBMN.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제2화
+https://europe.olemovienews.com/ts4/20251226/1mdFKfXE/mp4/1mdFKfXE.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20251226-1/30eb6ce7c331b804f3de8bf95e0ca679.jpg", 캐셔로 제1화
+https://europe.olemovienews.com/ts4/20251226/CHong0Lv/mp4/CHong0Lv.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251217092717_582c74728aedff5a5b57be6a5943bca8.jpg", 청년 김대건 제2화
 https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E02.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251217092717_582c74728aedff5a5b57be6a5943bca8.jpg", 청년 김대건 제1화
 https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E01.251224.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제54화
-https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E54.251225.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제63화
-https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E63.251225.1080p.H264-F1RST.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제9화
-https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E09.251225.1080p.H264-F1RST.mp4
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제2화
 https://europe.olemovienews.com/ts4/20251224/KFFylC8N/mp4/KFFylC8N.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제1화
@@ -1331,10 +1352,16 @@ https://europe.olemovienews.com/ts4/20251222/ncLPzkxL/mp4/ncLPzkxL.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20251219/SIn6MU7H/mp4/SIn6MU7H.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제1화
 https://europe.olemovienews.com/ts4/20251219/FkG9NUfj/mp4/FkG9NUfj.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제4회
+https://bodaponi.b-cdn.net/%EB%B9%8C%EB%9F%B0%EC%A6%88.E04.251225.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제3회
+https://bodaponi.b-cdn.net/%EB%B9%8C%EB%9F%B0%EC%A6%88.E03.251225.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제2회
 https://europe.olemovienews.com/ts4/20251218/MIDX9YtF/mp4/MIDX9YtF.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제1회
 https://europe.olemovienews.com/ts4/20251218/AvKqTSgN/mp4/AvKqTSgN.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제9화
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E09.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제8화
 https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E08.251224.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제7화
@@ -1407,6 +1434,8 @@ https://europe.olemovienews.com/ts4/20251128/Z3hnI2Zf/mp4/Z3hnI2Zf.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20251122/SoK35n8e/mp4/SoK35n8e.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2025/11/17/d48c45a4-a132-4c1b-bffb-4a7d6da20c41230w640.jpg", 모범택시3 제1화
 https://europe.olemovienews.com/ts4/20251121/W5Cs57WX/mp4/W5Cs57WX.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/11/03/IPM1762126563553-640-360.jpg", 키스는 괜히 해서! 제14화
+https://bodaponi.b-cdn.net/%ED%82%A4%EC%8A%A4%EB%8A%94%20%EA%B4%9C%ED%9E%88%20%ED%95%B4%EC%84%9C!.%EC%B5%9C%EC%A2%85.E14.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/11/03/IPM1762126563553-640-360.jpg", 키스는 괜히 해서! 제13화
 https://bodaponi.b-cdn.net/%ED%82%A4%EC%8A%A4%EB%8A%94%20%EA%B4%9C%ED%9E%88%20%ED%95%B4%EC%84%9C!.E13.251224.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/11/03/IPM1762126563553-640-360.jpg", 키스는 괜히 해서! 제12화
@@ -1461,6 +1490,8 @@ https://europe.olemovienews.com/ts4/20251110/F16vi8dK/mp4/F16vi8dK.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20251104/CHucunGR/mp4/CHucunGR.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250926/0420/P001777015.jpg/dims/resize/F_webp,480", 얄미운 사랑 제1화
 https://europe.olemovienews.com/ts4/20251103/Ktq66ug1/mp4/Ktq66ug1.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제54화
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E54.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제53화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E53.251224.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제52화
@@ -1583,6 +1614,8 @@ https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.S01E03.1080p.WEB-DL.H264.AAC.WV-Cd
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E02.250925.1080p.WV.WEB-DL.H264-MiR.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://cdn.newskr.kr/news/photo/202509/100775_89970_3845.jpg", 단죄 제1화
 https://bodaponi.b-cdn.net/%EB%8B%A8%EC%A3%84.E01.250924.1080p.WV.WEB-DL.H264-MiR.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제63화
+https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E63.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제62화
 https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A6%AC.E62.251224.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제61화
@@ -1803,6 +1836,28 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251202/0740/P001779875.jpg/dims/resize/F_webp,480", 251226  응답하라 1988 10주년
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/응답하라 1988 10주년_제2회 25_12_26.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/genremoney/Img/site/Main/202503071105110019.jpg", 251226 장르가 머니 제38회
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/장르가 머니_제39회 25_12_26.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240911/2340/P001761505.jpg/dims/resize/F_webp,480", 251226 용감한 형사들 4
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/용감한 형사들 4_제64회 25_12_26.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_XOzib8WS_316946c6699f98c1fd4ddc4c2f3ee345c5f6105f.jpg", 251226 슈퍼셀러:인센티브 게임
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EC%85%80%EB%9F%AC-%20%EC%9D%B8%EC%84%BC%ED%8B%B0%EB%B8%8C%20%EA%B2%8C%EC%9E%84.E07.251226.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251028/0450/P001778345.jpg/dims/resize/F_webp,480", 251226 슈퍼레이스 프리스타일 제10화
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%8A%A4%20%ED%94%84%EB%A6%AC%EC%8A%A4%ED%83%80%EC%9D%BC.E10.251226.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2023/01/20/news-p.v1.20230120.a217986a56f443dc8a30b25301e1fedd_P1.webp", 251226 THE 맛있는 녀석들
+https://bodaponi.b-cdn.net/%EB%A7%9B%EC%9E%88%EB%8A%94%20%EB%85%80%EC%84%9D%EB%93%A4.E545.251226.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/228x128/pbbsres.kbs.co.kr/T2019-0286-04-578866/2025/07/25/3013580_1753401348281.jpg", 251226 신상출시 편스토랑
+ttps://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신상출시 편스토랑_제304회 25_12_26.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2200051D/site_poster_img1_20230320050707417.jpg", 251226  요즘 육아 금쪽같은 내 새끼
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/요즘 육아 금쪽같은 내 새끼_제269회 25_12_26.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1010/2025/10/02/175936551160.jpg", 251226 전현무계획3
+https://bodaponi.b-cdn.net/%EC%A0%84%ED%98%84%EB%AC%B4%EA%B3%84%ED%9A%8D3.E11.251226.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240125/0835/P001190459.jpg/dims/resize/F_webp,480", 251226 이십세기 힛-트쏭
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/이십세기 힛-트쏭_제293회 25_12_26.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file2.nocutnews.co.kr/newsroom/image/2019/02/26/20190226132318732111_0_777_1158.jpg", 251225 구해줘 홈즈
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/구해줘! 홈즈_제337회 25_12_26.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2019-0348/2025/9/26/1758852671886_607673.jpg", 251225 개는 훌륭하다
@@ -10006,6 +10061,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
