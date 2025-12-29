@@ -1288,9 +1288,9 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0263/2025/12/3/1764746429697_617802.jpg", 러브 : 트랙 제9화
 https://bodaponi.b-cdn.net/%EB%9F%AC%EB%B8%8C%20-%20%ED%8A%B8%EB%9E%99.S01E09.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://fs.jtbc.co.kr/prog/drama/surelytomorrow/Img/site/Main/202511180958201556.jpg", 경도를 기다리며 제8화
-https://bodaponi.b-cdn.net/%EA%B2%BD%EB%8F%84%EB%A5%BC%20%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%A9%B0.E08.251228.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251228/mNV3VrsY/mp4/mNV3VrsY.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251114/0230/P001779124.jpg/dims/resize/F_webp,480", 프로보노 제8화
-https://bodaponi.b-cdn.net/%ED%94%84%EB%A1%9C%EB%B3%B4%EB%85%B8.E08.251228.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20251228/PpFY6L62/mp4/PpFY6L62.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0159/2025/7/16/1752643330188_593655.jpg", 화려한 날들 (2025) 42회
 https://bodaponi.b-cdn.net/%ED%99%94%EB%A0%A4%ED%95%9C%20%EB%82%A0%EB%93%A4.E42.251228.1080p.H264-F1RST.mp4
 
@@ -3180,6 +3180,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251229-1/e5042f082f8be2d00632268c2456e2ea.jpg", 志愿军：浴血和平
+https://europe.olemovienews.com/ts4/20251229/2p6gszvi/mp4/2p6gszvi.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251228-1/7ebc5f652b32d45aed82e644aa17ec7a.jpg", 即兴谋杀
+https://europe.olemovienews.com/ts4/20251228/mb961ml2/mp4/mb961ml2.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251227-1/d7f1623778a7a857df0d1a59554adc41.jpg", 永恒站
 https://europe.olemovienews.com/ts4/20251227/sta42796/mp4/sta42796.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/3556b094044789ee4edcb8afc2f2a91a.jpg", 疯狂动物城2
@@ -9167,6 +9173,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
