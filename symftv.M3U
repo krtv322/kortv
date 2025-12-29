@@ -1819,16 +1819,20 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhnse.com/news/photo/202508/444570_559238_3927.jpg", 251229 짧아유 제20화
+https://bodaponi.b-cdn.net/%EC%A7%A7%EC%95%84%EC%9C%A0%20S01E20%20251229.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0096/2023/11/2/1698901272777_477142.jpg", 251228 열린음악회
+https://bodaponi.b-cdn.net/%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C.S01E1555.251228.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/issue/2108744515_aWe7TSZo_fc6e6b7c7506ef2e721e77eaa0d20635e2cab4d6[W680-].jpg", 251228 도라이버: 잃어버린 핸들을 찾아서 시즌3
+https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20S03E08%20251228.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 251228 출발! 비디오 여행
+https://bodaponi.b-cdn.net/%EC%B6%9C%EB%B0%9C!%20%EB%B9%84%EB%94%94%EC%98%A4%20%EC%97%AC%ED%96%89.S01E1618.251228.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250812094351_dfecc49466494eb74468e97306a5e76b.jpg", 251228 배불리힐스 제20화
+https://bodaponi.b-cdn.net/%EB%B0%B0%EB%B6%88%EB%A6%AC%ED%9E%90%EC%8A%A4%20S01E20%20251228.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/resize/459/public/pcms/photogroup/B120254338/kr/B120254338photogroup1758246280822.jpg?v=1758255219", 251228 바다 건너 바퀴 달린 집: 북해도 편
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/바다 건너 사랑 시즌5_제8회 25_12_28.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 251228 개그 콘서트 SUPER LIVE
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/개그콘서트_제102회 25_12_28.m3u8
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8%20%EC%BD%98%EC%84%9C%ED%8A%B8%20%EB%B3%B8%ED%8E%B8.S01E1153.251228.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251129/1241/P001779739.jpg/dims/resize/F_webp,480", 251228 스파이크 워
 https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8C%8C%EC%9D%B4%ED%81%AC%20%EC%9B%8C.E05.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 251228 미운 우리 새끼
@@ -1838,11 +1842,11 @@ https://vod.catopolice.com/hls/6950bcf40a06e0e2689e41a0.m3u8?t=6951884a&n=XQIkav
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/10/program_25f02117-e543-4aaf-944e-ef58f22d210a.jpg", 251228 극한84
 https://bodaponi.b-cdn.net/%EA%B7%B9%ED%95%9C84.E05.251228.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/08/04/YLl1691125810777-152-152.png", 251221 TV동물농장
-https://vod.catopolice.com/hls/6950c0f90a06e0e2689e41a2.m3u8
+https://bodaponi.b-cdn.net/TV%20%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5%20E1253%20251228.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caim/CAIM2100/ko/20231115/0518/M000369853.jpeg/dims/resize/F_webp,480", 251228  극한직업
 https://vod.catopolice.com/hls/6950c1d70a06e0e2689e41a3.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/671/2025/07/28/175366357131.jpg", 251228  알토란
-https://vod.catopolice.com/hls/69511c030a06e0e2689e41a8.m3u8
+https://bodaponi.b-cdn.net/%EC%95%8C%ED%86%A0%EB%9E%80.E573.251228.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=3&simg=2025082810224903709d3244b4fed58141237106.jpg&nmt=29", 251228 백투더뮤직 시즌2
 https://vod.catopolice.com/hls/6951516f0a06e0e2689e41bb.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 251228  냉장고를 부탁해 since 2014
@@ -9163,6 +9167,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
