@@ -3763,8 +3763,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/2019-12-23/201912231577117138.jpg", 泰坦尼克号
+https://bodaponi.b-cdn.net/Titanic.V2.Open.Matte.1997.KK650.Regraded.mp4
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/f1876bb33df86505a6f1ef7f051d87a1.jpg", 魔法坏女巫2
 https://europe.olemovienews.com/ts4/20251230/ia46onrw/mp4/ia46onrw.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/006866f5602f72db064c611467356a8e.jpg", 布吕歇尔号巡洋舰
@@ -5349,6 +5349,47 @@ https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제20화
+https://vip.lz-cdn9.com/20220410/3248_3106ef7e/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제19화
+https://vip.lz-cdn9.com/20220410/3245_49b68f68/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제18화
+https://vip.lz-cdn9.com/20220410/3244_f8233f8a/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제17화
+https://vip.lz-cdn9.com/20220410/3242_818ac61d/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제16화
+https://vip.lz-cdn9.com/20220410/3243_d287d794/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제15화
+https://vip.lz-cdn9.com/20220410/3241_49adb0b0/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제14화
+https://vip.lz-cdn9.com/20220410/3240_2055aca6/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제13화
+https://vip.lz-cdn9.com/20220410/3239_dc78ce19/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제12화
+https://vip.lz-cdn9.com/20220410/3235_61a1d144/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제11화
+https://vip.lz-cdn9.com/20220410/3237_ad61c180/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제10화
+https://vip.lz-cdn9.com/20220410/3238_b0e7a8fe/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제9화
+https://vip.lz-cdn9.com/20220410/3236_c7794072/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제8화
+https://vip.lz-cdn9.com/20220410/3234_480bb4b0/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제7화
+https://vip.lz-cdn9.com/20220410/3231_52271e59/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제6화
+https://vip.lz-cdn9.com/20220410/3232_71e63eef/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제5화
+https://vip.lz-cdn9.com/20220410/3233_4a848045/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제4화
+https://vip.lz-cdn9.com/20220410/3229_46c44c3e/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제3화
+https://vip.lz-cdn9.com/20220410/3227_34b8cdcf/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제2화
+https://vip.lz-cdn9.com/20220410/3230_d9bacd12/1200k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 내조의 여왕🦆" tvg-logo="https://img.imbc.com/adams/Program/20214/132642380261150022.png", 내조의 여왕 제1화
+https://vip.lz-cdn9.com/20220410/3226_0225738e/1200k/hls/mixed.m3u8
 
 
 
@@ -9785,6 +9826,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
