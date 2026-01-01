@@ -2336,8 +2336,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0307/2020/4/22/1587513934591_256054.jpg", 251231 스튜디오 K
+https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20K.S01E297.251231.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/vod/2025/12/31/695548aa97c18fd474181d69/thumbnail/695548aa97c18fd474181d69_0_1767197938164.jpg", 251231 2026 특별생방송 새날마중 제1회
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2026 특별생방송 새날마중_제1회 26_01_01.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Corner/20241/133486454802687810.jpg", 251231 MBC 가요대제전 2부
+https://bodaponi.b-cdn.net/2025%20MBC%20%EA%B0%80%EC%9A%94%EB%8C%80%EC%A0%9C%EC%A0%84%202%EB%B6%80.251231.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Corner/20241/133486454802687810.jpg", 251231 MBC 가요대제전 1부
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/2025 MBC 가요대제전_제1회 25_12_31.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://static.ebs.co.kr/images/bhp/rich/images/2025/04/1/14/26/47/a42bc068-a17e-4429-8e0f-5da8fc3156a0.jpg", 251231 서장훈의 이웃집 백만장자 시즌2
@@ -2345,7 +2351,7 @@ https://bodaponi.b-cdn.net/%EC%84%9C%EC%9E%A5%ED%9B%88%EC%9D%98%20%EC%9D%B4%EC%9
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 251231 나는 SOLO (나는 솔로)
 https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO%20%EB%82%98%EB%8A%94%20%EC%86%94%EB%A1%9C.E234.251231.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/Tggeul/Img/site/Main/202512101008476866.jpg", 251231 T끌모아 해결
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/T끌모아 해결_제4회 25_12_31.m3u8
+https://bodaponi.b-cdn.net/T%EB%81%8C%EB%AA%A8%EC%95%84%20%ED%95%B4%EA%B2%B0.E04.251231.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/fckeditor/new/image/2025/12/31/295901767110964334.jpg", 251231 2025 KBS 연기대상 2부
 https://bodaponi.b-cdn.net/2025%20KBS%20%EC%97%B0%EA%B8%B0%EB%8C%80%EC%83%81%202%EB%B6%80.251231.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/fckeditor/new/image/2025/12/31/295901767110964334.jpg", 251231 2025 KBS 연기대상 1부
@@ -9880,6 +9886,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
