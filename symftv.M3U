@@ -3873,6 +3873,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260102-1/fe26eed7703bfcae4eac5271ce120d02.jpg", 糟糕的夏天
+https://europe.olemovienews.com/ts4/20260102/egf2gevq/mp4/egf2gevq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260101-1/7c3d3ee234cd253a5039ab40d1232aee.jpg", 捏造
+https://europe.olemovienews.com/ts4/20260101/kml767ud/mp4/kml767ud.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/e39607c11595bb1ab759656f3a0006c8.jpg", 浪浪人生
 https://europe.olemovienews.com/ts4/20251231/kmqwuliv/mp4/kmqwuliv.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/39f66924cba0012d37e46db4b73fbd94.jpg", 百米
@@ -9940,6 +9949,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
