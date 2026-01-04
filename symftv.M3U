@@ -2560,7 +2560,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 260104 런닝맨
+https://bodaponi.b-cdn.net/%EB%9F%B0%EB%8B%9D%EB%A7%A8.E784.260104.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251224075246_07f54d567d08e7678d30c98fa20a14a0.jpg", 260104 피지컬: 웰컴 투 몽골 제4화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EB%AA%BD%EA%B3%A8%20%EC%A0%9C4%ED%99%94.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251224075246_07f54d567d08e7678d30c98fa20a14a0.jpg", 260104 피지컬: 웰컴 투 몽골 제3화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EB%AA%BD%EA%B3%A8%20%EC%A0%9C3%ED%99%94.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251224075246_07f54d567d08e7678d30c98fa20a14a0.jpg", 260104 피지컬: 웰컴 투 몽골 제2화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EB%AA%BD%EA%B3%A8%20%EC%A0%9C2%ED%99%94.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251224075246_07f54d567d08e7678d30c98fa20a14a0.jpg", 260104 피지컬: 웰컴 투 몽골 제1화
+https://bodaponi.b-cdn.net/%ED%94%BC%EC%A7%80%EC%BB%AC%20%EB%AA%BD%EA%B3%A8%20%EC%A0%9C1%ED%99%94.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/seditor/VD/2025/11/18/p5F1763421785642-640-0.jpg", 260103 그것이 알고 싶다
 https://bodaponi.b-cdn.net/%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%20%EC%8B%B6%EB%8B%A4.E1470.260103.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2024/11/11/news-p.v1.20241111.ef770b9a4ab044b689469b3110807062_P1.webp", 260103 살림하는 남자들 시즌2
@@ -4140,8 +4149,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260104-1/c229cb8ec3de914ce428b1dbeb9ca7e1.jpg", 喜羊羊与灰太狼之异国破晓
+https://europe.olemovienews.com/ts4/20260104/e0csia6u/mp4/e0csia6u.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260102-1/a315a1cd47d26c8621dd8602207ba2aa.jpg", 教场
 https://europe.olemovienews.com/ts4/20260102/rumdmfgu/mp4/rumdmfgu.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260103-1/c04dae1f03378ae548eaf52b7a3df60c.jpg", 猛虎末路
@@ -10321,6 +10330,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
