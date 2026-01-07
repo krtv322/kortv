@@ -2586,8 +2586,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260106 신빨토크쇼 귀묘한 이야기 2
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신빨토크쇼 귀묘한 이야기 2_제1회 26_01_06.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/12/29/3FJ1766990494178.jpg", 260106 무무X차차 우발라디오
 https://bodaponi.b-cdn.net/%EB%AC%B4%EB%AC%B4X%EC%B0%A8%EC%B0%A8%20%EC%9A%B0%EB%B0%9C%EB%9D%BC%EB%94%94%EC%98%A4%20S01E01%20260106.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251120/0751/P001779358.jpg/dims/resize/F_webp,480", 260106 야구여왕
@@ -10472,6 +10472,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
