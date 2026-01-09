@@ -2605,10 +2605,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.yna.co.kr/etc/inner/KR/2021/02/18/AKR20210218066700005_01_i_P4.jpg", 260109 꼬리에 꼬리를 무는 그날 이야기
+https://bodaponi.b-cdn.net/%EA%BC%AC%EB%A6%AC%EC%97%90%20%EA%BC%AC%EB%A6%AC%EB%A5%BC%20%EB%AC%B4%EB%8A%94%20%EA%B7%B8%EB%82%A0%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20E206%20%20260108.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/01/01/5c83e134-036b-4cc2-b940-647aa4e3a0b3841w640.jpg", 260108 자식방생프로젝트 합숙 맞선
+https://bodaponi.b-cdn.net/%EC%9E%90%EC%8B%9D%20%EB%B0%A9%EC%83%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%95%A9%EC%88%99%20%EB%A7%9E%EC%84%A0%20S01E02%20260109.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2025/08/12/2025081115443501680_l.jpg", 260108 미친맛집: 미식가 친구의 맛집 시즌4 9
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%A7%9B%EC%A7%91%20S04E09%20260109.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260108 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%204.E04.260109.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2019-0348/2025/9/26/1758852671886_607673.jpg", 260108 개는 훌륭하다
+https://bodaponi.b-cdn.net/%EA%B0%9C%EB%8A%94%20%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4.S01E236.260109.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://file2.nocutnews.co.kr/newsroom/image/2019/02/26/20190226132318732111_0_777_1158.jpg", 260108 구해줘 홈즈
 https://bodaponi.b-cdn.net/%EA%B5%AC%ED%95%B4%EC%A4%98!%20%ED%99%88%EC%A6%88.S01E332.260108.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/01/07/b89cb775-6f83-4d29-8308-7daf173a3cd9.jpg", 260108 셰프와 사냥꾼
@@ -10553,6 +10559,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
