@@ -667,21 +667,21 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://183.249.78.44:10800/newlive/live/hls/11/live.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://183.249.78.44:10800/newlive/live/hls/12/live.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://183.249.78.44:10800/newlive/live/hls/13/live.m3u8
+http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://183.249.78.44:10800/newlive/live/hls/15/live.m3u8
+http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 
 
@@ -689,75 +689,80 @@ http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3
 
 
 
-
-
-#EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://www.hkyc.site:1991/udp/239.253.64.57:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
-http://www.hkyc.site:1991/udp/239.253.64.205:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
-http://www.hkyc.site:1991/udp/239.253.64.150:5140
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
-http://156.238.248.80/2099.php?id=34
-#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
-http://www.hkyc.site:1991/udp/239.253.64.201:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://www.hkyc.site:1991/udp/239.253.64.208:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://www.hkyc.site:1991/udp/239.253.64.200:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
-http://156.238.248.80/2099.php?id=1212
-#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://156.238.248.80/2099.php?id=1271
-#EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://www.hkyc.site:1991/udp/239.253.64.198:5140
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
-http://www.hkyc.site:1991/udp/239.253.64.206:5140
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://60.13.52.236:65500/newlive/live/hls/19/live.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
-http://156.238.248.80/2099.php?id=1451
-#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://www.hkyc.site:1991/udp/239.253.64.203:5140
+http://23.237.228.134/live6/hunan.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://60.13.52.236:65500/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://www.hkyc.site:1991/udp/239.253.64.129:5140
+http://69.30.246.194/live/jsws.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
+http://23.237.228.134/live6/dongnan.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
-http://www.hkyc.site:1991/udp/239.253.64.207:5140
+http://23.237.228.134/live6/hubei.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
+http://23.237.228.134/live6/shenzhen.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
+http://23.237.228.134/live8/anhui.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://156.238.248.80/2099.php?id=1433
-#EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://156.238.248.80/2099.php?id=1441
-#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
-http://156.238.248.80/2099.php?id=1339
-http://156.238.248.80/2099.php?id=1211
-#EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
-http://156.238.248.80/2099.php?id=46
-#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://156.238.248.80/2099.php?id=1450
-#EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
-http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
-http://156.238.248.80/2099.php?id=1207
+http://23.237.228.134/live6/chongqing.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
+http://23.237.228.134/live6/guangdong.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
-http://www.hkyc.site:1991/udp/239.253.64.66:5140
-#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
-http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8
+http://23.237.228.134/live8/gansu.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
+http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
+http://23.237.228.134/live6/guizhou.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
+http://23.237.228.134/live8/hebei.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
+http://23.237.228.134/live6/henan.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
+http://23.237.228.134/live8/jilin.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
+http://23.237.228.134/live8/jiangxi.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
+http://23.237.228.134/live6/heilongjiang.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
+http://23.237.228.134/live8/liaoning.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
+http://23.237.228.134/live8/neimenggu.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
-http://156.238.248.80/2099.php?id=1279
-#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
-http://156.238.248.80/2099.php?id=1460
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
+http://23.237.228.134/live8/qinghai.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
+http://23.237.228.134/live8/shandong.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
+http://23.237.228.134/live8/shanxi.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
+http://23.237.228.134/live6/sichuan.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
+http://23.237.228.134/live8/tianjing.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
+http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
 http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
-http://27.41.245.32:801/hls/47/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
-http://156.238.248.80/2099.php?id=1282
-#EXTINF:-1 group-title="🐉중국방송🦆",三沙卫视
-http://www.hkyc.site:1991/udp/239.253.64.112:5140
+#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
+http://23.237.228.134/live8/yunnan.m3u8
+
+
+
+
+
+
 
 
 
@@ -10686,6 +10691,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
