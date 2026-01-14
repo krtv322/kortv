@@ -2069,8 +2069,8 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제6화
+https://bodaponi.b-cdn.net/%EB%A9%94%EC%9D%B4%EB%93%9C%20%EC%9D%B8%20%EC%BD%94%EB%A6%AC%EC%95%84%20S01E06%20260114.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_rd0okR7h_307a501ef0147494718450626179295964f6058e.jpg", 아이돌아이 제8화
 https://europe.olemovienews.com/ts4/20260113/kkgyy6ce/mp4/kkgyy6ce.mp4/index-v1-a1.m3u8
@@ -3927,10 +3927,14 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/da5992f1760dbb8fc901269b42bd33ba.jpg", 猎战狂徒
+https://europe.olemovienews.com/ts4/20260113/m77habq5/mp4/m77habq5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260114-1/6b8e2a90c35449fc378e3299bfb9c427.jpg", 最后一轮谈判
+https://europe.olemovienews.com/ts4/20260113/y7gq49us/mp4/y7gq49us.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/7d34526d5828412693c2a9bcb50e0eb1.jpg", 临租家庭
+https://europe.olemovienews.com/ts4/20260113/cis6yr9l/mp4/cis6yr9l.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/63a91b9f3ce0f4b59327792c12e94e70.jpg", 尘兔
+https://europe.olemovienews.com/ts4/20260113/mr69a8of/mp4/mr69a8of.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260112-1/4ff31aef89fe0e195ee92851750dc855.jpg", 微笑的山谷
 https://europe.olemovienews.com/ts4/20260111/1ctsrn5s/mp4/1ctsrn5s.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260109-1/a5b0e83665ef39c2a06168f50576124b.jpg", 盛夏假期遇见爱
@@ -10216,6 +10220,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
