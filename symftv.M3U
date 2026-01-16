@@ -640,8 +640,42 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+http://23.237.228.134/live5/CCTV2.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://23.237.228.134/live5/CCTV5p.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
+http://23.237.228.134/live5/CCTV7.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
+http://23.237.228.134/live3/CCTV17.m3u8
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
@@ -766,179 +800,7 @@ http://23.237.228.134/live8/yunnan.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://101.74.28.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://101.74.28.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://101.74.28.119:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://101.74.28.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://101.74.28.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1756266807-0-0-8c4ca6bb3d80148bb53c1f4cae92b26d
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1756266921-0-0-c980775f013612d85a4758efb97fabc4
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1756266937-0-0-33bb9c95be9914da6d6c52039673ce89
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8?auth_key=1756266973-0-0-611bc714de46cb8f7cb758d38d953845
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-https://6663.luyazo.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8?auth_key=1756267014-0-0-51688d07840b5ba34f9375e8ecefb166
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://101.74.28.84:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://tpc.x3322.net:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
-http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://tpc.x3322.net:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://tpc.x3322.net:9901/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://42.225.117.174:11199/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://171.120.248.227:9003/hls/18/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://tpc.x3322.net:9901/tsfile/live/1042_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://111.43.126.240:9003/hls/17/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://58.19.252.68:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-
-
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://43.138.196.212/mi0gu.php?id=cctv1
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://43.138.196.212/mi0gu.php?id=cctv2
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://43.138.196.212/mi0gu.php?id=cctv3
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://43.138.196.212/mi0gu.php?id=cctv4
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://43.138.196.212/mi0gu.php?id=cctv6
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://43.138.196.212/mi0gu.php?id=cctv7
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://43.138.196.212/mi0gu.php?id=cctv8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://43.138.196.212/mi0gu.php?id=cctv9
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://43.138.196.212/mi0gu.php?id=cctv10
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://43.138.196.212/111.php?id=cctv11
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://43.138.196.212/mi0gu.php?id=cctv12
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://43.138.196.212/mi0gu.php?id=cctv13
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://43.138.196.212/mi0gu.php?id=cctv14
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://43.138.196.212/mi0gu.php?id=cctv15
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://43.138.196.212/mi0gu.php?id=cctv17
-
-
-
-
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
-http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://222.169.85.8:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
-https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",超级体育
-http://111.43.126.240:9003/hls/86/index.m3u8
-
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://tpc.x3322.net:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://tpc.x3322.net:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://tpc.x3322.net:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://tpc.x3322.net:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 6
-http://tpc.x3322.net:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV 7
-http://tpc.x3322.net:9901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://tpc.x3322.net:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://112.80.201.222:9003/hls/12/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://112.80.201.222:9003/hls/13/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://112.80.201.222:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://tpc.x3322.net:9901/tsfile/live/0015_1.m3u8
 
 
 
@@ -2072,6 +1934,34 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제12화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E12.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제11화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E11.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제10화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E10.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제9화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E09.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제8화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E08.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제7화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E07.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제6화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E06.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제5화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E05.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제4화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E04.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제3화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E03.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제2화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E02.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제1화
+https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E01.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20210204/P001443981.jpg/dims/resize/F_webp,480", 철인왕후: 대나무숲 제2화
+https://bodaponi.b-cdn.net/%EC%B2%A0%EC%9D%B8%EC%99%95%ED%9B%84-%20%EB%8C%80%EB%82%98%EB%AC%B4%EC%88%B2.E01.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20210204/P001443981.jpg/dims/resize/F_webp,480", 철인왕후: 대나무숲 제1화
+https://bodaponi.b-cdn.net/%EC%B2%A0%EC%9D%B8%EC%99%95%ED%9B%84-%20%EB%8C%80%EB%82%98%EB%AC%B4%EC%88%B2.E02.1080p.TVING.WEB-DL.H264.AAC.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제69화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E69.260115.1080p.H264-F1RST.mp4
@@ -3821,8 +3711,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/567784b526c55daea044f3b88b634d4d.jpg", 윗집 사람들
+https://europe.olemovienews.com/ts4/20260116/9sjx67aa/mp4/9sjx67aa.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1231/11_17_52__695487d06525f[X280,400].jpg", 죄와 악
 https://bodaponi.b-cdn.net/%EC%A3%84%EC%99%80%20%EC%95%85%20Sin%20and%20Evil,%202025.KORSUB.1080p.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1230/15_18_54__69536ecedb1cf[X280,400].jpg", 구원은 없다  (2026)
@@ -4007,8 +3897,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/a27e93e65f5c747cff9a5ea4e38263a3.jpg", 风林火山
+https://europe.olemovienews.com/ts4/20260116/y01h5vww/mp4/y01h5vww.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/da5992f1760dbb8fc901269b42bd33ba.jpg", 猎战狂徒
 https://europe.olemovienews.com/ts4/20260113/m77habq5/mp4/m77habq5.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260114-1/6b8e2a90c35449fc378e3299bfb9c427.jpg", 最后一轮谈判
@@ -10302,6 +10192,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
