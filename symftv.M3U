@@ -799,7 +799,128 @@ http://23.237.228.134/live8/yunnan.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK 総合
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHK教育(Eテレ)
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png", 日本テレビ(日テレ)
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png", テレビ朝日 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png", TBS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png", テレビ東京(テレ東)
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png", フジテレビ 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg.png", TOKYO MX
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png", NHK BS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K/logo_2025.svg/1920px-NHK_BSP4K/logo_2025.svg.png", NHK BSP4K
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS 日テレ
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi_2025.png", BS 朝日  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/640px-BS-TBS_2025.svg.png", BS TBS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2025.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2025.svg.png", BS テレ東
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png", BS フジ
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png", BS アニマックス 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS NEWS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime_2025.png", WOWOW プライム 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live_2025.png", WOWOW ライブ  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png", WOWOW シネマ
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium_jp.png", BS10 プレミアム  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js1" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js1-jp_2025.png", J SPORTS 1
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js2" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js2-jp_2025.png", J SPORTS 2  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js3" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js3-jp_2025.png", J SPORTS 3 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js4" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js4-jp_2025.png", J SPORTS 4
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="space_shower_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv_2025.png", スペースシャワーtv
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs_2025.png", J:COM BS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
+
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4_2025.jpg/640px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4_2025.jpg", スカイA
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv_g_tasu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo_2025.svg/619px-Nittele_G%2B_logo_2025.svg.png", 日テレジータス
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp_2025.png", ゴルフネットワーク
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki_2025.png", 時代劇専門チャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-dorama-channelpng-jp_2025.png", ホームドラマチャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musicjapantv_2025.png", ミュージック・ジャパンTV
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kids_station" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidsstation_2025.png", キッズステーション
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_logo_2025.svg/640px-Discovery_Channel_-_logo_2025.svg.png", ディスカバリーチャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us_2025.svg", ヒストリーチャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-logo_2025.svg/640px-National-Geographic-logo_2025.svg.png", NATIONAL GEOGRAPHIC
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel_2025.png", 旅チャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png", 歌謡ポップスチャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="movie_plus" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp_2025.png", ムービープラス
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bbc_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_%28Alt%29_2025.svg/640px-BBC_News_%28Alt%29_2025.svg.png", BBC NEWS
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us_2025.png", CNN J
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="gaora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo_2025.svg/640px-GAORA_SPORTS_logo_2025.svg.png", GAORA
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_%28brand_version%29_2025.svg/640px-MTV_%28brand_version%29_2025.svg.png", MTV
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv_2025.png", LaLa TV
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19 
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijo_tv_2025.png", ファミリー劇場
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png", MONDO TV
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs21 
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="eisei_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eisei_gekijo_2025.png", 衛星劇場
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_logo_2025.png/800px-Disney_Junior_logo_2025.png", ディズニージュニア
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animal_planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025_Animal_Planet_logo.svg/800px-2025_Animal_Planet_logo.svg.png", アニマルプラネット
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cartoon_network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_logo_2025.svg/512px-Cartoon_Network_logo_2025.svg.png", カートゥーン ネットワーク 海外アニメ国内アニメ
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next_2025.png", フジテレビNEXT ライブ・プレミアム
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="takarazuka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400×400.png", タカラヅカ・スカイ・ステージ
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png", チャンネル銀河
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon_2025.png", 日本映画専門チャンネル  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us_2025.svg", ディズニー・チャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision_2025.png", 釣りビジョン  
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel_2025.png", 東映チャンネル 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
 
 
@@ -1062,128 +1183,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
 
 
 
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK 総合
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHK教育(Eテレ)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png", 日本テレビ(日テレ)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png", テレビ朝日 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png", TBS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png", テレビ東京(テレ東)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png", フジテレビ 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg.png", TOKYO MX
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png", NHK BS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/NHK_BSP4K/logo_2025.svg/1920px-NHK_BSP4K/logo_2025.svg.png", NHK BSP4K
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS 日テレ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_asahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi_2025.png", BS 朝日  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/640px-BS-TBS_2025.svg.png", BS TBS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2025.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2025.svg.png", BS テレ東
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png", BS フジ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png", BS アニマックス 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS NEWS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime_2025.png", WOWOW プライム 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live_2025.png", WOWOW ライブ  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png", WOWOW シネマ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium_jp.png", BS10 プレミアム  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js1" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js1-jp_2025.png", J SPORTS 1
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js2" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js2-jp_2025.png", J SPORTS 2  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js3" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js3-jp_2025.png", J SPORTS 3 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="js4" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js4-jp_2025.png", J SPORTS 4
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="space_shower_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv_2025.png", スペースシャワーtv
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs_2025.png", J:COM BS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-
-
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="sky_a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4_2025.jpg/640px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4_2025.jpg", スカイA
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="ntv_g_tasu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo_2025.svg/619px-Nittele_G%2B_logo_2025.svg.png", 日テレジータス
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp_2025.png", ゴルフネットワーク
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki_2025.png", 時代劇専門チャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-dorama-channelpng-jp_2025.png", ホームドラマチャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musicjapantv_2025.png", ミュージック・ジャパンTV
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kids_station" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidsstation_2025.png", キッズステーション
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_logo_2025.svg/640px-Discovery_Channel_-_logo_2025.svg.png", ディスカバリーチャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us_2025.svg", ヒストリーチャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-logo_2025.svg/640px-National-Geographic-logo_2025.svg.png", NATIONAL GEOGRAPHIC
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel_2025.png", 旅チャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png", 歌謡ポップスチャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="movie_plus" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_plus_jp_2025.png", ムービープラス
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="bbc_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_%28Alt%29_2025.svg/640px-BBC_News_%28Alt%29_2025.svg.png", BBC NEWS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us_2025.png", CNN J
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="gaora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo_2025.svg/640px-GAORA_SPORTS_logo_2025.svg.png", GAORA
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_%28brand_version%29_2025.svg/640px-MTV_%28brand_version%29_2025.svg.png", MTV
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv_2025.png", LaLa TV
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19 
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijo_tv_2025.png", ファミリー劇場
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png", MONDO TV
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs21 
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="eisei_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eisei_gekijo_2025.png", 衛星劇場
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_logo_2025.png/800px-Disney_Junior_logo_2025.png", ディズニージュニア
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="animal_planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025_Animal_Planet_logo.svg/800px-2025_Animal_Planet_logo.svg.png", アニマルプラネット
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="cartoon_network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_logo_2025.svg/512px-Cartoon_Network_logo_2025.svg.png", カートゥーン ネットワーク 海外アニメ国内アニメ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next_2025.png", フジテレビNEXT ライブ・プレミアム
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="takarazuka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400×400.png", タカラヅカ・スカイ・ステージ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png", チャンネル銀河
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon_2025.png", 日本映画専門チャンネル  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us_2025.svg", ディズニー・チャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision_2025.png", 釣りビジョン  
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel_2025.png", 東映チャンネル 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="🐉일본방송🦮" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
 
 
@@ -1936,11 +1936,13 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/adams/Program/202512/134093155546493956.jpg", 판사 이한영 제5회
-https://bodaponi.b-cdn.net/%ED%8C%90%EC%82%AC%20%EC%9D%B4%ED%95%9C%EC%98%81.E05.260116.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260116/gO4CSK5g/mp4/gO4CSK5g.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51309.jpg", 오늘부터 인간입니다만 제1화
-https://bodaponi.b-cdn.net/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0%20%EC%9D%B8%EA%B0%84%EC%9E%85%EB%8B%88%EB%8B%A4%EB%A7%8C.E01.260116.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260116/0jbHKQ5e/mp4/0jbHKQ5e.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제10화
+https://europe.olemovienews.com/ts4/20260116/5BQqeqBQ/mp4/5BQqeqBQ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제9화
-https://bodaponi.b-cdn.net/%EB%9F%AC%EB%B8%8C%20%EB%AF%B8.E09.260116.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260116/HIuSU6hW/mp4/HIuSU6hW.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제70화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E70.260116.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제78화
@@ -1949,29 +1951,29 @@ https://bodaponi.b-cdn.net/%EC%B9%9C%EB%B0%80%ED%95%9C%20%EB%A6%AC%ED%94%8C%EB%A
 https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E25.260116.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제12화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E12.mp4
+https://europe.olemovienews.com/ts4/20260116/csi8xtzp/mp4/csi8xtzp.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제11화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E11.mp4
+https://europe.olemovienews.com/ts4/20260116/c6ite6ez/mp4/c6ite6ez.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제10화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E10.mp4
+https://europe.olemovienews.com/ts4/20260116/a8jbbkv3/mp4/a8jbbkv3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제9화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E09.mp4
+https://europe.olemovienews.com/ts4/20260116/x2lcsx45/mp4/x2lcsx45.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제8화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E08.mp4
+https://europe.olemovienews.com/ts4/20260116/g2zr69il/mp4/g2zr69il.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제7화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E07.mp4
+https://europe.olemovienews.com/ts4/20260116/q9wc2qay/mp4/q9wc2qay.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제6화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E06.mp4
+https://europe.olemovienews.com/ts4/20260116/4pi4caf9/mp4/4pi4caf9.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제5화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E05.mp4
+https://europe.olemovienews.com/ts4/20260116/fctepj3u/mp4/fctepj3u.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제4화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E04.mp4
+https://europe.olemovienews.com/ts4/20260116/yffydek9/mp4/yffydek9.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제3화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E03.mp4
+https://europe.olemovienews.com/ts4/20260116/6syqc3oh/mp4/6syqc3oh.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제2화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E02.mp4
+https://europe.olemovienews.com/ts4/20260116/oavwl3zk/mp4/oavwl3zk.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251225084509_325af20de5a27c577889248c7ae575be.jpg", 이 사랑 통역 되나요? 제1화
-https://bodaponi.b-cdn.net/%EC%9D%B4%20%EC%82%AC%EB%9E%91%20%ED%86%B5%EC%97%AD%20%EB%90%98%EB%82%98%EC%9A%94%20S01E01.mp4
+https://europe.olemovienews.com/ts4/20260116/kgi83ke3/mp4/kgi83ke3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20210204/P001443981.jpg/dims/resize/F_webp,480", 철인왕후: 대나무숲 제2화
 https://bodaponi.b-cdn.net/%EC%B2%A0%EC%9D%B8%EC%99%95%ED%9B%84-%20%EB%8C%80%EB%82%98%EB%AC%B4%EC%88%B2.E01.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20210204/P001443981.jpg/dims/resize/F_webp,480", 철인왕후: 대나무숲 제1화
@@ -2017,18 +2019,7 @@ https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E03.
 https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E02.251225.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251217092717_582c74728aedff5a5b57be6a5943bca8.jpg", 청년 김대건 제1화
 https://bodaponi.b-cdn.net/%EC%B2%AD%EB%85%84%20%EA%B9%80%EB%8C%80%EA%B1%B4.E01.251224.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제6화
-https://europe.olemovienews.com/ts4/20260114/shf5jsle/mp4/shf5jsle.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제5화
-https://europe.olemovienews.com/ts4/20260107/AxBcv5eY/mp4/AxBcv5eY.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제4화
-https://europe.olemovienews.com/ts4/20251231/7uwwsws4/mp4/7uwwsws4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제3화
-https://europe.olemovienews.com/ts4/20251231/hgl4vjms/mp4/hgl4vjms.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제2화
-https://europe.olemovienews.com/ts4/20251224/KFFylC8N/mp4/KFFylC8N.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제1화
-https://europe.olemovienews.com/ts4/20251224/SykqsyRK/mp4/SykqsyRK.mp4/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_rd0okR7h_307a501ef0147494718450626179295964f6058e.jpg", 아이돌아이 제8화
 https://europe.olemovienews.com/ts4/20260113/kkgyy6ce/mp4/kkgyy6ce.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_rd0okR7h_307a501ef0147494718450626179295964f6058e.jpg", 아이돌아이 제7화
@@ -2061,22 +2052,6 @@ https://europe.olemovienews.com/ts4/20251226/Lf1gQXFn/mp4/Lf1gQXFn.mp4/index-v1-
 https://europe.olemovienews.com/ts4/20251219/SIn6MU7H/mp4/SIn6MU7H.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.cbci.co.kr/news/photo/202512/545964_365588_549.jpg", 러브 미 제1화
 https://europe.olemovienews.com/ts4/20251219/FkG9NUfj/mp4/FkG9NUfj.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제8회
-https://europe.olemovienews.com/ts4/20260108/cydzc8ul/mp4/cydzc8ul.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제7회
-https://europe.olemovienews.com/ts4/20260108/iyveiltz/mp4/iyveiltz.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제6회
-https://europe.olemovienews.com/ts4/20260101/fgx76kdk/mp4/fgx76kdk.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제5회
-https://europe.olemovienews.com/ts4/20260101/5qfg9mpw/mp4/5qfg9mpw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제4회
-https://europe.olemovienews.com/ts4/20251225/mko0qDlK/mp4/mko0qDlK.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제3회
-https://europe.olemovienews.com/ts4/20251225/yjHQrBO6/mp4/yjHQrBO6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제2회
-https://europe.olemovienews.com/ts4/20251218/MIDX9YtF/mp4/MIDX9YtF.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제1회
-https://europe.olemovienews.com/ts4/20251218/AvKqTSgN/mp4/AvKqTSgN.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제24화
 https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E24.260115.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제23화
@@ -2529,8 +2504,14 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2025/11/21/3bad1f29-bafc-4544-850d-85e838a3dda4156w640.jpg", 260117 열혈농구단
+https://bodaponi.b-cdn.net/%EC%97%B4%ED%98%88%EB%86%8D%EA%B5%AC%EB%8B%A8%20S01E08%20260116.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 260116 더 시즌즈 - 10CM의 쓰담쓰담
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/더 시즌즈 - 10CM의 쓰담쓰담_제18회 26_01_16.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/12/12/4faa094c-4526-4c3b-9685-6abb12f64bcd.jpg", 260109 대학전쟁 시즌 3 
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/대학전쟁 시즌 3_제7회 26_01_16.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/27/bntnews/20251227080905129zkoq.jpg", 260116 금타는 금요일
+https://bodaponi.b-cdn.net/%EA%B8%88%ED%83%80%EB%8A%94%20%EA%B8%88%EC%9A%94%EC%9D%BC.E04.260116.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/50796.jpg", 260116 뮤직뱅크 2025
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/뮤직뱅크 2025_제22회 26_01_16.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 260116 나 혼자 산다
@@ -3936,8 +3917,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/61dc9bb5a0d6900ec175cbd1a30079c8.jpg", 全信没收
+https://europe.olemovienews.com/ts4/20260116/6pton3qg/mp4/6pton3qg.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/a27e93e65f5c747cff9a5ea4e38263a3.jpg", 风林火山
 https://europe.olemovienews.com/ts4/20260116/y01h5vww/mp4/y01h5vww.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/da5992f1760dbb8fc901269b42bd33ba.jpg", 猎战狂徒
@@ -5554,6 +5535,41 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제8회
+https://europe.olemovienews.com/ts4/20260108/cydzc8ul/mp4/cydzc8ul.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제7회
+https://europe.olemovienews.com/ts4/20260108/iyveiltz/mp4/iyveiltz.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제6회
+https://europe.olemovienews.com/ts4/20260101/fgx76kdk/mp4/fgx76kdk.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제5회
+https://europe.olemovienews.com/ts4/20260101/5qfg9mpw/mp4/5qfg9mpw.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제4회
+https://europe.olemovienews.com/ts4/20251225/mko0qDlK/mp4/mko0qDlK.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제3회
+https://europe.olemovienews.com/ts4/20251225/yjHQrBO6/mp4/yjHQrBO6.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제2회
+https://europe.olemovienews.com/ts4/20251218/MIDX9YtF/mp4/MIDX9YtF.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 빌런즈 🦆" tvg-logo="https://img3.yna.co.kr/etc/inner/KR/2025/12/01/AKR20251201033000005_01_i_P4.jpg", 빌런즈 제1회
+https://europe.olemovienews.com/ts4/20251218/AvKqTSgN/mp4/AvKqTSgN.mp4/index-v1-a1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제6화
+https://europe.olemovienews.com/ts4/20260114/shf5jsle/mp4/shf5jsle.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제5화
+https://europe.olemovienews.com/ts4/20260107/AxBcv5eY/mp4/AxBcv5eY.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제4화
+https://europe.olemovienews.com/ts4/20251231/7uwwsws4/mp4/7uwwsws4.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제3화
+https://europe.olemovienews.com/ts4/20251231/hgl4vjms/mp4/hgl4vjms.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제2화
+https://europe.olemovienews.com/ts4/20251224/KFFylC8N/mp4/KFFylC8N.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 메이드 인 코리아🦆" tvg-logo="https://img.sbs.co.kr/newsnet/etv/upload/2025/12/24/30001034267_1280.jpg", 메이드 인 코리아 제1화
+https://europe.olemovienews.com/ts4/20251224/SykqsyRK/mp4/SykqsyRK.mp4/index-v1-a1.m3u8
 
 
 
@@ -10233,6 +10249,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
