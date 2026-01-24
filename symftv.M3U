@@ -650,10 +650,12 @@ http://23.237.228.134/live5/CCTV3.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://23.237.228.134/live5/CCTV5p.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
 http://23.237.228.134/live5/CCTV7.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
@@ -678,44 +680,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 http://23.237.228.134/live3/CCTV17.m3u8
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 
@@ -2535,10 +2500,10 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260112/1011/P001781341.jpg/dims/resize/F_webp,480", 260123 쇼미더머니12: 야차의 세계
+https://bodaponi.b-cdn.net/Show%20Me%20The%20Money%2012-%20%EC%95%BC%EC%B0%A8%EC%9D%98%20%EC%84%B8%EA%B3%84.E02.260124.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 260123 나 혼자 산다
+https://bodaponi.b-cdn.net/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.E631.260123.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/27/bntnews/20251227080905129zkoq.jpg", 260123 금타는 금요일
 https://bodaponi.b-cdn.net/%EA%B8%88%ED%83%80%EB%8A%94%20%EA%B8%88%EC%9A%94%EC%9D%BC.E05.260123.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2200051D/site_poster_img1_20230320050707417.jpg", 260123 요즘 육아 금쪽같은 내 새끼
@@ -3984,10 +3949,14 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51339.jpg", 고당도
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고당도_본편.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51364.jpg", 차라리 죽여
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/차라리 죽여_본편.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51365.jpg", 엄마를 버리러 갑니다
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/엄마를 버리러 갑니다_본편.m3u8
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51359.jpg", 고백하지마
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고백하지마_본편.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/567784b526c55daea044f3b88b634d4d.jpg", 윗집 사람들
 https://europe.olemovienews.com/ts4/20260116/9sjx67aa/mp4/9sjx67aa.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1231/11_17_52__695487d06525f[X280,400].jpg", 죄와 악
@@ -5078,40 +5047,12 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 上海申花vs神户胜利船 20:15
-https://pullsgp.yyzb456.top/live/stream-308116_lhd.flv?auth_key=1764156131-0-0-0789216ed0d7391e91d484cf38b9540a
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 上海申花vs神户胜利船 20:15
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1764111205-0-0-a946bfa5dc891e14f75f044967d86584
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",亚冠精英 上海申花vs神户胜利船 20:15
-https://pullsgp.yyzb456.top/live/stream-516701_lhd.flv?auth_key=1764156251-0-0-eabd45089b648dc5a899ec0eae9b2fa3
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 巴黎圣日尔曼vs托特纳姆热刺 04:00
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1764111181-0-0-9299b9f80cccb2ff36edeed693489f38
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 巴黎圣日尔曼vs托特纳姆热刺 04:00
-https://pullsgp.yyzb456.top/live/stream-746673_lhd.flv?auth_key=1764156371-0-0-a460b1bc1adc0e9bcd528c758b483eb2
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 巴黎圣日尔曼vs托特纳姆热刺 04:00
-https://pullsgp.yyzb456.top/live/stream-681230_lhd.flv?auth_key=1764111011-0-0-737b6cf9496000f0850961fde129d9df
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 阿森纳 vs 拜仁慕尼黑 04:00
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1764111205-0-0-a946bfa5dc891e14f75f044967d86584
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 阿森纳 vs 拜仁慕尼黑 04:00
-https://pullsgp.yyzb456.top/live/stream-330076_lhd.flv?auth_key=1764111272-0-0-9e752a6663c3d8ba379f8d5f25c95af5
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 阿森纳 vs 拜仁慕尼黑 04:00
-https://pullsgp.yyzb456.top/live/stream-956896_lhd.flv?auth_key=1764111099-0-0-dd54c9bc5b07ea33738065d77f1093c5
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 利物浦 vs 埃因霍温 04:00
-https://pullsgp.yyzb456.top/live/stream-689863_lhd.flv?auth_key=1764156851-0-0-92580c1d3d22c2c7e194defc12e66c98
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 利物浦 vs 埃因霍温 04:00
-https://pullsgp.yyzb456.top/live/stream-705956_lhd.flv?auth_key=1764067107-0-0-bfc757f3c792d99debab4bc0f382bcd1
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 利物浦 vs 埃因霍温 04:00
-https://pullsgp.yyzb456.top/live/stream-238362_lhd.flv?auth_key=1764156911-0-0-02799508ea4434fbc55c2c03de4430b5
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 奥林匹亚科斯vs 皇家马德里 04:00
-https://pullsgp.yyzb456.top/live/stream-697579_lhd.flv?auth_key=1764017887-0-0-f958f0b15451932e4017bfab40eb0aa1
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",欧冠杯 奥林匹亚科斯vs 皇家马德里 04:00
-https://pullsgp.yyzb456.top/live/stream-775792_lhd.flv?auth_key=1764127624-0-0-f437ed26dea9d8f7dfee52011afaa6bc
-
-
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",中国U23 VS 日本U23 23:00
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1769207646-0-0-b60c3afa298371def51210645ef9a0ec
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",中国U23 VS 日本U23 23:00
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1769253802-0-0-ce590259193204dfc0684f00fd94580f
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",中国U23 VS 日本U23 23:00
+https://pullsgp.yyzb456.top/live/stream-516701_lhd.flv?auth_key=1769253862-0-0-9e1d45b844182a71a1c859d8313e0c8e
 
 
 
@@ -10562,6 +10503,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
