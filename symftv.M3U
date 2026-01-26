@@ -3571,6 +3571,10 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260126-1/c981575ea7af8948f84b49bca33fe482.jpg", 스트리밍
+https://europe.olemovienews.com/ts4/20260125/29g8q9c7/mp4/29g8q9c7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51339.jpg", 고당도
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/고당도_본편.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51364.jpg", 차라리 죽여
@@ -3762,9 +3766,10 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260125-1/ca51104ee8f9ecda203baf5c6faa6da6.jpg", 在你的爱情里
+https://europe.olemovienews.com/ts4/20260125/kxwb2sve/mp4/kxwb2sve.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260125-1/7c9eb006b5ef1d57ebc42b34538cc558.jpg", 国宝
+https://europe.olemovienews.com/ts4/20260125/uf2c3dla/mp4/uf2c3dla.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260124-1/878a62a00d3ab12a0f3c6c5f2ee2c373.jpg", 伪术奇才
 https://europe.olemovienews.com/ts4/20260124/rnk8u85k/mp4/rnk8u85k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260124-1/cb83cbdb315b0f1a8fb5de4a082cdf4c.jpg", 愚者的身份
@@ -10137,6 +10142,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
