@@ -2523,8 +2523,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/671/2025/07/28/175366357131.jpg", 260125  알토란
+https://bodaponi.b-cdn.net/%EC%95%8C%ED%86%A0%EB%9E%80.E577.1080p.260125.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51347.jpg", 260125 풍향고2
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/풍향고2_제2회 26_01_25.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51127.jpg", 260125 도라이버 시즌3 제12회
@@ -5458,11 +5458,35 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260122 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%204.E06.260122.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260115 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF4.E05.260115.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260108 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%204.E04.260109.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260101 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%204.E03.260101.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 261225 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%20%EC%8B%9C%EC%A6%8C4.S01E02.251226.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+#EXTINF:-1 group-title="🐉한국예능 미스트롯4🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 261218 미스트롯4 1
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF4.E01.251218.1080p.H264-F1RST.mp4
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260125 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E479.260125.720p-NEXT.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260118 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E478.260118.720p-NEXT.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260111 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E477.260111.1080p.H264-F1RST_3.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260104 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E476.260104.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 251228 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E475.251228.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 251221 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E474.251221.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 251214 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E473.251214.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 251207 미운 우리 새끼
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E472.251207.1080p.H264-F1RST.mp4
 
 
 
@@ -5616,24 +5640,7 @@ https://bodaponi.b-cdn.net/%EB%86%80%EB%A9%B4%20%EB%AD%90%ED%95%98%EB%8B%88.E291
 
 
 
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250831 미운 우리 새끼
-https://play.ly166.com:65/videos/20250901/68b534485cf6b9c746bbe9e5/8gd099/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250824 미운 우리 새끼
-https://play.ly166.com:65/videos/20250825/68ac2a1680eee9b955fb6e6d/613994/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250817 미운 우리 새끼
-https://play.ly166.com:65/videos/20250818/68a2b3535cf6b9c746299096/d4ee4b/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250810 미운 우리 새끼
-https://play.ly166.com:65/videos/20250811/6899857b80eee9b955f494f0/20d77f/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250803 미운 우리 새끼
-https://play.ly166.com:65/videos/20250804/6890518c5cf6b9c746555981/6d1d0b/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250727 미운 우리 새끼
-https://play.ly166.com:65/videos/20250728/688705f080eee9b95595a35f/61abf3/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250720 미운 우리 새끼
-https://play.ly166.com:65/videos/20250721/687dbbbc80eee9b955dfdfeb/d3517a/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250713 미운 우리 새끼
-https://play.ly166.com:65/videos/20250714/68748c4080eee9b955a865cf/b56cea/index.m3u8
-#EXTINF:-1 group-title="🐉한국예능 미운 우리 새끼🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 250706 미운 우리 새끼
-https://play.ly166.com:65/videos/20250707/686b527380eee9b955efda3b/d44063/index.m3u8
+
 
 
 
@@ -10603,6 +10610,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
