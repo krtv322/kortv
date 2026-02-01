@@ -3819,8 +3819,8 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/844ee3a720997bb8cd4768af6da23041.jpg", 퍼스트라이드
+https://europe.olemovienews.com/ts4/20260201/nqdofrzz/mp4/nqdofrzz.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260126-1/c981575ea7af8948f84b49bca33fe482.jpg", 스트리밍
 https://europe.olemovienews.com/ts4/20260125/29g8q9c7/mp4/29g8q9c7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51339.jpg", 고당도
@@ -4014,6 +4014,10 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/315b615865945fbf1763510716446980.jpg", 征服者
+https://europe.olemovienews.com/ts4/20260201/2yrfpeoq/mp4/2yrfpeoq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/9ca61cb490f370b62a0b7a653767e41f.jpg", 河鳗
+https://europe.olemovienews.com/ts4/20260201/ntdq25w4/mp4/ntdq25w4.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260130-1/4c6774350257415e6e4eaca5a03786d0.jpg", 三国的星空第一部
 https://europe.olemovienews.com/ts4/20260130/f5dhi229/mp4/f5dhi229.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260130-1/fe053266d62939945fcc6ab4187b804b.jpg", 96分钟：列车爆炸案
@@ -10402,6 +10406,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
