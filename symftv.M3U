@@ -1900,9 +1900,9 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제1화
-https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.E01.260202.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260202/FYpIwDg3/mp4/FYpIwDg3.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251211/0550/P001780197.jpg/dims/resize/F_webp,480", 스프링 피버 제9화
-https://bodaponi.b-cdn.net/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%94%BC%EB%B2%84.E09.260202.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260202/LEFZxkc5/mp4/LEFZxkc5.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제81화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E81.260202.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제89화
@@ -2442,8 +2442,8 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.chosun.com/resizer/v2/GY4GEODDHE4DENDFMU2TENDDME.jpg?auth=8849119de4d6c88b87d8cfd1b5a3b194bb7d586db3e4392624ed658fb8e6ba44&width=530&height=785&smart=true", 260203 솔로지옥 시즌5 제8화
+https://bodaponi.b-cdn.net/%EC%86%94%EB%A1%9C%EC%A7%80%EC%98%A5%20S05E08%20260203.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/25/f4bad146-84eb-42e5-9312-a66349badeb8.jpg", 260202 최강야구
 https://bodaponi.b-cdn.net/%EC%B5%9C%EA%B0%95%EC%95%BC%EA%B5%AC%202025.E136.260202.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20251002075911_6be525fac3bb8e4d0ea9fa70317d80a4.jpg", 260202 뛰어야 산다 in 시드니
@@ -10532,6 +10532,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
