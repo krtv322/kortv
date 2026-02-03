@@ -3777,6 +3777,11 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1223/13_50_15__694a1f879937c[X280,400].jpg", 코드: G 주목의 시작
+https://bodaponi.b-cdn.net/%EC%BD%94%EB%93%9C%20G%20%EC%A3%BC%EB%AA%A9%EC%9D%98%20%EC%8B%9C%EC%9E%91%20CODE%20G,%202025.1080p.FHDRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/844ee3a720997bb8cd4768af6da23041.jpg", 퍼스트라이드
 https://europe.olemovienews.com/ts4/20260201/nqdofrzz/mp4/nqdofrzz.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260126-1/c981575ea7af8948f84b49bca33fe482.jpg", 스트리밍
@@ -10532,6 +10537,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
