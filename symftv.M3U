@@ -1901,15 +1901,15 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260204-1/17b71abedda09bb5f04ac1be33af6e63.jpg", 블러드 플라워 제2화
+https://europe.olemovienews.com/ts4/20260204/35h1x8j2/mp4/35h1x8j2.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260204-1/17b71abedda09bb5f04ac1be33af6e63.jpg", 블러드 플라워 제1화
+https://europe.olemovienews.com/ts4/20260204/iatnssjy/mp4/iatnssjy.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제2화
-https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.E02.260203.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260203/1aa2jl1b/mp4/1aa2jl1b.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251211/0550/P001780197.jpg/dims/resize/F_webp,480", 스프링 피버 제10화
-https://bodaponi.b-cdn.net/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%94%BC%EB%B2%84.E10.260203.1080p.H264-F1RST.mp4
+https://europe.olemovienews.com/ts4/20260203/fp3oxzbm/mp4/fp3oxzbm.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제82화
 https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E82.260203.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/09/22/68d1326fc9529ee997efe8b9/thumbnail/68d1326fc9529ee997efe8b9_upload_1758541078844.jpg", 친밀한 리플리 제90화
@@ -3832,8 +3832,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260204-1/bf34666769ac28ff2f157efb176c66e2.jpg", 今夜，就算这份爱恋从世界上消失
+https://europe.olemovienews.com/ts4/20260203/0r52f3sm/mp4/0r52f3sm.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1223/13_50_15__694a1f879937c[X280,400].jpg", 코드: G 주목의 시작
 https://bodaponi.b-cdn.net/%EC%BD%94%EB%93%9C%20G%20%EC%A3%BC%EB%AA%A9%EC%9D%98%20%EC%8B%9C%EC%9E%91%20CODE%20G,%202025.1080p.FHDRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/844ee3a720997bb8cd4768af6da23041.jpg", 퍼스트라이드
@@ -4032,8 +4032,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/6c7fb5005a92e4d15004ade3d77ed074.jpg", 远山淡影
+https://europe.olemovienews.com/ts4/20260203/n2r9etfw/mp4/n2r9etfw.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/6c7fb5005a92e4d15004ade3d77ed074.jpg", 哈姆奈特
+https://europe.olemovienews.com/ts4/20260203/74jetu56/mp4/74jetu56.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/4508a815dc506a5786e19997a6353b42.jpg", 家弑服务
+https://europe.olemovienews.com/ts4/20260203/ytfsinkk/mp4/ytfsinkk.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/6205f4a45a68152fc518d5960a06c793.jpg", 旁观者
 https://europe.olemovienews.com/ts4/20260201/1r6twkiw/mp4/1r6twkiw.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/315b615865945fbf1763510716446980.jpg", 征服者
@@ -10591,6 +10595,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
