@@ -4021,8 +4021,12 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/12_04_42__6879b9caf420d[X280,400].jpg", 악마가 이사왔다
+https://bodaponi.b-cdn.net/%EC%95%85%EB%A7%88%EA%B0%80%20%EC%9D%B4%EC%82%AC%EC%99%94%EB%8B%A4%20e.mp4
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0918/18_12_52__68cbcd144cacc[X280,400].jpg", 사람과 고기
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%8C%EA%B3%BC%20%EA%B3%A0%EA%B8%B0%20People%20and%20Meat,%202025.1080p.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0106/14_50_44__695ca2b43fcc5[X280,400].jpg", 프로젝트 Y
+https://bodaponi.b-cdn.net/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8Y%20Project%20Y,%202026.1080p.FHDRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51412.jpg", 흡식기담
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/흡식기담_본편.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51419.jpg", 하얀 차를 탄 여자
@@ -10803,6 +10807,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
