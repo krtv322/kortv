@@ -4229,6 +4229,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260209-1/b80b38c18c77f421f5cbe8956631ad22.jpg", 重返寂静岭
+https://europe.olemovienews.com/ts4/20260208/tnkr3rth/mp4/tnkr3rth.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260207-1/287e21617a6c6a23459a7ea36d52c7f0.jpg", 内幕
 https://europe.olemovienews.com/ts4/20260207/tfjgb548/mp4/tfjgb548.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260206-1/176e68528ed149546e38665bd8bb37ca.jpg", 三滴血
@@ -10800,6 +10803,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
