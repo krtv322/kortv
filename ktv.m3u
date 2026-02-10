@@ -1,10 +1,14 @@
 #EXTM3U8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
 http://47.237.74.77:7777/kbs.php?id=1
+#EXTINF:-1 group-title="🐉한국방송🦆", kbs1
+http://43.137.43.57/get_channel.php?channel=kbs1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
 http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://47.237.74.77:7777/kbs.php?id=2
+#EXTINF:-1 group-title="🐉한국방송🦆", kbs2
+http://43.137.43.57/get_channel.php?channel=kbs2
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
@@ -20,6 +24,8 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",JTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
+http://43.137.43.57/get_channel.php?channel=mbc
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1  group-title="🐉한국방송🦆",MBC제주TV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
@@ -27,24 +33,26 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://koreatv.dothome.co.kr/mbn.php
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
-http://211.170.95.22/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",MBN
+http://43.137.43.57/get_channel.php?channel=mbn
 #EXTINF:-1 group-title="🐉한국방송🦆",tvchosun
 http://43.137.43.57/get_channel.php?channel=tvchosun
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🐉한국방송🦆",채널A
-http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+http://43.137.43.57/get_channel.php?channel=channela
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
+http://43.137.43.57/get_channel.php?channel=yna
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+http://43.137.43.57/get_channel.php?channel=ytn
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",tvn
+http://43.137.43.57/get_channel.php?channel=tvn
+#EXTINF:-1 group-title="🐉한국방송🦆",jtbc
+http://43.137.43.57/get_channel.php?channel=jtbc
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
