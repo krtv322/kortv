@@ -29,6 +29,8 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 http://koreatv.dothome.co.kr/mbn.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://211.170.95.22/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",tvchosun
+http://43.137.43.57/get_channel.php?channel=tvchosun
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
