@@ -2514,6 +2514,12 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.chosun.com/resizer/v2/GY4GEODDHE4DENDFMU2TENDDME.jpg?auth=8849119de4d6c88b87d8cfd1b5a3b194bb7d586db3e4392624ed658fb8e6ba44&width=530&height=785&smart=true", 260203 솔로지옥 시즌5 제12화
+https://bodaponi.b-cdn.net/%EC%86%94%EB%A1%9C%EC%A7%80%EC%98%A5%20S05E12%20260210.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.chosun.com/resizer/v2/GY4GEODDHE4DENDFMU2TENDDME.jpg?auth=8849119de4d6c88b87d8cfd1b5a3b194bb7d586db3e4392624ed658fb8e6ba44&width=530&height=785&smart=true", 260203 솔로지옥 시즌5 제11화
+https://bodaponi.b-cdn.net/%EC%86%94%EB%A1%9C%EC%A7%80%EC%98%A5%20S05E11%20260210.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51087.jpg", 260209 개는 훌륭하다
+https://bodaponi.b-cdn.net/%EA%B0%9C%EB%8A%94.%ED%9B%8C%EB%A5%AD%ED%95%98%EB%8B%A4.S01E241.260209.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/05/25/f4bad146-84eb-42e5-9312-a66349badeb8.jpg", 260209 최강야구
 https://bodaponi.b-cdn.net/%EC%B5%9C%EA%B0%95%EC%95%BC%EA%B5%AC%202025.E137.260209.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0113/2017/10/31/1509412391184_54130.jpg", 260209 가요무대
@@ -4067,6 +4073,11 @@ https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1029/16_17_57__6901bfa54eae3[X280,400].jpg", 하얀 차를 탄 여자
+https://bodaponi.b-cdn.net/%ED%95%98%EC%96%80%20%EC%B0%A8%EB%A5%BC%20%ED%83%84%20%EC%97%AC%EC%9E%90%20The%20Woman%20in%20the%20White%20Car,%202025.1080p.FHDRip.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/12_04_42__6879b9caf420d[X280,400].jpg", 악마가 이사왔다
 https://bodaponi.b-cdn.net/%EC%95%85%EB%A7%88%EA%B0%80%20%EC%9D%B4%EC%82%AC%EC%99%94%EB%8B%A4%20e.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0918/18_12_52__68cbcd144cacc[X280,400].jpg", 사람과 고기
@@ -10858,6 +10869,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
