@@ -682,8 +682,10 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://23.237.228.134/live3/CCTV17.m3u8
 
-
-
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 
 
 
@@ -10891,6 +10893,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
