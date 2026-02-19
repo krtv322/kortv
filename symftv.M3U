@@ -4276,7 +4276,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1103/14_23_00__69083c343745c[W680-].jpg", 생명의 은인
 https://bodaponi.b-cdn.net/%EC%83%9D%EB%AA%85%EC%9D%98%20%EC%9D%80%EC%9D%B8%20(2025)%20SAVE.KOR.1080p.FHD.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51430.jpg", 동창 최후의 만찬 (2026)
@@ -11173,6 +11172,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
