@@ -53,6 +53,8 @@ https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.co
 http://43.137.43.57/get_channel.php?channel=tvn
 #EXTINF:-1 group-title="🐉한국방송🦆",jtbc
 http://43.137.43.57/get_channel.php?channel=jtbc
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn
+http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
