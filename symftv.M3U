@@ -119,6 +119,8 @@ http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",어린이 만화동산
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1757374054&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzM3NDA1NH19fV19&Signature=IIls1h8FQVUVtOIseVYjQaESEBwIpgvGEEcFdZOa5vnlCZPzA3FGw79zUVksUPyqE-OdmKJGtF8KLdX0I7Ww8lELhSXcJ6sdWD54FA7ebj2-oijVXVodjdlF2noBHlTIDJdJJaGDq8imzByqtEmNKs-PoRqcnGaLpwALekxBmR~6TKVBunSbv8LlIdbBksvUPJf04zX0tUw-JynkVJaRZWWqqUkcO2zXQWR4aoD5Yvm0I3cDMCUdSEqkxJ9ZDaacTjnl8wIkCs72UVqeBeqEiUO4VZKn7hNxCHBHsbcZ-gj42kn0nDk2b8JJ1TygU-JZC2xgVce6nHBN2hALIlIuzg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="🐉한국방송🦆",베베핀
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1305_8769557B.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",베베핀 2
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",뽀요티비
 https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
@@ -11334,6 +11336,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
