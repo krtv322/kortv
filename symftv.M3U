@@ -2618,9 +2618,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260222 개그 콘서트 SUPER LIVE
 https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8.%EC%BD%98%EC%84%9C%ED%8A%B8.E1161.260222.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
-
-
-
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51348.jpg", 260222 내가 많이 먹을 상인가?
 https://bodaponi.b-cdn.net/%EB%82%B4%EA%B0%80%20%EB%A7%8E%EC%9D%B4%20%EB%A8%B9%EC%9D%84%20%EC%83%81%EC%9D%B8%EA%B0%80.E05.260222.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250927/0015/P001777067.jpg/dims/resize/F_webp,480", 260222 대식좌의 밥상
@@ -4651,8 +4648,8 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260223-1/729dc61d6880faadac110d35b7336369.jpg", 我是卧底
+https://europe.olemovienews.com/ts4/20260223/jvu6ujlr/mp4/jvu6ujlr.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260222-1/aa0dc11d80b92369a6ab4a1153995f38.jpg", 点到为止
 https://europe.olemovienews.com/ts4/20260222/c5inh8as/mp4/c5inh8as.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260222-1/d92ae1126e79d580aeb90996cd64420c.jpg", 东京出租车
@@ -6362,39 +6359,39 @@ https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
 
 
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제8회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제8회
 https://europe.olemovienews.com/ts2/20230310/cDhsJuwo/mp4/cDhsJuwo.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제7회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제7회
 https://europe.olemovienews.com/ts2/20230310/njjskcpy/mp4/njjskcpy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제6회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제6회
 https://europe.olemovienews.com/ts2/20230310/ynvtdeAd/mp4/ynvtdeAd.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제5회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제5회
 https://europe.olemovienews.com/ts2/20230310/FhImtIyF/mp4/FhImtIyF.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제4회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제4회
 https://europe.olemovienews.com/ts2/20230310/rbvvlrqw/mp4/rbvvlrqw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제3회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제3회
 https://europe.olemovienews.com/ts2/20230310/kCddDADu/mp4/kCddDADu.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제2회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제2회
 https://europe.olemovienews.com/ts2/20230310/DabjqhEp/mp4/DabjqhEp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 2 제1회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 2 제1회
 https://europe.olemovienews.com/ts2/20230310/CruAwGpk/mp4/CruAwGpk.mp4/index-v1-a1.m3u8
 
 
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제8회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제8회
 https://europe.olemovienews.com/ts2/20221230/bCyiJkaw/mp4/bCyiJkaw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제7회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제7회
 https://europe.olemovienews.com/ts2/20221230/kJBptGaD/mp4/kJBptGaD.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제6회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제6회
 https://europe.olemovienews.com/ts2/20221230/yywBCqlB/mp4/yywBCqlB.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제5회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제5회
 https://europe.olemovienews.com/ts2/20221230/kovmzyyn/mp4/kovmzyyn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제4회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제4회
 https://europe.olemovienews.com/ts2/20221230/fIhgtfjw/mp4/fIhgtfjw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제3회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제3회
 https://europe.olemovienews.com/ts2/20221230/eliehzjD/mp4/eliehzjD.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제2회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제2회
 https://europe.olemovienews.com/ts2/20221230/eIhpznpw/mp4/eIhpznpw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20220409-1/de70ebda254eab580f7ed3e45c8ed058.jpg", 더 글로리 제1회
+#EXTINF:-1 group-title="🐉한국드라마 더 글로리🦆" tvg-logo="https://static.olelive.com/upload/vod/20230310-1/803e2b3c17deee6f404c0dcfa2bcd774.jpg", 더 글로리 제1회
 https://europe.olemovienews.com/ts2/20221230/hdhcxDbC/mp4/hdhcxDbC.mp4/index-v1-a1.m3u8
 
 
@@ -11430,6 +11427,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
