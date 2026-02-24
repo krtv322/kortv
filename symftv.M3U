@@ -4700,6 +4700,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260224-1/101a4809ff5a4441f7998dfe7a6f06a4.jpg", 庇护之地
+https://europe.olemovienews.com/ts4/20260224/zsx7e9n7/mp4/zsx7e9n7.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260224-1/be7a65a85001f921ae5a0d25d06eb075.jpg", 约瑟夫·门格勒的消失
 https://europe.olemovienews.com/ts4/20260223/2gsf56ta/mp4/2gsf56ta.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260223-1/dd868b0e780b96469e3320b03ecb0584.jpg", 无法在你的脸上哭泣
@@ -11483,6 +11487,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
