@@ -441,7 +441,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzIzNjA4Mzh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=XPd3Qjk32o281yFMFDxHbsKgVPqUIFObOZm6I0VKjLVT-mb4wnpvk-v8z3quk8B~jEvKxKoNu5IUJkaltooJtSOHiZCuhZDK6iw26aFT5vg3xFtjM7zMBcQb99Dm69brQacBsLX7GTxx2CtsvEc8ezNF3vO1YRouSl8pQYdTDAo3E00ag7GWS5dWVP7FaqgtFjQzMYXgSarXA6bHU2n~51rvmCPxIiRfwHOSe8nwX71AkOTqnwWoPNuIzUYk1op1z7MvyVGX23w4ipanmYyzDxzgWDpEzGnVYnVXN3R3IPUUhU0R9fOhZdzz6YUrS0fjdxeD6H42tknlHlepCjP0VQ__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI0MDg5ODZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ISbhU2AQTfF33GCjLzy18jfNYbNKhgSECj05ACLyHWyVr9A6bcJFjwBX8c1Cay4oDTsxa00oQaotT0Pr-5TdsHQwtlyyLb6rtGyWfjz-X3Z6NQGiTwahOOFWc0ZazV0KtJK6Lm225BWd57diITimA0zy96--I9hFSuTXLQTXEC08dcUAQEKEKRrysG2cjRSMNMVSwSS317cZjkjkKntps4Ct-OlwJe5KsKdzPS6M-kOfVAUVYHHMPldu0a8LWOGT9au~tt53fLzmjsRVfx3yFw5RVYt~jL1eBzyF~aL-2J9dj9G~kNPuJPngVUwWS-TICraxMVL9XJsUQLhPi6yW1Q__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -10652,6 +10652,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
