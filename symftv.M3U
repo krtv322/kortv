@@ -441,7 +441,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzIzMjI5NTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=VicrONLWSusk1QxscbJ3xWCptxM4U63LSR64FRLmqRpOOAazjKQ~pfIwvzQriO2DDRNQaYA0gQiBGr5RRzQNiPF0dGcbz2g5E8UpRCgQ8txc7TdZa-yr1qRlaMEGbgHDq63gnAjH~v-0o74qYymjQ7~pfZrpQ0f-~Q5oD8Jf4EC~ucgf~CBtj5Oo9ICqdvNb1-qxNGZ1dFc-L6YcLkcKjS0OpMSy7lYI358OOZutC3d4uAl7fN3yLhgC~AQ72-BpO5I97A1Ep6r4aEliBwJc4Z8Ra94Ee9FlKFgrhk49IuXxf0Z6qhDMZ3psDvuRnce09oBN7PjACABs5WWnO9ErDA__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzIzNjA4Mzh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=XPd3Qjk32o281yFMFDxHbsKgVPqUIFObOZm6I0VKjLVT-mb4wnpvk-v8z3quk8B~jEvKxKoNu5IUJkaltooJtSOHiZCuhZDK6iw26aFT5vg3xFtjM7zMBcQb99Dm69brQacBsLX7GTxx2CtsvEc8ezNF3vO1YRouSl8pQYdTDAo3E00ag7GWS5dWVP7FaqgtFjQzMYXgSarXA6bHU2n~51rvmCPxIiRfwHOSe8nwX71AkOTqnwWoPNuIzUYk1op1z7MvyVGX23w4ipanmYyzDxzgWDpEzGnVYnVXN3R3IPUUhU0R9fOhZdzz6YUrS0fjdxeD6H42tknlHlepCjP0VQ__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -2401,6 +2401,33 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제8화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E08.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제7화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E07.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제6화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E06.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제5화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E05.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제4화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E04.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제3화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E03.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제2화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E02.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제1화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E01.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_ky1udfSF_d09c8f062d34a6b0f71fe6d966456d0054529df7.png", 260226 밥상학 개론
+https://bodaponi.b-cdn.net/%EB%B0%A5%EC%83%81%ED%95%99.%EA%B0%9C%EB%A1%A0.S01E05.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0342/2025/12/8/1765153498717_619303.jpg", 260226 바다 건너 듀엣
+https://bodaponi.b-cdn.net/%EB%B0%94%EB%8B%A4.%EA%B1%B4%EB%84%88.%EB%93%80%EC%97%A3.S01E01.260226.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20120615/P000070051.png/dims/resize/F_webp,480", 260226 Show Me The Money
+https://bodaponi.b-cdn.net/Show%20Me%20The%20Money%2012.E07.260226.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260226 미스트롯4
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF%204.E11.260226.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.yna.co.kr/etc/inner/KR/2021/02/18/AKR20210218066700005_01_i_P4.jpg", 260226 꼬리에 꼬리를 무는 그날 이야기
+https://bodaponi.b-cdn.net/%EA%BC%AC%EB%A6%AC%EC%97%90%20%EA%BC%AC%EB%A6%AC%EB%A5%BC%20%EB%AC%B4%EB%8A%94%20%EA%B7%B8%EB%82%A0%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20E213%20260226.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 260226 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
 https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO,%20%EA%B7%B8%ED%9B%84%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EA%B3%84%EC%86%8D%EB%90%9C%EB%8B%A4.E154.260226.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2022/07/05/a9c0349f-f230-4f6f-b1f5-7bff9de0d562.jpg", 260226 실화탐사대
@@ -10588,6 +10615,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
