@@ -441,7 +441,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI0MDg5ODZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ISbhU2AQTfF33GCjLzy18jfNYbNKhgSECj05ACLyHWyVr9A6bcJFjwBX8c1Cay4oDTsxa00oQaotT0Pr-5TdsHQwtlyyLb6rtGyWfjz-X3Z6NQGiTwahOOFWc0ZazV0KtJK6Lm225BWd57diITimA0zy96--I9hFSuTXLQTXEC08dcUAQEKEKRrysG2cjRSMNMVSwSS317cZjkjkKntps4Ct-OlwJe5KsKdzPS6M-kOfVAUVYHHMPldu0a8LWOGT9au~tt53fLzmjsRVfx3yFw5RVYt~jL1eBzyF~aL-2J9dj9G~kNPuJPngVUwWS-TICraxMVL9XJsUQLhPi6yW1Q__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI0NDkxNjF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=eSOhHDuV1JqEbZrTixIaooTPl0U5DjW5arI1SgS2~aUIT63UFQmAh70P49vooNvW2nqwXAu9E~ApF38TFzFgQ3qst8TZf~obHHtV8C2hcxuL3REeHhz2HRJcfWtNk8WZgufLWB~57bA-ay2a1b-oBWEZjgaEWozGt-KnXjEGStUpCymhLGzLlcaB74txfsHmxGAjh1NSKJ5D4XxjMokfhdNGmJ~HnWbNqzQx5lcJRmKTCD8H6z4h5syQnQHb1JPH0dFCsSEvoqzBgrEOEqvg6EjlWENFxt6r4K2ktB8gtYXSom~1RkICZCXAMMLj82js~YQ-598yWDYVeopN~zglhA__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -2414,15 +2414,19 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/27/bntnews/20251227080905129zkoq.jpg", 260220 금타는 금요일
-https://bodaponi.b-cdn.net/%EA%B8%88%ED%83%80%EB%8A%94%20%EA%B8%88%EC%9A%94%EC%9D%BC.E09.260220.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/10/03/sHg1759460194727-640-360.png", 260220 궁금한 이야기 Y
-https://bodaponi.b-cdn.net/%EA%B6%81%EA%B8%88%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20Y%20S05E06%20260220.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 260220 더 시즌즈 - 10CM의 쓰담쓰담
-https://bodaponi.b-cdn.net/%EB%8D%94.%EC%8B%9C%EC%A6%8C%EC%A6%88.E23.260220.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 260220 나 혼자 산다
-https://bodaponi.b-cdn.net/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.E635.260220.1080p.H264-F1RST.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/10/03/sHg1759460194727-640-360.png", 260227 궁금한 이야기 Y
+https://bodaponi.b-cdn.net/%EA%B6%81%EA%B8%88%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20Y%20S05E07%20260227.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 260227 나 혼자 산다
+https://bodaponi.b-cdn.net/%EB%82%98%20%ED%98%BC%EC%9E%90%20%EC%82%B0%EB%8B%A4.E636.260227.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260227 미스터리 수사단 시즌2 제9화
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E09.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 260227 더 시즌즈 - 10CM의 쓰담쓰담
+https://bodaponi.b-cdn.net/%EB%8D%94.%EC%8B%9C%EC%A6%8C%EC%A6%88.E24.260227.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202601/23/news-p.v1.20260123.d351fb2bc778404faab49f91e3b7d614_P1.jpg", 260227 남의연애 시즌4 제11화
+https://bodaponi.b-cdn.net/%EB%82%A8%EC%9D%98%EC%97%B0%EC%95%A0.S04E11.260227.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pimg.mk.co.kr/news/cms/202601/23/news-p.v1.20260123.d351fb2bc778404faab49f91e3b7d614_P1.jpg", 260227 남의연애 시즌4 제10화
+https://bodaponi.b-cdn.net/%EB%82%A8%EC%9D%98%EC%97%B0%EC%95%A0.S04E10.260227.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240911/2340/P001761505.jpg/dims/resize/F_webp,480", 260227 용감한 형사들 4
 https://bodaponi.b-cdn.net/%EC%9A%A9%EA%B0%90%ED%95%9C%20%ED%98%95%EC%82%AC%EB%93%A4%204.E74.260227.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/228x128/pbbsres.kbs.co.kr/T2019-0286-04-578866/2025/07/25/3013580_1753401348281.jpg", 260227 신상출시 편스토랑
@@ -3367,8 +3371,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1229/11_01_32__6951e0fc51bd8[W680-].jpg", 만약에 우리
 https://bodaponi.b-cdn.net/%EB%A7%8C%EC%95%BD%EC%97%90%20%EC%9A%B0%EB%A6%AC%20Once%20We%20Were%20Us,%202025.1080p.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caim/CAIM2100/ko/20260213/0030/M000379517.jpg/dims/resize/F_webp,480", 통잠
@@ -3596,6 +3598,10 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/cc6b4a0212075429e55036214a7f6923.jpg", 父母姐弟
+https://europe.olemovienews.com/ts4/20260228/hw2t3oz0/mp4/hw2t3oz0.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260227-1/ffabc8a629cce21629d88c80e267e06a.jpg", 匿杀
 https://europe.olemovienews.com/ts4/20260227/mvsx9dtt/mp4/mvsx9dtt.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260227-1/7722a420e5b22744741b90d5cc3082f0.jpg", 蜡笔小新：灼热的春日部舞者们
@@ -10652,6 +10658,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
