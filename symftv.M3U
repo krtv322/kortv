@@ -441,7 +441,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI0OTI5NTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SgmK6cONjR~yBbMYe24KIU1zdgx7ITkQlmoqu~DnEs4mKnQzUmkXixjYvByaRX4WWbXq7wcxMEjSg6O-ZB9AEASXpJymf2rN3gqnAgT1SqkTzn4zTrNNpBq1Hj2uAIQi8xH0e~rmSdJHO1hip4LDm6nU0GtudrnKC7JziIOKtpw5lGT805mxCpHOLdnnRl51s-19fJzhvUyE7Y7f3V7jKeAovl6o3WH9usc1hQec7R2RGxZrIAGDt39OKjCncu4CTMh5olT9b-pfis7HP~FzxmiDGD8VX~8JHkuh~1nOrgHmpFDDd0u2l9IG2kSWStzyc1YO2sYwN~ppq8y4MpIbUg__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI1Mzk0MTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=gJiF7N7mB0CfXlAYWP2toPrJ8OVlzy1bWWrxusw~rCxAXGKq-DPmN-xGGQZtEak2xZRnL2V5NBpL1d9rvuyMA~cBMGInFfp-tDh9D2FcbPXM63msviVIQtp2vcBRB8nzJCKxlOmT-EI4v1QeNEnJzOuLnzjx8cDMK1jvrkIGihQGTakOky28gbY40WdvH9A6sk~4GZ2qWTkEeKWa3YMvt6ZmIt5rnyvdHLRHDFr0RSdsF-Ix2MQ0W77TSpHdyBaG0blP4BM74XfiYwg9lKWNmZ24HZEk2dyAwVepa7GR7bNu3cFDDPcoqZo8cAprSDqCisRdWmIrotuws10fAYqAwA__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -646,8 +646,7 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://69.30.246.194/live/cctv1.m3u8
+
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
@@ -716,7 +715,7 @@ http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://69.30.246.194/live/hnws.m3u8
+http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
 http://69.30.246.194/live/jsws.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
@@ -2395,6 +2394,31 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Content/20261/134138615142634223.jpg", 260301 마니또 클럽
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%8B%88%EB%98%90%20%ED%81%B4%EB%9F%BD.E05.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42133.jpg", 260301 사장님 귀는 당나귀 귀
+https://bodaponi.b-cdn.net/%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80.E347.260301.720p-NEXT.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 260301 런닝맨
+https://bodaponi.b-cdn.net/%EB%9F%B0%EB%8B%9D%EB%A7%A8.E792.260301.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/671/2025/07/28/175366357131.jpg", 260301  알토란
+https://bodaponi.b-cdn.net/%EC%95%8C%ED%86%A0%EB%9E%80.E582.1080p.TVING.WEB-DL.H264.AAC.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 260301 출발 비디오여행
+https://bodaponi.b-cdn.net/%EC%B6%9C%EB%B0%9C.%EB%B9%84%EB%94%94%EC%98%A4.%EC%97%AC%ED%96%89.E1627.260301.1080p.WAVVE.WEB-DL.AAC2.0.H.264-tvchak.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://photo.jtbc.co.kr/news/jam_photo/202602/20/dce6b1eb-2967-4ebb-bab7-c60f2fe03b88.jpg", 260301 도라이버: 더 라이벌
+https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20%EC%8B%9C%EC%A6%8C4%20%EC%A0%9C2%ED%99%94.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 260301 전국노래자랑
+https://bodaponi.b-cdn.net/%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91.e2155.260301.1080p.WAVVE.WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_ArYJpkPn_76d7f7934f84b4eaca9ce0f53a93534ce00c9f0c.jpg", 260228 크레이지 투어 
+https://bodaponi.b-cdn.net/%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%20%ED%88%AC%EC%96%B4.E01.260228.720p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/seditor/VD/2025/11/18/p5F1763421785642-640-0.jpg", 260228 그것이 알고 싶다
+https://bodaponi.b-cdn.net/%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%20%EC%8B%B6%EB%8B%A4.E1477.260228.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 260228 전지적 참견 시점
+https://bodaponi.b-cdn.net/%EC%A0%84%EC%A7%80%EC%A0%81%20%EC%B0%B8%EA%B2%AC%20%EC%8B%9C%EC%A0%90.E387.260228.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.podbbang.com/pbi/t/430/240/p/14145.jpg?20250427", 260228 강적들
 https://bodaponi.b-cdn.net/%EA%B0%95%EC%A0%81%EB%93%A4.E629.260228.1080p.TVING.WEB-DL.H264.AAC.mp4
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202504/714131_826338_1335.jpg", 260228 속풀이쇼 동치미
@@ -10702,6 +10726,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
