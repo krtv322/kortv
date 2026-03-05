@@ -441,7 +441,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI4NDQ0Mjd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z8gKhd0PoU89daq85F70LguA8ZRO99Uno7L4g2s0Dq1gE~PZEKvjbNDDiM2OuvXFJ6vuIgHsK6TW1~JtTo6w5DzEJjqw8T0fV5koBn0F-CM37xN~6Zi4dUr69c1y54GkM7JrQ13YNanFptHXi9-muTPqRZeo8HDEkcF859AWg6dtrbR61v8vp15HGvS6gLJg5kjsxcqHJGfNily68o3ODXNA~xkBRJ~zrx14zi8iwgN6UR3ZEfzn246N2gN2wcw~VWFLHJVOvavTtejcSzzVzZ68wXlGbvoLgbDhUmnOMzd3863inzrWRzwkZfAYkKQo0JNPWmKsNHAoCA3X1J3ZWw__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzI4ODg5Njd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Znfe3JY2T5xaAZvhCSyBNPpLxz5thnCPGPYYtaoRysMod2y7NGNEzqri1aAvcW8DQu~i2fVxQ9jwVQFBvtFvdvTd8fTjm7~SG5DH-pXuJtWDSXJ3Sh1Uv57atJNYZPsK1aLId6t-0EQXcFtVEdKkpZklB0NM-Fx5cZxrbWjErq57q-jWrHa8tAbLksOIoPk9mrbLzbQB5bv3qlCPgYMrlJU6MFeRnZO4TYy1DU9CgQOGC00ECeS9vwP9Ni5IDhv6Qs3XCY43BycWdO~Bfy1IqBOaq-YFHdcqA85gu9Fn9GyvxMuexrO8ln~lj~FKG1hNXLWQ9GEQT9BJURyRcVmNww__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -2439,6 +2439,23 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%8D%B0%EC%8A%A4%EA%B2%8C%EC%9E%84%20%EC%B2%9C%EB%A7%8C%EC%9B%90%EC%9D%84%20%EA%B1%B8%EC%96%B4%EB%9D%BC%20S01E07%20f.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1345/P001780473.jpg/dims/resize/F_webp,480", 260304 괴담노트 시즌2 : 만신전의 기록
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B4%B4%EB%8B%B4%EB%85%B8%ED%8A%B8.%EC%8B%9C%EC%A6%8C2.%EB%A7%8C%EC%8B%A0%EC%A0%84%EC%9D%98.%EA%B8%B0%EB%A1%9D.S02E10.260304.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0307/2020/4/22/1587513934591_256054.jpg", 260304 스튜디오 K
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.K.S01E307.260304.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/1ovely/Img/site/Main/20250805_141122_5648.jpg", 260304 한블리 (한문철의 블랙박스 리뷰)
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -2467,15 +2484,15 @@ https://bodaponi.b-cdn.net/%EA%B0%9C%EC%99%80%20%EB%8A%91%EB%8C%80%EC%9D%98%20%E
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0385/dtMHMn5tERqo.jpg", 260304 슈퍼캐치 진실의 눈
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69a85d6033e7d124a7ea2be5.m3u8
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EC%BA%90%EC%B9%98.%EC%A7%84%EC%8B%A4%EC%9D%98.%EB%88%88.S01E02.260304.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260224/0825/P001783291.jpg/dims/resize/F_webp,480", 260304 무명전설
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69a85d2133e7d124a7ea2be3.m3u8
+https://bodaponi.b-cdn.net/%EB%AC%B4%EB%AA%85%EC%A0%84%EC%84%A4.E02.260304.1080p.TVING.WEB-DL.H264.AAC.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260224/0825/P001783291.jpg/dims/resize/F_webp,480", 260304 무명전설 저화질
-https://bodaponi.b-cdn.net/%EB%AC%B4%EB%AA%85%EC%A0%84%EC%84%A4.E02.260304.1080p.TVING.WEB-DL.H264.AAC.mp4
+https://www.vidspace.xyz/20260304/0gcDFB1l/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 260304 유 퀴즈 온 더 블럭
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2485,7 +2502,7 @@ https://bodaponi.b-cdn.net/%EC%9C%A0%20%ED%80%B4%EC%A6%88%20%EC%98%A8%20%EB%8D%9
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 260304 나는 SOLO (나는 솔로)
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69a85a7333e7d124a7ea2bde.m3u8
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO.E243.260304.1080p.TVING.WEB-DL.H264.AAC.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img6.yna.co.kr/etc/inner/KR/2016/07/12/AKR20160712108100033_01_i_P4.jpg", 260304 슈퍼맨이 돌아왔다
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -11082,6 +11099,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
