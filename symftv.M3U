@@ -2474,6 +2474,9 @@ https://wiselife.blog/hls/69a85d6033e7d124a7ea2be5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://wiselife.blog/hls/69a85d2133e7d124a7ea2be3.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260224/0825/P001783291.jpg/dims/resize/F_webp,480", 260304 무명전설 저화질
+https://bodaponi.b-cdn.net/%EB%AC%B4%EB%AA%85%EC%A0%84%EC%84%A4.E02.260304.1080p.TVING.WEB-DL.H264.AAC.mp4
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 260304 유 퀴즈 온 더 블럭
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -11079,6 +11082,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
