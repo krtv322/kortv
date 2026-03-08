@@ -4209,6 +4209,55 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0126/12_00_02__6976d8b2b16e8[X280,400].jpg", 직사각형, 삼각형
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699aab9d0a06e0e2689e4971.m3u8?t=69adfeeb&n=KhwQ3wIcMbrt1IrLvThdS8nOBnRBuuQe&s=69e8d2d8b5baff03a0d62c03f59e076b
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="http://www.newstage.co.kr/news/photo/202602/45718_27810_3946.jpg", 도망쳐
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/69a113a50a06e0e2689e4a1c.m3u8?t=69adfe75&n=ldpzFHPyQJYMzqIrxp7vsLkZYy3kwhli&s=565b1a65cff93fff0fa63262ff399493
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img1.newsis.com/2026/01/23/NISI20260123_0002047132_web.jpg?rnd=20260123110958", 파반느 (2026)
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699891c60a06e0e2689e4943.m3u8?t=69adff33&n=rNXOQ00yUfyWDJBGjpdiJuhjTuBhGUNC&s=4850a6fa20909ffbafeb00d0aa73461c
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0128/11_46_27__69797883d712a[X280,400].jpg", 시스터
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699891530a06e0e2689e4942.m3u8?t=69adff7f&n=4aW3i3do23nnqptTlJ8ZTO99Ci7q7u9O&s=8abdf102042efecf0411d126999b1e04
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1103/14_23_00__69083c343745c[W680-].jpg", 생명의 은인
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699707900a06e0e2689e490f.m3u8?t=69adff9f&n=v6pLnbFeOXauXWunZRmlqZYmPkX6HAnN&s=438c7ebf44b7a7d6ccde5985d37019ad
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51427.jpg", 보이
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698cbcf70a06e0e2689e483c.m3u8?t=69adffc6&n=riB0jXr6ECqfDa1kKARrPjWJjtTZtAtl&s=4f8992ff510cbbd6aed6eea4b030d2aa
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51430.jpg", 동창 최후의 만찬 (2026)
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698cbbb40a06e0e2689e483a.m3u8?t=69adffef&n=eIddqHBrT1c7rPagcLFqHqI4it9RrdsA&s=98061e8649fe7d9b19ea23cc5303ec73
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/01/06/f1e570ce-5c94-482b-80c9-3abfbea6f63c.jpg", 하트맨
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698cb6900a06e0e2689e4839.m3u8?t=69ae0018&n=6Hy33p3PHcqR7OzzwgbpYcRSViF9hGlr&s=a788eaede4235eb11fb92675e77d8eec
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0106/14_50_44__695ca2b43fcc5[X280,400].jpg", 프로젝트 Y
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/69860c860a06e0e2689e474a.m3u8?t=69ae0040&n=8GOBTV2qCQcXG7yoSVjObBQro11Lk4Mz&s=f390c0f412898761830501fbe99b7cd1
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1230/15_18_54__69536ecedb1cf[X280,400].jpg", 구원은 없다  (2026)
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/696101e70a06e0e2689e437a.m3u8?t=69ae0068&n=P3sUAkqDOP5QOMlDwLZK5Ts68AiSvyC8&s=e42c7d1b746f871d33057cdfda99cc49
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/person/2017/0714/14_25_35__596855cf8897d[W680-].jpg", 옥자
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -4225,33 +4274,6 @@ https://bodaponi.b-cdn.net/%EB%A7%8C%EC%95%BD%EC%97%90%20%EC%9A%B0%EB%A6%AC%20On
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%ED%86%B5%EC%9E%A0%20(2025)%20Deprivation.KOR.1080p.FHD.mp4
 
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://img1.newsis.com/2026/01/23/NISI20260123_0002047132_web.jpg?rnd=20260123110958", 파반느 (2026)
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%ED%8C%8C%EB%B0%98%EB%8A%90.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0128/11_46_27__69797883d712a[X280,400].jpg", 시스터
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%8B%9C%EC%8A%A4%ED%84%B0%20SISTER,%202026.1080p.WEB-DL.H264.AAC.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2025/1103/14_23_00__69083c343745c[W680-].jpg", 생명의 은인
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%83%9D%EB%AA%85%EC%9D%98%20%EC%9D%80%EC%9D%B8%20(2025)%20SAVE.KOR.1080p.FHD.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51430.jpg", 동창 최후의 만찬 (2026)
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EB%8F%99%EC%B0%BD%20%EC%B5%9C%ED%9B%84%EC%9D%98%20%EB%A7%8C%EC%B0%AC%20REUNION%20%20The%20Last%20Super,%202026.1080p.FHDRip.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51427.jpg", 보이
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/BOY.2026.1080p.FHD.H264.AAC-KTH.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/01/06/f1e570ce-5c94-482b-80c9-3abfbea6f63c.jpg", 하트맨
-https://europe.olemovienews.com/ts4/20260212/ovdpm2ro/mp4/ovdpm2ro.mp4/index-v1-a1.m3u8
-
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0718/12_04_42__6879b9caf420d[X280,400].jpg", 악마가 이사왔다
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -4261,9 +4283,6 @@ https://bodaponi.b-cdn.net/%EC%95%85%EB%A7%88%EA%B0%80%20%EC%9D%B4%EC%82%AC%EC%9
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%8C%EA%B3%BC%20%EA%B3%A0%EA%B8%B0%20People%20and%20Meat,%202025.1080p.WEB-DL.H264.AAC.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0106/14_50_44__695ca2b43fcc5[X280,400].jpg", 프로젝트 Y
-https://europe.olemovienews.com/ts4/20260209/a3r9aqcg/mp4/a3r9aqcg.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51412.jpg", 흡식기담
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/흡식기담_본편.m3u8
@@ -4304,11 +4323,6 @@ https://europe.olemovienews.com/ts4/20260116/9sjx67aa/mp4/9sjx67aa.mp4/index-v1-
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%A3%84%EC%99%80%20%EC%95%85%20Sin%20and%20Evil,%202025.KORSUB.1080p.WEB-DL.H264.AAC.mp4
-
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1230/15_18_54__69536ecedb1cf[X280,400].jpg", 구원은 없다  (2026)
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EA%B5%AC%EC%9B%90%EC%9D%80%20%EC%97%86%EB%8B%A4%20There%20is%20no%20salvation,%202025.1080p.WEB-DL.H264.AAC.mp4
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1110/17_13_23__69119ea3a8c35[X280,400].jpg", 정보원 (2025)
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -4525,6 +4539,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202511/06/1ff0ffde-77b6-499e-a53b-668b27018933.webp", 통제불가
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/695ee7570a06e0e2689e4331.m3u8?t=69ae07b4&n=Ib0c3AURqSQsKt85LcUWv2RHCZ4DF4iJ&s=59c17e7ed8b189ff8a11576855c7d194
+
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2013/0813/15_16_11__5209cf2bcfaee[X280,400].jpg", 더 드리프트
 #EXTVLCOPT:http-referrer=https://ply.catopolice.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -4540,556 +4560,110 @@ https://vod.catopolice.com/hls/69a5e28c0a06e0e2689e4acb.m3u8?t=69acad9d&n=YqZPp2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://vod.catopolice.com/hls/69a84b540a06e0e2689e4b06.m3u8?t=69acace7&n=8XwnyWU0DLSCRHh0XBAeatCGPc4dQmVc&s=a9b15805fa2d9a09ea944df51ca60cb5
 
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260304-1/f4ed0582470695e514bfeb9d9c93063c.jpg", 我的朋友安德烈
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202602/12/3df90fc8-c4f3-4b03-a032-a5ec9a072f58.webp", 더 블러프
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260303/zlm39nnm/mp4/zlm39nnm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/fe5bda33956ed4eff8c2b9640c7e6d87.jpg", 局外人
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
+https://vod.catopolice.com/hls/69a114360a06e0e2689e4a1d.m3u8?t=69ae00c7&n=HWWiwucoFiLi00goMyZrmrHWRFS6SbtN&s=d4e5c0f14ef5899bd37b2174bebd316d
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://an2-img.amz.wtchn.net/image/v2/yPg2dEc9zzIlK8bN2IJKKQ.webp?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk5Ea3dlRGN3TUhFNE1DSmRMQ0p3SWpvaUwzWXlMM04wYjNKbEwybHRZV2RsTHpRM01qUXlORGd3Tmpnd016ZzVNeUo5LmhoY01ZenlPYlZjZ0Q4WjVHMHBXQkhMWDJ0ZFEtbjVrTkZqTlFmcFZDNlU=", 쉘터
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260302/a7jdyzgm/mp4/a7jdyzgm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/299b8d5b34c483d06cfe1ded3535b9c5.jpg", 不过是上班
-https://europe.olemovienews.com/ts4/20260228/0xsqurrn/mp4/0xsqurrn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/cc6b4a0212075429e55036214a7f6923.jpg", 父母姐弟
-https://europe.olemovienews.com/ts4/20260228/hw2t3oz0/mp4/hw2t3oz0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260227-1/ffabc8a629cce21629d88c80e267e06a.jpg", 匿杀
-https://europe.olemovienews.com/ts4/20260227/mvsx9dtt/mp4/mvsx9dtt.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260227-1/7722a420e5b22744741b90d5cc3082f0.jpg", 蜡笔小新：灼热的春日部舞者们
-https://europe.olemovienews.com/ts4/20260226/gqmtkiq4/mp4/gqmtkiq4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260226-1/6ba7268863ef55273618c98a154110bc.jpg", 时空奇旅
-https://europe.olemovienews.com/ts4/20260226/qpt98qtp/mp4/qpt98qtp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260226-1/43c014e5f2d803ab48dbbe22be91dcbb.jpg", 悬崖绝壁
-https://europe.olemovienews.com/ts4/20260225/8anf3iv9/mp4/8anf3iv9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260225-1/f091a0c6d45a1bfc93cba600a5dd240d.jpg", 狂野时代
-https://europe.olemovienews.com/ts4/20260225/ij2mf6d2/mp4/ij2mf6d2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260224-1/101a4809ff5a4441f7998dfe7a6f06a4.jpg", 庇护之地
-https://europe.olemovienews.com/ts4/20260224/zsx7e9n7/mp4/zsx7e9n7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260224-1/be7a65a85001f921ae5a0d25d06eb075.jpg", 约瑟夫·门格勒的消失
-https://europe.olemovienews.com/ts4/20260223/2gsf56ta/mp4/2gsf56ta.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260223-1/dd868b0e780b96469e3320b03ecb0584.jpg", 无法在你的脸上哭泣
-https://europe.olemovienews.com/ts4/20260223/18nyohrb/mp4/18nyohrb.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260223-1/729dc61d6880faadac110d35b7336369.jpg", 我是卧底
-https://europe.olemovienews.com/ts4/20260223/jvu6ujlr/mp4/jvu6ujlr.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260222-1/aa0dc11d80b92369a6ab4a1153995f38.jpg", 点到为止
-https://europe.olemovienews.com/ts4/20260222/c5inh8as/mp4/c5inh8as.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260222-1/d92ae1126e79d580aeb90996cd64420c.jpg", 东京出租车
-https://europe.olemovienews.com/ts4/20260222/8pf1bejy/mp4/8pf1bejy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260222-1/b81c17605888398c04a114d3dc0fc0ed.jpg", 午夜之花
-https://europe.olemovienews.com/ts4/20260222/9uvljvfc/mp4/9uvljvfc.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260221-1/b3aacd7795a1ca4a05915b6f7f2d382b.jpg", 寻秦记
-https://europe.olemovienews.com/ts4/20260221/y46r5yub/mp4/y46r5yub.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260221-1/efb3ad0e7f8038b5215c22a877987483.jpg", 东北警察故事3
-https://europe.olemovienews.com/ts4/20260220/gpdni2y0/mp4/gpdni2y0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260221-1/8781ca0d299b6ee6d9ea9b1d4b0dc50a.jpg", 过家家
-https://europe.olemovienews.com/ts4/20260220/qgn8te6y/mp4/qgn8te6y.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/ed63374892325b9f45362426779dd6a8.jpg", 惊变28年2：白骨圣殿
-https://europe.olemovienews.com/ts4/20260220/u7wpy1vl/mp4/u7wpy1vl.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260221-1/8a273ef9b5c05e8c71d4cf415adb750b.jpg", 极限审判
-https://europe.olemovienews.com/ts4/20260220/hta09mh8/mp4/hta09mh8.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251211-1/f89329a563463584985300d3316142c5.jpg", 得闲谨制
-https://europe.olemovienews.com/ts4/20260220/nbao4tvt/mp4/nbao4tvt.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260214-1/7becc5e777acb1a21e24b282b7769aff.jpg", 爆水管
-https://europe.olemovienews.com/ts4/20260214/gxs8xqec/mp4/gxs8xqec.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260214-1/3b3bdcec3da11c608d3855990b9b121a.jpg", 廿一英魂
-https://europe.olemovienews.com/ts4/20260214/ki5r9l84/mp4/ki5r9l84.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260213-1/ace306a2bce8c85772aedff639492e2e.jpg", 女孩
-https://europe.olemovienews.com/ts4/20260213/nekap5ci/mp4/nekap5ci.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260213-1/3ff63984e25a1948058c8638fdc34ae1.jpg", 怒袭
-https://europe.olemovienews.com/ts4/20260212/ngkcrwdu/mp4/ngkcrwdu.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260211-1/931f8e1bbf023d14a406aee252fa2f71.jpg", 小倩
-https://europe.olemovienews.com/ts4/20260211/19bxqmga/mp4/19bxqmga.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260210-1/9c7570f0cf0d0a19b2b1b34b6722b78a.jpg", 火拼
-https://europe.olemovienews.com/ts4/20260210/fbqpdarr/mp4/fbqpdarr.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260211-1/39dde846d5296c953640f7211a625bed.jpg", 喂，应为
-https://europe.olemovienews.com/ts4/20260210/m4g2qxcp/mp4/m4g2qxcp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260210-1/c8f8e27c2df8557116fbd3583cbf0582.jpg", 猩疯血雨
-https://europe.olemovienews.com/ts4/20260210/6q0n0zy8/mp4/6q0n0zy8.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260210-1/0d5ba2c31a58a7a88095f4943249149d.jpg", 柔似蜜
-https://europe.olemovienews.com/ts4/20260210/5wbcq1rs/mp4/5wbcq1rs.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260210-1/7f1f774ddb47487c96fb8c37ec5bbb48.jpg", 猎局反转
-https://europe.olemovienews.com/ts4/20260209/i3rw6o9f/mp4/i3rw6o9f.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260210-1/a97ebac89adcf62d0fd27e51109146aa.jpg", 至尊马蒂
-https://europe.olemovienews.com/ts4/20260209/vwlngxwh/mp4/vwlngxwh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260209-1/b80b38c18c77f421f5cbe8956631ad22.jpg", 重返寂静岭
-https://europe.olemovienews.com/ts4/20260208/tnkr3rth/mp4/tnkr3rth.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260207-1/287e21617a6c6a23459a7ea36d52c7f0.jpg", 内幕
-https://europe.olemovienews.com/ts4/20260207/tfjgb548/mp4/tfjgb548.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260206-1/176e68528ed149546e38665bd8bb37ca.jpg", 三滴血
-https://europe.olemovienews.com/ts4/20260206/5gnqwxpm/mp4/5gnqwxpm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260205-1/c8e02571eebb945c31fb67bfa5d6dee6.jpg", 鬼滴语3
-https://europe.olemovienews.com/ts4/20260205/6mmxqn4i/mp4/6mmxqn4i.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260204-1/e5984cc474cd954baba1929969ae43bf.jpg", 我家的事
-https://europe.olemovienews.com/ts4/20260204/4zwofnmv/mp4/4zwofnmv.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/6c7fb5005a92e4d15004ade3d77ed074.jpg", 远山淡影
-https://europe.olemovienews.com/ts4/20260203/n2r9etfw/mp4/n2r9etfw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/6c7fb5005a92e4d15004ade3d77ed074.jpg", 哈姆奈特
-https://europe.olemovienews.com/ts4/20260203/74jetu56/mp4/74jetu56.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260203-1/4508a815dc506a5786e19997a6353b42.jpg", 家弑服务
-https://europe.olemovienews.com/ts4/20260203/ytfsinkk/mp4/ytfsinkk.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/6205f4a45a68152fc518d5960a06c793.jpg", 旁观者
-https://europe.olemovienews.com/ts4/20260201/1r6twkiw/mp4/1r6twkiw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/315b615865945fbf1763510716446980.jpg", 征服者
-https://europe.olemovienews.com/ts4/20260201/2yrfpeoq/mp4/2yrfpeoq.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260201-1/9ca61cb490f370b62a0b7a653767e41f.jpg", 河鳗
-https://europe.olemovienews.com/ts4/20260201/ntdq25w4/mp4/ntdq25w4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260130-1/4c6774350257415e6e4eaca5a03786d0.jpg", 三国的星空第一部
-https://europe.olemovienews.com/ts4/20260130/f5dhi229/mp4/f5dhi229.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260130-1/fe053266d62939945fcc6ab4187b804b.jpg", 96分钟：列车爆炸案
-https://europe.olemovienews.com/ts4/20260130/x0ev5tob/mp4/x0ev5tob.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260128-1/91279908059d791e22383cef9fef891c.jpg", 特工迷阵
-https://europe.olemovienews.com/ts4/20260128/p22aci3o/mp4/p22aci3o.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260127-1/c7d4275d75f922b809c6c4664722e54c.jpg", 末日逃生2：迁移
-https://europe.olemovienews.com/ts4/20260127/nh8ujnmz/mp4/nh8ujnmz.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260127-1/ac90f4a4df8156684bd334fc1d9d4f8a.jpg", 九龙大众浪漫 真人版
-https://europe.olemovienews.com/ts4/20260127/hziaxp1g/mp4/hziaxp1g.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260127-1/fb79cbd361b84899de1814d89025a6d4.jpg", 新狂蟒之灾
-https://europe.olemovienews.com/ts4/20260127/i20ail1n/mp4/i20ail1n.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260125-1/ca51104ee8f9ecda203baf5c6faa6da6.jpg", 在你的爱情里
-https://europe.olemovienews.com/ts4/20260125/kxwb2sve/mp4/kxwb2sve.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260125-1/7c9eb006b5ef1d57ebc42b34538cc558.jpg", 国宝
-https://europe.olemovienews.com/ts4/20260125/uf2c3dla/mp4/uf2c3dla.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260124-1/878a62a00d3ab12a0f3c6c5f2ee2c373.jpg", 伪术奇才
-https://europe.olemovienews.com/ts4/20260124/rnk8u85k/mp4/rnk8u85k.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260124-1/cb83cbdb315b0f1a8fb5de4a082cdf4c.jpg", 愚者的身份
-https://europe.olemovienews.com/ts4/20260123/tg1rfjro/mp4/tg1rfjro.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260124-1/1a3192877ba02235bf903cf7d6a61c1c.jpg", 追杀51号
-https://europe.olemovienews.com/ts4/20260123/szxm6owf/mp4/szxm6owf.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260123-1/7744353b75a8da4900f499e830316e45.jpg", 情圣3
-https://europe.olemovienews.com/ts4/20260123/1qweao9m/mp4/1qweao9m.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260123-1/a4183e0b1701a6234068f42ce884c64c.jpg", 万鬼齐聚
-https://europe.olemovienews.com/ts4/20260123/s5jsgqx0/mp4/s5jsgqx0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260122-1/7ce6c50ca50efa42d5357466c5e3d967.jpg", 超时空辉夜姬！
-https://europe.olemovienews.com/ts4/20260122/mlzrp39z/mp4/mlzrp39z.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260121-1/51ef396d46b7af966cdc5e9d69216d86.jpg", 金刚不坏
-https://europe.olemovienews.com/ts4/20260121/ehqckkry/mp4/ehqckkry.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260122-1/1c640469136ae47370ff20296c2643b4.jpg", 望向太阳
-https://europe.olemovienews.com/ts4/20260121/4guql0gd/mp4/4guql0gd.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260121-1/5d48eacac4b3550bba4f69f61d1a41ab.jpg", 海绵宝宝：深海大冒险
-https://europe.olemovienews.com/ts4/20260121/g7dofoed/mp4/g7dofoed.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260121-1/1e887d5bd40f9a36958528c5103c2253.jpg", 世界计划：无法歌唱的初音未来
-https://europe.olemovienews.com/ts4/20260121/vb8i7jn7/mp4/vb8i7jn7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260121-1/d341532270ac2e4cf1506b82e57349cf.jpg", 欢乐岁月
-https://europe.olemovienews.com/ts4/20260120/rpkxpmip/mp4/rpkxpmip.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/ed63374892325b9f45362426779dd6a8.jpg", 惊变28年2：白骨圣殿【抢先版】
-https://europe.olemovienews.com/ts4/20260119/ra7hxk6z/mp4/ra7hxk6z.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/eff8439b0944a6e1bcf9ccbf2f5555a3.jpg", 废世界
-https://europe.olemovienews.com/ts4/20260119/o0jzmljo/mp4/o0jzmljo.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/9c0b8538874d3140fe34faa26c23ba4e.jpg", 亚美利加纳
-https://europe.olemovienews.com/ts4/20260118/g3ztkvwl/mp4/g3ztkvwl.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/b4fad47ae5cfa0c865316dcb8ee269e3.jpg", 密探
-https://europe.olemovienews.com/ts4/20260119/qq4mjb8w/mp4/qq4mjb8w.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260119-1/00abd9c81686ae1ed2e8bd1796416e55.jpg", 刺心切骨
-https://europe.olemovienews.com/ts4/20260119/umfd1icw/mp4/umfd1icw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/61dc9bb5a0d6900ec175cbd1a30079c8.jpg", 全信没收
-https://europe.olemovienews.com/ts4/20260116/6pton3qg/mp4/6pton3qg.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260116-1/a27e93e65f5c747cff9a5ea4e38263a3.jpg", 风林火山
-https://europe.olemovienews.com/ts4/20260116/y01h5vww/mp4/y01h5vww.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/da5992f1760dbb8fc901269b42bd33ba.jpg", 猎战狂徒
-https://europe.olemovienews.com/ts4/20260113/m77habq5/mp4/m77habq5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260114-1/6b8e2a90c35449fc378e3299bfb9c427.jpg", 最后一轮谈判
-https://europe.olemovienews.com/ts4/20260113/y7gq49us/mp4/y7gq49us.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/7d34526d5828412693c2a9bcb50e0eb1.jpg", 临租家庭
-https://europe.olemovienews.com/ts4/20260113/cis6yr9l/mp4/cis6yr9l.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260113-1/63a91b9f3ce0f4b59327792c12e94e70.jpg", 尘兔
-https://europe.olemovienews.com/ts4/20260113/mr69a8of/mp4/mr69a8of.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260112-1/4ff31aef89fe0e195ee92851750dc855.jpg", 微笑的山谷
-https://europe.olemovienews.com/ts4/20260111/1ctsrn5s/mp4/1ctsrn5s.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260109-1/a5b0e83665ef39c2a06168f50576124b.jpg", 盛夏假期遇见爱
-https://europe.olemovienews.com/ts4/20260109/rhl27ufx/mp4/rhl27ufx.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260109-1/2a9b32a0fa1f61975d14055dfa690222.jpg", 手遮天
-https://europe.olemovienews.com/ts4/20260109/213xr2lv/mp4/213xr2lv.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251008-1/68fcfb8d211e0d16218139bfbbc70838.jpg", 震耳欲聋
-https://europe.olemovienews.com/ts4/20260109/ty8cfpub/mp4/ty8cfpub.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260109-1/b498f79e76e067677f826cecb73e51db.jpg", 嘻嘻嘻嘻吸血鬼 电影版
-https://europe.olemovienews.com/ts4/20260109/vgadf9ac/mp4/vgadf9ac.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260104-1/c229cb8ec3de914ce428b1dbeb9ca7e1.jpg", 喜羊羊与灰太狼之异国破晓
-https://europe.olemovienews.com/ts4/20260104/e0csia6u/mp4/e0csia6u.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260102-1/a315a1cd47d26c8621dd8602207ba2aa.jpg", 教场
-https://europe.olemovienews.com/ts4/20260102/rumdmfgu/mp4/rumdmfgu.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260103-1/c04dae1f03378ae548eaf52b7a3df60c.jpg", 猛虎末路
-https://europe.olemovienews.com/ts4/20260103/lf5k845g/mp4/lf5k845g.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260102-1/1e79e911ed8d19b44feee085936cdf35.jpg", 距安德烈夫卡2000米
-https://europe.olemovienews.com/ts4/20260102/5guq0rx0/mp4/5guq0rx0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260102-1/fe26eed7703bfcae4eac5271ce120d02.jpg", 糟糕的夏天
-https://europe.olemovienews.com/ts4/20260102/egf2gevq/mp4/egf2gevq.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260101-1/7c3d3ee234cd253a5039ab40d1232aee.jpg", 捏造
-https://europe.olemovienews.com/ts4/20260101/kml767ud/mp4/kml767ud.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/e39607c11595bb1ab759656f3a0006c8.jpg", 浪浪人生
-https://europe.olemovienews.com/ts4/20251231/kmqwuliv/mp4/kmqwuliv.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/39f66924cba0012d37e46db4b73fbd94.jpg", 百米
-https://europe.olemovienews.com/ts4/20251231/0p9yyij5/mp4/0p9yyij5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/2019-12-23/201912231577117138.jpg", 泰坦尼克号
-https://bodaponi.b-cdn.net/Titanic.V2.Open.Matte.1997.KK650.Regraded.mp4
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/f1876bb33df86505a6f1ef7f051d87a1.jpg", 魔法坏女巫2
-https://europe.olemovienews.com/ts4/20251230/ia46onrw/mp4/ia46onrw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251231-1/006866f5602f72db064c611467356a8e.jpg", 布吕歇尔号巡洋舰
-https://europe.olemovienews.com/ts4/20251230/zw7pr5t2/mp4/zw7pr5t2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250720-1/6a600178ae0e01a7c0867995fc3efc09.jpg", 鬼灭之刃 剧场版 无限城篇 第一章
-https://europe.olemovienews.com/ts4/20251229/wagcfqjy/mp4/wagcfqjy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251229-1/e5042f082f8be2d00632268c2456e2ea.jpg", 志愿军：浴血和平
-https://europe.olemovienews.com/ts4/20251229/2p6gszvi/mp4/2p6gszvi.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251228-1/7ebc5f652b32d45aed82e644aa17ec7a.jpg", 即兴谋杀
-https://europe.olemovienews.com/ts4/20251228/mb961ml2/mp4/mb961ml2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251227-1/d7f1623778a7a857df0d1a59554adc41.jpg", 永恒站
-https://europe.olemovienews.com/ts4/20251227/sta42796/mp4/sta42796.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/3556b094044789ee4edcb8afc2f2a91a.jpg", 疯狂动物城2
-https://europe.olemovienews.com/ts4/20251229/ugh86utp/mp4/ugh86utp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251221-1/913e81b613999dbe3a8fe9adcbe85a1d.jpg", 角头：斗阵欸
-https://europe.olemovienews.com/ts4/20251220/f8yjmhm6/mp4/f8yjmhm6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02f58f2f5605b9f915.jpg", 731
-https://europe.olemovienews.com/ts4/20251218/a7mqqowp/mp4/a7mqqowp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251218-1/31f4d441d4000ba9944b56c2d5351db9.jpg", 有用的鬼
-https://europe.olemovienews.com/ts4/20251218/luguwx1g/mp4/luguwx1g.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251218-1/e7a5f6e2d791862fe58565b220bb6686.jpg", 阿凡达：火与烬【抢先版】
-https://europe.olemovienews.com/ts4/20251218/2srn6ay3/mp4/2srn6ay3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251217-1/05181ff6f4a761e46ba2756bd27fb945.jpg", 天空的另一面
-https://europe.olemovienews.com/ts4/20251217/fzykzdxl/mp4/fzykzdxl.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251216-1/4542ab8c60b8876062060062d91369c7.jpg", 永生战士2
-https://europe.olemovienews.com/ts4/20251216/6cqryx0n/mp4/6cqryx0n.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251216-1/b57c04f5f2e2db88539bfb9063e5420a.jpg", 惊天魔盗团3
-https://europe.olemovienews.com/ts4/20251216/6g4xj8m4/mp4/6g4xj8m4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251216-1/2c10fef399991ab8c4b59900849c9e7f.jpg", 你好，爱美丽
-https://europe.olemovienews.com/ts4/20251216/yu6flleb/mp4/yu6flleb.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251215-1/e0ac3d0e9e6900a61a42ff747eccb699.jpg", 宝莱坞双雄之战2
-https://europe.olemovienews.com/ts4/20251214/g3r7hser/mp4/g3r7hser.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251213-1/148d4fab5a9cb416ca1534156cd8ac39.jpg", 主谋
-https://europe.olemovienews.com/ts4/20251212/qwi1tj1i/mp4/qwi1tj1i.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251212-1/a6e2eeac6b43498650ce0f4b3a1e3f9f.jpg", 利刃出鞘3
-https://europe.olemovienews.com/ts4/20251212/jlhdq4k7/mp4/jlhdq4k7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251212-1/57d4c5f6158a71bc1ce10990346d53f1.jpg", 刺杀小说家2
-https://europe.olemovienews.com/ts4/20251212/48x9s25h/mp4/48x9s25h.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251211-1/7d95e8815fcd63ddb131c51760c15375.jpg", 猎杀游戏
-https://europe.olemovienews.com/ts4/20251211/nuegb1uf/mp4/nuegb1uf.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251211-1/f89329a563463584985300d3316142c5.jpg", 得闲谨制【抢先版】
-https://europe.olemovienews.com/ts4/20251211/qvv2aswe/mp4/qvv2aswe.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251211-1/41a89eecf0b147498363fe7d8cf056c6.jpg", 驱魔龙族马小玲
-https://europe.olemovienews.com/ts4/20251211/q1tcdddw/mp4/q1tcdddw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251210-1/b00b4231778c09d7894dcd030c014990.jpg", 近畿怪谈
-https://europe.olemovienews.com/ts4/20251210/q6a8qo7u/mp4/q6a8qo7u.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251210-1/639d436198cde2bb6a82743b5fd9452d.jpg", 去死吧，我的爱
-https://europe.olemovienews.com/ts4/20251210/3f9mopm6/mp4/3f9mopm6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251210-1/2eb996a2533464ff0937bc7150a2d5bf.jpg", 下一个台风
-https://europe.olemovienews.com/ts4/20251210/9mujjozx/mp4/9mujjozx.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251209-1/14264680804f84c78611cd928493f54d.jpg", 电锯人剧场版：蕾塞篇
-https://europe.olemovienews.com/ts4/20251209/rtbjeqef/mp4/rtbjeqef.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251209-1/c2a05b3039a6e0a09966f806e41af682.jpg", 渊之信
-https://europe.olemovienews.com/ts4/20251208/zaahnv2w/mp4/zaahnv2w.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251206-1/e84a6e0cdd1704a8b159330852bf0d3b.jpg", 久别·重逢
-https://europe.olemovienews.com/ts4/20251206/YGkdCJ6X/mp4/YGkdCJ6X.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251206-1/166aeb2137c80cd41be37a4295d6f0f5.jpg", 阴阳眼见子
-https://europe.olemovienews.com/ts4/20251206/w4NdqSid/mp4/w4NdqSid.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251205-1/a6d1efd52f7db5b86e6aeecbaeb252fb.jpg", 影星杰·凯利
-https://europe.olemovienews.com/ts4/20251205/Hfb9Auol/mp4/Hfb9Auol.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251205-1/4b7053c7a93c756099ba45dc3dfd748a.jpg", 运钞大劫案
-https://europe.olemovienews.com/ts4/20251205/6L4RbHQJ/mp4/6L4RbHQJ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251205-1/504233d40d8de5d0c1e9cc7f66028fad.jpg", ChaO，我代表人类跟人鱼结婚了
-https://europe.olemovienews.com/ts4/20251204/DLiGxJO3/mp4/DLiGxJO3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251204-1/5f2049c91e08ad4824edf351bdbfcc74.jpg", 红丝绸
-https://europe.olemovienews.com/ts4/20251204/K7gJr5iy/mp4/K7gJr5iy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251204-1/c9f8620ba8b9c009227a4cabc884423c.jpg", 醉刀客
-https://europe.olemovienews.com/ts4/20251204/0HuFN2Mc/mp4/0HuFN2Mc.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251203-1/4f995c4a266ba63a457d97d58eb4add2.jpg", 象山发光事件
-https://europe.olemovienews.com/ts4/20251203/1ge6Bx7w/mp4/1ge6Bx7w.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251026-1/c24137da3c137f70db83dff11bdc50f8.jpg", 创：战神
-https://europe.olemovienews.com/ts4/20251028/FSDBzbmQ/mp4/FSDBzbmQ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251202-1/91ae66f7f3e81b2c46b371ffb0043eed.jpg", 日掛中天
-https://europe.olemovienews.com/ts4/20251202/ZQsed9iy/mp4/ZQsed9iy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251202-1/e8a7a4000eb9d08ecfc46ba386e98ef0.jpg", 铁血战士：杀戮之地
-https://europe.olemovienews.com/ts4/20251201/TUHvztPI/mp4/TUHvztPI.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/ed98b5a3085382f9ce4ad06b73d58678.jpg", 山怪巨魔2
-https://europe.olemovienews.com/ts4/20251201/mpTEkFvI/mp4/mpTEkFvI.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251201-1/3556b094044789ee4edcb8afc2f2a91a.jpg", 疯狂动物城2【抢先版】
-https://europe.olemovienews.com/ts4/20251130/0Ir6YGg4/mp4/0Ir6YGg4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251130-1/3f2f2fae5528025c5448f740a308bc9d.png", 无迹之人
-https://europe.olemovienews.com/ts4/20251130/qqRLz37B/mp4/qqRLz37B.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250701-1/beee52b3ed3c686e4d37a2d2522c2c91.jpg", 名侦探柯南：独眼的残像
-https://europe.olemovienews.com/ts4/20251129/3d9TixBR/mp4/3d9TixBR.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251128-1/2fecca7713322652eea482c37ff92b31.jpg", 左撇子女孩
-https://europe.olemovienews.com/ts4/20251128/HDH9AaL8/mp4/HDH9AaL8.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251128-1/a58d26122a9bc62f267fe35b81d1b4c4.jpg", 奇遇
-https://europe.olemovienews.com/ts4/20251128/nxcRFBxP/mp4/nxcRFBxP.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251127-1/519da82149b85e570413917fd0260e24.jpg", 拯救地球
-https://europe.olemovienews.com/ts4/20251127/HSE6ulp6/mp4/HSE6ulp6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251125-1/bab15d98f93c0fe8c9c34c4bb4df4913.jpg", 蓝月亮
-https://europe.olemovienews.com/ts4/20251125/RMhdrFc6/mp4/RMhdrFc6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251125-1/522ea1ffab6de401e33f2551c006f8d8.jpg", 阳光俱乐部
-https://europe.olemovienews.com/ts4/20251125/F4crQnAV/mp4/F4crQnAV.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251124-1/39a5f99935e4bf0911c8e203f99704cb.jpg", 只有我知道
-https://europe.olemovienews.com/ts4/20251124/WdSzxG8M/mp4/WdSzxG8M.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251123-1/07a50659887bf9d8b0c01080859308d5.jpg", 周年纪念日
-https://europe.olemovienews.com/ts4/20251123/w7sLXJYC/mp4/w7sLXJYC.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251122-1/29bbe860be334a80a86f8c0ff20e2fe6.jpg", 临时决斗
-https://europe.olemovienews.com/ts4/20251122/LnXAuC7m/mp4/LnXAuC7m.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251008-1/aace9c24e6ba3c2085f7951ea471e6d3.jpg", 浪浪山小妖怪
-https://europe.olemovienews.com/ts4/20251121/Lw7DJc1G/mp4/Lw7DJc1G.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251121-1/14239fd4d082ed39887511026d3e3030.jpg", 家庭计划2
-https://europe.olemovienews.com/ts4/20251121/7iaJPvxE/mp4/7iaJPvxE.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251121-1/7ec6c0d65ea6684cd65579950f9f6f5a.jpg", 火车梦
-https://europe.olemovienews.com/ts4/20251121/C5zDXKDa/mp4/C5zDXKDa.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251120-1/c2d922370eb3cfc7439ced0710b37b47.jpg", 猎杀之后
-https://europe.olemovienews.com/ts4/20251120/Eg0EVZJ9/mp4/Eg0EVZJ9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251120-1/f585f79a0536518248aa3583d7cc7ad3.jpg", 人偶之家
-https://europe.olemovienews.com/ts4/20251120/N1HBZyAs/mp4/N1HBZyAs.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251120-1/389ae42836ed1d9c981ad43a16e3bc41.jpg", 冷血狐狸
-https://europe.olemovienews.com/ts4/20251120/7ZXnVnGw/mp4/7ZXnVnGw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251120-1/2645bc04e3b2f377c3209144b3dc33d8.jpg", 蜡烛台
-https://europe.olemovienews.com/ts4/20251120/GA2onDCC/mp4/GA2onDCC.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250620-1/a96ca70a79947f8cb7a9bd61c11ab335.jpg", K-POP：猎魔女团
-https://europe.olemovienews.com/ts4/20250620/isnqx0q5/mp4/isnqx0q5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251118-1/9abeb74f8d52be665bdf9474a4c55315.jpg", 工作细胞 真人版
-https://europe.olemovienews.com/ts4/20251118/DYGfuvxL/mp4/DYGfuvxL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251115-1/67723d8d93c2e1eb14e32505afaa1a07.jpg", 死钻倒影
-https://europe.olemovienews.com/ts4/20251115/pUQn0cwn/mp4/pUQn0cwn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251114-1/ba2ec377f30e1b77bc1fba91367aa9ba.jpg", 白日梦奇遇记
-https://europe.olemovienews.com/ts4/20251114/UilHHOz0/mp4/UilHHOz0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251114-1/e5e03eb95bf97dbba69dd6d7e2434c58.jpg", 一战再战
-https://europe.olemovienews.com/ts4/20251114/zQ5ckpLR/mp4/zQ5ckpLR.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251113-1/24c23f49418a4c9dd0de0cb7f8d102d7.jpg", 屋顶人
-https://europe.olemovienews.com/ts4/20251112/qxBKDW4N/mp4/qxBKDW4N.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251111-1/6534b813e7bfbaa30f5086d571e65dde.jpg", 急转直下
-https://europe.olemovienews.com/ts4/20251111/v4464ZqM/mp4/v4464ZqM.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251111-1/09de2edf0f1caa7e19cfd2d6fadd482a.jpg", 排队的女人
-https://europe.olemovienews.com/ts4/20251111/Ih1lysGT/mp4/Ih1lysGT.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 下
-https://europe.olemovienews.com/ts4/20251110/qA5j8J0I/mp4/qA5j8J0I.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251110-1/266b10b78be343624d44cd2ba72a6ad2.jpg", 世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇 上
-https://europe.olemovienews.com/ts4/20251110/kWgdgb1v/mp4/kWgdgb1v.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251109-1/054215069bc9041700e5f11173cc04f1.jpg", 好运
-https://europe.olemovienews.com/ts4/20251108/SgFO7BJW/mp4/SgFO7BJW.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250204-1/62826ae98e24f1f58605680f15934f24.jpg", 蛟龙行动
-https://europe.olemovienews.com/ts4/20251107/mgdfw5t9/mp4/mgdfw5t9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251107-1/f116c41c8e258c9642b6d77434afd665.jpg", 弗兰肯斯坦
-https://europe.olemovienews.com/ts4/20251107/4omlrBj0/mp4/4omlrBj0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251105-1/35e5e1ffa1dec290ed1047b052cca549.jpg", 轻于鸿毛
-https://europe.olemovienews.com/ts4/20251105/7pvxc260/mp4/7pvxc260.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251104-1/bd5cea12be1deb43c3162bdbd5e53448.jpg", 黑色电话2
-https://europe.olemovienews.com/ts4/20251104/dfIwu300/mp4/dfIwu300.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251103-1/87676ad4c1b10549b0b6ecd49b55a6dd.jpg", 神秘森林传说: 第一章
-https://europe.olemovienews.com/ts4/20251103/cnLGZ1HQ/mp4/cnLGZ1HQ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251102-1/7be908e6f593bcee576cd49847ec2492.jpg", 夏日沙上
-https://europe.olemovienews.com/ts4/20251102/Wxwx9LQE/mp4/Wxwx9LQE.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251101-1/4f61b7cbe0a0bcc583633a914463a8ac.jpg", 紫禁城
-https://europe.olemovienews.com/ts4/20251101/dYC38m4L/mp4/dYC38m4L.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250729-1/8979811b51c12721a71db218f83065ce.jpg", 南京照相馆
-https://europe.olemovienews.com/ts4/20251101/ERM2GfMP/mp4/ERM2GfMP.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251031-1/5504f212dbcaabbe0d63667a2f5b732b.jpg", 溶液
-https://europe.olemovienews.com/ts4/20251031/T5xfNGg7/mp4/T5xfNGg7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251031-1/6f15ef1eab5a1a4b749a6307e845a233.jpg", 三级警戒
-https://europe.olemovienews.com/ts4/20251031/j8rmybpa/mp4/j8rmybpa.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251029-1/45a6a99c73f445ef11edbea1184d8999.jpg", 海达
-https://europe.olemovienews.com/ts4/20251029/Ln1pA68E/mp4/Ln1pA68E.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251029-1/bfa937ed8c1cddf9d29e90e3e91e85bc.jpg", 小人物之歌
-https://europe.olemovienews.com/ts4/20251029/pEWJS6tw/mp4/pEWJS6tw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251026-1/c24137da3c137f70db83dff11bdc50f8.jpg", 创：战神
-https://europe.olemovienews.com/ts4/20251026/6KoFpP2v/mp4/6KoFpP2v.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251025-1/3b00c34f4e8aaddd6cca21950841d497.jpg", 赎梦
-https://europe.olemovienews.com/ts4/20251025/y4o527t3/mp4/y4o527t3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251024-1/92a308470a887d4a4d4aa617ebf67add.jpg", 炸裂白宫
-https://europe.olemovienews.com/ts4/20251024/52uuqjUd/mp4/52uuqjUd.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251024-1/1c06a9ccb641b87b9f58ea50653e6f54.jpg", 罗小黑战记2
-https://europe.olemovienews.com/ts4/20251024/fqte6uv8/mp4/fqte6uv8.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251024-1/99ed0884a1a0ba72c320998c863ba4b8.jpg", 亡命父女
-https://europe.olemovienews.com/ts4/20251023/orvo9x5h/mp4/orvo9x5h.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251023-1/1752857a60883894da05c5fc58c10d47.jpg", 营救飞虎
-https://europe.olemovienews.com/ts4/20251023/fdb5pjg9/mp4/fdb5pjg9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251023-1/ae20f571912f7d96d7d6ea661b1ffe75.jpg", 长生血战
-https://europe.olemovienews.com/ts4/20251023/f153rbGi/mp4/f153rbGi.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251022-1/99c5c6960e41c010e212ee4a4616f621.jpg", 攻击鬼魂13号
-https://europe.olemovienews.com/ts4/20251022/12IKRhwn/mp4/12IKRhwn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251021-1/bba813f2e2f76f0513755149ab9097a2.jpg", 玫瑰
-https://europe.olemovienews.com/ts4/20251021/14CMfo2j/mp4/14CMfo2j.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251020-1/6b19093f6dcb78d63697e9195cbce2ba.jpg", 记忆奇旅2：最后上传
-https://europe.olemovienews.com/ts4/20251020/9BB4T7OZ/mp4/9BB4T7OZ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20251003-1/fd96a5f047c6317c8b166f29877a5623.jpg", 毕正明的证明
-https://europe.olemovienews.com/ts4/20251018/re2g1lpa/mp4/re2g1lpa.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caim/CAIM2100/ko/20250604/0055/M000378697.jpg/dims/resize/F_webp,480", 그녀의 하얀 거짓말
-https://bodaponi.b-cdn.net/%EA%B7%B8%EB%85%80%EC%9D%98%20%ED%95%98%EC%96%80%20%EA%B1%B0%EC%A7%93%EB%A7%90.0.1080p.TVING.WEB-DL.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0425/14_14_00__680b1a182167b[X280,400].jpg", 나를 모르는 그녀의 세계에서
-https://bodaponi.b-cdn.net/%EB%82%98%EB%A5%BC%20%EB%AA%A8%EB%A5%B4%EB%8A%94%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C%20My%20Beloved%20Stranger,%202025.1080p.KORSUB.WEBRip.H264.AAC.mp4
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251017-1/fa07c08c8108a4cb41098a10af761435.jpg", 她行走于黑暗中
-https://europe.olemovienews.com/ts4/20251017/HFdsdSM4/mp4/HFdsdSM4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251017-1/0aeda34a977b4088b99147a82d78b592.jpg", 一兆游戏 电影版
-https://europe.olemovienews.com/ts4/20251017/zxgdRVBb/mp4/zxgdRVBb.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251017-1/b2fd0cb9aaf0263095968788cdf1ffe2.jpg", 聊斋：兰若寺
-https://europe.olemovienews.com/ts4/20251017/tgqrns71/mp4/tgqrns71.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251015-1/bdb2229a6044a6d4f290b1437de38538.jpg", 花漾少女杀人事件
-https://europe.olemovienews.com/ts4/20251015/mzdo4yc2/mp4/mzdo4yc2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251015-1/15d1c805287f2b1cb6919793bfdbe48f.jpg", 绮梦之旅
-https://europe.olemovienews.com/ts4/20251015/hbqiefaj/mp4/hbqiefaj.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251015-1/aad79edc2deea1c89df8d6daa671f839.jpg", 祥赌必赢
-https://europe.olemovienews.com/ts4/20251014/bq1zm61u/mp4/bq1zm61u.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251014-1/c7d87b6911906d89258c220f32067d85.jpg", 单恋世界
-https://europe.olemovienews.com/ts4/20251014/89yg5qd4/mp4/89yg5qd4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251011-1/6f5e19b02ddd63e3d89089f750d65788.jpg", 岸边露伴一动不动 忏悔室
-https://europe.olemovienews.com/ts4/20251011/rnm79f67/mp4/rnm79f67.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251010-1/48e3501c7e6da3945c5b80230ad7ec7c.jpg", 10号舱里的女人
-https://europe.olemovienews.com/ts4/20251010/cx1safnl/mp4/cx1safnl.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251009-1/ab884fd92d2bccdef7d5e764a373d405.jpg", 捕风追影【抢先版】
-https://europe.olemovienews.com/ts4/20251009/e8q2z8oc/mp4/e8q2z8oc.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251008-1/68fcfb8d211e0d16218139bfbbc70838.jpg", 震耳欲聋【抢先版】
-https://europe.olemovienews.com/ts4/20251008/517ojf12/mp4/517ojf12.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251008-1/aace9c24e6ba3c2085f7951ea471e6d3.jpg", 浪浪山小妖怪【抢先版】
-https://europe.olemovienews.com/ts4/20251008/sy5g0zvv/mp4/sy5g0zvv.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251007-1/948074be652da04bf2c7ff790554d7a9.jpg", 辣妈辣妹2
-https://europe.olemovienews.com/ts4/20251007/n2iicf5l/mp4/n2iicf5l.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251006-1/4073b19790683b82acd399bea52d1f52.jpg", 招魂4：终章【韩版】
-https://europe.olemovienews.com/ts4/20251006/ii6dwyeu/mp4/ii6dwyeu.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251005-1/4f244a5ad315f4df99fc74fc02aa06df.jpg", 致命录像带：万圣节
-https://europe.olemovienews.com/ts4/20251005/hpx110ww/mp4/hpx110ww.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a82bde13673e23ef32b1b8c13087942c.jpg", 东极岛
-https://europe.olemovienews.com/ts4/20251004/jes0j1f1/mp4/jes0j1f1.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/a65f201bbed225de220a5e24e52ec345.jpg", 火烧天堂镇
-https://europe.olemovienews.com/ts4/20251003/n1g3ixp2/mp4/n1g3ixp2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251004-1/74d1dfcaaf39c836dc2c74a1a5868103.jpg", 史蒂夫
-https://europe.olemovienews.com/ts4/20251003/4o5l5csm/mp4/4o5l5csm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251003-1/a19b80b06d9e367ec58874bb93a654bf.jpg", 猫和老鼠：星盘奇缘
-https://europe.olemovienews.com/ts4/20251003/l6iz7rgk/mp4/l6iz7rgk.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251003-1/50b35a7d5b9070c1ff39a56dd0eb5373.jpg", 唐顿庄园3
-https://europe.olemovienews.com/ts4/20251002/0atchwjx/mp4/0atchwjx.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250903-1/7ae946102330bc13cc36f7f1339f30cc.jpg", 7天
-https://europe.olemovienews.com/ts4/20251002/5b05g9nb/mp4/5b05g9nb.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251001-1/4e515b4a3d3ecf968184b7f943acb175.jpg", 盗亦有道
-https://europe.olemovienews.com/ts4/20251001/svaef5uo/mp4/svaef5uo.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20251001-1/464079680e15eeb12585f9367a5d8af9.jpg", 偷天盗日
-https://europe.olemovienews.com/ts4/20250930/an1is5r9/mp4/an1is5r9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250810-1/7382459791c28217ab998ca9b75ebc58.jpg", 长安的荔枝
-https://europe.olemovienews.com/ts4/20250929/dIPwnDCg/mp4/dIPwnDCg.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250930-1/6044ca9e4e55db1de5fbae90b98acd82.jpg", 器子
-https://europe.olemovienews.com/ts4/20250929/WyyDiU0e/mp4/WyyDiU0e.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250929-1/e9b89068def0a0c143d46c04567c117c.jpg", 但丁之手
-https://europe.olemovienews.com/ts4/20250929/jWzEvtpw/mp4/jWzEvtpw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250929-1/ca914e76610303bd07dca82468e5708a.jpg", 太空杀路
-https://europe.olemovienews.com/ts4/20250928/ygYhHNT0/mp4/ygYhHNT0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250927-1/b73918040d94eb5983057a338133c018.jpg", 原始战争
-https://europe.olemovienews.com/ts4/20250927/Dj9DlAfq/mp4/Dj9DlAfq.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250925-1/002d485f9879750b2eea5bae9a2e309f.jpg", 机动战士高达：跨时之战
-https://europe.olemovienews.com/ts4/20250925/vX0nTzer/mp4/vX0nTzer.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250924-1/84043f54db94bb017de9b0008e6ff97b.jpg", 再见阿龙
-https://europe.olemovienews.com/ts4/20250924/tH9AwwzJ/mp4/tH9AwwzJ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t028374df5618a0c58d.jpg", 神奇4侠：初露锋芒
-https://europe.olemovienews.com/ts4/20250923/UniauFGX/mp4/UniauFGX.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t025846e5b15ff310c6.jpg", 接近终点
-https://europe.olemovienews.com/ts4/20250922/k6Wq92Qx/mp4/k6Wq92Qx.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t029cea3ad1969f0ba4.jpg", 如月车站Re:
-https://europe.olemovienews.com/ts4/20250915/0L7wylZB/mp4/0L7wylZB.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250915-1/8fa92d032e3bb20804e6a4455cf491b2.jpg", 无名指【抢先版】
-https://europe.olemovienews.com/ts4/20250915/rltZIpHN/mp4/rltZIpHN.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t021720fcca72869814.jpg", 分手清单
-https://europe.olemovienews.com/ts4/20250913/3JmL7Hy0/mp4/3JmL7Hy0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250912-1/21d542990dda1d78752967eac0189d2a.jpg", 梦境
-https://europe.olemovienews.com/ts4/20250912/iVznTbtk/mp4/iVznTbtk.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250912-1/ebc94fadbbf5fef26d5329387ba435d9.jpg", 花便当
-https://europe.olemovienews.com/ts4/20250912/GGNoqzJ3/mp4/GGNoqzJ3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250805-1/dc79e4aafcc013eac7e9e3264c4932b3.jpg", 戏台
-https://europe.olemovienews.com/ts4/20250911/eJcVcDVW/mp4/eJcVcDVW.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t027942ae3ea7b25e82.jpg", 亲爱的，别！
-https://europe.olemovienews.com/ts4/20250910/zoieozku/mp4/zoieozku.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02466dcc2d7f75128e.jpg", 德古拉
-https://europe.olemovienews.com/ts4/20250910/IbhPsB61/mp4/IbhPsB61.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250909-1/3e23c29804933fb8d3980d436657d2fd.jpg", 独一无二
-https://europe.olemovienews.com/ts4/20250909/9SKehprn/mp4/9SKehprn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250814-1/0ae3636f89984c0a32579b5caeccc1ef.jpg",  祖屋
-https://europe.olemovienews.com/ts4/20250907/iB5SzCxp/mp4/iB5SzCxp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t021486a18db0df0aec.jpg",  你行！你上！
-https://europe.olemovienews.com/ts4/20250905/xCoGKcXS/mp4/xCoGKcXS.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t024321cd642a6d40d8.jpg",  天国与地
-https://europe.olemovienews.com/ts4/20250905/HwaY0aCE/mp4/HwaY0aCE.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02db9fc11ee1b0b01c.jpg",  恶意
-https://europe.olemovienews.com/ts4/20250905/l8trgS3M/mp4/l8trgS3M.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02382b77072ca2821c.jpg",  有朵云像你【抢先版】
-https://europe.olemovienews.com/ts4/20250904/1ErvYOwg/mp4/1ErvYOwg.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0221ecc0ce66f2477c.jpg",  再见坏蛋
-https://europe.olemovienews.com/ts4/20250904/b4D7vycD/mp4/b4D7vycD.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250903-1/ca19620b68cb83f820672b3dcf77e4d3.jpg",  哆啦A梦：大雄的绘画奇遇记
-https://europe.olemovienews.com/ts4/20250903/aC8FOgxQ/mp4/aC8FOgxQ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250903-1/7ae946102330bc13cc36f7f1339f30cc.jpg",  7天【抢先版】
-https://europe.olemovienews.com/ts4/20250903/hsz7CruL/mp4/hsz7CruL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250903-1/eb02e4d10b049d85cf35ddac4f1e6991.jpg",  红书召魔2：地狱之门
-https://europe.olemovienews.com/ts4/20250903/1RUs7Nb4/mp4/1RUs7Nb4.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e184d7d221e36965.jpg",  小人物2
-https://europe.olemovienews.com/ts4/20250902/2BROL42W/mp4/2BROL42W.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a5fffccd9ab5e982.jpg",  白头神探:智斗灭世狂人
-https://europe.olemovienews.com/ts4/20250902/L5tV7RTm/mp4/L5tV7RTm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250902-1/c862feabad6d259751f14a7f03fb2bd2.jpg",  万王之王
-https://europe.olemovienews.com/ts4/20250902/U9pjRBoL/mp4/U9pjRBoL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c49a865d9da6cded.jpg",  小鹿斑比:清算
-https://europe.olemovienews.com/ts4/20250902/NGRoSWAn/mp4/NGRoSWAn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02e445bb8e7ee2f3da.jpg", 无名之辈：否极泰来
-https://europe.olemovienews.com/ts4/20250831/GEKcNpaL/mp4/GEKcNpaL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a1ed0ed65584f487.jpg", 脱缰者也
-https://europe.olemovienews.com/ts4/20250831/hLumpRBP/mp4/hLumpRBP.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02acec9275e8cfd9ce.jpg", 甜蜜养老院
-https://europe.olemovienews.com/ts4/20250831/WpzdUzMB/mp4/WpzdUzMB.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02ef528fdb646cee0e.jpg", 有病才会喜欢你
-https://europe.olemovienews.com/ts4/20250831/95poFuYJ/mp4/95poFuYJ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0201e2af4a3c29a290.jpg", 周四推理俱乐部
-https://europe.olemovienews.com/ts4/20250828/IiT45Lmg/mp4/IiT45Lmg.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250827-1/dfd1d01821d2b0f5c3e90e183b87adc8.jpg", 魔法蓝精灵
-https://europe.olemovienews.com/ts4/20250827/Eq4Ds06m/mp4/Eq4Ds06m.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a5ed71a484bb3888.jpg", 大小姐和看门犬
-https://europe.olemovienews.com/ts4/20250826/BcFIO9fQ/mp4/BcFIO9fQ.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250824-1/8cc619e4a2f1a06bdb3d77b586ff1ada.jpg", 凶器
-https://europe.olemovienews.com/ts4/20250823/naq24kp3/mp4/naq24kp3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250822-1/9146a3cc80ec188f28a3e32aef900c93.jpg", 初吻
-https://europe.olemovienews.com/ts4/20250822/2calth17/mp4/2calth17.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.akysw.pro/upload/vod/20250822-1/c9259cc879813fd32d5f18832be2de4e.jpg", 极速女神
-https://europe.olemovienews.com/ts4/20250822/c56z4eav/mp4/c56z4eav.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02c87b0ac4a011c727.jpg", 8号出口
-https://europe.olemovienews.com/ts4/20250823/bs5yajkg/mp4/bs5yajkg.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t020fdf3cb32d1f6915.jpg", F1:狂飙飞车
-https://europe.olemovienews.com/ts4/20250821/9anday6g/mp4/9anday6g.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t025102b259943c1bd1.jpg", 生死危机
-https://europe.olemovienews.com/ts4/20250821/owov8a5z/mp4/owov8a5z.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022e0c5e4b6c1af12d.jpg", 夜班
-https://europe.olemovienews.com/ts4/20250820/6rrnidhh/mp4/6rrnidhh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0260cdaf7f3ad08108.jpg", 通往你的地图
-https://europe.olemovienews.com/ts4/20250820/ktau8una/mp4/ktau8una.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t0228ed023685c2311f.jpg", 神圣之路
-https://europe.olemovienews.com/ts4/20250820/q9uiutls/mp4/q9uiutls.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t022d39c6e4f457087b.jpg", 坏蛋联盟2
-https://europe.olemovienews.com/ts4/20250819/kr6qeixm/mp4/kr6qeixm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02a71340d1ff71290a.jpg", 毛骨悚然撞鬼经 2025夏季特别篇
-https://europe.olemovienews.com/ts4/20250818/h3w7gtri/mp4/h3w7gtri.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250817-1/a9a250e904b74523dd42ae0fe4e65618.jpg", 碟中谍8：最终清算
-https://europe.olemovienews.com/ts4/20250817/v5cb63ef/mp4/v5cb63ef.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250816-1/ff044ffc06cbf444ea5602dc55beb8f8.jpg", 绑架毛乎乎2025
-https://europe.olemovienews.com/ts4/20250816/w599ldwx/mp4/w599ldwx.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202590215.jpg", 超人2025
-https://europe.olemovienews.com/ts4/20250815/j2rpcrvn/mp4/j2rpcrvn.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250815-1/c2656e21a0dadff7363ac08cc74fd990.jpg", 黑夜终至
-https://europe.olemovienews.com/ts4/20250815/lb8sw1mh/mp4/lb8sw1mh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923814091.webp", 怪化猫：火鼠
-https://europe.olemovienews.com/ts4/20250814/7iqnlukw/mp4/7iqnlukw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="http://imgsou.dangbei.com/images/20000/a2/932111.jpg!300", 爱丁顿
-https://europe.olemovienews.com/ts4/20250813/v3io4bc6/mp4/v3io4bc6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t02be8c84967062459a.jpg", 长安的荔枝
-https://europe.olemovienews.com/ts4/20250810/ev4wh808/mp4/ev4wh808.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/ddth/202173102.jpg", X医生：外科医生大门未知子 电影版
-https://europe.olemovienews.com/ts4/20250808/iy3z1xey/mp4/iy3z1xey.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/ddth/202615031.jpg", 终极拯救
-https://europe.olemovienews.com/ts4/20250808/qwdmhozy/mp4/qwdmhozy.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202543522.jpg", 意外收获
-https://europe.olemovienews.com/ts4/20250807/mmawnkxw/mp4/mmawnkxw.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202583289.jpg", 封神第二部：战火西岐
-https://europe.olemovienews.com/ts4/20250806/m0nabb9q/mp4/m0nabb9q.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t026e15059d8c94b0fa.jpg", 同甘共苦
-https://europe.olemovienews.com/ts4/20250806/y76mr1i1/mp4/y76mr1i1.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://ps.ssl.qhimg.com/t024e8a04225f5e2132.jpg", 侏罗纪世界：重生
-https://europe.olemovienews.com/ts4/20250805/l3x4u7m6/mp4/l3x4u7m6.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250729-1/8979811b51c12721a71db218f83065ce.jpg", 南京照相馆【抢先版】
-https://europe.olemovienews.com/ts4/20250728/bj2sm40a/mp4/bj2sm40a.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.dandanzan.me/cover/202595961.jpg", 疯狂的佛牌
-https://europe.olemovienews.com/ts4/20250802/699z2fx7/mp4/699z2fx7.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250801-1/7426a0b5fa31c807e9bfc9184c5c4e73.jpg", 我的牛津岁月
-https://europe.olemovienews.com/ts4/20250801/ujhjfv8z/mp4/ujhjfv8z.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250131-1/690c00db1393163ef48088208e6b4731.jpg", 哪吒之魔童闹海
-https://europe.olemovienews.com/ts4/20250731/xy7k5dka/mp4/xy7k5dka.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250730-1/6504499f3ec767bfa2cadcaa03561b28.jpg", 世界大战2025
-https://europe.olemovienews.com/ts4/20250730/o90fe3yu/mp4/o90fe3yu.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20250718-1/69133c1bc3dbda89ebadd4d1e1c57d10.jpg", 私家侦探
-https://europe.olemovienews.com/ts4/20250718/u46exerg/mp4/u46exerg.mp4/index-v1-a1.m3u8
+https://vod.catopolice.com/hls/699edcff0a06e0e2689e49df.m3u8?t=69ae0122&n=7bYZNNOjIDAFHYIBjTrWpBgLHa0wqvMI&s=69f8bfe677cdbc9bb66a789092c6c0a2
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0205/62972_698415e326b15[X280,400].jpg", 프레젠스
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c88910a06e0e2689e49b3.m3u8?t=69ae0184&n=f5ba7Dnxl6X0GR4T5MT3cF3TCxfMsKqc&s=cb0f9069296142e180b81a45dd86ee59
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/653/608/093/c2db5d89751fe1a52c38ed521b2e3190.jpg", 더 드레드풀
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c8b500a06e0e2689e49b4.m3u8?t=69ae01ce&n=wLZRBxRTHSLCeCG1bbcXgvHHFoDnqv7m&s=e42104a2969eab9ca941ba5ef1f714d4
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202601/27/c73ed1d3-23d8-4f61-aa90-22da29bb2047.webp", 파이어브레이크
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c882e0a06e0e2689e49b2.m3u8?t=69ae023e&n=gFDB161DCLoJeIJZP6GTymAIJIgMKKYi&s=cec869f0f65f496e7820e3a75415785d
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://postfiles.pstatic.net/MjAyNjAyMjFfMjE2/MDAxNzcxNjgxNDAyNDg0.ogaiSBdjan_UO2rUF-Z5olo3yIknzmt2ni0KivV714og.gcWvT5AJ4coiw2KkRnuVijmY-DPTvBHeVsf94WogDvkg.JPEG/OneMile01_01.jpg?type=w80_blur", 원마일 챕터1
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c86a80a06e0e2689e49ae.m3u8?t=69ae0283&n=ICz2ClWGDslJPcTNqB9h8lCSn4Zr7GZ2&s=79fb2788a3beafe9406faf895c1938c3
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://postfiles.pstatic.net/MjAyNjAyMjFfMjE2/MDAxNzcxNjgxNDAyNDg0.ogaiSBdjan_UO2rUF-Z5olo3yIknzmt2ni0KivV714og.gcWvT5AJ4coiw2KkRnuVijmY-DPTvBHeVsf94WogDvkg.JPEG/OneMile01_01.jpg?type=w80_blur", 원마일 챕터2
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c871e0a06e0e2689e49af.m3u8?t=69ae02e7&n=uwSKf04X0FB52e72kOgQZ2FSV5b2fpa5&s=bd13a22cf13b33e1e18557e78a380f6a
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://sj.xiaoca.top/sj/2026-02-24/177186366927456458.webp", 스웨덴 커넥
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699c863a0a06e0e2689e49ad.m3u8?t=69ae02ff&n=if54EXkayCPDNclkNKgzkJgQy8vHX8lb&s=008e1dea22cbe9ea52c32f165c402f63
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F12%2F18%2F7656754%2Fhigh.jpg&w=640&q=75", 하우스메이드
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699758bf0a06e0e2689e4928.m3u8?t=69ae03b1&n=hBDPpIzJIdqtG1rudbfwmVp8kojV9Zww&s=199b01facf0cce6861a32d4d93110a0d
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/758/518/093/434485b3e673e2ed9f095d8f2f0e8dcc.jpg", 28년 후- 뼈의 사원
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/699756d50a06e0e2689e4925.m3u8?t=69ae0410&n=F2IjlMN0hpvE5HshAWMYpHggcBhozqSY&s=d864aa454037fed9f395bdd64e4e4034
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://blog.kakaocdn.net/dna/bp7bpL/dJMcacvirtx/AAAAAAAAAAAAAAAAAAAAALr9cjMNtGIpjMdfbZV7hSPZNkyZdTuSPnAzbLGnBPFg/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1774969199&allow_ip=&allow_referer=&signature=rTNrf8u6%2FfLzAH9pS0YpfYkcl%2Fo%3D", 더 아보리스트
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698f58d40a06e0e2689e4880.m3u8?t=69ae0456&n=JTePMEqPmIUr6wdue9cUgsRFcwygtF7A&s=31de7cc154ef3f31edfaedc4ac62bcc5
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/772/011/093/c66240cca931f86ff9f28e65102671af.jpg", 리턴 투 사일런트 힐
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698cb4510a06e0e2689e4837.m3u8?t=69ae04af&n=rkgpovZM7OAuSwRFbzCBFdRJg4OYIQcx&s=bde04eac99802a03b0a7b98a9d099ea4
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202601/21/275c26fe-5543-47da-acca-65ddc94318ff.jpg", 인간생체 731실험부대
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698c94740a06e0e2689e482e.m3u8?t=69ae0509&n=9cosxGfVESv3wXWxwfdeGD8BlV5DfA8t&s=b3df7e0a907fd8fd72a3e5de1bdeae87
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0112/16_50_18__6964a7ba37945[S750,750].jpg", 프라이메이트
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698b6ecd0a06e0e2689e481d.m3u8?t=69ae0552&n=gA14AVKrbhZEIN62P5QIx9qbkmvaCctl&s=b1e391e1f3a50d47151687c4656ee0ca
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://blogthumb.pstatic.net/MjAyNjAyMDlfNzcg/MDAxNzcwNjI0MDY4NTk3.I7sdyPbbPzLOa2uHH8bP6Q-_8DTfoJTavlkoJnQTVQAg.VGv4w1ZF6b1lNZFAXhGo50UPxi58XpGELJXeIkxGRVcg.JPEG/Redux01.jpg?type=w2", 리덕스 리덕스
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/69894d760a06e0e2689e47b6.m3u8?t=69ae058f&n=PlWNRSvaGVsj8Czhltk7LD9y2bjjnNbg&s=b2727890d9f68cea7c5174bf6c451bdd
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/271/533/093/59ac98ab743abbeef7630566e011d415.jpg", 킬러 웨일
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/69894a7e0a06e0e2689e47b5.m3u8?t=69ae05e8&n=JlAt6FLFCViMQQD9nkehx3OaZcTER68f&s=bfc6765cc0ac2978a76f0edba92ca85c
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/856/323/093/1054efbd96dd457e91b0491500cb19d7.jpeg", 그린랜드 2
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698945240a06e0e2689e47b2.m3u8?t=69ae0620&n=KTHNY7esdcbcufjYYw6Bhh28uliWbb6c&s=4c079175843d2722239db80df1df739d
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://file.kinolights.com/m/content_poster/202602/02/e0e54f5a-c9ae-4694-84eb-dcfce1e00ac5.webp", 더 레킹 크루
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698942820a06e0e2689e47b1.m3u8?t=69ae065d&n=MmTWsOU9ftGZZkqpTSphRj0UzU6Rr2X7&s=c2dd792e2f3081507f8b59d1152f5820
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img.extmovie.com/files/attach/images/135/745/611/093/3fc73419a623ff76f6dda20054c74cff.webp", 더 립
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/698855ba0a06e0e2689e4793.m3u8?t=69ae069a&n=LfXDyMetzaFg7IHSpX12L0pzlDdR1pQE&s=9ac9b6888f67458741a27c78c16cff27
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/still/2010/1207/30469_4cfda1d02bad0_poster[X280,400].jpg", 스피드 패스터
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/69884e080a06e0e2689e478f.m3u8?t=69ae06f5&n=hRJDnEr4Di42g7K2rVumFzeUmZ8ujSAx&s=f72fe9825b7320a88b233d22982f461f
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1218/17_39_06__6943bdaa67230[X280,400].jpg", 튜즈데이
+#EXTVLCOPT:http-referrer=https://ply.catopolice.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://vod.catopolice.com/hls/697f5a1f0a06e0e2689e46a1.m3u8?t=69ae0747&n=Mi2YTgSIcJkrLoIi2y5jHu8Kz930VJIE&s=23b6876b7a559fc92b2025fad37185db
 
 
 
@@ -11826,6 +11400,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
