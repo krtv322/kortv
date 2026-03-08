@@ -443,7 +443,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMxMzc4MTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UJAkLLFIM9hxIQ-irY85lotQOxzZqm7jq8mbgW6iBlIbr4YvFfj9kT8l8gj2E61LpXkw9F27x8yVwMgSwRyguGaki3xFPcRDqRczSliArfH8OPNuOl~27XWt1vw927CC1V4AjksZCr0-sogyxITBVubl-EuUkF73lnMMoBM9xlgZshdxcwj9ww0SCLD2tWDqRL0PsYGN9dk59Lz8dXiigIPX5cbASkqPZx6G8QUjLeRFxqdLFOpnViOFhK-o3U4tx~xM4ZoowpsU85MBxM8c2roOim6LOFkcxaO3eKgT9eqNc7IoEV6pTrDUmGnlzwy1Eb7DlMca-6TcNr2nvwInVg__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMxODIyNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=D~zaoRILEpldY6DfbfbTOWdrBt072m-G4Fw~huEo94DTVISfKr9jrCS6Eysz6Tn~GDUoh1LZqLkCR8b2SrmCHhm6ySI3KQ7FsfNYMdF8hNKInBTHNKdO~KzUBsV0rjj6mYnUp8LS6mKmsao3rUrLYw9zd2YOK4TuNSSTM9nlIaL43QiMgGY5vmoKUJAmLRIcUGEbd3H6kn5WGx4ssubCFIZs~nrevBzUUiJkffE8bKmV-JKuFWmJkVjexmdC3eCkAXOdXvczvbcsQE0W-tClA~COZ8L~Or5MeQ9v9BJZU3yvsvr7CAWZoOdjJwd8YfAi332x~d03yCA2-TQKu99JhA__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -1917,15 +1917,42 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제3화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EB%AF%B8%ED%98%BC%EB%82%A8%EB%85%80%EC%9D%98%20%ED%9A%A8%EC%9C%A8%EC%A0%81%20%EB%A7%8C%EB%82%A8.E03.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제14화
-https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.E15.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제4화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AF%B8%ED%98%BC%EB%82%A8%EB%85%80%EC%9D%98%20%ED%9A%A8%EC%9C%A8%EC%A0%81%20%EB%A7%8C%EB%82%A8.E04.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제16화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.%EC%B5%9C%EC%A2%85%ED%9A%8C.E16.260308.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제15화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.E15.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제12화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%84%20%EC%B2%98%EB%B0%A9%ED%95%B4%20%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.E12.260308.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제11화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%84%20%EC%B2%98%EB%B0%A9%ED%95%B4%20%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.E11.260308.1080p.H264-F1RST.mp4
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240131/0705/P001752785.jpg/dims/resize/F_webp,480", 샤이닝 제2화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1936,11 +1963,6 @@ https://wiselife.blog/hls/69ac0aad33e7d124a7ea2c87.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%83%A4%EC%9D%B4%EB%8B%9D.%EC%B2%AB%20%EB%B0%A9%EC%86%A1.E01.260306.1080p.H264-F1RST.mp4
 
-
-
-
-
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제2화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1948,6 +1970,13 @@ https://bodaponi.b-cdn.net/%EC%84%B8%EC%9D%B4%EB%A0%8C.E02.260303.1080p.TVING.WE
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제1화
 https://www.vidspace.xyz/20260302/tTxGOC1u/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제3화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AF%B8%ED%98%BC%EB%82%A8%EB%85%80%EC%9D%98%20%ED%9A%A8%EC%9C%A8%EC%A0%81%20%EB%A7%8C%EB%82%A8.E03.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제2화
 https://www.vidspace.xyz/20260301/ybaEI8Py/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제1화
@@ -11710,6 +11739,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
