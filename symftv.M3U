@@ -443,7 +443,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMxODIyNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=D~zaoRILEpldY6DfbfbTOWdrBt072m-G4Fw~huEo94DTVISfKr9jrCS6Eysz6Tn~GDUoh1LZqLkCR8b2SrmCHhm6ySI3KQ7FsfNYMdF8hNKInBTHNKdO~KzUBsV0rjj6mYnUp8LS6mKmsao3rUrLYw9zd2YOK4TuNSSTM9nlIaL43QiMgGY5vmoKUJAmLRIcUGEbd3H6kn5WGx4ssubCFIZs~nrevBzUUiJkffE8bKmV-JKuFWmJkVjexmdC3eCkAXOdXvczvbcsQE0W-tClA~COZ8L~Or5MeQ9v9BJZU3yvsvr7CAWZoOdjJwd8YfAi332x~d03yCA2-TQKu99JhA__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMyMzI5OTJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CnhyA48ZGFDMH0u2tBYjYP0e7S0NIEfKoNbKGZ7U4vm1kE89hmUApV7OKgqD78rTrMPDdnzZLaIsGFGTfDylJArWusYmZ-V3v2DuqD-srUxIsz4dbWZ8HeMrKLF2MbQDmTnt8v1M8LofOAH9RnowfLHOaTpK48YkBrPjX49n~z3fcsH59L3OZiP17ak0kkZKKjn3nl6v~~wXRvkvsKX0aHd79YuWoTq~xElUtMgKRp7vn0Y1nKBb69bPuIWA5jcgrk1H3p8R6rCoqC-E2FXlM5GRBZIMTAblcCEck7AgAgsfEXkw8kLKxDXkrDzRx2lsQnO~ylZg847exxY8Sh1Dgw__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -2518,29 +2518,30 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 260301 전국노래자랑
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%A0%84%EA%B5%AD%EB%85%B8%EB%9E%98%EC%9E%90%EB%9E%91.E2156.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/202502/709667_817739_2423.jpg", 260308 모던 인물사 미스터 리
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69ad986c33e7d124a7ea2cf4.m3u8
+https://bodaponi.b-cdn.net/%EB%AA%A8-%EB%8D%98.%EC%9D%B8%EB%AC%BC%E5%8F%B2.%EB%AF%B8%EC%8A%A4%ED%84%B0.%EB%A6%AC.S01E31.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260308 개그 콘서트 SUPER LIVE
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69ad97c233e7d124a7ea2cf2.m3u8
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8.%EC%BD%98%EC%84%9C%ED%8A%B8.E1163.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0287/2025/12/1/1764548348155_616776.jpg", 260308 역사스페셜 시간여행자
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69ad94e233e7d124a7ea2cef.m3u8
+https://bodaponi.b-cdn.net/%EC%97%AD%EC%82%AC%EC%8A%A4%ED%8E%98%EC%85%9C.%EC%8B%9C%EA%B0%84%EC%97%AC%ED%96%89%EC%9E%90.S00E12.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42133.jpg", 260308 사장님 귀는 당나귀 귀
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%82%AC%EC%9E%A5%EB%8B%98%20%EA%B7%80%EB%8A%94%20%EB%8B%B9%EB%82%98%EA%B7%80%20%EA%B7%80.E348.260308.720p-NEXT.mp4
+https://bodaponi.b-cdn.net/%EC%82%AC%EC%9E%A5%EB%8B%98.%EA%B7%80%EB%8A%94.%EB%8B%B9%EB%82%98%EA%B7%80.%EA%B7%80.E347.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260127/0416/P001782170.jpg/dims/resize/F_webp,480", 260308 천하제빵
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2585,7 +2586,7 @@ https://bodaponi.b-cdn.net/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B2%84%20%EC%8B%9C%EC%A
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0096/2023/11/2/1698901272777_477142.jpg", 260308  열린음악회
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69ad735833e7d124a7ea2cd6.m3u8
+https://bodaponi.b-cdn.net/%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C.E1564.260308.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://watching-img.pickle.plus/poster/7b33ec78-77d8-4004-9bde-1a0639a3b91a-1735661059319.jpg?w=256&q=75&format=webp", 260308 1박 2일
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2635,12 +2636,12 @@ https://bodaponi.b-cdn.net/TV%20%EB%8F%99%EB%AC%BC%EB%86%8D%EC%9E%A5.E1262.26030
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://photo.jtbc.co.kr/news/cms/etc/2026/02/28/20260228151139526001.jpg", 260307  유명가수에겐 히트곡이 필요해 제4화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%9C%A0%EB%AA%85%EA%B0%80%EC%88%98%EC%97%90%EA%B2%90%20%ED%9E%88%ED%8A%B8%EA%B3%A1%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%B4%20S01E04%20260307.mp4
+https://bodaponi.b-cdn.net/%EC%9C%A0%EB%AA%85%EA%B0%80%EC%88%98%EC%97%90%EA%B2%90%20%ED%9E%88%ED%8A%B8%EA%B3%A1%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%B4%20S01E04%20b.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://photo.jtbc.co.kr/news/cms/etc/2026/02/28/20260228151139526001.jpg", 260307  유명가수에겐 히트곡이 필요해 제3화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%9C%A0%EB%AA%85%EA%B0%80%EC%88%98%EC%97%90%EA%B2%90%20%ED%9E%88%ED%8A%B8%EA%B3%A1%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%B4%20S01E03%20260307.mp4
+https://bodaponi.b-cdn.net/%EC%9C%A0%EB%AA%85%EA%B0%80%EC%88%98%EC%97%90%EA%B2%90%20%ED%9E%88%ED%8A%B8%EA%B3%A1%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%B4%20S01E03%20b.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://ktena.co.kr/data/file/variety/64f192ac8d12ad789d874b36756ac069_ArYJpkPn_76d7f7934f84b4eaca9ce0f53a93534ce00c9f0c.jpg", 260307 크레이지 투어 
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2710,7 +2711,7 @@ https://wiselife.blog/hls/69ac0d9133e7d124a7ea2c8a.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/02/15/7a25b9ff-d270-4dcd-b144-6106e9803498.jpg", 260307 자매치킨
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/69ac099433e7d124a7ea2c86.m3u8
+https://bodaponi.b-cdn.net/%EC%9E%90%EB%A7%A4%EC%B9%98%ED%82%A8.E04.260308.1080p.CP.WEB-DL.AAC.2.0-Sniper.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2025/08/21/982807e9-4af2-443a-a02a-e5c52fae8a95.jpeg", 260306 더 시즌즈 - 10CM의 쓰담쓰담
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -11400,6 +11401,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
