@@ -2815,6 +2815,9 @@ https://bodaponi.b-cdn.net/%EC%B2%9C%ED%95%98%EC%A0%9C%EB%B9%B5.E06.1080p.TVING.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/1%EB%93%B1%EB%93%A4.E04.1080p.TVING.WEB-DL.H264.AAC.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51402.jpg", 260308 1등들 제3회 저화질
+https://www.vidspace2.xyz/20260308/IWa7nMZi/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260308 미운 우리 새끼
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -11714,6 +11717,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
