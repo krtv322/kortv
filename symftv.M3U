@@ -1938,6 +1938,9 @@ https://play.xluuss.com/play/hls/epYQgVpa/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%84%B8%EC%9D%B4%EB%A0%8C.E04.260310.1080p.H264-F1RST.mp4
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제4화 중국자막
+https://vv.jisuzyv.com/play/hls/bqxYxnRa/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제107화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1992,6 +1995,9 @@ https://bodaponi.b-cdn.net/%EC%83%A4%EC%9D%B4%EB%8B%9D.%EC%B2%AB%20%EB%B0%A9%EC%
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%84%B8%EC%9D%B4%EB%A0%8C.E03.260309.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제3화 중국자막
+https://vv.jisuzyv.com/play/hls/dNk9xWve/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제2화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -11717,6 +11723,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
