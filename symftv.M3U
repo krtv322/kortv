@@ -666,6 +666,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
@@ -1920,36 +1922,45 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제9화
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260128/0816/P001782227.jpg/dims/resize/F_webp,480", 우주를 줄게 제11화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80.%EC%A7%84%EC%A3%BC.S01E09.260310.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+https://bodaponi.b-cdn.net/%EC%9A%B0%EC%A3%BC%EB%A5%BC%20%EC%A4%84%EA%B2%8C.E11.260311.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제12화
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260128/0816/P001782227.jpg/dims/resize/F_webp,480", 우주를 줄게 제11화 저화질
+https://www.vidspace2.xyz/20260311/Mguc5aFp/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제108화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.%EC%B5%9C%EC%A2%85%ED%9A%8C.E12.260310.1080p.H264-F1RST.mp4
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E108.260311.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제12화 중국자막
-https://play.xluuss.com/play/hls/epYQgVpa/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제108화 저화질
+https://www.vidspace2.xyz/20260311/o9hSIGs4/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제4화
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제10화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%84%B8%EC%9D%B4%EB%A0%8C.E04.260310.1080p.H264-F1RST.mp4
+https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80%20%EC%A7%84%EC%A3%BC.E10.260311.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제4화 중국자막
-https://vv.jisuzyv.com/play/hls/bqxYxnRa/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제10화 저화질
+https://www.vidspace2.xyz/20260311/hFrbUWDe/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제107화
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제60화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E107.260310.1080p.H264-F1RST.mp4
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E60.260311.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제59화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E59.260310.1080p.H264-F1RST.mp4
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제60화 저화질
+https://www.vidspace2.xyz/20260311/hxIjcRLV/1000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260223/0842/P001783103.jpg/dims/resize/F_webp,480", 발작버튼 제5화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -1990,6 +2001,14 @@ https://wiselife.blog/hls/69ac0aad33e7d124a7ea2c87.m3u8
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%83%A4%EC%9D%B4%EB%8B%9D.%EC%B2%AB%20%EB%B0%A9%EC%86%A1.E01.260306.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제4화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%84%B8%EC%9D%B4%EB%A0%8C.E04.260310.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제4화 중국자막
+https://vv.jisuzyv.com/play/hls/bqxYxnRa/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260302-1/d12962776b654772d80915ae96d5df8f.jpg", 세이렌 제3화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2032,6 +2051,11 @@ https://wiselife.blog/hls/69a8595533e7d124a7ea2bdd.m3u8
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80%20%EC%A7%84%EC%A3%BC.E08.260304.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제9화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80.%EC%A7%84%EC%A3%BC.S01E09.260310.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제7화
 https://www.vidspace.xyz/20260303/nzer4cTg/1000kb/hls/index.m3u8
@@ -2108,35 +2132,6 @@ https://www.vidspace.xyz/20260205/hXzXtNfZ/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260128/0816/P001782227.jpg/dims/resize/F_webp,480", 우주를 줄게 제1화
 https://www.vidspace.xyz/20260204/2RbolOCA//1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제11화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.E11.260309.1080p.H264-F1RST.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제10화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.Honour.E10.260303.1080p.CP.WEB-DL.AAC.2.0-Sniper.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제9화
-https://www.vidspace.xyz/20260302/i7a6oEzp/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제8화
-https://www.vidspace.xyz/20260224/V4vplEBc/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제7화
-https://www.vidspace.xyz/20260223/USyrzryr/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제6화
-https://www.vidspace.xyz/20260217/CgRaMb6y/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제5화
-https://www.vidspace.xyz/20260216/XKxPR175/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제4화
-https://www.vidspace.xyz/20260210/LpsGSawP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제3화
-https://www.vidspace.xyz/20260209/0mgAc4r0/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제2화
-https://www.vidspace.xyz/20260203/DppzJsuG/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제1화
-https://www.vidspace.xyz/20260202/Jnocot41/1000kb/hls/index.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제12화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -2170,48 +2165,16 @@ https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제1화
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제16화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.%EC%B5%9C%EC%A2%85%ED%9A%8C.E16.260308.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제15화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.E15.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제14화
-https://www.vidspace.xyz/20260301/M1Td4GfV/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제13화
-https://www.vidspace.xyz/20260228/7d3yfFnI/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제12화
-https://www.vidspace.xyz/20260222/rYkqlBLy/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제11화
-https://www.vidspace.xyz/20260221/fCGfa9t2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제10화
-https://www.vidspace.xyz/20260215/A0TtyGgH/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제9화
-https://www.vidspace.xyz/20260214/PuODEXu3/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제8화
-https://www.vidspace.xyz/20260208/nZPDt3l5/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제7화
-https://www.vidspace.xyz/20260207/ftwRDZK3/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제6화
-https://www.vidspace.xyz/20260201/KGi53NSp/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제5화
-https://www.vidspace.xyz/20260131/FJTN28rP/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제4화
-https://europe.olemovienews.com/ts4/20260125/BOVQkQs9/mp4/BOVQkQs9.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제3화
-https://europe.olemovienews.com/ts4/20260124/ZVnK40wX/mp4/ZVnK40wX.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제2화
-https://europe.olemovienews.com/ts4/20260118/wVDjNHPp/mp4/wVDjNHPp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제1화
-https://europe.olemovienews.com/ts4/20260117/WCPXEkr8/mp4/WCPXEkr8.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://i.namu.wiki/i/to3_u0dPcfG-wydJgGg-i6OuFYr0_1355sa3Dpim5IvvBjAMPDxVyCu0ovab_fYo0pl4YvTePwwbh9M5i8DhUxZOsKx5QZH4z61DOYzH57KGbDmjo53gZOXopocurcd3LxR4C9I9sS6riPpklCaElw.webp", 순간의 영원 제2화
 https://bodaponi.b-cdn.net/%EC%88%9C%EA%B0%84%EC%9D%98%20%EC%98%81%EC%9B%90.S01E02.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://i.namu.wiki/i/to3_u0dPcfG-wydJgGg-i6OuFYr0_1355sa3Dpim5IvvBjAMPDxVyCu0ovab_fYo0pl4YvTePwwbh9M5i8DhUxZOsKx5QZH4z61DOYzH57KGbDmjo53gZOXopocurcd3LxR4C9I9sS6riPpklCaElw.webp", 순간의 영원 제1화
 https://bodaponi.b-cdn.net/%EC%88%9C%EA%B0%84%EC%9D%98%20%EC%98%81%EC%9B%90.S01E01.1080p.WEB-DL.H264.AAC.WV-CdF.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제59화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E59.260310.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제58화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2355,6 +2318,11 @@ https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E
 https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E02.251216.1080p.H264-F1RST.mp4
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제1화
 https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.%EC%B2%AB%ED%9A%8C.E01.251215.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제107화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%A7%88%EB%A6%AC%EC%99%80%20%EB%B3%84%EB%82%9C%20%EC%95%84%EB%B9%A0%EB%93%A4.E108.260311.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2025/10/13/68ecf89009eda50cfb7acf4f/thumbnail/68ecf89009eda50cfb7acf4f_upload_1760362688144.jpg", 마리와 별난 아빠들 제106화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2595,6 +2563,96 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260114/1300/P001750093.jpg/dims/resize/F_webp,480", 260311 아빠하고 나하고
+https://www.vidspace2.xyz/20260311/J1ORPcm2/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1345/P001780473.jpg/dims/resize/F_webp,480", 260311 괴담노트 시즌2 : 만신전의 기록
+https://www.vidspace2.xyz/20260311/OpafWQmS/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.onews.tv/news/photo/202107/81257_85200_327.jpg", 260311 나는 SOLO (나는 솔로) 저화질
+https://www.vidspace2.xyz/20260311/JVN45zbz/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/img.kbsmedia.co.kr/smrapi/img_data/T2025-0385/dtMHMn5tERqo.jpg", 260311 슈퍼캐치 진실의 눈
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EC%BA%90%EC%B9%98.%EC%A7%84%EC%8B%A4%EC%9D%98.%EB%88%88.S01E03.260311.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0307/2020/4/22/1587513934591_256054.jpg", 260311 스튜디오 K
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.K.S01E308.260311.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260224/0825/P001783291.jpg/dims/resize/F_webp,480", 260311 무명전설
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AC%B4%EB%AA%85%EC%A0%84%EC%84%A4.E03.260311.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260224/0825/P001783291.jpg/dims/resize/F_webp,480", 260311 무명전설 저화질
+https://www.vidspace2.xyz/20260311/hpmCB7gg/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51314.jpg", 260311 개와 늑대의 시간 시즌2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%9C%EC%99%80%20%EB%8A%91%EB%8C%80%EC%9D%98%20%EC%8B%9C%EA%B0%84%202.E09.260311.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51314.jpg", 260311 개와 늑대의 시간 시즌2 저화질
+https://www.vidspace2.xyz/20260311/Mp1xrssK/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2021/11/16/AKR20211116155200005_02_i_P4.jpg", 260311 라디오스타
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%9D%BC%EB%94%94%EC%98%A4%EC%8A%A4%ED%83%80.E956.260311.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2021/11/16/AKR20211116155200005_02_i_P4.jpg", 260311 라디오스타 저화질
+https://www.vidspace2.xyz/20260311/6tfvmArm/1000kb/hls/index.m3u8 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/1ovely/Img/site/Main/20250805_141122_5648.jpg", 260311 한블리 (한문철의 블랙박스 리뷰)
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%ED%95%9C%EB%AC%B8%EC%B2%A0%EC%9D%98%20%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%20%EB%A6%AC%EB%B7%B0.E164.260311.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/culture/1ovely/Img/site/Main/20250805_141122_5648.jpg", 260311 한블리 저화질
+https://www.vidspace2.xyz/20260311/o3pc0U3v/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 260311 유 퀴즈 온 더 블럭
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%9C%A0%20%ED%80%B4%EC%A6%88%20%EC%98%A8%20%EB%8D%94%20%EB%B8%94%EB%9F%AD.E334.260311.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://kpinews.kr/data/upi/image/20190625/p1065571299232285_470_thum.jpg", 260311 유 퀴즈 온 더 블럭 저화질
+https://www.vidspace2.xyz/20260311/tnbfm5Qu/1000kb/hls/index.m3u8 
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img6.yna.co.kr/etc/inner/KR/2016/07/12/AKR20160712108100033_01_i_P4.jpg", 260311 슈퍼맨이 돌아왔다
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%88%ED%8D%BC%EB%A7%A8%EC%9D%B4.%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4.S03E612.260311.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img6.yna.co.kr/etc/inner/KR/2016/07/12/AKR20160712108100033_01_i_P4.jpg", 260311 슈퍼맨이 돌아왔다 저화질
+https://www.vidspace2.xyz/20260311/RRoE5UBX/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/public/share/menumng/tvNSTORY%EB%82%B4%EC%83%88%EB%81%BC%EC%9D%98%EC%97%B0%EC%95%A02banner1920x530_1771894444643.jpg?v=1771894444", 260311 내 새끼의 연애2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%82%B4%20%EC%83%88%EB%81%BC%EC%9D%98%20%EC%97%B0%EC%95%A0%202.E03.260311.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/public/share/menumng/tvNSTORY%EB%82%B4%EC%83%88%EB%81%BC%EC%9D%98%EC%97%B0%EC%95%A02banner1920x530_1771894444643.jpg?v=1771894444", 260311 내 새끼의 연애2 저화질
+https://www.vidspace2.xyz/20260311/l1io9tJY/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44865.jpg", 260311 골 때리는 그녀들
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B3%A8%20%EB%95%8C%EB%A6%AC%EB%8A%94%20%EA%B7%B8%EB%85%80%EB%93%A4.E207.260311.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44865.jpg", 260311 골 때리는 그녀들 저화질
+https://www.vidspace2.xyz/20260311/VPojKD5g/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231026/1340/P21097.jpg/dims/resize/F_webp,480", 260311 세계테마기행
+https://www.vidspace2.xyz/20260311/VcoQoc7r/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51330.jpg", 260311 황신혜의 같이 삽시다 제7회
+https://www.vidspace2.xyz/20260311/XTyJHoKB/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2026/01/14/AKR20260114081500005_01_i_P4.jpg", 260311 데스게임: 천만원을 걸어라 제8화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -3157,7 +3215,7 @@ https://wiselife.blog/hls/69a976e933e7d124a7ea2bfe.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EC%9D%BC%EB%B3%91%20%EA%B9%80%EC%9B%90%ED%9B%88%20%EB%B3%B4%EC%A7%81%EC%9D%98%20%EC%84%B8%EA%B3%84%20S01E06%20260305.mp4
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260226 미스터리 수사단 시즌2 제9화
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/05/28/214985f0-0525-4390-a3e1-f9d91d3b6af2.png", 260305 미스터리 수사단 시즌2 제9화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%88%98%EC%82%AC%EB%8B%A8%20S02E09%20f.mp4
@@ -4827,6 +4885,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260227-1/ffabc8a629cce21629d88c80e267e06a.jpg", 匿杀
+https://play.xluuss.com/play/hls/b2kR0Bzd/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260311-1/95e7be2dd3935e8d4fb5720523a33256.jpg", 宝岛
+https://play.xluuss.com/play/hls/aOYyy7pd/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260307-1/2bf5fdcce31a55aab434493effe736a6.jpg", 绿液惊魂
+https://play.xluuss.com/play/hls/bDkRBrna/index.m3u8
+
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929006010.webp", 极限审判
 https://vv.jisuzyv.com/play/hls/bqxjn4Ga/index.m3u8
 
@@ -6197,6 +6267,81 @@ https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제16화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.%EC%B5%9C%EC%A2%85%ED%9A%8C.E16.260308.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제15화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%20%EB%AF%B8%EC%93%B0%ED%99%8D.E15.260307.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제14화
+https://www.vidspace.xyz/20260301/M1Td4GfV/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제13화
+https://www.vidspace.xyz/20260228/7d3yfFnI/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제12화
+https://www.vidspace.xyz/20260222/rYkqlBLy/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제11화
+https://www.vidspace.xyz/20260221/fCGfa9t2/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제10화
+https://www.vidspace.xyz/20260215/A0TtyGgH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제9화
+https://www.vidspace.xyz/20260214/PuODEXu3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제8화
+https://www.vidspace.xyz/20260208/nZPDt3l5/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제7화
+https://www.vidspace.xyz/20260207/ftwRDZK3/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제6화
+https://www.vidspace.xyz/20260201/KGi53NSp/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제5화
+https://www.vidspace.xyz/20260131/FJTN28rP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b593b6dfd9.jpg", 언더커버 미쓰홍 제4화
+https://prx-1351-ant-20.vmwesa.online/hls2/01/02180/bk64mog78lt1_n/index-v1-a1.m3u8?t=xSTxCCu0eEFDEysJ-lluijy8Wme-rpA9RxDoINkXfUE=&s=1773270986&e=43200&v=&srv=de-vud-cdps&i=0.4&sp=0&asn=16509
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b593b6dfd9.jpg", 언더커버 미쓰홍 제3화
+https://prx-1546-ant.vmwesa.online/hls2/01/02245/cy6yk2h3fe6w_n/index-v1-a1.m3u8?t=bKbWDltyes1hFgAaaYC1KqMjtHXt9dsDqf7JEzxxk5g=&s=1773271055&e=43200&v=&srv=bck-1562-ant-s&i=0.4&sp=0&asn=16509
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제2화
+https://prx-box-1.vmeas.cloud/hls2/03/02171/2xmjdb0ncmjo_n/index-v1-a1.m3u8?t=0daeV3WGm3-dhEjsnXFI4RLbdlBK9LvHRNCriyLwyd8=&s=1773271085&e=43200&v=&srv=box-1425-t10&i=0.4&sp=0&asn=16509
+#EXTINF:-1 group-title="🐉한국드라마 언더커버 미쓰홍🦆" tvg-logo="https://static.olelive.com/upload/vod/20260117-1/0f218af318a97d21d2b6b03593b6dfd9.jpg", 언더커버 미쓰홍 제1화
+https://prx-1357-ant-v.vmwesa.online/hls2/01/02170/023j8taybkjy_n/index-v1-a1.m3u8?t=GEK0AeB50U_9BE2xWrJnT5ryu-7MDKZ_mcd5b4YDsts=&s=1773271107&e=43200&v=&srv=de-vud-cdps&i=0.4&sp=0&asn=16509
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제12화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.%EC%B5%9C%EC%A2%85%ED%9A%8C.E12.260310.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제11화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.E11.260309.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제10화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%95%84%EB%84%88%20%20%EA%B7%B8%EB%85%80%EB%93%A4%EC%9D%98%20%EB%B2%95%EC%A0%95.Honour.E10.260303.1080p.CP.WEB-DL.AAC.2.0-Sniper.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제9화
+https://www.vidspace.xyz/20260302/i7a6oEzp/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제8화
+https://www.vidspace.xyz/20260224/V4vplEBc/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제7화
+https://www.vidspace.xyz/20260223/USyrzryr/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제6화
+https://www.vidspace.xyz/20260217/CgRaMb6y/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제5화
+https://www.vidspace.xyz/20260216/XKxPR175/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제4화
+https://www.vidspace.xyz/20260210/LpsGSawP/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제3화
+https://www.vidspace.xyz/20260209/0mgAc4r0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제2화
+https://www.vidspace.xyz/20260203/DppzJsuG/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 아너 : 그녀들의 법정🦆" tvg-logo="https://ktena.co.kr/data/file/drama/64f192ac8d12ad789d874b36756ac069_6qWC3sKU_48ed1a366b7901f3b62a02a754acdc8c0618d9f8.png", 아너 : 그녀들의 법정 제1화
+https://www.vidspace.xyz/20260202/Jnocot41/1000kb/hls/index.m3u8
 
 
 
@@ -11723,6 +11868,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
