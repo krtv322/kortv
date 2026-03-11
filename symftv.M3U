@@ -443,7 +443,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzMzOTI5MTR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=RnNMpk64Q3M-S06CQ~pQEBy7khQzRjhbE0rFUBpcco-NUtP2neFZnFERSNEbzCyMPaxgREMT4nlOMaKEVkUk3UZhiuUqXVP3d~geFOOJXgRvCTrQUyC7TBBrp9ORgc92tfBfoC84IueHQa-6qVy-SgqAIDtRXpWAUyanmZO3jRQjcyQQe2osknlJG8-6hlIGfaONtMIOmkShjaA1e~TNUaEhUzr9nIUt4W2rDdfROH4bzsjChgqx8JE4Kdsc~1cDnDkXI2wEK9RhhzB3Xplm81vrplAOYuAWo3871NBaqEPPbYpDrmSBE0sYSpcSnWR-5W3nLaFIYbLQB5Msisz4gw__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzM0MDA1MzV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NMR~HLnQuVBrm1-70Hh3-Eq2XfofT7ziZHF4xN8eBOx4Pc59tiQZ5kY4s524G0R1DmIhCxxE~7AkNg2GNeV1T-k5M273rCESVUnxqpplaiqKDGJH2UCaUXfyotX-k4YqB~k32TbTlVVZkQ9Jc6jiiEMt1RqdOyRKHpyPznVCrbF0cZXVXJtyXyoXuPuKRHi2FR9Tek2G78FRq-K5GMnokWlndrI0XLJjAPjts~rBvqOWNZEEMiVy3aAZjuAD-Vz2~sLorJh7gxp0DWkUnOaAQzqr6zrDW-s3W84LFjd-Ko5X~dF7jW0KnvfjSTDapxluGj5MYrIJotLg9AGYAGM74w__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -4473,6 +4473,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/movie/2026/0112/16_39_51__6964a5479f340[X280,400].jpg", 38사기동대: 도쿄 리부트
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/38%EC%82%AC%EA%B8%B0%EB%8F%99%EB%8C%80%20;%20%EB%8F%84%EC%BF%84%20%EB%A6%AC%EB%B6%80%ED%8A%B8%20(2026)%20%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%83%E3%83%89%20;%20%E5%85%AC%E5%8B%99%E5%93%A1%E3%81%A87%E4%BA%BA%E3%81%AE%E8%A9%90%E6%AC%BA%E5%B8%AB.KORsub.1080p.FHD.mp4
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/08/22/9a8523a7-18b3-48d1-bf8c-13c4a320e891.jpg", 슈가
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%88%EA%B0%80%20Sugar,%202026.1080p.WEB-DL.H264.AAC.mp4
+
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0126/12_00_02__6976d8b2b16e8[X280,400].jpg", 직사각형, 삼각형
 #EXTVLCOPT:http-referrer=https://ply.catopolice.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -4800,6 +4814,18 @@ https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929006010.webp", 极限审判
+https://vv.jisuzyv.com/play/hls/bqxjn4Ga/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2515285368.webp", 寻秦记
+https://play.xluuss.com/play/hls/aKrOoP8e/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928833196.webp", 团战之夜
+https://vv.jisuzyv.com/play/hls/e312lQ4b/index.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://p0.pipi.cn/mediaplus/bigdata_crawler_media/0fa3349a1fa6e37f0709c3eadda446e410286.jpg?imageView2/1/w/464/h/644", 索命哨
 https://play.xluuss.com/play/hls/en5Zvkpd/index.m3u8
@@ -11688,6 +11714,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉국제방송🦆",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
 
 
 
