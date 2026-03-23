@@ -443,7 +443,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzQzOTYwNDh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KJrXSJpInB3YUEooVEqRRaJgqnTIuJsHkMQxD3u44RASGO4R~tZIMhYDJpHkZhyAUcKIRKw0Elb1StuyWOlTMBeMJxCapuXMh8Ug0iUlmRsjdjoLrtDQFpsmkLjDE4mE5gxC70VcUdhq08zMr14tPqzHWxbUpfYJjFhFZLIKRb4jhLZFt9v3fYTiU28qzn~ORY-J-krUD0dWOWC2fSiZHQtgan~yWPO7VZDhvddUId08nVV7l24zMU3lLtd5T4yB77BVSy5~tpKk2AWQsXvvJTK~8bxIMHAbDqEH4lZT~BQTcbStO8fQOwLK65tkeFpPvNn0RAH0PPT8fNAYHz1lHg__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzQ0MzI4NDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QcmlOQl5VaZharBi99KFXMe9AE4AleI0QGXLRj1WMj-c6IRAA8s63FGvCKuPXRJFsG9ExHbau6TwoezP5YAsqPLTr5ug3YWr7lz5PeiC11pFc9ljMArHq2HXCIzweJ-l7D8juGjeIBx4jW2Vh-szDNJ5gGo1TD0cQzS6Uw7zSj6LcSwWXAgnKHWoGy7pBJbkx~3NHQ7KITFp5-5u9ZKc211usxfQAys9AyGX6XK6--KRc3nFAv60VfZwX0N1IsNNvSY5IFywmiwzNKLioIbnPOAGD6pUNHBLJ84pUUskIgWVBv46gQCaRhw6Dh7LAFZ7zbesDnzjhkCY2DTXKfi-aA__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
@@ -7334,6 +7334,86 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제16화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E16.180118.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제15화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E15.180117.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제14화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E14.180111.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제13화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E13.180110.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제12화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E12.180104.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제11화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E11.180103.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제10화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E10.171221.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제9화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E09,171220,720p-NEXT.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제8화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E08.171214.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제7화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E07.171213.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제6화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E06.171207.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제5화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E05.171206.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제4화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E04.171130.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제3화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E03.171129.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제2화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E02.171123.mp4
+#EXTINF:-1 group-title="🐉한국드라마 슬기로운 감빵생활🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20171117/P000416180.jpg/dims/resize/F_webp,480", 슬기로운 감빵생활 제1화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%20%EA%B0%90%EB%B9%B5%EC%83%9D%ED%99%9C.E01.171122.720p-NEXT.mp4
+
 
 
 #EXTINF:-1 group-title="🐉한국드라마 세작, 매혹된 자들🦆" tvg-logo="https://static.olelive.com/upload/vod/20240121-1/134ac5fdbda86b865d1a8583517a2b5a.jpg", 세작, 매혹된 자들 제16회
