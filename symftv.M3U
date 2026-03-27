@@ -21,11 +21,11 @@ http://211.170.95.22/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",채널a
-https://jmp2.uk/stvp-KRBB42000061Z
+http://43.137.43.57/get_channel.php?channel=channela
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
-https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+http://43.137.43.57/get_channel.php?channel=tvn
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
-https://jmp2.uk/stvp-KRBC3200031KO
+http://43.137.43.57/get_channel.php?channel=jtbc
 #EXTINF:-1 group-title="🐉한국방송🦆",ocn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 group-title="🐉한국방송🦆"  tvg-id="KoreanCentralTelevision.kp@SD", 조선방송 (576p)
