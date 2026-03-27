@@ -517,7 +517,7 @@ http://180.69.60.42:8856/udp/239.192.67.132:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC Sports+
 http://180.69.60.42:8856/udp/239.192.67.131:49220
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,SBS Sports
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI5MjgwMTgsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJlNzUwNDkzMS0zMWZmLTRkZjUtODk2ZS1kOGJhNjJhMjQzNGUiLCJpYXQiOjE3NzI5MjA4MTh9.v0QNulmVobYtk3AIpfLZxnYLD6nQtWszAQsWkAjD7Lc
+https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ2MzEyNjQsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4NGEyYjY2Mi05NjQ4LTQxYjgtOGFkZi0zMDczNjIyMmVlNmYiLCJpYXQiOjE3NzQ2MjQwNjR9.NyhikbF8U2pngxm70BoyZZGSw-jxis9eGeqy0rv0hJQ&solsessionid=f7768c6786a8eecf21ec0fda93190f29
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
