@@ -489,233 +489,298 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPc
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://106.52.196.79:80/TV/mui.php?id=cctv1
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://106.52.196.79:80/TV/mui.php?id=cctv2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://106.52.196.79:80/TV/mui.php?id=cctv3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://106.52.196.79:80/TV/mui.php?id=cctv4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://tpc.x3322.net:9901/tsfile/live/0005_1.m3u8
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://106.52.196.79:80/TV/mui.php?id=cctv6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://106.52.196.79:80/TV/mui.php?id=cctv7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://106.52.196.79:80/TV/mui.php?id=cctv8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://106.52.196.79:80/TV/mui.php?id=cctv9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://106.52.196.79:80/TV/mui.php?id=cctv10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://106.52.196.79:80/TV/mui.php?id=cctv11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://106.52.196.79:80/TV/mui.php?id=cctv12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://106.52.196.79:80/TV/mui.php?id=cctv13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://106.52.196.79:80/TV/mui.php?id=cctv14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://106.52.196.79:80/TV/mui.php?id=cctv15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://183.238.120.90:4430/hls/16/index.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://106.52.196.79:80/TV/mui.php?id=cctv17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",重温经典欣赏
+http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏电影欣赏
+http://rihou.cc:555/tv/[FY]邵氏电影
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏武侠欣赏
+http://rihou.cc:555/tv/[FY]邵氏武侠
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏动作欣赏
+http://rihou.cc:555/tv/[FY]邵氏动作
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏喜剧欣赏
+http://rihou.cc:555/tv/[FY]邵氏喜剧
+
+
+
+
 
 #EXTINF:-1 group-title="🐉중국방송🦆",吉林卫视
-http://tpc.x3322.net:9901/tsfile/live/0116_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",黑龙江卫视
-http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",辽宁卫视
-http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",北京卫视
-http://tpc.x3322.net:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
-http://112.80.201.222:9003/hls/23/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
-http://tpc.x3322.net:9901/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
-http://tpc.x3322.net:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
-http://tpc.x3322.net:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
-http://tpc.x3322.net:9901/tsfile/live/0119_2.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",天津卫视
-http://tpc.x3322.net:9901/tsfile/live/0135_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",浙江卫视
-http://tpc.x3322.net:9901/tsfile/live/0124_1.m3u8
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖南卫视
-http://112.80.201.222:9003/hls/29/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
-http://112.80.201.222:9003/hls/31/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
-http://tpc.x3322.net:9901/tsfile/live/0126_1.m3u8
+http://74.91.26.218:82/live/hnwshd.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",江苏卫视
-http://tpc.x3322.net:9901/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
-http://112.80.201.222:9003/hls/27/index.m3u8
+http://69.30.246.194/live/jsws.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",上海卫视
+http://69.30.246.194/live/dfws.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",湖北卫视
-http://112.80.201.222:9003/hls/39/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",深圳卫视
+http://23.237.228.134/live6/shenzhen.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",重庆卫视
-http://tpc.x3322.net:9901/tsfile/live/0142_2.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
-http://tpc.x3322.net:9901/tsfile/live/0114_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
-http://tpc.x3322.net:9901/tsfile/live/0117_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
-http://tpc.x3322.net:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
-http://tpc.x3322.net:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
-http://112.80.201.222:9003/hls/35/index.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
-http://tpc.x3322.net:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
-http://tpc.x3322.net:9901/tsfile/live/0138_1.m3u8
+http://23.237.228.134/live6/chongqing.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",广东卫视
+http://23.237.228.134/live6/guangdong.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",东南卫视
-http://tpc.x3322.net:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
-http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
-http://tpc.x3322.net:9901/tsfile/live/0112_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
-http://tpc.x3322.net:9901/tsfile/live/0110_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
-http://tpc.x3322.net:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
-http://tpc.x3322.net:9901/tsfile/live/0109_1.m3u8
+http://23.237.228.134/live6/dongnan.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",甘肃卫视
-http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="🐉중국방송🦆",邵氏影院
-https://lunbo.freetv.top/douyu/4246519
-#EXTINF:-1 group-title="🐉중국방송🦆",经典港片
-https://lunbo.freetv.top/huya/11352965
-#EXTINF:-1 group-title="🐉중국방송🦆",奇光影院
-https://lunbo.freetv.top/douyu/8009547
-#EXTINF:-1 group-title="🐉중국방송🦆",恐怖丧尸鬼片
-https://lunbo.freetv.top/douyu/263824
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_战争片
-https://lunbo.freetv.top/huya/21059574
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_谍战
-https://lunbo.freetv.top/huya/21059585
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_武侠
-https://lunbo.freetv.top/huya/11342427
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_罪犯
-https://lunbo.freetv.top/huya/11352962
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_星爷
-https://lunbo.freetv.top/huya/11342412
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_英叔
-https://lunbo.freetv.top/huya/11342421
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_发哥
-https://lunbo.freetv.top/huya/11342387
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_成龙
-https://lunbo.freetv.top/huya/11342386
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_李连杰
-https://lunbo.freetv.top/huya/11342390
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_沈腾
-https://lunbo.freetv.top/huya/11601968
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_黄渤
-https://lunbo.freetv.top/huya/11352876
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_洪金宝
-https://lunbo.freetv.top/huya/11279251
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_梁家辉
-https://lunbo.freetv.top/huya/11342429
-#EXTINF:-1 group-title="🐉중국방송🦆",电影_刘德华
-https://lunbo.freetv.top/huya/11342424
-#EXTINF:-1 group-title="🐉중국방송🦆",漫威太君
-https://lunbo.freetv.top/douyu/1713615
-#EXTINF:-1 group-title="🐉중국방송🦆",电视剧轮播
-https://lunbo.freetv.top/douyu/431460
-#EXTINF:-1 group-title="🐉중국방송🦆",经典港剧
-https://lunbo.freetv.top/douyu/4290711
-#EXTINF:-1 group-title="🐉중국방송🦆",人气港剧
-https://lunbo.freetv.top/douyu/5261342
-#EXTINF:-1 group-title="🐉중국방송🦆",老剧轮播
-https://lunbo.freetv.top/douyu/7655471
-#EXTINF:-1 group-title="🐉중국방송🦆",港剧轮播1
-https://lunbo.freetv.top/douyu/7655471
-#EXTINF:-1 group-title="🐉중국방송🦆",港剧轮播2
-https://lunbo.freetv.top/douyu/4549169
-#EXTINF:-1 group-title="🐉중국방송🦆",港剧轮播3
-https://lunbo.freetv.top/douyu/4373285
-#EXTINF:-1 group-title="🐉중국방송🦆",动漫轮播
-https://lunbo.freetv.top/douyu/426517
-#EXTINF:-1 group-title="🐉중국방송🦆",老动画轮播
-https://lunbo.freetv.top/douyu/7528160
-#EXTINF:-1 group-title="🐉중국방송🦆",动漫电影
-https://lunbo.freetv.top/douyu/8799435
-#EXTINF:-1 group-title="🐉중국방송🦆",鬼兄奇谈
-https://lunbo.freetv.top/douyu/8722254
-#EXTINF:-1 group-title="🐉중국방송🦆",贝爷求生
-https://lunbo.freetv.top/douyu/454867
-#EXTINF:-1 group-title="🐉중국방송🦆",荒野建造者
-https://lunbo.freetv.top/douyu/9611578
-#EXTINF:-1 group-title="🐉중국방송🦆",民间高手
-https://lunbo.freetv.top/douyu/10372765
-#EXTINF:-1 group-title="🐉중국방송🦆",赵本山小品
-https://lunbo.freetv.top/douyu/9817716
-#EXTINF:-1 group-title="🐉중국방송🦆",宋小宝小品
-https://lunbo.freetv.top/douyu/9817729
-#EXTINF:-1 group-title="🐉중국방송🦆",巩汉林小品
-https://lunbo.freetv.top/yy/1354889035
-#EXTINF:-1 group-title="🐉중국방송🦆",贾玲小品
-https://lunbo.freetv.top/douyu/10419541
-#EXTINF:-1 group-title="🐉중국방송🦆",粤语综艺
-https://lunbo.freetv.top/douyu/7919720
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",广西卫视
+http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",贵州卫视
+http://23.237.228.134/live6/guizhou.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",海南卫视
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河北卫视
+http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",河南卫视
+http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",内蒙古卫视
+http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",山东卫视
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",山西卫视
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",四川卫视
+http://23.237.228.134/live6/sichuan.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
+http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",西藏卫视
+http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",新疆卫视
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
+http://23.237.228.134/live8/yunnan.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🐉중국방송🦆",国内动作大片
+http://cfss.cc/api/yy/1382749917.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国内动作片
+http://cfss.cc/api/yy/1382735561.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",超燃动作大片
+http://cfss.cc/api/yy/1382749940.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",精彩动作电影
+http://cfss.cc/api/yy/1382736823.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",香港动作大片
+http://cfss.cc/api/yy/1382736816.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",超燃动作片
+http://cfss.cc/api/yy/1354936199.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",热血动作片合集
+http://cfss.cc/api/yy/1382735627.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",电影
+http://cfss.cc/api/yy/1355171357.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国外动作大片
+http://cfss.cc/api/yy/1382735540.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",精彩动作电影享不停
+http://cfss.cc/api/yy/1382736809.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",风靡全球的谍战片
+http://cfss.cc/api/yy/1382736817.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",X战警系列电影
+http://cfss.cc/api/yy/1382736893.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国外高分大片
+http://cfss.cc/api/yy/1382736867.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",飞虎之雷霆极战
+http://cfss.cc/api/yy/1382736869.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",战争大片3
+http://cfss.cc/api/yy/1382735556.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国外战争
+http://cfss.cc/api/yy/1382735571.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",外国战争大片
+http://cfss.cc/api/yy/1382736872.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",战争大片-国外电影
+http://cfss.cc/api/yy/1382736857.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",珍珠港
+http://cfss.cc/api/yy/1354936234.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",经典二战
+http://cfss.cc/api/yy/1354936238.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",宇宙护卫队--国漫
+http://cfss.cc/api/yy/1382736837.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",雷神系列
+http://cfss.cc/api/yy/1354932441.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国内科幻
+http://cfss.cc/api/yy/1354936170.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",国内科幻电影
+http://cfss.cc/api/yy/1354936221.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",脑洞大开的精彩科幻片
+http://cfss.cc/api/yy/1382736723.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",李连杰台
+http://cfss.cc/api/yy/1459869766.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+http://file.dokor.cn:35455/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",李连杰
+http://file.dokor.cn:35455/huya/11342390
+#EXTINF:-1 group-title="🐉중국방송🦆",成龙
+http://file.dokor.cn:35455/huya/11342386
+#EXTINF:-1 group-title="🐉중국방송🦆",周星驰
+http://file.dokor.cn:35455/huya/11342412
+#EXTINF:-1 group-title="🐉중국방송🦆",吴京
+http://file.dokor.cn:35455/huya/11602041
+#EXTINF:-1 group-title="🐉중국방송🦆",甄子丹
+http://file.dokor.cn:35455/huya/11352935
+#EXTINF:-1 group-title="🐉중국방송🦆",刘德华
+http://file.dokor.cn:35455/huya/11342424
+#EXTINF:-1 group-title="🐉중국방송🦆",邱淑贞
+http://file.dokor.cn:35455/huya/11352949
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+http://file.dokor.cn:35455/huya/11342387
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+http://file.dokor.cn:35455/huya/11342399
+#EXTINF:-1 group-title="🐉중국방송🦆",林正英
+http://file.dokor.cn:35455/huya/11342421
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+http://file.dokor.cn:35455/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",王晶
+http://file.dokor.cn:35455/huya/11602058
+#EXTINF:-1 group-title="🐉중국방송🦆",强森
+http://file.dokor.cn:35455/huya/21059581
+#EXTINF:-1 group-title="🐉중국방송🦆",斯坦森
+http://file.dokor.cn:35455/huya/21059588
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+https://live.iill.top/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",李连杰
+https://live.iill.top/huya/11342390
+#EXTINF:-1 group-title="🐉중국방송🦆",成龙
+https://live.iill.top/huya/11342386
+#EXTINF:-1 group-title="🐉중국방송🦆",周星驰
+https://live.iill.top/huya/11342412
+#EXTINF:-1 group-title="🐉중국방송🦆",吴京
+https://live.iill.top/huya/11602041
+#EXTINF:-1 group-title="🐉중국방송🦆",甄子丹
+https://live.iill.top/huya/11352935
+#EXTINF:-1 group-title="🐉중국방송🦆",刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 group-title="🐉중국방송🦆",邱淑贞
+https://live.iill.top/huya/11352949
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+https://live.iill.top/huya/11342387
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+https://live.iill.top/huya/11342399
+#EXTINF:-1 group-title="🐉중국방송🦆",林正英
+https://live.iill.top/huya/11342421
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+https://live.iill.top/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",王晶
+https://live.iill.top/huya/11602058
+#EXTINF:-1 group-title="🐉중국방송🦆",强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 group-title="🐉중국방송🦆",斯坦森
+https://live.iill.top/huya/21059588
+#EXTINF:-1 group-title="🐉중국방송🦆",港片鬼片全集
+http://cfss.cc/api/yy/1459869766.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",军旅全系列24h陪你看
+http://cfss.cc/api/yy/1355171357.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",鬼片恐怖片
+http://cfss.cc/api/yy/1335509613.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",【神话】24小时循环播放
+http://cfss.cc/api/yy/29067083.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",倚天屠龙记
+http://cfss.cc/api/yy/33300793.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",封神榜
-https://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="🐉중국방송🦆",西游记
-https://lunbo.freetv.top/douyu/3700024
-#EXTINF:-1 group-title="🐉중국방송🦆",西游记续
-https://lunbo.freetv.top/douyu/3113309
-#EXTINF:-1 group-title="🐉중국방송🦆",红楼梦
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_老三国
-https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_新三国
-https://lunbo.freetv.top/huya/11352944
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_新水浒
-https://lunbo.freetv.top/huya/11342384
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_庆余年
-https://lunbo.freetv.top/huya/11352960
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_雍正王朝
-https://lunbo.freetv.top/huya/11342439
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_士兵突击
-https://lunbo.freetv.top/huya/11342430
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_爱情公寓
-https://lunbo.freetv.top/huya/11336726
-#EXTINF:-1 group-title="🐉중국방송🦆",剧集_鹿鼎记
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1 group-title="🐉중국방송🦆",新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 group-title="🐉중국방송🦆",包青天（金超群版）
-https://lunbo.freetv.top/yy/1356158015
-#EXTINF:-1 group-title="🐉중국방송🦆",济公游记
-https://lunbo.freetv.top/yy/1355265814
-#EXTINF:-1 group-title="🐉중국방송🦆",射雕英雄传83版
-https://lunbo.freetv.top/yy/1354210357
-#EXTINF:-1 group-title="🐉중국방송🦆",射雕侠侣
-https://lunbo.freetv.top/yy/1382704651
-#EXTINF:-1 group-title="🐉중국방송🦆",天龙八部
-https://lunbo.freetv.top/yy/1382736855
-#EXTINF:-1 group-title="🐉중국방송🦆",笑傲江湖
-https://lunbo.freetv.top/yy/1354282410
-#EXTINF:-1 group-title="🐉중국방송🦆",少年歌行
-https://lunbo.freetv.top/yy/1354806550
-#EXTINF:-1 group-title="🐉중국방송🦆",上海滩
-https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="🐉중국방송🦆",猫和老鼠剧集
-http://live.iill.top/huya.php?id=11352879
-#EXTINF:-1 group-title="🐉중국방송🦆",蜡笔小新剧集
-http://cfss.cc/cdn/hy/11352970.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",灌篮高手
-https://live.metshop.top/yy/1382735626
-#EXTINF:-1 group-title="🐉중국방송🦆",七龙珠
-http://live.iill.top/huya.php?id=11601966
-#EXTINF:-1 group-title="🐉중국방송🦆",哆啦A梦
-http://live.iill.top/huya.php?id=11601963
+http://file.dokor.cn:35455/huya/29465849
+#EXTINF:-1 group-title="🐉중국방송🦆",宋小宝春晚小品
+http://cfss.cc/api/yy/1382736866.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",鹿鼎记-陈小春版
+http://cfss.cc/api/yy/1382736920.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",聊斋志异
+http://cfss.cc/api/yy/1382736975.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",飞虎之潜行极战
+http://cfss.cc/api/yy/1354932420.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",大唐双龙传
+http://cfss.cc/api/yy/1354930979.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",西游记后传
+http://cfss.cc/api/yy/1353392400.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",古惑仔全集
+http://cfss.cc/api/yy/1460889796.m3u8
+#EXTINF:-1 group-title="🐉중국방송🦆",易中天品三国
+http://cfss.cc/api/yy/1354931498.m3u8
