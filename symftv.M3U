@@ -717,8 +717,30 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-
-
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CCTV文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="🐉중국방송🦆",重温经典欣赏
+http://rihou.cc:555/tv/[Pd]重温经典
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏电影欣赏
+http://rihou.cc:555/tv/[FY]邵氏电影
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏武侠欣赏
+http://rihou.cc:555/tv/[FY]邵氏武侠
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏动作欣赏
+http://rihou.cc:555/tv/[FY]邵氏动作
+#EXTINF:-1 group-title="🐉중국방송🦆",邵氏喜剧欣赏
+http://rihou.cc:555/tv/[FY]邵氏喜剧
 
 
 
@@ -795,6 +817,67 @@ http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉중국방송🦆",云南卫视
 http://23.237.228.134/live8/yunnan.m3u8
+
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+http://file.dokor.cn:35455/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",李连杰
+http://file.dokor.cn:35455/huya/11342390
+#EXTINF:-1 group-title="🐉중국방송🦆",成龙
+http://file.dokor.cn:35455/huya/11342386
+#EXTINF:-1 group-title="🐉중국방송🦆",周星驰
+http://file.dokor.cn:35455/huya/11342412
+#EXTINF:-1 group-title="🐉중국방송🦆",吴京
+http://file.dokor.cn:35455/huya/11602041
+#EXTINF:-1 group-title="🐉중국방송🦆",甄子丹
+http://file.dokor.cn:35455/huya/11352935
+#EXTINF:-1 group-title="🐉중국방송🦆",刘德华
+http://file.dokor.cn:35455/huya/11342424
+#EXTINF:-1 group-title="🐉중국방송🦆",邱淑贞
+http://file.dokor.cn:35455/huya/11352949
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+http://file.dokor.cn:35455/huya/11342387
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+http://file.dokor.cn:35455/huya/11342399
+#EXTINF:-1 group-title="🐉중국방송🦆",林正英
+http://file.dokor.cn:35455/huya/11342421
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+http://file.dokor.cn:35455/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",王晶
+http://file.dokor.cn:35455/huya/11602058
+#EXTINF:-1 group-title="🐉중국방송🦆",强森
+http://file.dokor.cn:35455/huya/21059581
+#EXTINF:-1 group-title="🐉중국방송🦆",斯坦森
+http://file.dokor.cn:35455/huya/21059588
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+https://live.iill.top/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",李连杰
+https://live.iill.top/huya/11342390
+#EXTINF:-1 group-title="🐉중국방송🦆",成龙
+https://live.iill.top/huya/11342386
+#EXTINF:-1 group-title="🐉중국방송🦆",周星驰
+https://live.iill.top/huya/11342412
+#EXTINF:-1 group-title="🐉중국방송🦆",吴京
+https://live.iill.top/huya/11602041
+#EXTINF:-1 group-title="🐉중국방송🦆",甄子丹
+https://live.iill.top/huya/11352935
+#EXTINF:-1 group-title="🐉중국방송🦆",刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 group-title="🐉중국방송🦆",邱淑贞
+https://live.iill.top/huya/11352949
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+https://live.iill.top/huya/11342387
+#EXTINF:-1 group-title="🐉중국방송🦆",周润发
+https://live.iill.top/huya/11342399
+#EXTINF:-1 group-title="🐉중국방송🦆",林正英
+https://live.iill.top/huya/11342421
+#EXTINF:-1 group-title="🐉중국방송🦆",洪金宝
+https://live.iill.top/huya/11279251
+#EXTINF:-1 group-title="🐉중국방송🦆",王晶
+https://live.iill.top/huya/11602058
+#EXTINF:-1 group-title="🐉중국방송🦆",强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 group-title="🐉중국방송🦆",斯坦森
+https://live.iill.top/huya/21059588
 
 
 
