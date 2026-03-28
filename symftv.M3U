@@ -468,12 +468,6 @@ https://jmp2.uk/stvp-KRBC4500001A5
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://sogne-live.tving.com/jtbc/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome%20headless_2.18.1_hlsjs&sgn.osn=linux&sgn.osv=aarch64&sgn.brn=Chrome%20Headless&sgn.brv=120.0.6099.28&sgn.pln=Hls.js&sgn.plv=2.18.1&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ3NjExMDcsInN1YiI6Ii9qdGJjLyoiLCJ2eHIiOjYwMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiT3JhY2xlIENsb3VkIiwibWRsIjoibGludXhfY2hyb21lIGhlYWRsZXNzXzEyMC4wLjYwOTkuMjgifQ.dYBnLrSMAWlS373i873DTsZoT_Tovsy0ndD8eNfAArY&ads.age=0&ads.asn=31898&ads.channel_code=C01582&ads.floor_price=8000&ads.gender=2&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=272799212&ads.program_code=P001559629&ads.targeting=1&ads.tier_group=non_tier
-#EXTINF:-1, group-title="🐉한국고화질 년비용🦆", ENA
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN
-https://k227.jk-cdn.com:443//watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
-#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , iNET
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSStory
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSLife
@@ -502,6 +496,12 @@ http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆", ENA
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN
+https://k227.jk-cdn.com:443//watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , iNET
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Movies
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Thrills
@@ -521,8 +521,8 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXx
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC Sports+
 https://k227.jk-cdn.com:443//watch/live.m3u8?video=mbc_sports_540&sid=POxYPQ43PhrNZ8GskNfoG7byfjHxe7z93rrViHoU&secret=e2184c649e9eabbdeda2bb0e75c5abac&time=1765891315
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,SBS Sports
-https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ2MzEyNjQsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4NGEyYjY2Mi05NjQ4LTQxYjgtOGFkZi0zMDczNjIyMmVlNmYiLCJpYXQiOjE3NzQ2MjQwNjR9.NyhikbF8U2pngxm70BoyZZGSw-jxis9eGeqy0rv0hJQ&solsessionid=f7768c6786a8eecf21ec0fda93190f29
-#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,ENA SPORTS
+https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzQ2NjY4MTksInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NDYyYjRkMS0zYzA0LTQ3YzAtYTJmYy0wMzM0MmYzMDc2ZDQiLCJpYXQiOjE3NzQ2NTk2MTl9._agDVcBCM10j9mLzGitH3XUh8d8y4u_MdtNbUN7qBDY
+EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,ENA SPORTS
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHcNgMggtHH1tdi4BbnB1UKETMkTzPy38oNNr&secret=83393a0ecf2798cad65cf7963a2f2d12&time=1765891354
 #EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , SPOTV Prime+
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
