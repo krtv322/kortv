@@ -1,40 +1,24 @@
 #EXTM3U8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
-http://43.137.43.57/get_channel.php?channel=kbs1
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
+http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-http://43.137.43.57/get_channel.php?channel=kbs2
+http://koreatv.dothome.co.kr/kbs2.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
+http://koreatv.dothome.co.kr/sbs.php
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
+http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국방송🦆",SBS
 http://koreatv.dothome.co.kr/sbs.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SBS
-http://43.137.43.57/get_channel.php?channel=sbs
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC
-http://43.137.43.57/get_channel.php?channel=mbc
 #EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://koreatv.dothome.co.kr/mbn.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBN
-http://43.137.43.57/get_channel.php?channel=mbn
-#EXTINF:-1 group-title="🐉한국방송🦆",tvchosun
-http://43.137.43.57/get_channel.php?channel=tvchosun
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="🐉한국방송🦆",채널A
-http://43.137.43.57/get_channel.php?channel=channela
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
-http://43.137.43.57/get_channel.php?channel=yna
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
-http://43.137.43.57/get_channel.php?channel=ytn
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",tvn
-http://43.137.43.57/get_channel.php?channel=tvn
-#EXTINF:-1 group-title="🐉한국방송🦆",jtbc
-http://43.137.43.57/get_channel.php?channel=jtbc
-#EXTINF:-1 group-title="🐉한국방송🦆",ocn
-http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -784,3 +768,28 @@ http://cfss.cc/api/yy/1353392400.m3u8
 http://cfss.cc/api/yy/1460889796.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",易中天品三国
 http://cfss.cc/api/yy/1354931498.m3u8
+
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1
+http://43.137.43.57/get_channel.php?channel=kbs1
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
+http://43.137.43.57/get_channel.php?channel=kbs2
+#EXTINF:-1 group-title="🐉한국방송🦆",SBS
+http://43.137.43.57/get_channel.php?channel=sbs
+#EXTINF:-1 group-title="🐉한국방송🦆",MBC
+http://43.137.43.57/get_channel.php?channel=mbc
+#EXTINF:-1 group-title="🐉한국방송🦆",MBN
+http://43.137.43.57/get_channel.php?channel=mbn
+#EXTINF:-1 group-title="🐉한국방송🦆",tvchosun
+http://43.137.43.57/get_channel.php?channel=tvchosun
+#EXTINF:-1 group-title="🐉한국방송🦆",채널A
+http://43.137.43.57/get_channel.php?channel=channela
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
+http://43.137.43.57/get_channel.php?channel=yna
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN
+http://43.137.43.57/get_channel.php?channel=ytn
+#EXTINF:-1 group-title="🐉한국방송🦆",tvn
+http://43.137.43.57/get_channel.php?channel=tvn
+#EXTINF:-1 group-title="🐉한국방송🦆",jtbc
+http://43.137.43.57/get_channel.php?channel=jtbc
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn
+http://43.137.43.57/get_channel.php?channel=ocn
