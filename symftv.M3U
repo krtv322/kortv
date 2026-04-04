@@ -330,13 +330,13 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1(고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzU0NTUxNjl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MD-7DFRmrGlMPLs7QrHayj1lDqOR1J5uZMHPEQmJ6kVepr9WZu~0LnueSrzkY9htUw-Jvi~MLSfSZXpY0UFDrL3rQqVYD-Hl21zqlpxGt8dS8jgxqHCTQgimISlXcu7nH8DhgRXRGeJ0QT5diN3R3KiD4o-kYh1v1Q77pwnhj2J72q6MSwv-Lun8aKV5WDzFrYMlSGBgzbYm8BqwyOEOywm4OAWmAl67s~oX6dggizfRZBXIJlEG2H8bszQ30d0A3W~nOKcsG6O5z4nvEphfoVkk6VE3nrS4o7jopxK1gdCvAV0FxIvKDN9kNxJZU1Pj4I-SAeOQMp6X4dH8cKGsiA__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzU0OTgzMDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TuTPpWnS5DwNNOKPmcEum-OquJ~wsnwG7eHRg5DmEX1SsTMWy1Sy-5Lc-0Kn~j59igUP~YhoGyK3CbMHqe09kmpUEswP7pEKhMDmbc~OQngSXxAXezeNXfZyLTKNjrurbVEQY0IJK-nrRB-S5Ioz12FFnIdg6j6gZmmdFutCTzjZgqKPKjth1lbaoTU0p4ejfLnqM1RjG8w9ePtnJ3hoHHWEH67Xe8JUh4299h3Ihg~CJVhf51ENV-Ppmee7nS71m5NcvzRUtz01lCB5DUQJZTYn3TiMwrq2H-H0ENeF9lKuq2MWtzgjjiez4FFM5hItXbb0dbnVOUd9y0-9K5epPA__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2(고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6AD1CE17334C3FA48848A52E3821F843055D3185910B62963FE0FEaE967438666Ca233A835D28E4290EF39D1B4bF31230505615AEFB25C70185330FE63C91F10E313BA3DD6319FDC26FCC75E2EAD2DDE89CE6E13BE853FF529AB93D1107E055821A09EA78BCAE3DF21017627BF2BDB36E8B047168CF4F05109B901D55D2AF406&v=3
+https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=69216C14C3EC33842442555E3D51524B45843EF5E50B723439D043aE66123D9649aCA38B3E82F14A80AC39212Fb3D1066444C88F27814B7C988E736C3C1B45ABA371736D9EEFB8BDFD16F2B62DA5E4B7CD19B89C2513E81EEC5177051A7FF2FD443A080A8629866144C89C4F9F8B4E973DEDAE626BFBB2CF9BF3D88D479581DF&v=3
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
