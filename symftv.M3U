@@ -1558,16 +1558,118 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제2화
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/03/03/0f4cf573-f222-4cf9-863a-66fbebcd7e24811w640.png", 신이랑 법률사무소 제7화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%8B%AC%EC%9A%B0%EB%A9%B4%20%EC%97%B0%EB%A6%AC%EB%A6%AC.E02.260402.1080p.H264-F1RST.mp4
+https://bodaponi.b-cdn.net/%EC%8B%A0%EC%9D%B4%EB%9E%91%20%EB%B2%95%EB%A5%A0%EC%82%AC%EB%AC%B4%EC%86%8C.E07.260403.1080p.H264-F1RST.mp4
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제2화 저화질
-https://www.vidspace2.xyz/20260402/FBE2AgKw/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/03/03/0f4cf573-f222-4cf9-863a-66fbebcd7e24811w640.png", 신이랑 법률사무소 제7화 저화질
+https://www.vidspace2.xyz/20260403/AC38X3bh/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260220-1/5fa9030ee2bdd2a2ba6ad26808e68351.jpg", 찬란한 너의 계절에 제12화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%84%88%EC%9D%98%20%EA%B3%84%EC%A0%88%EC%97%90.E12.260403.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260220-1/5fa9030ee2bdd2a2ba6ad26808e68351.jpg", 찬란한 너의 계절에 제12화 저화질
+https://www.vidspace2.xyz/20260403/zGIhzfH7/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240131/0705/P001752785.jpg/dims/resize/F_webp,480", 샤이닝 제10화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%83%A4%EC%9D%B4%EB%8B%9D.%EC%B5%9C%EC%A2%85%ED%9A%8C.E10.260403.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240131/0705/P001752785.jpg/dims/resize/F_webp,480", 샤이닝 제10화 저화질
+https://www.vidspace2.xyz/20260403/mrULppmn/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240131/0705/P001752785.jpg/dims/resize/F_webp,480", 샤이닝 제9화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%83%A4%EC%9D%B4%EB%8B%9D.E09.260403.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240131/0705/P001752785.jpg/dims/resize/F_webp,480", 샤이닝 제9화 저화질
+https://www.vidspace2.xyz/20260403/x1OzOyu1/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제5화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B8%B0%EC%81%9C%20%EC%9A%B0%EB%A6%AC%20%EC%A2%8B%EC%9D%80%20%EB%82%A0.E05.260403.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제5화 저화질
+https://www.vidspace2.xyz/20260403/zEGxkY1v/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제77화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E77.260403.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제77화 저화질
+https://www.vidspace2.xyz/20260403/y082whp6/1000kb/hls/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제7화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E07.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제7화 저화질
+https://www.vidspace2.xyz/20260403/Q7aveStX/1000kb/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제6화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E06.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제6화 저화질
+https://www.vidspace2.xyz/20260403/IoW6hiu2/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제5화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E05.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제5화 저화질
+https://www.vidspace2.xyz/20260403/u23bryO7/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제4화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E04.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제4화 저화질
+https://www.vidspace2.xyz/20260403/ayKRMcsG/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제3화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E03.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제3화 저화질
+https://www.vidspace2.xyz/20260403/fxbc8vVF/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제2화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E02.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제2화 저화질
+https://www.vidspace2.xyz/20260403/FgZ0ggec/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제1화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%83%A5%EA%B0%9C%EB%93%A4%20S02E01.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260403080557_b775dd1593ec0f7c2fafdb8150aa3c23.jpg", 사냥개들 시즌2  제1화 저화질
+https://www.vidspace2.xyz/20260403/MwPUvomI/1000kb/hls/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제4화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -1576,33 +1678,6 @@ https://bodaponi.b-cdn.net/%EA%B8%B0%EC%81%9C%20%EC%9A%B0%EB%A6%AC%20%EC%A2%8B%E
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제4화 저화질
 https://www.vidspace2.xyz/20260402/RjfSZRGr/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제26화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80%20%EC%A7%84%EC%A3%BC.E26.260402.1080p.H264-F1RST.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제26화 저화질
-https://www.vidspace2.xyz/20260402/LDSgvovJ/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제76화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E76.260402.1080p.H264-F1RST.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제76화 저화질
-https://www.vidspace2.xyz/20260402/H8CFzRSN/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제3화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -1627,6 +1702,14 @@ https://bodaponi.b-cdn.net/%EA%B8%B0%EC%81%9C%20%EC%9A%B0%EB%A6%AC%20%EC%A2%8B%E
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제1화 저화질
 https://www.vidspace2.xyz/20260330/YpuUggi7/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제2화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%AC%EC%9A%B0%EB%A9%B4%20%EC%97%B0%EB%A6%AC%EB%A6%AC.E02.260402.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제2화 저화질
+https://www.vidspace2.xyz/20260402/FBE2AgKw/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제1화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2014,6 +2097,14 @@ https://www.vidspace.xyz/20260301/ybaEI8Py/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260228-1/0d740ec4e4ca129afdc39a0c6de226c5.jpg", 미혼남녀의 효율적 만남 제1화
 https://www.vidspace.xyz/20260228/MHfgw6CS/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제26화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%B6%89%EC%9D%80%20%EC%A7%84%EC%A3%BC.E26.260402.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제26화 저화질
+https://www.vidspace2.xyz/20260402/LDSgvovJ/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제25화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -2314,6 +2405,14 @@ https://www.vidspace.xyz/20260207/zmkwSb0y/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제1화
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제76화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E76.260402.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제76화 저화질
+https://www.vidspace2.xyz/20260402/H8CFzRSN/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제75화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
