@@ -6720,8 +6720,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caim/CAIM2100/ko/20231211/0020/M000244233.jpeg/dims/resize/F_webp,480", 기생충
+https://v.gsuus.com/play/hls/ZdPlPldK/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260404-1/92352365e4841ef03f0d04430b704e21.jpg", 全力奔跑
 https://play.xluuss.com/play/hls/eZ6VQzRe/index.m3u8
@@ -8145,6 +8145,38 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제8화
+https://vv.jisuzyv.com/play/hls/xe7x9vra/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제7화
+https://vv.jisuzyv.com/play/hls/mbkx2GNd/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제6화
+https://vv.jisuzyv.com/play/hls/zbqEQO0b/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제5화
+https://vv.jisuzyv.com/play/hls/QdJn8vKd/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제4화
+https://vv.jisuzyv.com/play/hls/mbkWK9rb/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제3화
+https://vv.jisuzyv.com/play/hls/9av65kna/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제2화
+https://vv.jisuzyv.com/play/hls/vbmW6P3e/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 이제 곧 죽습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20231215-1/f3496b2a2d549d1d631e25ca7077ef40.jpg", 이제 곧 죽습니다 제1화
+https://vv.jisuzyv.com/play/hls/9av65kMa/index.m3u8
+
+
 
 
 
