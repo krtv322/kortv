@@ -1560,27 +1560,29 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/03/03/0f4cf573-f222-4cf9-863a-66fbebcd7e24811w640.png", 신이랑 법률사무소 제10화
-https://v.gsuus.com/play/hls/e5y92XYe/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제10화 
+https://vv.jisuzyv.com/play/hls/e73LEMwe/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260311/0946/P001783289.jpg/dims/resize/F_webp,480", 대한민국에서 건물주 되는 법 제10화
+https://play.xluuss.com/play/hls/epYQ4o1a/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제22화
+https://www.vidspace2.xyz/20260412/EH4aFQ5r/1000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://m.imbc.com/images/perfectcrown/m_main.png", 21세기 대군부인 제2화
 https://play.xluuss.com/play/hls/eZ6V2NQe/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제9화 
-https://vv.jisuzyv.com/play/hls/av2oPv5a/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260311/0946/P001783289.jpg/dims/resize/F_webp,480", 대한민국에서 건물주 되는 법 제9화
-https://play.xluuss.com/play/hls/erkRLn2a/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제21화
-https://www.vidspace2.xyz/20260411/bGXzylgz/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://m.imbc.com/images/perfectcrown/m_main.png", 21세기 대군부인 제1화
+https://play.xluuss.com/play/hls/ejRqoNle/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제10화
 https://www.vidspace2.xyz/20260410/Ss4xAwCL/1000kb/hls/index.m3u8
@@ -1714,8 +1716,8 @@ https://bodaponi.b-cdn.net/%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%A7%A5%EC%8A%A4.E01.260
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/02/2026021208407260762_1.jpg", 클라이맥스 제1화 저화질
 https://www.vidspace2.xyz/20260316/8Mi9xXIB/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://m.imbc.com/images/perfectcrown/m_main.png", 21세기 대군부인 제1화
-https://play.xluuss.com/play/hls/ejRqoNle/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제9화 
+https://vv.jisuzyv.com/play/hls/av2oPv5a/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제8화 저화질
 https://vv.jisuzyv.com/play/hls/dR6oNBOd/index.m3u8
@@ -1776,6 +1778,9 @@ https://bodaponi.b-cdn.net/%EB%8B%A5%ED%84%B0%EC%8B%A0.E01.260314.1080p.H264-F1R
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제1화 저화질
 https://www.vidspace2.xyz/20260314/Z1oPoWf5/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260311/0946/P001783289.jpg/dims/resize/F_webp,480", 대한민국에서 건물주 되는 법 제9화
+https://play.xluuss.com/play/hls/erkRLn2a/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260311/0946/P001783289.jpg/dims/resize/F_webp,480", 대한민국에서 건물주 되는 법 제8화 저화질
 https://play.xluuss.com/play/hls/aKrZDzxe/index.m3u8
 
@@ -1834,6 +1839,9 @@ https://bodaponi.b-cdn.net/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%90%EC%84%9
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260311/0946/P001783289.jpg/dims/resize/F_webp,480", 대한민국에서 건물주 되는 법 제1화 저화질
 https://www.vidspace2.xyz/20260314/7oHv7NDt/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/03/03/0f4cf573-f222-4cf9-863a-66fbebcd7e24811w640.png", 신이랑 법률사무소 제10화
+https://v.gsuus.com/play/hls/e5y92XYe/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/ops_clip_img/2026/03/03/0f4cf573-f222-4cf9-863a-66fbebcd7e24811w640.png", 신이랑 법률사무소 제9화
 https://v.gsuus.com/play/hls/dNk9zBpe/index.m3u8
@@ -2157,6 +2165,9 @@ https://www.vidspace.xyz/20260227/IAfVMUMl/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260221/fucgzDSY/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260220-1/5fa9030ee2bdd2a2ba6ad26808e68351.jpg", 찬란한 너의 계절에 제1화
 https://www.vidspace.xyz/20260220/5gDmxYQD/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제21화
+https://www.vidspace2.xyz/20260411/bGXzylgz/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제20화 저화질
 https://www.vidspace2.xyz/20260405/gBKgNH5L/1000kb/hls/index.m3u8
