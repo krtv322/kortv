@@ -25,7 +25,7 @@ https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/tvN.png",TVN
 https://jmp2.uk/stvp-KRBC4500001A5
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC
-https://sogne-live.tving.com/jtbc/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNDI4MTksInN1YiI6Ii9qdGJjLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.wnYXETiIcZcK2a1j0N_9po6AHRC0TEdK4O9_N6DY_bE&ads.asn=17858&ads.channel_code=C01582&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001774576&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+https://sogne-live.tving.com/jtbc/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNzgxNTgsInN1YiI6Ii9qdGJjLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.qMCmE5owzb_dttXyAxPMUfVGybMn8pxF3jJckg0ZUIY&ads.asn=17858&ads.channel_code=C01582&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000195979&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국방송🦆",ocn
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 group-title="🐉한국방송🦆"  tvg-id="KoreanCentralTelevision.kp@SD", 조선방송 (576p)
@@ -330,17 +330,17 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",kbs1  (고화질
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYzNDI1NDZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=OVd4kv6oDn-EgAXUA~agfGpGdAbaYikVk7-RMGqfvpZzgq0pBYrc3lX0MNBOZXuGFIQzSx7befK2CMARG67SfdHn~Gez8UCPPssw3kpAj3Zizx4Vm6FjLW~jYtH85l~-TmrtqJHCcXwSVKAJO~PDiFYtmhyGYDIuXEjDhsr5wNO6ZF1vCWhATsGIaJGFUPIKkYqghPMAn9AeM2nA-xqviG76uj2iGrzPqxX2R3eS8APtUZQB8akAsn51HH38jKvM6FpJV1zC9nbhrYUs46WEPT3KYMLnoPfh1UdIznx4~jpQx~nmXX674a2oWMzebTkfKziMD-mSua3plEtXuM4zAw__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzYzNzk4MDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=IuMedSSDihvGc7yWc8tDPwYe3NN2AgfBcoaFb5M4ivbzFhtQFawaZvG0AMc6L9OIimzZFGoebNGhfRdg~fiRypxc5nXEMRynft6IzjVfhwswcbM-oixTi8sa9z~RT2eHLii1DDJpGLXyNmsEnd5bNGjcj3qXvSr-rCCcTsCCDb6fY6KHD7eZSG6rZIqEoKy0l5wqQZ7GsRwd0WXPpSSuLHLl7qv2IugKTclePL6rCn2tcuKcdbFpz5hcvGxSxVEQZ41cTh3EpUyZ1ionggNY~TRrDWW3r3GqxhSl7PqYfmFDEfYFBlgFCxJPr987q8lZrEb68PNH-iJThEQZJx5KZQ__
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2 (고화질)
 http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198cb52bab0153d78652b69a68df2/0198cbdbd1c41eb80e79539125d0a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzYyMDEzMzEsInBhdGgiOiIvbzIifQ.PcYoBxDgmiHlGJ5Rp4xzLSByK-upbBwconKkbd6uPzc
+https://tving-live-o2-xcdn.tving.com/o2/v1/0198cb52bab0153d78652b69a68df2/0198cbdbd1c41eb80e79539125d0a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzYyNzgxMjIsInBhdGgiOiIvbzIifQ.j6eb29hUxqEJ-hAi86uB_8OgIulg7L6pkDyXAwMdy30
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN+
-https://sogne-live.tving.com/mbnplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNDI5MTAsInN1YiI6Ii9tYm5wbHVzLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.EA6-sNjDgFmKfuK4LcphgJFJpX3XBcXYY1oYix1Ldus&ads.asn=17858&ads.channel_code=C17142&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001783291&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+https://sogne-live.tving.com/mbnplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNzgyNDgsInN1YiI6Ii9tYm5wbHVzLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.PM5NcEJtevC2RuEDv0NP9bDi_bXl1U9z_aqHXssmi5c&ads.asn=17858&ads.channel_code=C17142&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001777893&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://i.imgur.com/62EwaCG.png",티비조선 (고화질)
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스(고화질)
@@ -348,11 +348,11 @@ http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/YTN.png",YTN(고화질)
 http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널a
-https://sogne-live.tving.com/cha/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNDMyMTksInN1YiI6Ii9jaGEvKiIsInZ4ciI6NzkwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJMRyBVcGx1cyIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0Ni4wLjAuMCJ9.Vd60L5PgCBBKvYiUs4gLYG0n4YhWq7xJK54aGgwn_KY&ads.asn=17858&ads.channel_code=C01583&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000357759&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+https://sogne-live.tving.com/cha/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNzg1NDcsInN1YiI6Ii9jaGEvKiIsInZ4ciI6NzkwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJMRyBVcGx1cyIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0Ni4wLjAuMCJ9.kXzFRUYusu-yq2WZlGMvfo7NpoDhIq-Qo6Y6P0QpWqc&ads.asn=17858&ads.channel_code=C01583&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001747735&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/채널A.png",채널+
-https://sogne-live.tving.com/chaplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNDMyMzcsInN1YiI6Ii9jaGFwbHVzLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.NUgXjdG4L-ukNEFmb-Vr1Umle9ZlbryM7FUr-8t3uiE&ads.asn=17858&ads.channel_code=C17141&ads.floor_price=7900&ads.grade_code=CPTG0300&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P42768&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+https://sogne-live.tving.com/chaplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.10_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzYyNzg1NjQsInN1YiI6Ii9jaGFwbHVzLyoiLCJ2eHIiOjc5MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.M14ZRTeofdZqMGsdIds897ZLHgHGoZhMqSpt4dXvbmI&ads.asn=17858&ads.channel_code=C17141&ads.floor_price=7900&ads.grade_code=CPTG0300&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001784655&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국고화질 년비용🦆",tvN 
-"https://tvn-skcdn.tving.com/tvn/live5000.smil/chunklist_b5128000.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly8qLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2MjAxNTUwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gSIGzr-mKR3yGMZ9ntL~GAKjiF5KAHgwfzfs5PzUrDX0Jp6Ugeop82G~1Og8soKk9fqWI1Rx9fw9qwhwo5KjzilNWMgoy50SYq0UXxi7j0FpVCEmFYRuTmq~yTydnbnEEEG-OnrAcSG4BI-7I5PpA2d-l5P9SJbS~fidFNc2INXvduwX1mG1zsPBILcNmymIX-HiRotro8Z06GPbnB3~DtgCoyDLEDkw6vOAzoH6Xt7Ci-Jq5uEQcgpASTqexH052k8jbC2BjCsLdrAXtORBr3KL2OMIXq~RuTiA57XJMEukN9Vi0XBPqI3rT00CUZsp604dNrCRwm~aHljUsDl9RQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA&pf=chrome_2.18.7_hlsjs&sgn.xr=798&sgn.vc=1%2C3&sgn.osn=windows&sgn.osv=10&sgn.dvm=PC&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.7&ads.product_id=www.tving.com
+https://tvn-skcdn.tving.com/tvn/live5000.smil/chunklist_b5128000.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly8qLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2Mjc4Mzk4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Q~ogYim49eImsacYp-45cWOos3onoTA~G~b1Z63v7e37hve4k60P3ivr2W5~7a8gGfQXaDbVoSArCUzgb4IH4hw~X-bVTOFAs3m~ZSGUBJOG8h075sPJZdiaX3Qap-JZzMou1t3Hs9o5tixNKv0AOG5fBh5MVrvAPOiYJFzzUcgh8bNvFygKibdS~YldF8m-0Y4FkfSN5DhFFlGB9E70tPNGsZL17sH-PPCxyl7IG1QMKzsKbPL~qT~oTNX79SDfPgm7HOPa1c4Dc749Duuc7vS~sOz997E-EQp3ou7uWhKaPF-IyLmSlJfI9ehVTyg4hHhXunTo9JK0cVywjt7bIA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA&pf=chrome_2.18.10_hlsjs&sgn.xr=798&sgn.vc=1%2C3&sgn.osn=windows&sgn.osv=10&sgn.dvm=PC&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.10&ads.product_id=www.tving.com
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC.png",JTBC (고화질)
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,KBSStory
@@ -1559,6 +1559,12 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/02/2026021208407260762_1.jpg", 클라이맥스 제9화
+https://v.gsuus.com/play/hls/av2oW2La/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제12화
+https://www.vidspace2.xyz/20260414/ObUpDfR8/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제32화 
 https://www.vidspace2.xyz/20260414/13uklbQK/1000kb/hls/index.m3u8
 
@@ -1575,18 +1581,6 @@ https://v.gsuus.com/play/hls/dNk9lPLe/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제1화
 https://v.gsuus.com/play/hls/eER9YANa/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제11화
-https://www.vidspace2.xyz/20260413/P8ABmuvD/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제31화 
-https://www.vidspace2.xyz/20260413/96QyN5W7/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제83화
-https://www.vidspace2.xyz/20260413/Hb16BH3E/1000kb/hls/index.m3u8
-
-
-
-
 
 
 
@@ -1598,6 +1592,9 @@ https://play.xluuss.com/play/hls/eZ6V2NQe/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://m.imbc.com/images/perfectcrown/m_main.png", 21세기 대군부인 제1화
 https://play.xluuss.com/play/hls/ejRqoNle/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제11화
+https://www.vidspace2.xyz/20260413/P8ABmuvD/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제10화
 https://www.vidspace2.xyz/20260410/Ss4xAwCL/1000kb/hls/index.m3u8
@@ -1934,6 +1931,9 @@ https://bodaponi.b-cdn.net/%EC%8B%A0%EC%9D%B4%EB%9E%91%20%EB%B2%95%EB%A5%A0%EC%8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/03/03/L5d1772504986249-640-360.jpg", 신이랑 법률사무소 제1화 저화질
 https://www.vidspace2.xyz/20260313/XoXOJitj/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제31화 
+https://www.vidspace2.xyz/20260413/96QyN5W7/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제30화 저화질
 https://www.vidspace2.xyz/20260409/RFLWrFEk/1000kb/hls/index.m3u8
@@ -2293,6 +2293,9 @@ https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제1화
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제83화
+https://www.vidspace2.xyz/20260413/Hb16BH3E/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제82화
 https://www.vidspace2.xyz/20260410/kcgc9afQ/1000kb/hls/index.m3u8
 
@@ -2633,30 +2636,98 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2026/03/17/AKR20260317137300005_01_i_P4.jpg", 260414 나는 K입니다
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94.k%EC%9E%85%EB%8B%88%EB%8B%A4.S01E02.260414.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260414/1255/P001785142.jpg/dims/resize/F_webp,480", 260414 하트시그널5
+https://www.vidspace2.xyz/20260414/JgQVue4J/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260414 신빨토크쇼 귀묘한 이야기 2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%A8%ED%86%A0%ED%81%AC%EC%87%BC.%EA%B7%80%EB%AC%98%ED%95%9C.%EC%9D%B4%EC%95%BC%EA%B8%B0.S02E15.260414.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260414 신빨토크쇼 귀묘한 이야기 2 저화질
+https://www.vidspace2.xyz/20260414/SvrQ8HlP/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/38433.jpg", 260414 동상이몽 2 - 너는 내 운명
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD%202%20-%20%EB%84%88%EB%8A%94%20%EB%82%B4%20%EC%9A%B4%EB%AA%85.E433.260407.1080p.H264-F1RST.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/38433.jpg", 260414 동상이몽 2 - 너는 내 운명 저화질
+https://www.vidspace2.xyz/20260414/6JdmSjLy/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.paxetv.com/news/photo/202603/265525_241957_5333.jpg", 260414 X의 사생활
+https://www.vidspace2.xyz/20260414/IAoZetRh/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/1027/2026/04/13/20260413160511_22_1027_1069975_1080_7_s1.jpg", 260407 2026 한일가왕전
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/2026%20%ED%95%9C%EC%9D%BC%EA%B0%80%EC%99%95%EC%A0%84.E01.260414.1080p.H264-F1RST.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/1027/2026/04/13/20260413160511_22_1027_1069975_1080_7_s1.jpg", 260407 2026 한일가왕전 저화질
+https://www.vidspace2.xyz/20260414/bQ3pMYbm/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/04/10/dacce75f-0ff7-417f-abd0-aa7434b11904.jpg", 260414 연애기숙학교 돌싱N모솔
+https://www.vidspace2.xyz/20260414/9CyBlOfQ/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2011-1097/2021/8/23/1629678815785_331259.jpg", 260414 시사기획 창 
+https://www.vidspace2.xyz/20260414/Mh9lnuPb/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/07/program_36468f4c-bdee-4f5a-9ddf-4d9c190fba74.jpg", 260414 PD수첩
+https://www.vidspace2.xyz/20260414/1TXQ4Mz2/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2020/12/13/104423157.3.jpg", 260405 톡파원 25시
-https://www.vidspace2.xyz/20260405/Gve6b6B1/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/resize/459/public/pcms/photogroup/B120255207/kr/B120255207photogroup1775453604385.jpg?v=1775453604", 260414 앙상블
+https://www.vidspace2.xyz/20260414/3C9ZhuKx/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/hiddensinger8/Img/site/Main/20260401_082959_8982.jpg", 260414 히든싱어8
+https://www.vidspace2.xyz/20260414/0gw4H3lE/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231026/1340/P21097.jpg/dims/resize/F_webp,480", 260414 세계테마기행
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/69de45ea4d6ea1b373cd0b48.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2024/04/24/H321713919544627-640-360.jpg", 260414 틈만나면
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%ED%8B%88%EB%A7%8C%EB%82%98%EB%A9%B4.%EC%B5%9C%EC%A2%85.E52.260414.1080p.H264-F1RST.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2024/04/24/H321713919544627-640-360.jpg", 260414 틈만나면 저화질
+https://www.vidspace2.xyz/20260414/wLSGpLdB/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20230427024658_6650e704e4e9666754ce2a10c3d80730.jpg", 260414 과학수사대 스모킹건
+https://www.vidspace2.xyz/20260414/2qqHzxAx/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0836/2022/12/16/1671156112533_416978.jpg", 260414 이웃집 찰스
+https://www.vidspace2.xyz/20260414/cynMFgFF/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/50007.jpg", 260414 셀럽병사의 비밀
+https://www.vidspace2.xyz/20260414/wc8zHL8D/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/public/share/menumng/%ED%9E%88%EB%93%A0%EC%97%90%EC%9D%B4%EC%A7%80banner1920_1771895066920.jpg?v=1771895067", 260414 히든에이지: 시간도둑을 찾아라
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%ED%9E%88%EB%93%A0%EC%97%90%EC%9D%B4%EC%A7%80.E08.260414.1080p.TVING.WEB-DL.H264.AAC.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20260105/1856/P001781344.jpg/dims/resize/F_webp,1280", 260414 이호선 상담소
+https://www.vidspace2.xyz/20260414/DGIGXd9q/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240821/0240/P000093082.jpg/dims/resize/F_webp,480", 260414 엄지의 제왕
+https://www.vidspace2.xyz/20260414/6bbbx1gk/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240151D/site_poster_img1_20240924023502474.jpg", 260414 몸신의 탄생
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AA%B8%EC%8B%A0%EC%9D%98%20%ED%83%84%EC%83%9D.E80.260414.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2014-0844/2025/4/7/1744004589991_577586.jpg", 260414 2TV 생생정보
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/69de32854d6ea1b373cd0b43.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51210.jpg", 260413 말자쇼
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -5870,6 +5941,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260414-1/2a9a015cfdb2fa8ab9da43044d1c75e5.jpg",  고당도 (2025)
+https://play.xluuss.com/play/hls/eZ6VkGRe/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/1201/18_28_00__692d5fa08e3fe[X280,400].jpg",  살아지다 (2025)
 #EXTVLCOPT:http-referrer=https://tvlimit.site/index.php/play/38.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -6247,6 +6324,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260412-1/c51c5e86acf55b6c900cfd56f419da8c.jpg", 准备好了没2：我来了
+https://v.gsuus.com/play/hls/e5y9B3Be/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260414-1/233b2ce0e9b19e22beca24c48349dad0.jpg", 东北奇妙物语
+https://vv.jisuzyv.com/play/hls/dR6oZjOd/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260415-1/b907988ac45fe393ab1c7c35dd4b4eb6.jpg", 杀戮轮回
+https://vv.jisuzyv.com/play/hls/dBBLD4Qd/index.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260412-1/c51c5e86acf55b6c900cfd56f419da8c.jpg", 准备好了没2：我来了
 https://v.gsuus.com/play/hls/e5y9B3Be/index.m3u8
