@@ -4,21 +4,21 @@ http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
-http://koreatv.dothome.co.kr/sbs.php
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-http://koreatv.dothome.co.kr/mbc.php
-#EXTINF:-1 group-title="🐉한국방송🦆",SBS
-http://koreatv.dothome.co.kr/sbs.php
-#EXTINF:-1 group-title="🐉한국방송🦆",MBC
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://koreatv.dothome.co.kr/mbn.php
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
-https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+https://rb.gy/telq1m
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
-https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/38dcd362-4aa1-453e-9cde-3d5db7ebb40d/2.m3u8
+https://jmp2.uk/stvp-KR7000044K
+#EXTINF:-1 group-title="🐉한국방송🦆",채널a
+https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c86-amgplt0187/playlist.m3u8?url=https%3A%2F%2Fwww.ondemandkorea.com%2Fplayer%2Flive%3FchannelId%3D203&genre=Television&content_genre=Television&ic=IAB1-7&content_cat=IAB1-7&content_id=229&content_title=channel-a&content_channel=channel-a&us_privacy=1---&gdpr=0&gdpr_consent=0&did=cdaf98a8-3dba-41a0-b760-0ac765383c72&dnt=0&coppa=0&is_lat=0&app_name=OnDemandKorea&app_domain=ondemandkorea.com&app_category=Entertainment&app_bundle=com.ondemandkorea&content_length=3600&content_rating=TV-PG&content_network=odkmedia&content_context=1&content_prodqual=1&device_type=2&ifa_type=dpid&player_width=1920&player_height=1080&livestream=1&custom_9=basic&custom_4=cdaf98a8-3dba-41a0-b760-0ac765383c72&app_store_url=&app_domain=ondemandkorea.com&paln=AQzzBGQEDKLRVHYIF4g_Ij-X4fNQEKwJALRu7v3oC2V13sm8rovBwd5n3ls5pwksPzAsk-3Pg7FFeEmAwqQkq57scruAQE5qDP5C4fqLFIovCoqhG7PS3aH2HwWOk-NemFPOGbsp5Uv2aJnR5gkRAC1R_ugrV6ePrVZP3q4fiM6QMmC4qdhJTw_svHfmkAKXFiGBx0o6G1RTNtBjktu_nxSeB1GoTyIZfRUrQA5o4ZV9jA_S0WJZTMgqiUMlenUcxe-tsfwOoSWU68EaMcZ5ad3KnYvhpNijLGkqPGAsvyQco_FmX1Ji-SjM8xZHgyLl0J1UsE6Ifgb_ziwgKXiHFFJrHZd_L9nNeXU51Yk4gn7dKxFVF_ERX_zKzJv-58H8OVYWQCByUUx_jAwnj1XBBs1ivfix_TPhCJ7nljUl6G1ddj-OsogMz0hkwLufq4u8i5MBR19Dr5cg4d5gx5AyVTpqg3yt1bUjXh87ljJdx2C9HCDPbJ7KmN6SA9gz03Fr6OuQrIUioVZOp5s-JWPFkPHATkq1rnWE8D7VS9d4itMQ49wYPWxiU6ZALLqHG70ooCYCJUmbKPWVSNeC4jEo0aSI9sh6gmHe_EPhdrmjSWJ00sJ510LVFdr4S1p9puVe4vCGOGOvAiq2eMsagFS0sKM-3R58AD4xWgAUJLClB2rF-atSSh_g3K_v7Uax1Z5xvcrBm8ncddKMK4FdYSLyjbKzlCdFzBUoV9z5Cc_292NlzEemBVLOWbA5NhQJ-9U-pz6r2iP1SvZutqkAwFXETSYWkZyeABc5V2cW7xV_VJQoiMI2_v-rVIuT4OzhKkbFQCl2fcnmuBtYy5ZNWPkHXfy9ZSZwoxJKqsWTM-_gExU_bHyXfMZYIifo28ndCqknoTyBXt2lNwK6DnmfA09rWJEiwmWvbW44oCBPgfk1Xv1rQ45GoUwbUOnPdFNOim93AYOAcFaAHs4LO89sdEFShZVVtNL4zK03EBx7TorDrm5yDFMaqRSIoQrpUHMlNXhAzmJyIqZ90STu-girhUmJHdCiB2bttwW92jto1Vx0PD-YbaOkQB0ZTteLJYcq1e7Jjsl-gc3BpzV8YMFHwxhxt4r15UNV406ppjlVFPK7QRorqvoomnuUorTCmyCd2l-zQWXDcMaGs_qXkK4sd8cgq8PxEkO45GG_vKIR4pEb7QvnYAB0DFowtZGN2wM52UZ5gOl5EtxKKXJPlhrfuQMrHCEYrbWiCt2idDWB2WeFNFvF5oFpAZWUYrEdAtxrxITeq5-M0_gQFRg5ob_gklUk9y7Im7bfFcaLDM1zCmTPhfJf1vUIVMd0d31GaMAxfm0WBQ..
+#EXTINF:-1 group-title="🐉한국방송🦆",jtbc
+https://jmp2.uk/stvp-KRBC46000173Y
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -28,6 +28,10 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 https://srs.iyb983.cn/video/ybtv1/index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边2台.png",YBTV-2
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 group-title="🐉한국방송🦆",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🐉한국방송🦆",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama (480p)
 http://koreatv.dothome.co.kr/kbsdrama.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
