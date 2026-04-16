@@ -1559,7 +1559,14 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제14화
+https://www.vidspace2.xyz/20260416/7F4BKQSZ/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제34화 
+https://www.vidspace2.xyz/20260416/6903wTEy/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제86화
+https://www.vidspace2.xyz/20260416/zwhqLbRv/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제13화
 https://www.vidspace2.xyz/20260415/7cDQ952C/1000kb/hls/index.m3u8
@@ -1572,12 +1579,6 @@ https://www.vidspace2.xyz/20260415/LnmgTGr4/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/02/2026021208407260762_1.jpg", 클라이맥스 제10화
 https://v.gsuus.com/play/hls/e1wrgJmb/index.m3u8
-
-
-
-
-
-
 
 
 
