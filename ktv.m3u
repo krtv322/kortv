@@ -15,6 +15,8 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checke
 http://1.214.67.12/734HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=734&ma=D0:17:C2:CE:D7:A1
 #EXTINF:-1 group-title="🐉한국방송🦆", YTN
 http://1.214.67.12/698HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=698&ma=D0:17:C2:CE:D7:A1
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
+https://tvn-mcdn.tving.com/tvn/live2000.smil/chunklist_b2128000.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm4tbWNkbi50dmluZy5jb20vdHZuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2OTY1MzU5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__;CloudFront-Signature=G9G0bR5O0DJisrynadZkDb--y0Bf9wAmKD3NpT8YBD~HXkX15LYtc5zxOd2DiFJbn8fCNIxfuzqPicMmDGP52eox9FpkoBrbNlFtQVTbtam4yyee1rBkPU7gkZroNHBCkUIEwnTAKajblg3lL20tFxM~ObcdyxObJcXaHTGOzfbTYd8soahb46Vvv-miYjhFEvEyEVM6X9qIxxsHxseEA~TVP62MdS4puYk7y5eW8UfQNPUy0oLdC1V~E7zPlpS8odDp1to1hNN9jEGbM8xW7te3eYi8AkLXwVMRDe~NrclGHc0THUO5-Y5ss4S5Yv7D7guo-Lqtt3nMpg54Skcq9w__;
 #EXTINF:-1 group-title="🐉한국방송🦆",Asia N
 http://1.214.67.12/658HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=658&ma=D0:17:C2:CE:D7:A1
 #EXTINF:-1 group-title="🐉한국방송🦆",GMTV
