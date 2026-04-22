@@ -270,7 +270,7 @@ http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS (고화질)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC (고화질)
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198cb52bab0153d78652b69a68df2/0198cbdbd1c41eb80e79539125d0a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzY5MTgyMDMsInBhdGgiOiIvbzIifQ.4VbcxvYf7FGvm_W0KWqdrE8Nlgn3h_erwx6agrka_gQ
+https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=68B1E21A23D03C844A4A35883F810B4145F236A5620E226B3930C0aAC6AC3026F5a793AA3082CB41A09B330196b1516D0AEE7D7DAC3E1DB2A75F6637466AEEF1F7F2D0B5A4E8B997BD74443AC1F2091A64AD3FDE9B22A14036C70919D1345AA6BFDF728FEB0D5DCD58A7D85EE9C247E90898462604C0DCB2D9DAACB460C669F2&v=3
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN (고화질)
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",MBN+
