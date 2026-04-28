@@ -116,10 +116,10 @@ http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",「韩国」EBSi
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
-https://live-th10.myjktv.com/playlist/live.m3u8?sid=cYGsBjKXsSglIEFAkwyklMcB97YN3pSOLhDTyMMK&secret=ed5d415d17a5959a95bdbbc149e1fd94&time=1777418920
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질
-https://live-th10.myjktv.com/playlist/live.m3u8?sid=ae8EIBjvIk0DIi8Ef4uOzkDZusV35V2C62f27FpT&secret=d79d2e34f889b193e66207bf04116f56&time=1777418973
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_540&sid=a9DB9I4tjmsxPEBbcRmnWw0MqsQmAOUtuf6jq8CK&secret=089c53bafbd7e7c0c031bca81138197b&time=1777420346
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV2
+https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_2_540&sid=wPDW8UBDkLn8hYEnFIWVrPolcuERSbWNhHtjzOS7&secret=a769143e52f5aabf577d90c1ad375d07&time=1777420415
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.tvbaduk.com/images/common/top.jpg", 바둑TV (고화질)
 http://211.170.95.22/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/SAlt9hi.png" ,장기TV (고화질)
