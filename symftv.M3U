@@ -342,9 +342,7 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_n_sports_540&sid=XpU7zYZ4E0RrA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_sports_540&sid=IIknirjauzrOPDHUNI0A8ut28D8C23hOuG7iauej&secret=4b350f53ead2157e552b3683bd9886a0&time=1777444055
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,SBS Sports
-#EXTVLCOPT:http-referrer=https://kakotv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_sports_540&sid=lRmdNQkMvJI6hIKmxc51nEFBOei8LoQ4RjZmZUra&secret=08c66faa39d4ad399967295eae8800cc&time=1777444098
+https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc0NDYwMjAsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyZWMwOTNmNS05ZDVjLTRmZjktOTY2Ny0yNGYwNzljZmEzNmUiLCJpYXQiOjE3Nzc0Mzg4MjB9.R3BURc4Oq73jJs308Kebu_imlMs_W6UfOqkCqEZ9y3Q
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" , SKY SPORTS
 https://k227.jk-cdn.com/watch/live.m3u8?video=sky_sports_540&sid=ESinmD4ljdyTpxC2VzXPy3d8LUykT8qbMtzRWCol&secret=d98dd95353ed8553c74d321fd427ae0b&time=1777444077
 #EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , SPOTV Prime+
