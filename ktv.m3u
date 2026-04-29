@@ -40,6 +40,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://i20.hunchun123.cn/fg_tu/img/video.jpg",珲春新闻综合
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="🐉한국방송🦆",INET
+https://k227.jk-cdn.com/playlist/live.m3u8?video=spotv_540&sid=SxsaQgkvC3rCq9xEtq3X83abKUx44gotLfbMXdEh&secret=26b7b6216abe43fff53eef097dd7cf5b&time=1777426014
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",중화TV
