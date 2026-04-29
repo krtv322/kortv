@@ -299,6 +299,20 @@ http://koreatv.dothome.co.kr/kbsdrama.php
 http://koreatv.dothome.co.kr/kbsjoy.php
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,mbcnet
 http://koreatv.dothome.co.kr/mbcnet.php
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC드라마넷
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6651EF1B035136045D4EB5AE38D1B14D256132E50F0B020833F0FCaAA6D83D96FDa6230E36F2A74070B23ED1B4b9E1B4F0A2020F5B0E2ACB9710ECC4770BD89C39519DD60431E91C6FEF8F2FC393F2CCC980F58283C4BB84A658E80B59D9F043085C6F42649F210EB1836FE7133909E189308D21064912DBB23E587179710A25&v=3
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC에브리원
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6AC1A31673873DB4B64065973511734555E83E05F609D2DC3370FFaF363139E60EaD13463EA295499049331160b22150812E38E2076849E591428A66C38101D2439B8092CD7259418FF886EDA54169663B8C06E2943C239FF2611A01CA58A81F5C055FFD3010B568AAA1F46ED761D1E33E9B36C88AED5E55A3EA320C3AD13747&v=3
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC M
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=65812C1EA3363F94254955FF3C016548A5A23CB5940EC2993FC0FFa3D69639765Da6034136F29E4D70BB3F71EFb101F0156CEEA4B8FDE46C527E0A28B60A499FE92340EDFAF4B1FB4C473DFCD3BD36B0664A5D2955148189281A3215C970E473BF33A6B66DDF9287AE2F82AEF1778085&v=3
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,MBC ON
+https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6DB1801FE3F03F64AE4E155D39A1384255B33A65D80FC28C334026a876103816CAa7C3EC34A2F14C60A93A1189b8C1B7A7CB3050A37C91E69E5CDA88F1440BDE244BB1FC92086792A9B4D7220389741AC85001A27313A363B9321FAFE4CAD5DCB643C48D74F307DE80CD7CEAF5560FA322F133A8BB0AB47E1740D5B0CE45BF40&v=3
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆", TVN드라마
+https://sogne-live.tving.com/tvndrama/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc1NzUxNDAsInN1YiI6Ii90dm5kcmFtYS8qIiwidnhyIjo3NTAsImRybSI6ZmFsc2UsIndtaSI6IiIsInNjYyI6IkNTU0QwMTAwIiwib3NjIjoiQ1NPRDA5MDAiLCJkbXQiOiJzdCIsImlzcCI6IkxHIFVwbHVzIiwibWRsIjoid2luZG93c19jaHJvbWVfMTQ2LjAuMC4wIn0.MLZcDSXFDdtgvHyCAiAsansP0EW6BTkrwaIQydreGkg&ads.asn=17858&ads.channel_code=C01143&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001674052&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆", TVN쇼
+https://sogne-live.tving.com/tvnshow/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc1NzUxMDQsInN1YiI6Ii90dm5zaG93LyoiLCJ2eHIiOjc1MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.Y6XpOSbp1WcdwQd1FGM5jWKnUPqlr4G7YwOH3mR2dx4&ads.asn=17858&ads.channel_code=C01141&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000228541&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆", TVN스토리
+https://sogne-live.tving.com/tvnstory/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc1NzUxMjIsInN1YiI6Ii90dm5zdG9yeS8qIiwidnhyIjo3NTAsImRybSI6ZmFsc2UsIndtaSI6IiIsInNjYyI6IkNTU0QwMTAwIiwib3NjIjoiQ1NPRDA5MDAiLCJkbXQiOiJzdCIsImlzcCI6IkxHIFVwbHVzIiwibWRsIjoid2luZG93c19jaHJvbWVfMTQ2LjAuMC4wIn0.lgXfiglBNIGjrj1_hikTLbry8mL0xxrKyKv1k-sXZ2w&ads.asn=17858&ads.channel_code=C51258&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P000497140&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
@@ -327,12 +341,18 @@ https://sogne-live.tving.com/lifetime/live.smil/medialist_12498461171292152190_h
 https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_joy_540&sid=qxBjN0tvTUPMjzj5vGafItIfLuZlSYwciUb1fMOM&secret=a426ab8f84561bd5adff39f6109b1e5f&time=1777505130
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN
 https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=BdPF7Dhcz43zy4AjgRhtazmDOvgJbG49QsxnPpEy&secret=ddf289546a9a263a5ea891df1afe31c0&time=1777505159
-#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , iNET
-https://k227.jk-cdn.com/watch/live.m3u8?video=inet_540&sid=fqXosYWJN7U1HJDp9GZO2vjGv4CiVjLquQ3CJg15&secret=7b1bed785fcae4858549269ba3fd0910&time=1777505244
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Movies 2
 https://k227.jk-cdn.com/watch/live.m3u8?video=super_action_540&sid=xZFaNQYkHrhsuQUybLmTS1tdUSmPalS0S23qhEer&secret=5bee93298aeb3f5e66d17fddd3116aa8&time=1777505179
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" ,OCN Movies
 https://k227.jk-cdn.com/watch/live.m3u8?video=cgv_540&sid=zsFDPBy8ftEBCjC9cK7tux73U3m71JK64PuW8mvQ&secret=348a448d357c1ac9b7154ce5b3fe26c9&time=1777505211
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , iNET
+https://k227.jk-cdn.com/watch/live.m3u8?video=inet_540&sid=fqXosYWJN7U1HJDp9GZO2vjGv4CiVjLquQ3CJg15&secret=7b1bed785fcae4858549269ba3fd0910&time=1777505244
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , iHQ
+https://k227.jk-cdn.com/watch/live.m3u8?video=comedy_540&sid=xv8BUj4hiIrg3SOKWhzaKHjuOu1nLji5hegSdtNx&secret=c89dc4dedd30a698300cd83530c3e269&time=1777505804
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , 디스커버리
+https://k227.jk-cdn.com/watch/live.m3u8?video=discovery_540&sid=baW3hxSNHpmzpiu0RucD1rg11aY9RVnID0BlQG7D&secret=0f37a1307e7d66ffc3fa401205eced62&time=1777505853
+#EXTINF:-1, group-title="🐉한국고화질 년비용🦆" , Nat Geo Wild
+https://k227.jk-cdn.com/watch/live.m3u8?video=nat_geo_wild_540&sid=50gMEHPHyoWkWBqhD3cCC69voAeLF7OGE0yCiDLx&secret=019f9c83b0a8faa674c0f7c88ec99f3c&time=1777505884
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
