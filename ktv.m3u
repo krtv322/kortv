@@ -54,6 +54,16 @@ http://koreatv.dothome.co.kr/kbsstory.php
 http://koreatv.dothome.co.kr/kbsjoy.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png",kbslife
 http://koreatv.dothome.co.kr/kbslife.php
+#EXTINF:-1 group-title="🐉한국방송🦆" ,mbcnet
+http://koreatv.dothome.co.kr/mbcnet.php
+#EXTINF:-1 group-title="🐉한국방송🦆" ,MBC드라마넷
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6651EF1B035136045D4EB5AE38D1B14D256132E50F0B020833F0FCaAA6D83D96FDa6230E36F2A74070B23ED1B4b9E1B4F0A2020F5B0E2ACB9710ECC4770BD89C39519DD60431E91C6FEF8F2FC393F2CCC980F58283C4BB84A658E80B59D9F043085C6F42649F210EB1836FE7133909E189308D21064912DBB23E587179710A25&v=3
+#EXTINF:-1 group-title="🐉한국방송🦆" ,MBC에브리원
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6AC1A31673873DB4B64065973511734555E83E05F609D2DC3370FFaF363139E60EaD13463EA295499049331160b22150812E38E2076849E591428A66C38101D2439B8092CD7259418FF886EDA54169663B8C06E2943C239FF2611A01CA58A81F5C055FFD3010B568AAA1F46ED761D1E33E9B36C88AED5E55A3EA320C3AD13747&v=3
+#EXTINF:-1 group-title="🐉한국방송🦆" ,MBC M
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=65812C1EA3363F94254955FF3C016548A5A23CB5940EC2993FC0FFa3D69639765Da6034136F29E4D70BB3F71EFb101F0156CEEA4B8FDE46C527E0A28B60A499FE92340EDFAF4B1FB4C473DFCD3BD36B0664A5D2955148189281A3215C970E473BF33A6B66DDF9287AE2F82AEF1778085&v=3
+#EXTINF:-1 group-title="🐉한국방송🦆" ,MBC ON
+https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6DB1801FE3F03F64AE4E155D39A1384255B33A65D80FC28C334026a876103816CAa7C3EC34A2F14C60A93A1189b8C1B7A7CB3050A37C91E69E5CDA88F1440BDE244BB1FC92086792A9B4D7220389741AC85001A27313A363B9321FAFE4CAD5DCB643C48D74F307DE80CD7CEAF5560FA322F133A8BB0AB47E1740D5B0CE45BF40&v=3
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN플러스
 https://sogne-live.tving.com/mbnplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc1NzQ5NzQsInN1YiI6Ii9tYm5wbHVzLyoiLCJ2eHIiOjc1MCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDYuMC4wLjAifQ.S2_veJ67H_pe6rQbZr4FckOOeqAPa1CJm8YfhvZEpNs&ads.asn=17858&ads.channel_code=C17142&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001761805&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국방송🦆",채널A플러스
@@ -74,6 +84,8 @@ https://sogne-live.tving.com/tvnstory/live.smil/chunklist_b2128000.m3u8?sgn.pf=c
 http://211.170.95.22/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
 http://211.170.95.22/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",KBSKids
+http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
 https://sogne-live.tving.com/tooni/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=146.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzc1MzM0NzYsInN1YiI6Ii90b29uaS8qIiwidnhyIjo3NTAsImRybSI6ZmFsc2UsIndtaSI6IiIsInNjYyI6IkNTU0QwMTAwIiwib3NjIjoiQ1NPRDA5MDAiLCJkbXQiOiJzdCIsImlzcCI6IkxHIFVwbHVzIiwibWRsIjoid2luZG93c19jaHJvbWVfMTQ2LjAuMC4wIn0.RLKKoXHq8rse6jF3wWotCzPA8i0fu0whocHHA05kafc&ads.asn=17858&ads.channel_code=C06941&ads.floor_price=7900&ads.grade_code=CPTG0200&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P001773642&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국방송🦆",애니맥스 (고화질)
