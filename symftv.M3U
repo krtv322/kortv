@@ -1516,28 +1516,18 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260420-1/0617632408bc86e266580772a5ab057e.jpg", 허수아비  제6화
+https://v.gsuus.com/play/hls/dwpVwPJe/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제27화
+https://www.vidspace2.xyz/20260505/2S0zuc2l/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제44화 
+https://www.vidspace2.xyz/20260505/YRVMQvwX/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제98화
+https://www.vidspace2.xyz/20260505/HpaUSBoW/1000kb/hls/index.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제7화
-https://v.gsuus.com/play/hls/erk8nQWa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제7화
-https://v.gsuus.com/play/hls/dG6voD3b/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260420-1/0617632408bc86e266580772a5ab057e.jpg", 허수아비  제5화
-https://v.gsuus.com/play/hls/eXDLloge/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제26화
-https://www.vidspace2.xyz/20260504/NsLgQyFE/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제43화 
-https://www.vidspace2.xyz/20260504/2hfeldRU/1000kb/hls/index.m3u8
 
 
 
@@ -1582,6 +1572,9 @@ https://play.xluuss.com/play/hls/av2ljL5a/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제1화
 https://play.xluuss.com/play/hls/e1wWGOmb/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260420-1/0617632408bc86e266580772a5ab057e.jpg", 허수아비  제5화
+https://v.gsuus.com/play/hls/eXDLloge/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260420-1/0617632408bc86e266580772a5ab057e.jpg", 허수아비  제4화
 https://www.vidspace2.xyz/20260428/0dU2IJlp/1000kb/hls/index.m3u8
@@ -1645,6 +1638,12 @@ https://play.xluuss.com/play/hls/av2lq6ra/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/45f6eabce88ab03b4d595285515b3489.jpg", 리버스 제1화
 https://play.xluuss.com/play/hls/dJ6yDx2d/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제7화
+https://v.gsuus.com/play/hls/erk8nQWa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제7화
+https://v.gsuus.com/play/hls/dG6voD3b/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260413-1/e20374dd3f0523a23f18f1bb7dcacd8d.jpg", 유미의 세포들 시즌3  제6화
 https://v.gsuus.com/play/hls/dyPo7pzb/index.m3u8
 
@@ -1686,6 +1685,9 @@ https://play.xluuss.com/play/hls/eZ6V2NQe/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://m.imbc.com/images/perfectcrown/m_main.png", 21세기 대군부인 제1화
 https://play.xluuss.com/play/hls/ejRqoNle/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제26화
+https://www.vidspace2.xyz/20260504/NsLgQyFE/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제25화
 https://www.vidspace2.xyz/20260501/7AlB9TK7/1000kb/hls/index.m3u8
@@ -1904,6 +1906,9 @@ https://bodaponi.b-cdn.net/%EB%8B%A5%ED%84%B0%EC%8B%A0.E01.260314.1080p.H264-F1R
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/is/2026/03/15/isp20260315000034.711x.0.jpg", 닥터신 제1화 저화질
 https://www.vidspace2.xyz/20260314/Z1oPoWf5/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제43화 
+https://www.vidspace2.xyz/20260504/2hfeldRU/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제42화 
 https://www.vidspace2.xyz/20260430/ZNvJL9x8/1000kb/hls/index.m3u8
@@ -2636,7 +2641,76 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260505 신빨토크쇼 귀묘한 이야기 2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%A8%ED%86%A0%ED%81%AC%EC%87%BC.%EA%B7%80%EB%AC%98%ED%95%9C.%EC%9D%B4%EC%95%BC%EA%B8%B0.S02E18.260505.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/1027/2026/04/13/20260413160511_22_1027_1069975_1080_7_s1.jpg", 260505 2026 한일가왕전
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/69fa10e74d6ea1b373cd0f31.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.vod.mbn.co.kr/vod2/1027/2026/04/13/20260413160511_22_1027_1069975_1080_7_s1.jpg", 260505 2026 한일가왕전 저화질
+https://www.vidspace2.xyz/20260505/X4mPj9Ui/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/38433.jpg", 260505 동상이몽 2 - 너는 내 운명
+https://www.vidspace2.xyz/20260505/4VU6wW70/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/04/16/CUv1776328488579.jpg", 260505 최강로드-식포일러
+https://www.vidspace2.xyz/20260505/THiTHK6O/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260414/1255/P001785142.jpg/dims/resize/F_webp,480", 260505 하트시그널5
+https://www.vidspace2.xyz/20260505/0Z9mrtk4/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/04/10/dacce75f-0ff7-417f-abd0-aa7434b11904.jpg", 260505 연애기숙학교 돌싱N모솔
+https://www.vidspace2.xyz/20260505/jL2UbOd7/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/03/04/8fc4d1fa-2498-4388-abd9-80ae9232daef.jpg", 260505 미스트롯4 트롯여왕 연대기
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/69fa07794d6ea1b373cd0f2d.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/03/04/8fc4d1fa-2498-4388-abd9-80ae9232daef.jpg", 260505 미스트롯4 트롯여왕 연대기 저화질
+https://www.vidspace2.xyz/20260505/knVtXSF1/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/07/program_36468f4c-bdee-4f5a-9ddf-4d9c190fba74.jpg", 260505 PD수첩
+https://www.vidspace2.xyz/20260505/QeA3Gtur/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://poc-cf-image.cjenm.com/resize/459/public/pcms/photogroup/B120255207/kr/B120255207photogroup1775453604385.jpg?v=1775453604", 260505 앙상블
+https://www.vidspace2.xyz/20260505/NNOw2Oei/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://fs.jtbc.co.kr/prog/enter/hiddensinger8/Img/site/Main/20260401_082959_8982.jpg", 260505 히든싱어8
+https://www.vidspace2.xyz/20260505/y4Co6nLO/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/02/05/WlV1770274874070.jpg", 260505 상남자의 여행법 in 규슈
+https://www.vidspace2.xyz/20260505/AerlMLbW/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20230427024658_6650e704e4e9666754ce2a10c3d80730.jpg", 260505 과학수사대 스모킹건
+https://www.vidspace2.xyz/20260505/sNUjsbgh/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0200/ko/20260105/1856/P001781344.jpg/dims/resize/F_webp,1280", 260505 이호선 상담소
+https://www.vidspace2.xyz/20260505/tPq4lTYq/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/50007.jpg", 260505 셀럽병사의 비밀
+https://www.vidspace2.xyz/20260505/OHQKdDCC/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231026/1340/P21097.jpg/dims/resize/F_webp,480", 260505 세계테마기행
+https://www.vidspace2.xyz/20260505/l22a90Xu/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240151D/site_poster_img1_20240924023502474.jpg", 260505 몸신의 탄생
+https://www.vidspace2.xyz/20260505/CwMykEUp/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240821/0240/P000093082.jpg/dims/resize/F_webp,480", 260505 엄지의 제왕
+https://www.vidspace2.xyz/20260505/bIjOdAjK/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2026/03/13/e313660f-4e12-4b67-9603-f48cd6a55741620w640.jpg", 260505 생활의 달인
+https://www.vidspace2.xyz/20260505/4lsFrPbp/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/700xX/2026/03/30/news-p.v1.20260330.dfec7ff8db264f5d97395b5b6d78b7b3_P1.webp", 260504 만학도 지씨 제7화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%A7%8C%ED%95%99%EB%8F%84%20%EC%A7%80%EC%94%A8%20S01E07%20260504.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2025/12/30/news-p.v1.20251230.b7c0a1f5647f48e8aaf72c8e3023e730_P1.webp", 260504 불꽃야구 시즌2
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -6756,8 +6830,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260506-1/049759d30257c9f175e791311a68c9a4.jpg", 超级马力欧银河大电影
+https://vv.jisuzyv.com/play/hls/e1wr0rZb/index.m3u8
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260505-1/89a5f1fbe85b0140b5713c916c95c921.jpg", 爱情抓马
+https://play.xluuss.com/play/hls/bkR8LmEa/index.m3u8
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260505-1/08343f1b62749acc862927b0e6129a39.jpg", 深度安静
+https://vip.dytt-kan.com/20260427/14018_ebc82ddc/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260504-1/a41182b51fac922902cc1a00854c92ac.jpg", 蜂蜜的针
 https://v.gsuus.com/play/hls/e0RYPrLb/index.m3u8
