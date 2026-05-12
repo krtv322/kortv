@@ -271,7 +271,6 @@ https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
@@ -545,3 +544,39 @@ http://cfss.cc/api/yy/1460889796.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",易中天品三国
 http://cfss.cc/api/yy/1354931498.m3u8
 
+#EXTINF:-1, group-title="🐉한국방송🦆", ENA
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=ocn_540&sid=psx8S5Xb124taJMPn4t4pDNCF7U2e0W85rDFjVzx&secret=7afa2871b3410cd2b64035453253b642&time=1776728967
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies 2
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
+#EXTINF:-1, group-title="🐉한국방송🦆" , iNET
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
+#EXTINF:-1, group-title="🐉한국방송🦆" , iHQ
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=comedy_540&sid=Ct3qBNT9bv87vy7QkhpxbSM4gjqjrk8ndGMOuNQn&secret=afd233ead5a66961e0e008e1ea1ced62&time=1778230084
+#EXTINF:-1, group-title="🐉한국방송🦆" , 디스커버리
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
+#EXTINF:-1, group-title="🐉한국방송🦆" , Nat Geo Wild
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=CsPTWlJNPAmSy1XXACEdCFddR5oKZsC0X9IclAg7&secret=ac7528f92c81d9f454b6bcd940d0c2d9&time=1778230132
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_540&sid=NV3u8ksyqK92z938RZFBkv2YbPVJAMLA6kwyTOLJ&secret=e9d4f0a64292fabf306ba48f62275fa0&time=1765891235
+#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-720/https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2.jpg", SPOTV 2(고화질
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_2_540&sid=6Os571NBiR8XVEhIx6diM3X01l5UsPRTzvBWMF53&secret=75e5132e9ae7097fd4dcb9ff1a881527&time=1765892545
+#EXTINF:-1 group-title="🐉한국방송🦆" ,tvn Sports
+https://jmp2.uk/stvp-KRBC800015MH
+#EXTINF:-1 group-title="🐉한국방송🦆" ,KBSN 스포츠
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
+#EXTINF:-1 group-title="🐉한국방송🦆" ,MBC Sports+
+https://k227.jk-cdn.com:443//watch/live.m3u8?video=mbc_sports_540&sid=POxYPQ43PhrNZ8GskNfoG7byfjHxe7z93rrViHoU&secret=e2184c649e9eabbdeda2bb0e75c5abac&time=1765891315
+#EXTINF:-1 group-title="🐉한국방송🦆" ,SBS Sports
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_sports_540&sid=ILsETd2qxAIReYV767tJgxtvn5VKOcdUt3X1Bzp7&secret=61a855e91a66a97bcbdb9812f8b10b7c&time=1765891394
+#EXTINF:-1 group-title="🐉한국방송🦆" , SKY SPORTS
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHcNgMggtHH1tdi4BbnB1UKETMkTzPy38oNNr&secret=83393a0ecf2798cad65cf7963a2f2d12&time=1765891354
+#EXTINF:-1, group-title="🐉한국방송🦆" , SPOTV Prime+
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
+#EXTINF:-1, group-title="🐉한국방송🦆" , SPOTV ON 1
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
+#EXTINF:-1, group-title="🐉한국방송🦆" , SPOTV ON 2
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
