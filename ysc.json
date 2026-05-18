@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url": "http://肥猫.com",
-            "name": "🚀1-肥猫"
-        },
-        {
             "url": "http://fty.xxooo.cf/tv",
             "name": "🚀2-饭太硬推荐"
         },
@@ -56,5 +52,13 @@
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
         }
+        {
+            "url": "https://mi.mpanso.me/DEMO.json",
+            "name": "🚀15-小米"
+        },
+        {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "🚀16-小米"
+        },
     ]
 }
