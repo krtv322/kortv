@@ -600,3 +600,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mU
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 #EXTINF:-1, group-title="🐉한국방송🦆" , SPOTV ON 2
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
+
+#EXTINF:-1, group-title="🐉한국방송🦆" , TST
+https://skbcdn-aws-live.cdn.wavve.com/live/55/0000000M02/AVC-FHD_5M-TS-KO-221026000000.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKnNrYmNkbi1hd3MtbGl2ZS5jZG4ud2F2dmUuY29tL2xpdmUvNTUvMDAwMDAwME0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MDc4Mzg3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; Signature=OgBy8qEGc~1ZYBiD3KsM5rxoirJhRj2yNUfWa0BfIll8UYzAqsc0yXmZ9Yk~kTk9v96ji82n5POcq8pnhbgv07hC2wKBSA4ydTaBNswJB3E~OnHcf2T-pWkrC66QwOan3ZK2j~Oo6Gk~k96FiMQl6puYdItBlYCRW3RtG7zKMDM_; Key-Pair-Id=pub_wavve.skcdn.net
+
