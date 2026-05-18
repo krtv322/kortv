@@ -411,6 +411,26 @@ http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆" tvg-logo="https://pimg.mk.co.kr/meet/neds/2018/06/image_readtop_2018_398218_15298668663363159.jpg",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",spotv1
+http://43.137.43.57/get_channel.php?channel=spotv
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",spotv2
+http://43.137.43.57/get_channel.php?channel=spotv2
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",kbs_n_sports
+http://43.137.43.57/get_channel.php?channel=kbs_n_sports
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",mbc_sports
+http://43.137.43.57/get_channel.php?channel=mbc_sports
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",sbs_sports
+http://43.137.43.57/get_channel.php?channel=sbs_sports
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",tvn_sports
+http://43.137.43.57/get_channel.php?channel=tvn_sports
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",sky_sports
+http://43.137.43.57/get_channel.php?channel=sky_sports
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",spotv_prime
+http://43.137.43.57/get_channel.php?channel=spotv_prime
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",spotv_prime2
+http://43.137.43.57/get_channel.php?channel=spotv_prime2
+#EXTINF:-1 group-title="🐉한국고화질 년비용🦆",spotv_prime1
+http://43.137.43.57/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국고화질 년비용🦆",투니버스
