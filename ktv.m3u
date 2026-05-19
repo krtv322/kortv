@@ -110,8 +110,6 @@ http://43.137.43.57/get_channel.php?channel=channel_e
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkyOTQwNTEsInBhdGgiOiIvbzIifQ.GxO-jbZNiMjf6DSCsI06q3v15z673CvWRCNDAWlWZus
-#EXTINF:-1 group-title="🐉한국방송🦆",투니버스 오디오
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/vc1_audio_ko_ko.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkyOTQwNTEsInBhdGgiOiIvbzIifQ.GxO-jbZNiMjf6DSCsI06q3v15z673CvWRCNDAWlWZus
 #EXTINF:-1 group-title="🐉한국방송🦆",애니맥스 (고화질)
 http://211.170.95.22/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",애니플러스 (고화질)
