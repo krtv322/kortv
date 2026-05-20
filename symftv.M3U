@@ -6146,6 +6146,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://news.kbs.co.kr/data/news/2013/03/11/2625345_DZ6.jpg", 신세계
+https://vv.jisuzyv.com/play/hls/Le3v16Od/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0130/62989_697c5222a7864[X280,400].jpg", 간첩사냥
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.3
