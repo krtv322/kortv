@@ -6146,6 +6146,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 
+#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0130/62989_697c5222a7864[X280,400].jpg", 간첩사냥
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.3
+https://wiselife.blog/hls/6a0c8d9b4d6ea1b373cd12f9.m3u8
+
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://www.cinecube.co.kr/static/uploads/MOVIE/20260318_db53ab9d.jpg", 침묵의 친구
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.3
@@ -6597,6 +6602,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260519-1/60222d610b02f50f536a5c2d46e9a0eb.jpg", 圣母玛利亚
+https://vv.jisuzyv.com/play/hls/egJZR09d/index.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260519-1/52eb37c23b29059c1da935f0a41bdc6c.jpg", 替补悍警
+https://vv.jisuzyv.com/play/hls/erk8oj6a/index.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260518-1/3cdc9e391f108b54a3aedc132fab1a76.jpg", 木乃伊
 https://v.gsuus.com/play/hls/bqx7K7Da/index.m3u8
