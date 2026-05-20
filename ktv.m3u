@@ -18,7 +18,7 @@ https://sogne-live.tving.com/ytn/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 https://sogne-live.tving.com/cha/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzkzMjczNjUsInN1YiI6Ii9jaGEvKiIsInZ4ciI6NzIwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJBbWF6b24uY29tIiwibWRsIjoid2luZG93c19jaHJvbWVfMTQ4LjAuMC4wIn0.vQBngWAKaW3xj0gXe3DR3ynUSrWkNl6XnhC0n0rOLgk&ads.age=41&ads.asn=16509&ads.channel_code=C01583&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=284144816&ads.program_code=P001785142&ads.targeting=1&ads.targeting_group=ALL_TOP20&ads.tier_group=non_tier
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-http://43.137.43.57/get_channel.php?channel=tvn
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkzMzA0OTksInBhdGgiOiIvbzIifQ.W9LHIdKOCrx8EqjVFAtRzB7unpzl64pnDgG-kN_5L9g
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN플러스
@@ -67,15 +67,13 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663
 #EXTINF:-1 group-title="🐉한국방송🦆",TVN스토리
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkyOTM3NTYsInBhdGgiOiIvbzIifQ.UY1T4bRCvtFN_xFCseTXIt0vQDV9DJxGXc4kof08Ie4
 #EXTINF:-1 group-title="🐉한국방송🦆",중화TV
-http://43.137.43.57/get_channel.php?channel=chunghwa_tv
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66649d0f153d786553381d0d4/019d66655dd4153d786553381d0d7/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkzMzA2NTMsInBhdGgiOiIvbzIifQ.r-P107AyJq7w7Du3Q6qV0tyTM-_-u3JHMdkO0AIuE24
 #EXTINF:-1 group-title="🐉한국방송🦆",히스토리
-http://43.137.43.57/get_channel.php?channel=history
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkzMzA2NzcsInBhdGgiOiIvbzIifQ.LyldKaduQxzT6YfiFqcufO30UO0_s7yjLL6ILumjM7E
 #EXTINF:-1 group-title="🐉한국방송🦆",MNET
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkzMjc0MzEsInBhdGgiOiIvbzIifQ.9P_W9tX-uxsvJkgphK4k8bHdwnTI4dJr4q3XvhD1y0Q
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2
 https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzkzMjc0NzgsInN1YiI6Ii95dG53LyoiLCJ2eHIiOjcyMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiQW1hem9uLmNvbSIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0OC4wLjAuMCJ9._tJrowc4fJ6Ktft_l4sToFa0dsJ0QScpY4YkqxIbeLA&ads.age=41&ads.asn=16509&ads.channel_code=C01101&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=284144816&ads.program_code=P001747712&ads.targeting=1&ads.tier_group=non_tier
-#EXTINF:-1 group-title="🐉한국방송🦆",YTN사이언스
-https://ytns-live-mcdn.tving.com/ytns/live2000.smil/medialist_12498461171292152190_hls.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",국회방송
 https://sogne-live.tving.com/natv/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzkzMjc0NTYsInN1YiI6Ii9uYXR2LyoiLCJ2eHIiOjcyMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiQW1hem9uLmNvbSIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0OC4wLjAuMCJ9.sBIfMzZ3VdXJS7MGmvbiVEmwZgVa3i7JOqt7wCloG6o&ads.age=41&ads.asn=16509&ads.channel_code=C51263&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=284144816&ads.program_code=P001646625&ads.targeting=1&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
@@ -111,7 +109,7 @@ http://43.137.43.57/get_channel.php?channel=channel_e
 #EXTINF:-1 group-title="🐉한국방송🦆",KBSKids
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
-http://43.137.43.57/get_channel.php?channel=tooniverse
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3NzkzMzA3NzYsInBhdGgiOiIvbzIifQ.ouJG1AMmfel4RDThdy5GatXdNKo8iPF7oeLT2u3VpYo
 #EXTINF:-1 group-title="🐉한국방송🦆",애니맥스 (고화질)
 http://211.170.95.22/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",애니플러스 (고화질)
