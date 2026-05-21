@@ -18,13 +18,13 @@ https://sogne-live.tving.com/ytn/live.smil/chunklist_b2128000.m3u8?sgn.pf=chrome
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/vc1_video_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5NDM3OTI2fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=C6nKyQTlhVo385Vb-gYMUe1Kud0QCpecQo6tvurEb-cVZEv~lvlA0APt8gIYSWjHrW2eJgcSfTlPykVxk2zKhSlr32yvoXSCDoKtrNDTT-JIJEeCiJJuH5lj-6Rq-wKfJ5wG3WRhU9AsOu7IHI781gtkMAvjcW1Cpt7hLE70herYKaCvrfmVw27KCqy4ltVDpxMUteP3hHU5WpPx7PCRi~r~8BOBfD~lYgC7GHBjKfifNUxpGdXEksJ3TkcQl9ka~PHQJeyxT07fFpN~VJt51qOk4KT2Iriyzj9cnQ13IXehofeKaMZgpLzYLpoZInHckqxBAHhEHD-OaRZpmnnEGA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+http://43.137.43.57/get_channel.php?channel=tvn|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tvn_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN플러스
 https://sogne-live.tving.com/mbnplus/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk0Mzc5NTUsInN1YiI6Ii9tYm5wbHVzLyoiLCJ2eHIiOjcyMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiQW1hem9uLmNvbSIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0OC4wLjAuMCJ9.yYsIo7NotEgKAycTMCiaeWGGsuIcxTEKvPA418A6Dq0&ads.asn=16509&ads.channel_code=C17142&ads.floor_price=7900&ads.grade_code=CPTG0400&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=294222997&ads.program_code=P001162358&ads.targeting=0&ads.tier_group=non_tier
-#EXTINF:-1 group-title="🐉한국방송🦆",채널A플러스
-https://tving-live-o2-skcdn.tving.com/o2/v1/019ddc65ee901eb80e7925af014fce/019ddc830bd11eb80e7925af014fd2/vc1_video_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5NDM3OTczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gFX8ZqwyPTaDS4N8t1k6NgoW~sKZH9mNqWR~FlYjmIv50ISIca0VoHPK6Q1R0~LZ9Sa9-7s0AAArNchO49d3myCE7cqs0S87T6X8tBvnQ1sxn5ix1915ovMvTcq9iJImv7A28V~CTCP1JSIHWxPmrm-EW3z0zJDkiWaHISqIy~juiIA4ui8Nvc2ymmCdBdzyIOJr~EYrQHvjfAYYAzRbvzp9Mobl9mQ-qJMwlioUBqnnSoitiGHtBNsJkoSIl0VHZ0gBvSeTxf-bAuitt7KeBZ044rFMpBHYyX8D2QY5TemoIyt-hUQE2yO5SvRg1MlDYyoKRRD9kF8Dz1Hx~qm4~w__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 group-title="🐉한국방송🦆",GMTV
+http://1.214.67.12/688HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=688&ma=D0:17:C2:CE:D7:A1
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -67,7 +67,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663
 #EXTINF:-1 group-title="🐉한국방송🦆",TVN스토리
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk0MzgzNTQsInBhdGgiOiIvbzIifQ.H2I0T4Ec9IhQJFwv5LvboFak5htnR0LGuwmADdsnmUk
 #EXTINF:-1 group-title="🐉한국방송🦆",중화TV
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66649d0f153d786553381d0d4/019d66655dd4153d786553381d0d7/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk0Mzg0MDcsInBhdGgiOiIvbzIifQ.c-5ekFFLNnHE1DwInphJgv3euvKkUSuz7FuoQNxJ0qo
+http://43.137.43.57/get_channel.php?channel=chunghwa_tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=chunghwa_tv_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",히스토리
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/vc1_video_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk0Mzg0MjgsInBhdGgiOiIvbzIifQ.49exUuXu8qwYptLbZUuueRzIJXtUrjiaL-nIaYUOIBY
 #EXTINF:-1 group-title="🐉한국방송🦆",MNET
@@ -76,40 +76,42 @@ https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d71
 https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk0Mzg1MDIsInN1YiI6Ii95dG53LyoiLCJ2eHIiOjcyMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiQW1hem9uLmNvbSIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0OC4wLjAuMCJ9.Cz6kdhjz2ZVcSzUGAbB4xCbA_lTT7CS2zhGxspybXJw&ads.asn=16509&ads.channel_code=C01101&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=294222997&ads.program_code=P000076435&ads.targeting=0&ads.tier_group=non_tier
 #EXTINF:-1 group-title="🐉한국방송🦆",국회방송
 https://sogne-live.tving.com/natv/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.18.12_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=148.0.0.0&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzk0Mzg1MjAsInN1YiI6Ii9uYXR2LyoiLCJ2eHIiOjcyMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiQW1hem9uLmNvbSIsIm1kbCI6IndpbmRvd3NfY2hyb21lXzE0OC4wLjAuMCJ9.oj56D23ZQOJBMKTU163G4NXeEvyBrr35FtQ7doNij-A&ads.asn=16509&ads.channel_code=C51263&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=294222997&ads.program_code=P08787&ads.targeting=0&ads.tier_group=non_tier
+#EXTINF:-1 group-title="🐉한국방송🦆",채널A플러스
+https://tving-live-o2-skcdn.tving.com/o2/v1/019ddc65ee901eb80e7925af014fce/019ddc830bd11eb80e7925af014fd2/vc1_video_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5NDM3OTczfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=gFX8ZqwyPTaDS4N8t1k6NgoW~sKZH9mNqWR~FlYjmIv50ISIca0VoHPK6Q1R0~LZ9Sa9-7s0AAArNchO49d3myCE7cqs0S87T6X8tBvnQ1sxn5ix1915ovMvTcq9iJImv7A28V~CTCP1JSIHWxPmrm-EW3z0zJDkiWaHISqIy~juiIA4ui8Nvc2ymmCdBdzyIOJr~EYrQHvjfAYYAzRbvzp9Mobl9mQ-qJMwlioUBqnnSoitiGHtBNsJkoSIl0VHZ0gBvSeTxf-bAuitt7KeBZ044rFMpBHYyX8D2QY5TemoIyt-hUQE2yO5SvRg1MlDYyoKRRD9kF8Dz1Hx~qm4~w__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC2.png",JTBC2(고화질)
 http://211.170.95.22/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/JTBC4.png",JTBC4(고화질)
 http://211.170.95.22/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",Asia N
 http://1.214.67.12/658HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=658&ma=D0:17:C2:CE:D7:A1
-#EXTINF:-1 group-title="🐉한국방송🦆",GMTV
-http://1.214.67.12/688HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180308135532;LTE;1080p;WIFI&APPNAME=hdtv&ALBUM_ID=688&ma=D0:17:C2:CE:D7:A1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://www.lg.co.kr/media/release/images/56374",더라이프 (고화질)
 http://211.170.95.22/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://i.imgur.com/PaQ7vhO.png" ,라이프타임 (고화질)
 http://211.170.95.22/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",ena
-http://43.137.43.57/get_channel.php?channel=ena
+http://43.137.43.57/get_channel.php?channel=ena|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ena_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",ocn
-http://43.137.43.57/get_channel.php?channel=ocn
+http://43.137.43.57/get_channel.php?channel=ocn|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies2
-http://43.137.43.57/get_channel.php?channel=ocn_movies2
+http://43.137.43.57/get_channel.php?channel=ocn_movies2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies
-http://43.137.43.57/get_channel.php?channel=ocn_movies
+http://43.137.43.57/get_channel.php?channel=ocn_movies|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ocn_movies_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",inet
-http://43.137.43.57/get_channel.php?channel=inet
+http://43.137.43.57/get_channel.php?channel=inet|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=inet_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",ihq
-http://43.137.43.57/get_channel.php?channel=ihq
+http://43.137.43.57/get_channel.php?channel=ihq|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=ihq_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs_plus
-http://43.137.43.57/get_channel.php?channel=sbs_plus
+http://43.137.43.57/get_channel.php?channel=sbs_plus|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_plus_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",nat_geo_wild
-http://43.137.43.57/get_channel.php?channel=nat_geo_wild
+http://43.137.43.57/get_channel.php?channel=nat_geo_wild|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=nat_geo_wild_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",channel_e
-http://43.137.43.57/get_channel.php?channel=channel_e
+http://43.137.43.57/get_channel.php?channel=channel_e|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=channel_e_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",KBSKids
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/vc1_audio_ko_ko.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk0Mzg1MzksInBhdGgiOiIvbzIifQ.85sfvfIwew6BfBzrBfx-XCxDzu6MYE_S4TE7DI5B6Rw
+#EXTINF:-1 group-title="🐉한국방송🦆",투니버스 티비
+http://43.137.43.57/get_channel.php?channel=tooniverse|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tooniverse_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",애니맥스 (고화질)
 http://211.170.95.22/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",애니플러스 (고화질)
@@ -175,25 +177,25 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="http://tv.golfzon.com/Images/header/logo.png",스크린골프존 (고화질)
 https://jmp2.uk/stvp-KR44000010Y
 #EXTINF:-1 group-title="🐉한국방송🦆",spotv
-http://43.137.43.57/get_channel.php?channel=spotv
+http://43.137.43.57/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",spotv2
-http://43.137.43.57/get_channel.php?channel=spotv2
+http://43.137.43.57/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",kbs_n_sports
-http://43.137.43.57/get_channel.php?channel=kbs_n_sports
+http://43.137.43.57/get_channel.php?channel=kbs_n_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=kbs_n_sports_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",mbc_sports
-http://43.137.43.57/get_channel.php?channel=mbc_sports
+http://43.137.43.57/get_channel.php?channel=mbc_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=mbc_sports_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",sbs_sports
-http://43.137.43.57/get_channel.php?channel=sbs_sports
+http://43.137.43.57/get_channel.php?channel=sbs_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sbs_sports_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",tvn_sports
-http://43.137.43.57/get_channel.php?channel=tvn_sports
+http://43.137.43.57/get_channel.php?channel=tvn_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tvn_sports_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",sky_sports
-http://43.137.43.57/get_channel.php?channel=sky_sports
+http://43.137.43.57/get_channel.php?channel=sky_sports|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=sky_sports_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime
-http://43.137.43.57/get_channel.php?channel=spotv_prime
+http://43.137.43.57/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime2
-http://43.137.43.57/get_channel.php?channel=spotv_prime2
+http://43.137.43.57/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime1
-http://43.137.43.57/get_channel.php?channel=spotv_prime1
+http://43.137.43.57/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
 #EXTINF:-1 group-title="🐉한국방송🦆",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",인기영화
