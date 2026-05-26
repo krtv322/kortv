@@ -5860,11 +5860,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260526-1/c4b12ff8d3b05a2351938b47c8f8072b.jpg", 致命之旅
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260526/9kupln85/mp4/9kupln85.mp4/master.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260527-1/27fc78904060c190ae5f18dc5e465be3.jpg", 導火線
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260526/jc53ol89/mp4/jc53ol89.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260525-1/54cfe848c40d263e318967ce952a57ff.jpg", 万事顺利
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
