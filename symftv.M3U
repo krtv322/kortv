@@ -100,87 +100,13 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2
 https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk5NjE4ODIsInBhdGgiOiIvbzIifQ.3jomjTNVutss2bZ34swUjyR9oSihQ8-ywUJNVcEdgvY
 #EXTINF:-1, group-title="🐉한국방송🦆", 중화TV
-#EXTVLCOPT:http-Cookie=chunghwa_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=chunghwa_tv
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66649d0f153d786553381d0d4/019d66655dd4153d786553381d0d7/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk5ODQxNDQsInBhdGgiOiIvbzIifQ.DbaikPwUk6g24BNdjcvW0jo3A0AjNDTR2ITvsHg5Ni8
 #EXTINF:-1, group-title="🐉한국방송🦆", 국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1 group-title="🐉한국방송🦆",ena
-#EXTVLCOPT:http-Cookie=ena_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=ena
-#EXTINF:-1 group-title="🐉한국방송🦆",ocn
-#EXTVLCOPT:http-Cookie=ocn__cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
-#EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies2
-#EXTVLCOPT:http-Cookie=ocn_movies2_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
-#EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies
-#EXTVLCOPT:http-Cookie=ocn_movies_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
-#EXTINF:-1 group-title="🐉한국방송🦆",inet
-#EXTVLCOPT:http-Cookie=inet_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=inet
-#EXTINF:-1 group-title="🐉한국방송🦆",ihq
-#EXTVLCOPT:http-Cookie=ihq_tv_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
-#EXTINF:-1 group-title="🐉한국방송🦆",sbs_plus
-#EXTVLCOPT:http-Cookie=sbs_plus_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
-#EXTINF:-1 group-title="🐉한국방송🦆",nat_geo_wild
-#EXTVLCOPT:http-Cookie=nat_geo_wild_tv_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
-#EXTINF:-1 group-title="🐉한국방송🦆",channel_e
-#EXTVLCOPT:http-Cookie=channel_e_tv_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
-#EXTINF:-1 group-title="🐉한국방송🦆",spotv1
-#EXTVLCOPT:http-Cookie=spotv_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
-#EXTINF:-1 group-title="🐉한국방송🦆",spotv2
-#EXTVLCOPT:http-Cookie=spotv2_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
-#EXTINF:-1 group-title="🐉한국방송🦆",kbs_n_sports
-#EXTVLCOPT:http-Cookie=kbs_n_sports_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
-#EXTINF:-1 group-title="🐉한국방송🦆",mbc_sports
-#EXTVLCOPT:http-Cookie=mbc_sports_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
-#EXTINF:-1 group-title="🐉한국방송🦆",sbs_sports
-#EXTVLCOPT:http-Cookie=sbs_sports_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
-#EXTINF:-1 group-title="🐉한국방송🦆",tvn_sports
-#EXTVLCOPT:http-Cookie=tvn_sports_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
-#EXTINF:-1 group-title="🐉한국방송🦆",sky_sports
-#EXTVLCOPT:http-Cookie=sky_sports_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
-#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime
-#EXTVLCOPT:http-Cookie=spotv_prime_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
-#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime2
-#EXTVLCOPT:http-Cookie=spotv_prime2_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
-#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime1
-#EXTVLCOPT:http-Cookie=spotv_prime1v_replace_cookie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
+#EXTINF:-1, group-title="🐉한국방송🦆" , spotv
+http://1.214.67.103/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆" ,TVN Sports
+https://jmp2.uk/stvp-KRBC800015MH
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://cms.cignal.tv/Upload/Images/GOLF.jpg",SPOTV GOLF (고화질)
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://image.jtbcgolf.joins.com/mobile/images/common/230117_logo_h1.png?v=20231201",JTBCGOLF
@@ -405,24 +331,82 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",NS 홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1, group-title="🐉한국방송🦆", ENA
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
-#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=ocn_540&sid=psx8S5Xb124taJMPn4t4pDNCF7U2e0W85rDFjVzx&secret=7afa2871b3410cd2b64035453253b642&time=1776728967
-#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies 2
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
-#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
-#EXTINF:-1, group-title="🐉한국방송🦆" , iNET
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
-#EXTINF:-1, group-title="🐉한국방송🦆" , iHQ
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=comedy_540&sid=Ct3qBNT9bv87vy7QkhpxbSM4gjqjrk8ndGMOuNQn&secret=afd233ead5a66961e0e008e1ea1ced62&time=1778230084
-#EXTINF:-1, group-title="🐉한국방송🦆" , 디스커버리
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
-#EXTINF:-1, group-title="🐉한국방송🦆" , Nat Geo Wild
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=CsPTWlJNPAmSy1XXACEdCFddR5oKZsC0X9IclAg7&secret=ac7528f92c81d9f454b6bcd940d0c2d9&time=1778230132
-#EXTINF:-1, group-title="🐉한국방송🦆" , spotv
-http://1.214.67.103/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",ena
+#EXTVLCOPT:http-Cookie=ena_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=ena
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn
+#EXTVLCOPT:http-Cookie=ocn__cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies2
+#EXTVLCOPT:http-Cookie=ocn_movies2_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+#EXTINF:-1 group-title="🐉한국방송🦆",ocn_movies
+#EXTVLCOPT:http-Cookie=ocn_movies_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+#EXTINF:-1 group-title="🐉한국방송🦆",inet
+#EXTVLCOPT:http-Cookie=inet_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=inet
+#EXTINF:-1 group-title="🐉한국방송🦆",ihq
+#EXTVLCOPT:http-Cookie=ihq_tv_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
+#EXTINF:-1 group-title="🐉한국방송🦆",sbs_plus
+#EXTVLCOPT:http-Cookie=sbs_plus_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+#EXTINF:-1 group-title="🐉한국방송🦆",nat_geo_wild
+#EXTVLCOPT:http-Cookie=nat_geo_wild_tv_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
+#EXTINF:-1 group-title="🐉한국방송🦆",channel_e
+#EXTVLCOPT:http-Cookie=channel_e_tv_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
+#EXTINF:-1 group-title="🐉한국방송🦆",spotv1
+#EXTVLCOPT:http-Cookie=spotv_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
+#EXTINF:-1 group-title="🐉한국방송🦆",spotv2
+#EXTVLCOPT:http-Cookie=spotv2_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
+#EXTINF:-1 group-title="🐉한국방송🦆",kbs_n_sports
+#EXTVLCOPT:http-Cookie=kbs_n_sports_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
+#EXTINF:-1 group-title="🐉한국방송🦆",mbc_sports
+#EXTVLCOPT:http-Cookie=mbc_sports_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
+#EXTINF:-1 group-title="🐉한국방송🦆",sbs_sports
+#EXTVLCOPT:http-Cookie=sbs_sports_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
+#EXTINF:-1 group-title="🐉한국방송🦆",tvn_sports
+#EXTVLCOPT:http-Cookie=tvn_sports_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
+#EXTINF:-1 group-title="🐉한국방송🦆",sky_sports
+#EXTVLCOPT:http-Cookie=sky_sports_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
+#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime
+#EXTVLCOPT:http-Cookie=spotv_prime_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
+#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime2
+#EXTVLCOPT:http-Cookie=spotv_prime2_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
+#EXTINF:-1 group-title="🐉한국방송🦆",spotv_prime1
+#EXTVLCOPT:http-Cookie=spotv_prime1v_replace_cookie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/507px-SPOTV_logo.svg.png", SPOTV(고화질)
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -431,8 +415,6 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_540&sid=NV3u8ksyqK92z938
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_2_540&sid=6Os571NBiR8XVEhIx6diM3X01l5UsPRTzvBWMF53&secret=75e5132e9ae7097fd4dcb9ff1a881527&time=1765892545
-#EXTINF:-1 group-title="🐉한국방송🦆" ,TVN Sports
-https://jmp2.uk/stvp-KRBC800015MH
 #EXTINF:-1 group-title="🐉한국방송🦆" ,KBSN 스포츠
 #EXTVLCOPT:http-referrer=https://kakotv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -451,8 +433,22 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mU
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 #EXTINF:-1, group-title="🐉한국방송🦆" , SPOTV ON 2
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
-
-
+#EXTINF:-1, group-title="🐉한국방송🦆", ENA
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=ocn_540&sid=psx8S5Xb124taJMPn4t4pDNCF7U2e0W85rDFjVzx&secret=7afa2871b3410cd2b64035453253b642&time=1776728967
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies 2
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
+#EXTINF:-1 group-title="🐉한국방송🦆" ,OCN Movies
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
+#EXTINF:-1, group-title="🐉한국방송🦆" , iNET
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
+#EXTINF:-1, group-title="🐉한국방송🦆" , iHQ
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=comedy_540&sid=Ct3qBNT9bv87vy7QkhpxbSM4gjqjrk8ndGMOuNQn&secret=afd233ead5a66961e0e008e1ea1ced62&time=1778230084
+#EXTINF:-1, group-title="🐉한국방송🦆" , 디스커버리
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
+#EXTINF:-1, group-title="🐉한국방송🦆" , Nat Geo Wild
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=CsPTWlJNPAmSy1XXACEdCFddR5oKZsC0X9IclAg7&secret=ac7528f92c81d9f454b6bcd940d0c2d9&time=1778230132
 
 
 
