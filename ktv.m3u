@@ -109,7 +109,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e|User-Agent=Mozi
 #EXTINF:-1 group-title="🐉한국방송🦆",KBSKids
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
-http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=tooniverse_replace_cookie
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzk5NjIyODcsInBhdGgiOiIvbzIifQ.QimnFGg4tOpCveSqvaz7BdwVOILOtccFQJZc1DvsYkk
 #EXTINF:-1 group-title="🐉한국방송🦆",애니 (고화질)
 http://211.170.95.22/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",애니플러스 (고화질)
