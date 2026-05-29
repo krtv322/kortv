@@ -1588,12 +1588,25 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제16화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/w59788re/mp4/w59788re.mp4/master.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제15화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/n9gskrum/mp4/n9gskrum.mp4/master.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제7화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/pv2amtia/mp4/pv2amtia.mp4/master.m3u8
 
-
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제3화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/yoql0vbw/mp4/yoql0vbw.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제44화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -1606,30 +1619,6 @@ https://www.sojutv34.xyz/20260529/aJc2t5j7/1000kb/hls/index.m3u8
 https://www.sojutv34.xyz/20260529/xQPz6I13/1000kb/hls/index.m3u8
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제12화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260528/4f2cb9z7/mp4/4f2cb9z7.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제11화
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260528/b0kOtexf/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제43화
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260528/YmeLzFDJ/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제57화 
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260528/DoxtCJRg/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제116화 SD
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260528/JH4FVdMD/1000kb/hls/index.m3u8
 
 
 
@@ -1704,40 +1693,6 @@ https://v.gsuus.com/play/hls/bqx7q9ka/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제1화
 https://v.gsuus.com/play/hls/aQWnx80d/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제10화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260527/88csbf5t/mp4/88csbf5t.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제9화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260527/6delkkm2/mp4/6delkkm2.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제8화
-https://vv.jisuzyv.com/play/hls/egJZAXZd/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제7화
-https://vv.jisuzyv.com/play/hls/bo2VMXNa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제6화
-https://vv.jisuzyv.com/play/hls/e1wWZ5qb/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제5화
-https://vv.jisuzyv.com/play/hls/dL97rNve/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제4화
-https://vv.jisuzyv.com/play/hls/aADNYE7e/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제3화
-https://vv.jisuzyv.com/play/hls/erk8lWBa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제2화
-https://vv.jisuzyv.com/play/hls/en5xJoDd/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제1화
-https://vv.jisuzyv.com/play/hls/bDk1ExBa/index.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제10화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1778,40 +1733,7 @@ https://vv.jisuzyv.com/play/hls/b4xQR51b/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2026/04/17/news-p.v1.20260416.a62c4499cbec4f0898846fd22bbbd576_P1.webp", 우주빵집 제1화
 https://vv.jisuzyv.com/play/hls/e0RYV1vb/index.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제11화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260527/oeiqn0xu/mp4/oeiqn0xu.mp4/master.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제10화
-https://play.xluuss.com/play/hls/dwpVO7we/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제9화
-https://play.xluuss.com/play/hls/dyPoZy6b/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제8화
-https://play.xluuss.com/play/hls/epY83pma/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제7화
-https://play.xluuss.com/play/hls/b821VLge/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제6화
-https://play.xluuss.com/play/hls/bkR8Wkxa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제5화
-https://play.xluuss.com/play/hls/e1wWv8Zb/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제4화
-https://play.xluuss.com/play/hls/bo2VKDAa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제3화
-https://play.xluuss.com/play/hls/bmZOXA0d/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제2화
-https://play.xluuss.com/play/hls/av2ljL5a/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제1화
-https://play.xluuss.com/play/hls/e1wWGOmb/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제14화
 https://v3.qqqrst.com/yyv3/202605/22/rRP7Fapp0v24/video/2000k_1080/hls/index.m3u8
@@ -1866,6 +1788,11 @@ https://v.gsuus.com/play/hls/en5xznEd/index.m3u8
 https://play.xluuss.com/play/hls/av2lq6ra/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/45f6eabce88ab03b4d595285515b3489.jpg", 리버스 제1화
 https://play.xluuss.com/play/hls/dJ6yDx2d/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제43화
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260528/YmeLzFDJ/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제42화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz
@@ -2041,6 +1968,12 @@ https://bodaponi.b-cdn.net/%EA%B8%B0%EC%81%9C%20%EC%9A%B0%EB%A6%AC%20%EC%A2%8B%E
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제1화 저화질
 https://www.vidspace2.xyz/20260330/YpuUggi7/1000kb/hls/index.m3u8
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제11화
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260528/b0kOtexf/1000kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제10화
 https://www.vidspace3.xyz/20260521/MqyuGXvD/1000kb/hls/index.m3u8
 
@@ -2067,6 +2000,11 @@ https://play.xluuss.com/play/hls/epYQ5kNa/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제1화
 https://play.xluuss.com/play/hls/epYQ5kNa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제57화 
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260528/DoxtCJRg/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제56화 
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -2486,6 +2424,11 @@ https://www.vidspace.xyz/20260207/zmkwSb0y/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제1화
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제116화
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260528/JH4FVdMD/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제115화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -2930,15 +2873,120 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/04/16/CUv1776328488579.jpg", 260529 최강로드-식포일러
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a1a00d64d6ea1b373cd14b4.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.gukjenews.com/news/photo/202501/3174745_3278578_3540.jpg", 260529 나 혼자 산다
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a1a006e4d6ea1b373cd14b3.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/700xX/2026/04/10/news-p.v1.20260410.7ae988f6ab0b498a98b06edf9afa58a6_P1.webp", 260529 더 시즌즈-성시경의 고막남친
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a19b25c4d6ea1b373cd14ac.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/01/program_0f54af75-e4e4-4be2-9a15-8a837e5b8fdf.jpg", 260529 실화탐사대
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/q5LlTD9X/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/27/bntnews/20251227080905129zkoq.jpg", 260529 금타는 금요일
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a19b41f4d6ea1b373cd14ae.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/27/bntnews/20251227080905129zkoq.jpg", 260529 금타는 금요일 저화질
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/f8x7bO13/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202605/14/ilgansports/20260514142739306pnes.jpg", 260529 디렉터스 아레나
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/6GDOGGor/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240911/2340/P001761505.jpg/dims/resize/F_webp,480", 260529 용감한 형사들 4
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/yKNkvXeY/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0088/2024/6/27/1719448301737_528531.jpg", 260529 추적 60
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/7oVIe8Gw/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/228x128/pbbsres.kbs.co.kr/T2019-0286-04-578866/2025/07/25/3013580_1753401348281.jpg", 260529 신상출시 편스토랑 
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/sMhrmXPi/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/1010/2025/10/02/175936551160.jpg", 260529 전현무계획3 
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/gre5D7N1/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260320/0621/P001784349.jpg/dims/resize/F_webp,480", 260529 구기동 프렌즈
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/vvSPF49D/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260504/1025/P001786380.jpg/dims/resize/F_webp,480", 260529 더 스카웃
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/tk15p580/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231027/1300/P001243851.jpg/dims/resize/F_webp,480", 260529 요즘 육아 금쪽같은 내 새끼
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/vJkthhOY/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240125/0835/P001190459.jpg/dims/resize/F_webp,480", 260529 이십세기 힛-트쏭
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/1qxbch4D/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/700xX/2026/05/08/news-p.v1.20260508.e8bbd87b68e4446cb40588e7d3a18e9a_P1.webp", 260529 봉주르빵집
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/YAVGQ4WS/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2026/03/05/32d72c78-dd2f-4635-ba11-788deae5ae00830w640.jpg", 260529 궁금한 이야기
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/JpISrKeb/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/05/06/8a9e62c2-cc40-4ada-af6c-5613256623dc.jpg", 260529 맛있는 녀석들
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/OFcAYD4f/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://wx1.sinaimg.cn/middle/008zRxeBly1id76aaaybqj32dc1s0e4z.jpg", 260529 KCONJAPAN2026
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260529/XfFrBUQL/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.m-i.kr/news/photo/202604/1363487_1149864_448.png", 260529 TXT의 육아일기 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/TXT%EC%9D%98.%EC%9C%A1%EC%95%84%EC%9D%BC%EA%B8%B0.S01E06.260529.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/577/2019/10/22/157170465721.jpg", 260529 천기누설
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a1991c74d6ea1b373cd149f.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.smartnote.blog/pp3/2026-05-16/1778915757799428446.jpg", 260528 걸리버 여행기
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B1%B8%EB%A6%AC%EB%B2%84.%EC%97%AC%ED%96%89%EA%B8%B0.S01E04.260528.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260528 미스트롯 포유
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a18611e4d6ea1b373cd147f.m3u8
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF.%ED%8F%AC%EC%9C%A0.S01E03.260528.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260528 미스트롯 포유 저화질
 #EXTVLCOPT:http-referrer=https://www.vidspace3.xyz
@@ -2958,7 +3006,7 @@ https://www.vidspace3.xyz/20260528/tkwJ9Mz8/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 260528 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a1858514d6ea1b373cd147d.m3u8
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO,%20%EA%B7%B8%ED%9B%84%20%EC%82%AC%EB%9E%91%EC%9D%80%20%EA%B3%84%EC%86%8D%EB%90%9C%EB%8B%A4.E167.260528.1080p.TVING.WEB-DL.H264.AAC.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 260528 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다 저화질
 #EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/LdFXjhAui7UWSBOg/
@@ -7333,6 +7381,41 @@ https://v.gsuus.com/play/hls/bo2YmGYa/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제10화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260527/88csbf5t/mp4/88csbf5t.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제9화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260527/6delkkm2/mp4/6delkkm2.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제8화
+https://vv.jisuzyv.com/play/hls/egJZAXZd/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제7화
+https://vv.jisuzyv.com/play/hls/bo2VMXNa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제6화
+https://vv.jisuzyv.com/play/hls/e1wWZ5qb/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제5화
+https://vv.jisuzyv.com/play/hls/dL97rNve/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제4화
+https://vv.jisuzyv.com/play/hls/aADNYE7e/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제3화
+https://vv.jisuzyv.com/play/hls/erk8lWBa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제2화
+https://vv.jisuzyv.com/play/hls/en5xJoDd/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 골드랜드🦆" tvg-logo="https://static.olelive.com/upload/vod/20260429-1/ad0b17e2e85718c4f2e503bad2c1db11.jpg", 골드랜드 제1화
+https://vv.jisuzyv.com/play/hls/bDk1ExBa/index.m3u8
+
+
 
 
 
@@ -7408,6 +7491,50 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제12화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260528/4f2cb9z7/mp4/4f2cb9z7.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제11화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260527/oeiqn0xu/mp4/oeiqn0xu.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제10화
+https://play.xluuss.com/play/hls/dwpVO7we/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제9화
+https://play.xluuss.com/play/hls/dyPoZy6b/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제8화
+https://play.xluuss.com/play/hls/epY83pma/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제7화
+https://play.xluuss.com/play/hls/b821VLge/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제6화
+https://play.xluuss.com/play/hls/bkR8Wkxa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제5화
+https://play.xluuss.com/play/hls/e1wWv8Zb/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제4화
+https://play.xluuss.com/play/hls/bo2VKDAa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제3화
+https://play.xluuss.com/play/hls/bmZOXA0d/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제2화
+https://play.xluuss.com/play/hls/av2ljL5a/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 오늘도 매진했습니다🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제1화
+https://play.xluuss.com/play/hls/e1wWGOmb/index.m3u8
 
 
 
