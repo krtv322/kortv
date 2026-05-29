@@ -1594,15 +1594,27 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제44화
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260529/aJc2t5j7/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제117화 
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260529/xQPz6I13/1000kb/hls/index.m3u8
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260422-1/33e1bd0bcb56061d196546025a18ba5e.jpg", 오늘도 매진했습니다 제12화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts4/20260528/4f2cb9z7/mp4/4f2cb9z7.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제11화
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/XNhLcDMzV69E1vaS/
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260528/Mwl1nGER/1000kb/hls/index.m3u8
+https://www.sojutv34.xyz/20260528/b0kOtexf/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제43화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -2330,10 +2342,14 @@ https://www.vidspace.xyz/20260224/Erc7iTR6/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260223/C1N0uEvw/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제34화
-https://www.vidspace3.xyz/20260524/tBqZKIVL/1000kb/hls/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.donkeytv2.xyz/20260524/u9qmQZiQ/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제33화
-https://www.vidspace3.xyz/20260523/GHXghuNt/1000kb/hls/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260523/KoI6BGs1/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제32화
 https://www.vidspace2.xyz/20260517/tHQbg87s/1000kb/hls/index.m3u8
@@ -2472,19 +2488,19 @@ https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제115화
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/OSeQzU02o1lFVDqr/
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260527/qjBlDegD/1000kb/hls/index.m3u8
+https://www.sojutv34.xyz/20260527/5qOdKdxM/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제114화
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/RDQ43UOtqoM2rQ4W/
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260526/LGZNuPOk/1000kb/hls/index.m3u8
+https://www.sojutv34.xyz/20260526/60Or2NE1/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제113화
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/Ib4od3DhT5QcDIWv/
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260525/P64qP1Ar/1000kb/hls/index.m3u8
+https://www.sojutv34.xyz/20260525/o3JCEUog/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제112화
 https://www.vidspace3.xyz/20260522/mfLSivZa/1000kb/hls/index.m3u8
@@ -7011,14 +7027,12 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="🐉스포츠생중계🦮" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/en_us/desktop/assets/images/l/apple-touch-icon.png",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 切尔西 VS 托特纳姆热刺 03:15
-https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1779202777-0-0-310d0084df98bd15335e1b09fa320299
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 切尔西 VS 托特纳姆热刺 03:15
-https://pullsgp.yyzb456.top/live/stream-746673_lhd.flv?auth_key=1779203194-0-0-f25b840de2dacc237e81a6819d8aa158
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 切尔西 VS 托特纳姆热刺 03:15
-https://pullsgp.yyzb456.top/live/stream-330076_lhd.flv?auth_key=1779203212-0-0-af98253db4799c00726ae96fdc9cc320
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",英超 切尔西 VS 托特纳姆热刺 03:15
-https://pullsgp.yyzb456.top/live/stream-765648_lhd.flv?auth_key=1779205797-0-0-3adb1aec1b6669de84fa1d4840f174b4
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",挪超 罗森博格 VS 博德闪耀 01:00
+https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1780063909-0-0-9e23e713c1c0f41318e3064056c450d0
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",挪超 罗森博格 VS 博德闪耀 01:00
+https://pullsgp.yyzb456.top/live/stream-239803_lhd.flv?auth_key=1780064938-0-0-141bf688f3a67eac9c47cc78ed09a54d
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="🐉스포츠생중계🦮",国际友谊 波黑 VS 北马其顿 02:30
+https://pullsgp.yyzb456.top/live/stream-956896_lhd.flv?auth_key=1780064998-0-0-9b109a83026550f576fb330f3324ba01
 
 
 
@@ -7167,13 +7181,7 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국예능 쇼미더머니 🦆" tvg-logo="https://img.mbn.co.kr/program/999/2026/02/14/177105696756.png", 무명전설 1회  저화질s://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🐉국제뉴스🦮",F1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🐉국제뉴스🦮",FAILARMY
-https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🐉국제뉴스🦮",Drybarcomedy
-https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+
 
 
 
