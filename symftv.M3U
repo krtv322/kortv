@@ -1586,45 +1586,51 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제16화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260529/w59788re/mp4/w59788re.mp4/master.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제15화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260529/n9gskrum/mp4/n9gskrum.mp4/master.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제7화
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260506/0125/P001786154.jpg/dims/resize/F_webp,480", 신입사원 강회장 제1화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260529/pv2amtia/mp4/pv2amtia.mp4/master.m3u8
+https://europe.olemovienews.com/ts4/20260530/jawrua88/mp4/jawrua88.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제8화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/8c4wn2z7/mp4/8c4wn2z7.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제4화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/c8tq0da6/mp4/c8tq0da6.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제11화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/aqcd68sv/mp4/aqcd68sv.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제35화
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260530/RUCzH54c/1000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제3화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts4/20260529/yoql0vbw/mp4/yoql0vbw.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제44화
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260529/aJc2t5j7/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제117화 
-#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.sojutv34.xyz/20260529/xQPz6I13/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제2화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -1670,6 +1676,11 @@ https://www.vidspace2.xyz/20260510/RiFmuxJF/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://club.kiwidisk.com/amigo/thumb/202605/small_with_thumb_2930688.jpg", 대군 왕이 되려는 남자 제1화
 https://www.vidspace2.xyz/20260509/9J2h51Iu/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제7화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/pv2amtia/mp4/pv2amtia.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제6화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -1731,44 +1742,6 @@ https://vv.jisuzyv.com/play/hls/b4xQR51b/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://images.khan.co.kr/article/2026/04/17/news-p.v1.20260416.a62c4499cbec4f0898846fd22bbbd576_P1.webp", 우주빵집 제1화
 https://vv.jisuzyv.com/play/hls/e0RYV1vb/index.m3u8
 
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제14화
-https://v3.qqqrst.com/yyv3/202605/22/rRP7Fapp0v24/video/2000k_1080/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제13화
-https://v1.qqqrst.com/yyv1/202605/22/2hX2pfQEnP19/video/2000k_1080/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제12화
-https://v.gsuus.com/play/hls/azpvGD7d/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제11화
-https://v.gsuus.com/play/hls/bqx7vqRa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제10화
-https://v.gsuus.com/play/hls/erk8Gopa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제9화
-https://v.gsuus.com/play/hls/elYxygMa/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제8화
-https://v.gsuus.com/play/hls/aKr1kWre/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제7화
-https://v.gsuus.com/play/hls/b8217mle/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제6화
-https://v.gsuus.com/play/hls/aKr1YgJe/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제5화
-https://v.gsuus.com/play/hls/erk8EjWa/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제4화
-https://v.gsuus.com/play/hls/b68XoPNe/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제3화
-https://v.gsuus.com/play/hls/aKr1Xw8e/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제2화
-https://v.gsuus.com/play/hls/erk8ZALa/index.m3u8
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제1화
-https://v.gsuus.com/play/hls/erk8ZAWa/index.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/45f6eabce88ab03b4d595285515b3489.jpg", 리버스 제8화
 https://play.xluuss.com/play/hls/dBBNM1nd/index.m3u8
 
@@ -1786,6 +1759,11 @@ https://v.gsuus.com/play/hls/en5xznEd/index.m3u8
 https://play.xluuss.com/play/hls/av2lq6ra/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/45f6eabce88ab03b4d595285515b3489.jpg", 리버스 제1화
 https://play.xluuss.com/play/hls/dJ6yDx2d/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제44화
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260529/aJc2t5j7/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제43화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -2427,6 +2405,12 @@ https://www.vidspace.xyz/20260207/zmkwSb0y/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제1화
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제117화 
+#EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.sojutv34.xyz/20260529/xQPz6I13/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제116화
 #EXTVLCOPT:http-referrer=https://www.sojutv34.xyz/
@@ -7494,6 +7478,59 @@ https://cdn1.vip-yzzyonline.com/20231010/2102_f18ea829/2000k/hls/mixed.m3u8
 https://cdn1.yzzy-online.com/20230926/840_e2fd950f/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🐉한국예능 요청건🦆" tvg-logo="https://img.ffzy888.com/upload/vod/20230920-1/2f5497e73ef73b70fdf134fe95fa8474.jpg", 钢铁部队3 1集
 https://cdn17.yzzy-online.com/20230920/18853_95fc62a5/2000k/hls/mixed.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제16화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/w59788re/mp4/w59788re.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제15화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260529/n9gskrum/mp4/n9gskrum.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제14화
+https://v3.qqqrst.com/yyv3/202605/22/rRP7Fapp0v24/video/2000k_1080/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제13화
+https://v1.qqqrst.com/yyv1/202605/22/2hX2pfQEnP19/video/2000k_1080/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제12화
+https://v.gsuus.com/play/hls/azpvGD7d/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제11화
+https://v.gsuus.com/play/hls/bqx7vqRa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제10화
+https://v.gsuus.com/play/hls/erk8Gopa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제9화
+https://v.gsuus.com/play/hls/elYxygMa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제8화
+https://v.gsuus.com/play/hls/aKr1kWre/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제7화
+https://v.gsuus.com/play/hls/b8217mle/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제6화
+https://v.gsuus.com/play/hls/aKr1YgJe/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제5화
+https://v.gsuus.com/play/hls/erk8EjWa/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제4화
+https://v.gsuus.com/play/hls/b68XoPNe/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제3화
+https://v.gsuus.com/play/hls/aKr1Xw8e/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제2화
+https://v.gsuus.com/play/hls/erk8ZALa/index.m3u8
+#EXTINF:-1 group-title="🐉한국드라마 로맨스의 절대값🦆" tvg-logo="https://static.olelive.com/upload/vod/20260417-1/d83615979b5da0f7948a5371f584e3d3.jpg", 로맨스의 절대값 제1화
+https://v.gsuus.com/play/hls/erk8ZAWa/index.m3u8
+
+
 
 
 
