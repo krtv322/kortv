@@ -2859,35 +2859,6 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://liveimg.kbsn.co.kr/cms/uploads/BBSIMAGE_20260209092828_232bdde88115dad1a4790ea0b4690d75.png", 260523 차트를 달리는 남자
-https://www.vidspace3.xyz/20260524/pIJlXDob/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2006-0995/2024/10/4/1728007367440_544973.jpg", 260523 영화가 좋다
-https://www.vidspace3.xyz/20260524/577dMCDl/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/03/23/2TI1774250359138.jpg", 260523 접속 무비월드
-https://www.vidspace3.xyz/20260524/X5Vz3bcg/1000kb/hls/index.m3u8
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0381/2026/5/12/1778551177750_643564.jpg", 260523 누난 내게 여자야 2
-https://www.vidspace3.xyz/20260523/TkVmx5Ki/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0388/2020/7/2/1593655633291_267115.jpg", 260523 다큐 온
-https://www.vidspace3.xyz/20260523/49v3ij8O/1000kb/hls/index.m3u8
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2016-0337/2020/7/9/1594275166138_267912.jpg", 260523 특파원 보고 세계는 지금
-https://www.vidspace3.xyz/20260523/igZyWNI8/1000kb/hls/index.m3u8
-
-
-
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/828/2020/05/08/158891666659.jpg", 260523 동행
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-
-
-
-
-
 
 
 
@@ -6268,6 +6239,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260530-1/1f5f7ddf01a211db543847c2cd0af37f.jpg", 13个日夜
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/r0tufp22/mp4/r0tufp22.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260527-1/3f179168d943f74d0875b9d013df2111.jpg", 大濛
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
