@@ -1593,39 +1593,38 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260506/0125/P001786154.jpg/dims/resize/F_webp,480", 신입사원 강회장 제2화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260531/nyophvnk/mp4/nyophvnk.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제12화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260531/q59wki2n/mp4/q59wki2n.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제36화
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/94L87Hbb/1000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260506/0125/P001786154.jpg/dims/resize/F_webp,480", 신입사원 강회장 제1화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts4/20260530/jawrua88/mp4/jawrua88.mp4/master.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제8화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260530/8c4wn2z7/mp4/8c4wn2z7.mp4/master.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제4화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts4/20260530/c8tq0da6/mp4/c8tq0da6.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제11화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts4/20260530/aqcd68sv/mp4/aqcd68sv.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제35화
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260530/RUCzH54c/1000kb/hls/index.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260522-1/61831178ae912e4fb8d778bcdb82f7a3.jpg", 오십프로 제3화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -1677,6 +1676,11 @@ https://www.vidspace2.xyz/20260510/RiFmuxJF/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://club.kiwidisk.com/amigo/thumb/202605/small_with_thumb_2930688.jpg", 대군 왕이 되려는 남자 제1화
 https://www.vidspace2.xyz/20260509/9J2h51Iu/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제8화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/8c4wn2z7/mp4/8c4wn2z7.mp4/master.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제7화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1701,6 +1705,11 @@ https://v.gsuus.com/play/hls/bqx7q9ka/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260509-1/d4d985c565760a80a1877a668a494ec5.jpg", 멋진 신세계 제1화
 https://v.gsuus.com/play/hls/aQWnx80d/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제11화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260530/aqcd68sv/mp4/aqcd68sv.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260425-1/e4572caeb689d87495e3d72c42d489bf.jpg", 은밀한 감사 제10화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -2254,6 +2263,11 @@ https://www.vidspace.xyz/20260225/ETGsB5Px/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260224/Erc7iTR6/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제1화
 https://www.vidspace.xyz/20260223/C1N0uEvw/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제35화
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260530/RUCzH54c/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제34화hd
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2860,9 +2874,190 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Content/20265/134240288184107290.png", 260524 전지적 참견 시점
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%A0%84%EC%A7%80%EC%A0%81.%EC%B0%B8%EA%B2%AC.%EC%8B%9C%EC%A0%90.S01E399.260523.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/288x410/programres.kbs.co.kr/x2025-0014/2026/1/26/1769407183799_627416.jpg", 260524  K-가곡 슈퍼스타 코리아
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/K-%EA%B0%80%EA%B3%A1%20%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%83%80%20%EC%BD%94%EB%A6%AC%EC%95%84.E01.260524.720p-NEXT.mp4
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.hankyung.com/photo/202507/01.41057059.1.jpg", 260524 극한직업
+https://www.vidspace3.xyz/20260524/GiFgHafC/1000kb/hls/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20250306092324_86b8b7f9c1b54faf92aac6cdbf315325.jpg", 260531 KCON JAPAN 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/KCON%20JAPAN%202026.E03.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260531 개그 콘서트 SUPER LIVE
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8%20%EC%BD%98%EC%84%9C%ED%8A%B82.E125.260531.1080p.WANNA.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260531 개그 콘서트 SUPER LIVE SD
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/FlTOeVGE/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0334/2025/9/1/1756703106216_601928.jpg", 260531 백투더뮤직 시즌2
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/XWSUugRt/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260524 미운 우리 새끼
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%9A%B4%20%EC%9A%B0%EB%A6%AC%20%EC%83%88%EB%81%BC.E497.260531.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.mhns.co.kr/news/photo/201912/355511_463548_45.jpg", 260524 미운 우리 새끼 SD
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/Y7FLedaG/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2026/0517/26342_6a096e13f21e8[X280,400].jpg", 260531 메추리 원정대
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/NY1TLmLV/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Content/20264/134216869065679835.png", 260531 소라와 진경
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/KvqLB2nZ/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://d2fc09gk1936lv.cloudfront.net/kbs/390x219/programres.kbs.co.kr/t2026-0051/2026/4/3/1775189852241_639897.jpg", 260531 우리동네 야구대장
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/cG5oKXfV/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.theonetv.kr/news/photo/202412/225530_225785_2647.png", 260531  냉장고를 부탁해 since 2014
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/ilSTsKGf/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231029/1530/P42768.jpg/dims/resize/F_webp,480", 260531  이제 만나러 갑니다
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/CD9FcdYX/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260417/0540/P001785607.jpg/dims/resize/F_webp,480", 260531 꽃보다 청춘 - 리미티드 에디션
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/H85IyRl9/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42133.jpg", 260531 사장님 귀는 당나귀 귀
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/vBhgJEvT/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0096/2023/11/2/1698901272777_477142.jpg", 260531  열린음악회
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/8XeRVBMP/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2020-0372/2025/2/17/1739750740348_569564.jpg", 260531  이슈 픽 쌤과 함께
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/uTpTP5bR/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/564/2019/10/18/157138412785.jpg", 260531  휴먼다큐 사노라면
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/tb8qeBm9/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231027/1520/P000871440.jpg/dims/resize/F_webp,480", 260531 식객 허영만의 백반기행
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/SVA2coLz/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 260531 런닝맨
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%9F%B0%EB%8B%9D%EB%A7%A8.E805.260531.1080p.H264-F1RST.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2017/06/12/84832905.3.jpg", 260531 런닝맨 저화질
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/9gIyQxnj/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2019/11/05/b4153d4c-d611-487f-8568-3ab23bca0c99.png", 260531 1박 2일 시즌4
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/1%EB%B0%952%EC%9D%BC.S04E329.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2019/11/05/b4153d4c-d611-487f-8568-3ab23bca0c99.png", 260531 1박 2일 시즌4 SD
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/OEfzdYLq/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2026/04/program_05450c0b-709c-4c06-9f3a-890b8b5c696f.jpg", 260531 최우수산
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/6OQ6Ujdt/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/671/2025/07/28/175366357131.jpg", 260531  알토란
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/Yb0Ublgy/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://flexible.img.hani.co.kr/flexible/normal/418/595/imgdb/original/2024/0404/1117122151830588.webp", 260531 전국노래자랑 
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/zmqi8oKA//1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251017/0956/P001777925.jpg/dims/resize/F_webp,480", 260531 형수다2
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260531/O4Csw5f8/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260202/0615/P001782470.jpg/dims/resize/F_webp,480", 260531 서프라이즈 미스터리 살롱
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260530/1znT8nwx/1000kb/hls/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2025/01/13/Mhq1736743367326.jpg", 260531 그것이 알고 싶다
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B7%B8%EA%B2%83%EC%9D%B4%20%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4%20e1489%ED%99%94%20260530.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2021/04/program_be9e5a50-f579-4f1d-95a4-32956757dcd0.jpg", 260531 출발 비디오여행
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B6%9C%EB%B0%9C.%EB%B9%84%EB%94%94%EC%98%A4.%EC%97%AC%ED%96%89.S01E1639.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20250927/0015/P001777067.jpg/dims/resize/F_webp,480g", 260531 대식좌의 밥상
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%8C%80%EC%8B%9D%EC%A2%8C%EC%9D%98%20%EB%B0%A5%EC%83%81.E36.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260124/0255/P001782029.jpg/dims/resize/F_webp,480", 260531 내가 많이 먹을 상인가?
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%82%B4%EA%B0%80%20%EB%A7%8E%EC%9D%B4%20%EB%A8%B9%EC%9D%84%20%EC%83%81%EC%9D%B8%EA%B0%80.E19.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/channela/2026/04/24/000003016229/00000301622920260424134311845.webp", 260531 주방참견 셰프들의 오픈런
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%A3%BC%EB%B0%A9%EC%B0%B8%EA%B2%AC%20%EC%85%B0%ED%94%84%EB%93%A4%EC%9D%98%20%EC%98%A4%ED%94%88%EB%9F%B0.E06.1080p.TVING.WEB-DL.H264.AAC.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2023/08/04/XET1691125907295.jpg", 260531 TV동물농장
+#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://www.vidspace3.xyz/20260530/grQDziRc/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://nimage.newsway.co.kr/photo/2018/07/09/20180709000249_0640.jpg", 260530 전지적 참견 시점
 #EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
@@ -2922,7 +3117,7 @@ https://www.vidspace3.xyz/20260530/U3djVs3H/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/aa4c02dd-d1cf-4aa3-af7f-1c186deae120.jpg", 260530 아는 형님
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%95%84%EB%8A%94%20%ED%98%95%EB%8B%98.E531.260530.1080p.TVING.WEB-DL.H264.AAC.mp4
+https://bodaponi.b-cdn.net/%EC%95%84%EB%8A%94%20%ED%98%95%EB%8B%98.E531.260530.720p-NEXT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202410/22/aa4c02dd-d1cf-4aa3-af7f-1c186deae120.jpg", 260530 아는 형님 저화질
 #EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
