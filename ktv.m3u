@@ -316,57 +316,45 @@ https://dgjj0tcconmvk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV1
-http://192.151.150.154/live/cctv1hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/1/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV2
-http://192.151.150.154/live/cctv2hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/2/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV3
-http://192.151.150.154/live/cctv3hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/3/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV4
-http://69.30.245.50/live/cctv4.m3u8
+http://zmgd.zyrnet.com:8888/hls/4/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5
-http://69.30.245.50/live/cctv5.m3u8
+http://zmgd.zyrnet.com:8888/hls/5/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://60.168.237.249:6688/rtp/238.1.78.237:7768
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV5+
-http://221.219.75.49:4000/rtp/239.3.1.130:8004
+http://server.juzhijian.com:8822/rtp/239.16.20.5:10050
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV6
-http://192.151.150.154/live/cctv6hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/6/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV7
-http://69.30.245.50/live/cctv7.m3u8
+http://171.8.168.153:8800/rtp/239.16.20.51:10510
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="🐉중국방송🦆",CCTV8
-http://192.151.150.154/live/cctv8hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/8/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV9
-http://69.30.245.50/live/cctv9.m3u8
+http://zmgd.zyrnet.com:8888/hls/9/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV10
-http://69.30.245.50/live/cctv10.m3u8
+http://zmgd.zyrnet.com:8888/hls/10/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV11
-http://192.151.150.154/live/cctv11hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/11/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV12
-http://60.168.237.249:6688/rtp/238.1.78.242:7808
+http://zmgd.zyrnet.com:8888/hls/12/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV13
-http://192.151.150.154/live/cctv13hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/13/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV14
-http://192.151.150.154/live/cctv14hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/14/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV15
-http://192.151.150.154/live/cctv15hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/15/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV16
-http://192.151.150.154/live/cctv16hd.m3u8
+http://zb.hexuntong.net:8188/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV17
-http://192.151.150.154/live/cctv17hd.m3u8
+http://zmgd.zyrnet.com:8888/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV风云足球
-http://192.151.150.154/live/fyzq.m3u8
+http://zhangkx717.cn:9999/rtp/239.69.1.81:10126
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV高尔夫网球
-http://198.204.228.26/live/gefwq.m3u8
+http://171.124.65.234:8082/rtp/226.0.2.217:9648
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV央视台球
 http://192.151.150.154/live/ystq.m3u8
 #EXTINF:-1 group-title="🐉중국방송🦆",CCTV怀旧剧场
