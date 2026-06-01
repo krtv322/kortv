@@ -6434,8 +6434,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
-
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260531-1/ea075fe87471ec766305548f3ee87a1a.jpg", 熊出没·年年有熊
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260531/zogh4mac/mp4/zogh4mac.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260530-1/1f5f7ddf01a211db543847c2cd0af37f.jpg", 13个日夜
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
