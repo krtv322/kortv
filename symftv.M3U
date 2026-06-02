@@ -2894,39 +2894,25 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51400.jpg", 260601 아니 근데 진짜!
-#EXTVLCOPT:http-referrer=https://www.google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/아니 근데 진짜!_제18회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51653.jpg", 260601 불꽃야구 시즌2
-#EXTVLCOPT:http-referrer=https://www.google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/불꽃야구 시즌2_제4회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51740.jpg", 260601 월드컵 다큐 울지 마 캡틴
-#EXTVLCOPT:http-referrer=https://www.google.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/JTBC 특집 월드컵 다큐 울지마, 캡틴_제1회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo=https://www.kdrama.pw/img/videos/200x285/48925.jpg", 260601 탐정들의 영업비밀
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260601/a1asV5UA//1000kb/hls/index.m3u8
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/탐정들의 영업비밀_제113회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo=https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260601 신빨토크쇼 귀묘한 이야기
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260601/8jkwW44Y/1000kb/hls/index.m3u8
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/신빨토크쇼 귀묘한 이야기 2_제22회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo=https://www.kdrama.pw/img/videos/200x285/44823.jpg", 260601 벌거벗은 세계사
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260601/0YoiF0CS/1000kb/hls/index.m3u8
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/벌거벗은 세계사_제245회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/35944.jpg", 260601 프리한 19
-#EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.vidspace3.xyz/20260601/NbjvWuY0/1000kb/hls/index.m3u8
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/프리한 19_제426회 26_06_01.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231123/0845/P001644798.jpg/dims/resize/F_webp,480", 260601 조선의 사랑꾼
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
