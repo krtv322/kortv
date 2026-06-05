@@ -1597,10 +1597,19 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제11화
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/심우면 연리리_제11회 26_06_04.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제47화
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/기쁜 우리 좋은 날_제47회 26_06_04.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제62화 
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제62회 26_06_04.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제120화 
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남자_제120회 26_06_04.m3u8
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제61화 
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제61회 26_06_03.m3u8
 
 
 
@@ -2017,6 +2026,9 @@ https://play.xluuss.com/play/hls/epYQ5kNa/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/187x266/programres.kbs.co.kr/t2025-0365/2026/3/12/1773300470402_635611.jpg", 심우면 연리리 제1화
 https://play.xluuss.com/play/hls/epYQ5kNa/index.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제61화 
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제61회 26_06_03.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.kbs.co.kr/kbs/866x487/mediafactory.play.kbs.co.kr/clip/2026/02/23/699c3cd0e1635cb456a34697/thumbnail/699c3cd0e1635cb456a34697_upload_1771864957374.jpg", 붉은 진주 제60화 
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/붉은 진주_제60회 26_06_02.m3u8
@@ -2466,7 +2478,6 @@ https://www.vidspace.xyz/20260201/zwoVgYRI/1000kb/hls/index.m3u8
 https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제119화 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/첫 번째 남자_제119회 26_06_02.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제118화 
@@ -2931,6 +2942,15 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51748.jpg", 260604 은밀한 여자들 : 적과의 동거
+https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/은밀한 여자들 _ 적과의 동거_제1회 26_06_04.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://entertainimg.kbsmedia.co.kr/cms/uploads/BBSIMAGE_20260422082104_2c50ceab11a40ec37a25d7f3ee441b20.jpg", 260603 데스게임 시즌2
 #EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/
