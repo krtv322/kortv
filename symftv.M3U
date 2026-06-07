@@ -6925,7 +6925,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260606-1/e6577b42a8f8073a46634f2c8e2ad617.jpg", 特工蹦擦擦
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260606/f76dmw87/mp4/f76dmw87.mp4/master.m3u8
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260606-1/439674a2dc9bd0a877f90b97b090fa5e.jpg", 卧底神探
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260606/ukadvdut/mp4/ukadvdut.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260603-1/8781f69263cb9a247ac0a15a8ffb0cee.jpg", 寻她
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
