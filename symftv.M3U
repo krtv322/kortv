@@ -8863,11 +8863,15 @@ https://bodaponi.b-cdn.net/%EC%86%8D%ED%92%80%EC%9D%B4%EC%87%BC%20%EB%8F%99%EC%B
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국예능 유재석 캠프🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51722.jpg", 260526 유재석 캠프 제10회
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%9C%A0%EC%9E%AC%EC%84%9D%20%EC%BA%A0%ED%94%84%2010%ED%99%94.mp4
 
 #EXTINF:-1 group-title="🐉한국예능 유재석 캠프🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51722.jpg", 260526 유재석 캠프 제9회
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/유재석 캠프_제9회 26_06_02.m3u8
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%9C%A0%EC%9E%AC%EC%84%9D%20%EC%BA%A0%ED%94%84%209%ED%99%94.mp4
 
 #EXTINF:-1 group-title="🐉한국예능 유재석 캠프🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51722.jpg", 260526 유재석 캠프 제8회
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
