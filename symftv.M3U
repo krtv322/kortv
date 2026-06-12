@@ -1592,8 +1592,10 @@ http://211.170.95.22/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2025/12/program_b67df992-8036-456f-ba4d-4b7957f0bc34.jpg", 첫 번째 남자 제126화 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%82%A8%EC%9E%90.E126.260612.1080p.H264-F1RST.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0027/2026/3/25/1774418428960_637817.jpg", 기쁜 우리 좋은 날 제52화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -3022,6 +3024,16 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/04/10/281c3b61-04f6-437b-b044-388ae1780104.png", 260611 TXT의 육아일기
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/TXT%EC%9D%98.%EC%9C%A1%EC%95%84%EC%9D%BC%EA%B8%B0.S01E08.260611.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img7.yna.co.kr/etc/inner/KR/2026/05/27/AKR20260527096300005_03_i_P4.jpg", 260611 미친맛집: 미식가 친구의 맛집 시즌6
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%B9%9C%EB%A7%9B%EC%A7%91_%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EC%B9%9C%EA%B5%AC%EC%9D%98%20%EB%A7%9B%EC%A7%91%20S06E04.mp4
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://cdn.c1news.kr/news/photo/202308/62820_95581_3022.jpg", 260611 나는 솔로(나는 SOLO), 그 후 사랑은 계속된다
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -3040,7 +3052,7 @@ https://bodaponi.b-cdn.net/%EA%B5%AC%ED%95%B4%EC%A4%98!%20%ED%99%88%EC%A6%88.E35
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20251217/1351/P001780474.jpg/dims/resize/F_webp,480", 260611 미스트롯 포유
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a2ad7ef4d6ea1b373cd171a.m3u8
+https://bodaponi.b-cdn.net/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A1%AF.%ED%8F%AC%EC%9C%A0.S01E05.260611.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240814/1707/P001760343.jpg/dims/resize/F_webp,480", 260611 이혼숙려캠프
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -3065,7 +3077,7 @@ https://wiselife.blog/hls/6a2acbcc4d6ea1b373cd1711.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2025/01/program_0f54af75-e4e4-4be2-9a15-8a837e5b8fdf.jpg", 260611 실화탐사대
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a2ac9114d6ea1b373cd170e.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A4%ED%99%94%ED%83%90%EC%82%AC%EB%8C%80.S01E363.260611.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.smartnote.blog/pp3/2026-05-22/1779375606443029714.jpg", 260611 언더커버 셰프
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -3075,7 +3087,7 @@ https://bodaponi.b-cdn.net/%EC%96%B8%EB%8D%94%EC%BB%A4%EB%B2%84%EC%85%B0%ED%94%8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42478.jpg", 260611 신상출시 편스토랑
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a2abd4b4d6ea1b373cd170c.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A0%EC%83%81.%EC%B6%9C%EC%8B%9C.%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91.S01E326.260611.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/adams/Program/20263/134183714011730345.jpg", 260611 어서와 한국은 처음이지
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
