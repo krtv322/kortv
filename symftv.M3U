@@ -3090,8 +3090,15 @@ http://211.170.95.22/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.ichannela.com/images/program/WPG2240151D/site_poster_img1_20240924023502474.jpg", 260616 몸신의 탄생
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a313d928f1521acc9f36653.m3u8
 
-
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240821/0240/P000093082.jpg/dims/resize/F_webp,480", 260616 엄지의 제왕
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://wiselife.blog/hls/6a313d5d8f1521acc9f36652.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img3.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202512/29/bntnews/20251229203033026sqtp.jpg", 260615 불꽃야구 시즌2
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -3106,7 +3113,7 @@ https://bodaponi.b-cdn.net/%EB%B2%8C%EA%B1%B0%EB%B2%97%EC%9D%80.%EC%84%B8%EA%B3%
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231123/0845/P001644798.jpg/dims/resize/F_webp,480", 260615 조선의 사랑꾼
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%A1%B0%EC%84%A0%EC%9D%98%20%EC%82%AC%EB%9E%91%EA%BE%BC.E126.260615.1080p.TVING.WEB-DL.H264.AAC.mp4
+https://bodaponi.b-cdn.net/%EC%A1%B0%EC%84%A0%EC%9D%98.%EC%82%AC%EB%9E%91%EA%BE%BC.S01E126.260615.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20231123/0845/P001644798.jpg/dims/resize/F_webp,480", 260615 조선의 사랑꾼 저화질
 #EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/share/GFsWeYnVLODjcM32/
@@ -3116,7 +3123,7 @@ https://www.donkeytv2.xyz/20260615/EClUaHoa/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51210.jpg", 260615 말자쇼
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://wiselife.blog/hls/6a3016118f1521acc9f365db.m3u8
+https://bodaponi.b-cdn.net/%EB%A7%90%EC%9E%90%EC%87%BC.S01E23.260615.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51210.jpg", 260615 말자쇼 저화질
 #EXTVLCOPT:http-referrer=https://www.donkeytv2.xyz/share/8v9MpbN9MBtoH6IW/
