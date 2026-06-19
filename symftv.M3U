@@ -8,7 +8,7 @@ http://211.170.95.22/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NTk0MDksInBhdGgiOiIvbzIifQ.bB1VIKJDyEMQbkf9snJ-n7VcBIKy6UeQttXcU6Rw8L8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://211.170.95.22/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
@@ -26,18 +26,18 @@ http://211.170.95.22/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 http://211.170.95.22/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MDk4MzUsInBhdGgiOiIvbzIifQ.EWCa6c1EkotZ0gLGLnSDqVYIV00_poNWWj2HONki0dk
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NTk4NzgsInBhdGgiOiIvbzIifQ.58G_kzLEnTWTIVivSmqH5Y9n2KyBdVSXtuzaY-QJkOs
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN플러스
-https://tving-live-o2-skcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxOTA5OTMzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=M3zsOioGCQ7Yxv3nUlFLAA9ciBlhe4lQ735oBDbfe0DBnxxCQHq5U3qfuDfGTNHJCK1auGNptyEa3bK89IQwvQIvwuP1PII7ebLqUlyhrrMDI2S8T2AHpO1weO5CklX-WPrnhA9UXUYok1yIc0IO01-vtg2nqV2HrNhlAR7Ol0UCJG7Jj3r2cxYaKmoFPliky~H2NOyVTJMU7PAHqvZ~d~N9cOCGIMnCKob9R4F0DtPkyaidaa1W1ckSCFGOCLvMBwAQehOaSfWpFalANPoUN75xoJJvga7OrSJ8Ytv-W9oEb~on0gkL45Ks7Apo9dLW-F9sPMPlhcGcuECY47lDYg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxOTU5OTQzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=daZV7Z~sStPqzYn7bn0KAfhOmgQ45dXWrXFcLwboQQ441-TZZD6iNFA9nUkEb0SwP0qXwtclVtXn0t5U97dos6IUvqaW4pNishlCaGxgJrQfMffhFCD8Z4Fo~JCUFtUDHBqmcvu2B2ObbarqK1wglDS7EYiBVC-N4YIJ1QrWlVHLyuE5dKRvpp8HJegF-3Tx1bp42ChrnwXxe~E7ZuveVwdOW49hBZ5CQHFW~oz4~4VVGnWcVSbF9UHim5B2JEcBVFauC2p1i1NwBneYxszNNy1JZ2gIgcmf9COKy-eXq4Ie2ISKFZy1L-Hyiorklw1eXuvENxTYgkgwzk6YGC8B0Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆",채널A플러스
-https://tving-live-o2-xcdn.tving.com/o2/v1/019ddc65ee901eb80e7925af014fce/019ddc830bd11eb80e7925af014fd2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MDk5NjksInBhdGgiOiIvbzIifQ.oncr8p2XjuPhnqVJ5fJFmCdjugwEiL9yyOVFSUSW1Oc
+https://tving-live-o2-xcdn.tving.com/o2/v1/019ddc65ee901eb80e7925af014fce/019ddc830bd11eb80e7925af014fd2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NTk5NjcsInBhdGgiOiIvbzIifQ.PopLilyO7grcCvjkxVinhnO7iaSyylqKDW6qiPs5vxA
 #EXTINF:-1 group-title="🐉한국방송🦆",mnet
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAwMjEsInBhdGgiOiIvbzIifQ.jWcm8P-DLUuM1N_VhUbuZco3zy1ZD5u_hLZBrJAdch0
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d66afd810153d786553381d0e3/019d719c3005153d786553381d0f0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NTk5OTcsInBhdGgiOiIvbzIifQ.Ew4oPmH4XZB8norU33HIMdTGRH9ipaZfoDHGgd9RpPY
 #EXTINF:-1 group-title="🐉한국방송🦆"  tvg-id="KoreanCentralTelevision.kp@SD", 조선방송 (576p)
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -83,23 +83,23 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" ,mbcnet
 http://koreatv.dothome.co.kr/mbcnet.php
 #EXTINF:-1 group-title="🐉한국방송🦆" ,MBC 드라마넷
-https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=60C1FD1153103F44DA43F5143621A44C759330450F06B244358027a126183FF649aD431E3F125A4E506539013Ab4816FA8C3C849F396FCD67ACFD99633DE51B6AE7E1A11259DEFB3250D561019CBD685B621E9FCBB13D4551F366E5117B1EDC2D2E2F9E6DF490136393BB2DD2F5AD168062949B508548D6F1869C0DAB7404443&v=3
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6A819E14B3BC39144C4595B73311D54B25923BE59F01424A3A304Aa5062E3D5629a4C3AE38A25B45E06A31115EbC817D6B34832B0A6DC5A08A2AE7E988978D4207CA8A34324074FE706CBE045A88DCAE9AE1B7117CA826191519758C667B9D9D3A0B4E6FA0BFF232050996000105479F0AB484E2920E166381CEA552FA13FE02&v=3
 #EXTINF:-1 group-title="🐉한국방송🦆" ,MBC에브리원
-https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6DB11419132B3DE4B64255EF3CD19D49150434950C02323C3D307Ea156463FF6C1aC63DB3222024F90BB3FC106bDB152E8890AC3B543D1DB997A5A40FA7F4D5A5ED678217FD767F1F7458B1773DC2C4CDE386D0EA30822F05DD4F2CBFFA366D48CB911EE1083FA7335ED07A9AD504737B66EF44AE5209156D05914B85AB5EE13&v=3
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6FF1DF16038833C48A4D357D3071C748650D38354C0F524A3BF06Da5C64E39D699aA431F33F2B844D03530B191b6218D73EE5D6FDAE4F99B33D1B2163E1F116651536930D771EE5D01969485236B326BB2749372D9175C695894CFD3C7E844F96E83451C02348EC6DD82195D2204C8856A265FD2D9C518ED69BE25CAE3E8D140&v=3
 #EXTINF:-1 group-title="🐉한국방송🦆" ,MBC M
-https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6831C41E53513D94DE4E65743911CA4995A53AD5CD0492BE35402Ca376EF35C609aF23E738D2DE477031365110bF31391054B30574C0F6A1016F3DFFFC02C46F1D761FBE1840C37F718D7550DB563CE0A252BA0A9C989C2A484EF1B047EBD9AE2C8CB4D7B88BF71EBCCE34D293983888&v=3
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=62C1711FC3C133F4484475A13CB1614455053225D30982053E5076a4666637B68DaF93D03D62CC4310513781ABbCF18EEC73AD872797C4FBD9E05FD21F2B88746EECFC31B53AE96C77ED798606FA4D7982D70E9E42D5CEB7F1F32EFBFF5FD6F1B038BEC82DC4F4C784CDFBA8E0F3CCCE&v=3
 #EXTINF:-1 group-title="🐉한국방송🦆" ,MBC ON
-https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6D51511F13EE3774CA47050737F1CE4275253B553708321A3E105Fa796823AF683a9235B3542F84D50DF39A1FDb8911ABDCC489F1059F77E4B4AEEFA2C653546C4463EB0EB7BBC35AAD1DC107A50CB6F3CF0830A394FFD57FA942034A79F6BEA657CE3A68964D063ADD5A9D0E9761B3C49A67D747AB2A0B7EBE48AAF9BFD88AC&v=3
+https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6101901E93A036B41D4B75493F81AA4FC54A3015CF0D02CC38707Ca6E6AB3EB61Da24379348258483061332119b5B1CB0AF6D444E2010E43291C2B3A9407DC0CE0F41AD89ABE1217F0126AD889AC550241C5450EEA7DF4F392AA1F6426836E0F15708C8598037FA63A4452ADD62C05BE7BE75164A7DE0B49D895D6324CFF911F&v=3
 #EXTINF:-1 group-title="🐉한국방송🦆",중화TV
-https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAwNTYsInBhdGgiOiIvbzIifQ.R5edYO9VhZACXw8p0yOaJ3RkbuIDEBGW1NlPvqj7uEI
+https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NjAwMjUsInBhdGgiOiIvbzIifQ.II3tSjpBmj2U6qfHcs8JRccWlvR7f7u7iamt3EN7HeE
 #EXTINF:-1 group-title="🐉한국방송🦆",TVN드라마
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAwOTMsInBhdGgiOiIvbzIifQ.nN7oTXBgW2CBVk-uU7bkfrTqL1WDD-zN2o134SfwMVs
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NjAwNzEsInBhdGgiOiIvbzIifQ.evmCCFv7U9RAS9epR0Cpmyh2rbXt7NrPVu8eg6iRTp0
 #EXTINF:-1 group-title="🐉한국방송🦆",TVN쇼
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAxNjIsInBhdGgiOiIvbzIifQ.sqmVwoGf49Qt0oc5vCJAaI6FV1gC5ZvA72ucEtB5MyI
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NjAxMDMsInBhdGgiOiIvbzIifQ.ks3rQC9LnAJWwaZ0SdyeSDhDNjZdIKIH0KpHKuyc2Q0
 #EXTINF:-1 group-title="🐉한국방송🦆",TVN스토리
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxOTEwMTE1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=kkyHxkAwI2SIZrODGoEv1fr6cZ4fB8lV7ocBrMGXZsjgnnSL4zbB7AUH-ENMXv8DgHHO6YRMi73fcshHDcjZMigN6qvdr6ERHKEWu-He71jJiWwZg~wol3RpW2ozapQhGPTwDor8HaqjqWx6G7Iy5Otgx7yNbndJJsYlNinWfUdp4Ej~vrqAQk4VuWH~k6xUZ52mX9v-rfZ-dFyFuGtHmqYnKC~m9su0Rp4cl9WPLmsXH8enX3ruj94ITXDG2ANT5cPZigYDTxlXdoLhYK66xmUPfP0xhnYCSII9ITS65zIjztLpmNuDMx9fyuc98EvVURpGMDBc0YNtJlg-hIe2ow__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NjAxMzAsInBhdGgiOiIvbzIifQ.DQyaU_uf4ijzNVXA1ngvNvwEbJnUhYl3nK27k1SX3CM
 #EXTINF:-1 group-title="🐉한국방송🦆",YTN2
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAxODUsInBhdGgiOiIvbzIifQ.dH_wLB8CNW8_Qw9f87Lihx9ggZQasi5vhacL4MMCqYM
+https://tving-live-o2-xcdn.tving.com/o2/v1/0198ee7226d21eb80e7929b1a2cc44/0198ef058f1b1eb80e7929b1a2cc4a/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5NjAxNzEsInBhdGgiOiIvbzIifQ.il1tLHV8MXl88yR_V4PqwpWsKsfN5UA_WkPBqObbaNI
 #EXTINF:-1 group-title="🐉한국방송🦆",히스토리
 https://backup.760515.xyz/playlist/히스토리-playlist.m3u8
 #EXTINF:-1, group-title="🐉한국방송🦆", 국회방송
@@ -213,7 +213,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
 #EXTINF:-1 group-title="🐉한국방송🦆"  tvg-logo="https://i.imgur.com/PPj5kG4.png" , EBS-1 (고화질)
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆",투니버스
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAyMTAsInBhdGgiOiIvbzIifQ.-CRJVHpgjHTJMd_HQERue-Bo-2nkoiG6OpNKG04QAOU
+https://tving-live-o2-skcdn.tving.com/o2/v1/019d6672d75d153d786553381d0d8/019d66738cb41eb80e796d9bd9cad/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxOTYwMjA3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=YQFNKfU2-ugxsEPlQJZo8uP7TagfkfX8dSzSWMBAma7Cd58R36EeEHzQCYQOe59B0ug048aQBnG5f~YO9GM8aLX9-ATdqZvGVq8cl7CtOq-7CwF2gGk32jUNGeyh4TaL-tGtQCtRgBZKr-3JEHk3Ffc1On3~HrKNDzIXR-hzY32ysHX~QNyhWUESeZmnT7hrLE88BlyxoRIVqEvQYpNuPBoQFZxHTyLl3VY-JkWTaTVkHQdNyq1js58d10S5EZx6ycx6R4EsDkVml7MGTROqqWe1uMYlWW3lBRxY1o4fTEEUMLgLB8mpJsJQI8vAxz38viw60DbFLTo~~yNxTKOTAA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆",KBSKids
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="🐉한국방송🦆",애니맥스 (고화질)
@@ -3174,9 +3174,9 @@ https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94%20SOLO,%20%EA%B7%B8%ED%9B%84%20%EC
 https://www.donkeytv2.xyz/20260618/F1qcTvut/1000kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/42478.jpg", 260618 신상출시 편스토랑
-#EXTVLCOPT:http-referrer=https://www.tomatotv4.xyz/share/4QNlShb0Lw/
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.tomatotv4.xyz/20260618/r3PgjUpd/1000kb/hls/index.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A0%EC%83%81.%EC%B6%9C%EC%8B%9C.%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91.S01E327.260618.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2010-1657/2017/9/27/1506493546491_27374.jpg", 260618 한국인의 밥상
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
