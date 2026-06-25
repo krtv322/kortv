@@ -34,7 +34,7 @@ http://1.214.67.12/688HN.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002018030
 #EXTINF:-1 group-title="🐉한국방송🦆",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆"  tvg-id="KoreanCentralTelevision.kp@HD", 조선방송
-https://streamer.nknews.org/tvhls/stream.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&referrer=https://kcnawatch.org/
+https://streamer.nknews.org/tvhls/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36&referrer=https://kcnawatch.org/
 #EXTINF:-1 group-title="🐉한국방송🦆",평양 FM 방송
 https://listen7.myradio24.com/69366
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/延边卫视.png",延边卫视
