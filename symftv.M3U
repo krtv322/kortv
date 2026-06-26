@@ -7916,8 +7916,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/b28c5bd996e5703977c053e6270bc7d0.jpg", 人生大弟震
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260626/zply1kh6/mp4/zply1kh6.mp4/master.m3u8
 
-
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/3aec989f5f93c4bd8daf06308cc5676c.jpg", 关于我转生变成史莱姆这档事 苍海之泪篇
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260626/lsb86891/mp4/lsb86891.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260625-1/cebbd2c9eae8aeb6cd60b6271bbb8a3a.jpg", 卡罗来纳的卡罗琳
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
