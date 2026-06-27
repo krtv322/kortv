@@ -372,6 +372,8 @@ http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CJ OnStyle
 http://1.214.67.38/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",CJ OnStyle 预备
+https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",GS My Shop
@@ -386,10 +388,16 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",NS 홈쇼핑
 http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",NS 홈쇼핑 预备
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_514_101A00A4.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",NS샵플러스
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",롯데홈쇼핑
 http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+#EXTINF:-1 group-title="🐉한국방송🦆",롯데홈쇼핑 预备
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_515_8593A1AE.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",롯데onetv
 http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",신세계쇼핑
@@ -399,6 +407,7 @@ https://s30.qtcdn.co.kr/media/liveM3U8/idx/484074138/enc/1790577012/playlist.m3u
 #EXTINF:-1 group-title="🐉한국방송🦆",W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",쇼핑엔티
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",공영쇼핑
 https://etv.publichs.com/live5.stream/playlist.m3u8
