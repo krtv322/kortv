@@ -7517,7 +7517,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0527/16_53_55__6a16a3136facb[X280,400].jpg", 납치 48시간
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.3
 https://bodaponi.b-cdn.net/%EB%82%A9%EC%B9%9848%EC%8B%9C%EA%B0%84.2026.1080p.FHD.H264.AAC-KTH_wm.mp4
 
@@ -8056,6 +8056,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260627-1/bfee19221dd99bcaca5dcf9dcb106c7e.jpg", 宇宙巨人：希曼崛起
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260627/4pcnt6sk/mp4/4pcnt6sk.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260627-1/6aa8acfb01d34cdee44027b6057e528f.jpg", 森中有林
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260627/grr6xt1d/mp4/grr6xt1d.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/b28c5bd996e5703977c053e6270bc7d0.jpg", 人生大弟震
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
