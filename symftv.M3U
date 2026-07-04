@@ -1455,8 +1455,10 @@ http://1.214.67.101/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260704-1/58ccd76b9ac702b3e49eb12826e673a2.jpg", 결혼의 완성 제1화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260704/0ldrt66b/mp4/0ldrt66b.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2025-0419/2026/1/12/1768202593759_625345.jpg", 사랑을 처방해 드립니다 제45화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
