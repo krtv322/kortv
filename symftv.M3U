@@ -1455,6 +1455,20 @@ http://1.214.67.101/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/471884c6dd5c271a7ae8c9d5d9dc1cc5.jpg", 김부장 제4화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260704/hhtc1h5l/mp4/hhtc1h5l.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260704-1/081a4e1666c9bc2887f9d54161bf5f69.jpg", 공감세포 제1화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260704/ch64p3pp/mp4/ch64p3pp.mp4/master.m3u8
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260704-1/58ccd76b9ac702b3e49eb12826e673a2.jpg", 결혼의 완성 제1화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1471,22 +1485,20 @@ https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%84%20%EC%B2%98%EB%B0%A9%ED%9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://bodaponi.b-cdn.net/%ED%82%AC%EB%9F%AC%EB%93%A4%EC%9D%98%20%EC%87%BC%ED%95%91%EB%AA%B0.%EC%B2%AB%ED%9A%8C.E01.260703.1080p.H264-F1RST_wm.mp4
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/471884c6dd5c271a7ae8c9d5d9dc1cc5.jpg", 김부장 제3화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts4/20260703/cat552wt/mp4/cat552wt.mp4/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260626-1/471884c6dd5c271a7ae8c9d5d9dc1cc5.jpg", 김부장 제2화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
