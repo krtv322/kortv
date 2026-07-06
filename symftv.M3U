@@ -2600,6 +2600,11 @@ http://1.214.67.101/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://www.tomatotv4.xyz/20260705/DYSyXGeT/1000kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260705 개그 콘서트 SUPER LIVE
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8.%EC%BD%98%EC%84%9C%ED%8A%B8.S07E1180.260706.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.khan.co.kr/news/2023/11/01/news-p.v1.20231101.512186577aac4046ba1e0ca436dd65a1_P1.webp", 260705 개그 콘서트 SUPER LIVE SD
 #EXTVLCOPT:http-referrer=https://www.tomatotv4.xyz/share/F8vTcEvo3X/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -2891,9 +2896,9 @@ https://www.tomatotv4.xyz/20260703/AjcXANVe/1000kb/hls/index.m3u8
 https://bodaponi.b-cdn.net/%EC%A0%84%ED%98%84%EB%AC%B4%EA%B3%84%ED%9A%8D%204.E01.260703.1080p.TVING.WEB-DL.H264.AAC_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/ops_pgm_img/2026/05/29/32d72c78-dd2f-4635-ba11-788deae5ae02139w640.jpg", 260703  궁금한 이야기
-#EXTVLCOPT:http-referrer=https://www.tomatotv4.xyz/share/JC1FneErQA/
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://www.tomatotv4.xyz/20260703/We997Hjs/1000kb/hls/index.m3u8
+https://bodaponi.b-cdn.net/%EA%B6%81%EA%B8%88%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%20Y%20S05E24%20260703_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260529/0801/P001787527.jpg/dims/resize/F_webp,480", 260703 콩콩팜팜
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
