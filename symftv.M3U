@@ -7462,7 +7462,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260706-1/4ea9c8d11ecb4174e7ff5503f88c8abf.jpg", 名侦探柯南：高速公路的堕天使【抢先版】
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260706/hireqnxz/mp4/hireqnxz.mp4/master.m3u8
 
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260706-1/aff1db0c0a88dd12dd238fa9b8d8feea.jpg", 鬼上车
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts4/20260706/lrumfuek/mp4/lrumfuek.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260705-1/f9f1532f9f180b2d32767d732862f3ea.jpg", 营救夜莺
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
