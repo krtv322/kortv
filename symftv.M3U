@@ -3,9 +3,6 @@
 
 
 
-#EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",한국방송 위챗문의: kvtv399
-http://1.214.67.101/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-
 
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODM2NzU3MjAsInBhdGgiOiIvbzIifQ.P6ZNl0qttVauzwMEXTTsgyKhkGvWOsSF8XPt6ZGtFRQ
@@ -913,9 +910,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=5-15
 
 
 
-#EXTINF:-1 group-title="🐉한국방송 예비용🦆", 한국방송 위챗문의: kvtv399 
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
 #EXTINF:-1 group-title="🐉한국방송 예비용🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png", KBS1
 http://koreatv.dothome.co.kr/kbs1.php
 #EXTINF:-1 group-title="🐉한국방송 예비용🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png", KBS2
@@ -1446,8 +1441,6 @@ https://jmp2.uk/stvp-KRBC41000021C
 
 
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/24/928919.webp", 한국방송 위챗문의: kvtv399
-http://1.214.67.101/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 
 
 
@@ -2639,8 +2632,7 @@ https://www.vidspace.xyz/20260131/l1VietPf/1000kb/hls/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/24/928919.webp", 한국방송 위챗문의: kvtv399
-http://1.214.67.101/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+
 
 
 
@@ -6105,8 +6097,6 @@ https://bodaponi.b-cdn.net/%EC%A3%BC%EB%B0%A9%EC%B0%B8%EA%B2%AC%20%EC%85%B0%ED%9
 
 
 
-#EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://suonipic.com/upload/vod/20230911-1/415a27382172829f564f3aeac3f404a2.jpg",	한국방송 위챗문의: kvtv399
-https://v6.qrssv.com/202309/06/N2jwnS9WjZ1/video/2000k_1080/hls/index.m3u8
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
 
@@ -6650,8 +6640,7 @@ https://europe.olemovienews.com/ts3/20240209/lCpqtbdE/mp4/lCpqtbdE.mp4/index-v1-
 
 
 
-#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://tyyswimg.com/upload/vod/20250121-1/013229fa3290012570078289dd637229.jpg",	한국방송 위챗문의: kvtv399
-https://tyyszywvod5.com/videos/202501/21/678f2cd08f88c50d88734f6d/09ff36/index.m3u8
+
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://y.gtimg.cn/music/photo_new/T053M000004ONSBw4Wao5B.jpg",	电影中广告骗人！别信广告！！
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
