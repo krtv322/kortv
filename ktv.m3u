@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
 https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODM2OTkyODUsInBhdGgiOiIvbzIifQ.269DWZpm93r2AyoFhOOXIWzlBF08hXaowv4XyrfnnbQ
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c70fd1291eb80e792b56648c3a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODM2OTkzMDQsInBhdGgiOiIvbzIifQ.5AEkgSKPykZk-wDtSrlTTHSyFtCAF8ELPqnQ2Z5ez6A
+http://1.214.67.101/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
@@ -18,7 +18,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db809
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODM2OTk0MTEsInBhdGgiOiIvbzIifQ.0k_LUsnAySXtUkploIk_BGC6sCwNliemTQz0BhIfO6w
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODM2NzU4NzMsInBhdGgiOiIvbzIifQ.zdGXvUizTWacNxpsphLxjZxsGbIozbR9PfsEiIFEKiI
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/vc1_video_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgzNzI2NTk3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=I10aPxLUkVgh8cYlYzNwSx1oCQuNzWtOhmNsRrwqrbwDFntXvzNXcdoV13VYEjrWdwjFdPF1PoZKHUVay29ga6eMrH5Hse08Zlkv-UsmmkX3yqmF1DHe4ctyT3hc7FiuMJAKTDYJy-fw7oU63CspkLHVMLrDuoUgN90P5cGN4ePa-g69bhN58AGqSxmf4iVqROvhsEkwvNpqtBtN426UCD6beCAg5UCBqfrOvrmES3BFcG0LibYhoz-aSLPnYTUZ7kghZ55unLWN7Pk53LAygIRJLrSdTUo2pSx1SrHEoSl2serpe~IyTADq-WezUYBManHncfTrZWcCU5uDtOqG1g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 http://1.214.67.101/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
