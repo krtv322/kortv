@@ -7884,7 +7884,9 @@ https://bodaponi.b-cdn.net/%EB%8B%B9%EC%8B%A0%EC%9D%B4%20%EC%98%81%ED%99%94%EB%A
 https://bodaponi.b-cdn.net/%EA%B7%B9%EC%9E%A5%EC%9D%98%20%EC%8B%9C%EA%B0%84%EB%93%A4%20(2026)%20Time%20of%20Cinema.KOR.1080p.FHD.mp4
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://news.kbs.co.kr/data/news/2025/12/19/20251219_vKrZAU.png", 왕과 사는 남자
-https://file-1253962976.cos.ap-nanjing.myqcloud.com/m3u8_kdrama/왕과 사는 남자_본편.m3u8
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%99%95%EA%B3%BC%20%EC%82%AC%EB%8A%94%20%EB%82%A8%EC%9E%90%20The%20King's%20Warden,%202026.1080p.AAC2.0.H.264.mp4
 
 #EXTINF:-1 group-title="🐉한국영화🦆" tvg-logo="https://image.cine21.com/resize/cine21/poster/2026/0413/63128_69dc5ab8ec54b[X280,400].jpg", 도쿄 괴담: 두 번째 역
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
