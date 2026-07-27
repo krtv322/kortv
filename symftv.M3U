@@ -1440,8 +1440,10 @@ https://jmp2.uk/stvp-KRBC41000021C
 
 
 
-
-
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2026/06/cast_6825f604-f1c8-4325-af35-da5e71a3f92c.jpg", 가족관계증명서 제16화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%80%EC%A1%B1%EA%B4%80%EA%B3%84%EC%A6%9D%EB%AA%85%EC%84%9C.E16.260727.1080p.H264-F1RST_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260704-1/081a4e1666c9bc2887f9d54161bf5f69.jpg", 공감세포 제8화 
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -2723,7 +2725,25 @@ https://www.vidspace.xyz/20260223/C1N0uEvw/1000kb/hls/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img2.sbs.co.kr/img/sbs_cms/WE/2026/06/26/7011782450344368.jpg", 260726 열혈농구단2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%97%B4%ED%98%88%EB%86%8D%EA%B5%AC%EB%8B%A82.E04.260726.1080p.H264-F1RST_wm.mp4
 
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260615/0950/P001788275.jpg/dims/resize/F_webp,480", 260726 샤먼 미신전 제8회
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%83%A4%EB%A8%BC%20-%20%EB%AF%B8%EC%8B%A0%EC%A0%84.E08.260727.1080p.TVING.WEB-DL.H264.AAC_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2000-0065/2023/11/24/1700790850732_484436.jpg", 260726 개그콘서트
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%9C%EA%B7%B8.%EC%BD%98%EC%84%9C%ED%8A%B8.S07E1183.260726.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.cine21.com/resize/cine21/tv/poster/2026/0517/26342_6a096e13f21e8[X280,400].jpg", 260726  메추리 원정대
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%A9%94%EC%B6%94%EB%A6%AC%20%EC%9B%90%EC%A0%95%EB%8C%80.E04.260726.720p.H264-F1RST_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.vidspace3.xyz/share/jguQxHOdLrAcZAz7", 260726  역사스페셜 시간여행자
 #EXTVLCOPT:http-referrer=https://www.vidspace3.xyz/share/3c79WiVk4Sh4DkcS/
