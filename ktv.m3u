@@ -1,12 +1,12 @@
 #EXTM3U8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODUzMjQzMDQsInBhdGgiOiIvbzIifQ.BX8dYa0J5blAtiR1MyfL5M95HLV7j1p_LnxdB7gERSc
+https://tving-live-o2-ktcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1MzUyODkxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=V6vrMENqXUKmCjEtEAeBSnlVqOrIk3CehPc0gWHMyOjJUCBql2wpRXFcgfgd9gYZKt8qX9-1830epUqGAggept-hGjSTpue-cuG~agJZ2miY10BUTY99uE3f2hHxw05Ezs1zHpJbENOtxhg7ZRfBjBeepsvopb7hO1VS-QRGwIIPBnDWo3OmjOiRfRGTWNlxvWN6RYubV~j4b~QbglI53T6ZwNxjnYhezjsQxOwL0F6xsPdrPPTMoqNQ9Gym385hpaosIjzeNakohFmma06trTbkxje785PxdILqdQE0TTdBD2KMlIcRcC0vbyPAvujVscT3Zsq-1xrgIFr-nHcW3A__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://1.214.67.101/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://tving-live-o2-xcdn.tving.com/o2/v1/019b07fc4c12153d7865286682f0d3/019b07fca9701eb80e79295b4c7664/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODUzMjQzMjksInBhdGgiOiIvbzIifQ.SUN2IE_nA5BpTU37MFPZJ8kcXHcJHLp18FLp7ztPvLA
+https://tving-live-o2-xcdn.tving.com/o2/v1/019b07fc4c12153d7865286682f0d3/019b07fca9701eb80e79295b4c7664/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODUzNTMwNTQsInBhdGgiOiIvbzIifQ.6oxJDZmh-uu3aAqq3oDZrN1vrOtCzeoj2pcbVxXN_tY
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 http://1.214.67.101/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
@@ -18,7 +18,7 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019db80595b1153d7865047a0ccd/019db809
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODUzMjQ0MTcsInBhdGgiOiIvbzIifQ.Y4rnN4xZXCDRoTbyRpm7b7b_hm_5OIxPQ-Bu8Omb3Yk
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODUzMjQ0MzUsInBhdGgiOiIvbzIifQ.9BmKfFk1Nf_cOOhlR4t1Tu9COcZKxiuoJXJeOnBlVdY
+https://tving-live-o2-skcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1MzUyOTE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=B2MtPobpiDtJlh4QiBniMqjC-y99lQV5sTc-fRBrl1YgBKgcPkNQHxh3E7WXU43pbejCfkNSIQz91udsir1EaIKL9wkbTuVGvK9hntPU5D9-NG5J~2jzcO-5kDPrUTUhOWmMGmV5pD3uSabzi~4BK3xomqzkbwhvtQD82vvgAjDEHKx60x2ug5tWFtcy81C-xsHHFY~5gS-2Q7aWQey~3WmJs2CtGuoJ4LIJ-0CehSeF8-uA0uAto93duZ8wafc1R5~sHJpfKjFpd6gdk1hKa0HM-915dmyaJalV3trZaPOGPHPv1j9Wwt1N7M15CNyGkXkw~UF8TdIx1EB1MwzyxA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 http://1.214.67.101/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
