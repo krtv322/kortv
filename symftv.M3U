@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODU3MTkyNDMsInBhdGgiOiIvbzIifQ.OMXLi78V14MiwdOl0yxUVBC_x8AzGYTuc1IsLRJk40w
+https://tving-live-o2-xcdn.tving.com/o2/v1/0198f4a3d544153d786529a7c8050c/0198f4aec6841eb80e7929b1a2cc70/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODU3ODUwNTcsInBhdGgiOiIvbzIifQ.XOTdHjUsNrQYCQtn1jodYLcok4wEnZL-Ag7YftOkkdI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 http://1.214.67.20/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
@@ -23,14 +23,14 @@ http://1.214.67.20/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 #EXTINF:-1 group-title="🐉한국방송🦆", 채널A
 http://1.214.67.20/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="🐉한국방송🦆", tvN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODU3MTk0ODMsInBhdGgiOiIvbzIifQ.W_AUDV0XcNacKnlVibz0qXBMDsScxXXs0zlGEGJJVIw
+https://tving-live-o2-skcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1Nzg1MTgxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=WDXHwpMhAGK35gI6tNl4D6hmv0d~OUTO~ZSOn2UshG1cczetjNdeABiV2hQ1JmI3KV5TKkocNQzR6vGqvKtekoZGcEp7ce7s6Xx49LzQASfPSfSbrfOWLT4yyG2ES2lz~ASKUokP2XnYXSZx6lEX1YMlfKf9qqywKELGRrn212pqe2nVx~TgDqCTTJrJ5eYS62Fflv05f1YDwW7eUXv7mABKTASpTwnTavUSq7mRisRULAhJOzN2wWtRy~XUqYgTIEUJiX6t9svTeYVcDvGlCTzV7HcpC223fQdG~A08v3c7hCouGz~xalJhnv9IVzg3XZqwUgkcyUsOyyUGX1dP-g__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆", jtbc
 http://1.214.67.20/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 tvg-id="TVChosun2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="🐉한국방송🦆",TV Chosun 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆",MBN플러스
-https://tving-live-o2-skcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1NzE5NTM3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=VcmZhmZ3mibEzjKtS8cJNbasFvIUaaiuPtdsIQTDP8LLM6EP4AZFRl-is~MRE79SX80aOeDu-1wvDUENPMErg3XTW4EH42~ybm6WXgi08pmCpktywrWQojvnvJ0bcDaBRfgAnq9RNTaC6bbmLb0XwhADHRP27jchwlPOjd4CJfAxfAwhDoFcSxZGa1dU3KFeaw0OHwOiqRLFE-FgOi~8GH0nPVKN1n5n8~ul0XVd-qICQpbuqpWDHInt~q7F5MtAI~oMKGFt31RIpTybCR2XKlV3Nj1gE7KwF0yrYyKjtT~CdB6h6cD2bl7oGlltv9REE-cyi5jISwkAQb6V3nAnxQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://tving-live-o2-xcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODU3ODUyMjYsInBhdGgiOiIvbzIifQ.8bHEsqNqbtSl1bExXwLOrSscvYc3VtIWH5gNT84ieEo
 #EXTINF:-1 group-title="🐉한국방송🦆",채널A플러스
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed904d9651eb80e79cd7979dc5/019ed90583cd153d78653cb4bf7bdd/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODU3MTk1NjEsInBhdGgiOiIvbzIifQ.UdYj9nVpE9cryqRpoz3fmXNViocDV1wbKBKxslr_y6I
 #EXTINF:-1 group-title="🐉한국방송🦆",mnet
