@@ -11,7 +11,7 @@ http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://tving-live-o2-skcdn.tving.com/o2/v1/019b07fc4c12153d7865286682f0d3/019b07fca9701eb80e79295b4c7664/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MzQ2MTk3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=JT9g2S6yoan0CT4~bfdvAWJc3DQqU2Qnc6T0NEU2u3T1HjlILLjc5dJ3Jy1z---X7dDH04PEYQeIUpy7DRBd30nKnXO-5satpbtO4sOpAaQFyBueHH6CD-YQpTAeO9hOwES-2jJRT~wE2YvnFCYsqqHUhnp-lKLhk~CdCYjND7s0RydyRDfv7OIaOFyPlM3OOZ5NtGAY2-W3eY4kYgFu1lfokI6b0Q4U~suP2zq9oarMxzRUMZ60vsmavvQGk8-2IWlcxZbukKFS4i4f7H~G9hrOFqXXLWPZ2fG7B8Suhr5mIJ58KbJPL9taVMwH9V8gldopiRq7s4WSYmAO~SdMhg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
