@@ -1253,36 +1253,27 @@ https://jmp2.uk/stvp-KRBC41000021C
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260829-1/b65509f78affa177c17c28c539cdb0ed.jpg", 포핸즈  제8화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260818/0809/P001790586.jpg/dims/resize/F_webp,480", 신병4 : 사보타주 제18화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260920/OAqPzd7R/mp4/OAqPzd7R.mp4/master.m3u8
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B3%914.%EC%82%AC%EB%B3%B4%ED%83%80%EC%A3%BC.S04E18.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20260818/0809/P001790586.jpg/dims/resize/F_webp,480", 신병4 : 사보타주 제17화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B3%914.%EC%82%AC%EB%B3%B4%ED%83%80%EC%A3%BC.S04E17.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260912-1/677baf369929d8bb8abc71e2f1391827.png", 너 말고 다른 연애 제4화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts6/20260920/0TfpxMLc/mp4/0TfpxMLc.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", 사랑이 온다 제18화
-#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%B4.%EC%98%A8%EB%8B%A4.S01E18.1080p.WAVVE.WEB-DL.AAC2.0.H.264-_wm.mp4
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260912-1/677baf369929d8bb8abc71e2f1391827.png", 너 말고 다른 연애 제3화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -1338,6 +1329,11 @@ https://europe.olemovienews.com/ts6/20260909/cG6ywepm/mp4/cG6ywepm.mp4/master.m3
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts6/20260909/VFRiTRfv/mp4/VFRiTRfv.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260829-1/b65509f78affa177c17c28c539cdb0ed.jpg", 포핸즈  제8화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260920/OAqPzd7R/mp4/OAqPzd7R.mp4/master.m3u8
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260829-1/b65509f78affa177c17c28c539cdb0ed.jpg", 포핸즈  제7화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
@@ -1544,136 +1540,6 @@ https://europe.olemovienews.com/ts5/20260820/echovooq/mp4/echovooq.mp4/master.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts5/20260819/qnv56grd/mp4/qnv56grd.mp4/master.m3u8
 
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제14화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260919/6X6IfW8X/mp4/6X6IfW8X.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제13화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260918/jStWPSw7/mp4/jStWPSw7.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제12화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260912/5rLKh5zh/mp4/5rLKh5zh.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제11화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260911/pzBiJr47/mp4/pzBiJr47.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제10화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260905/m0oZVNVv/mp4/m0oZVNVv.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제9화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260904/SmFEGrVY/mp4/SmFEGrVY.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제8화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260829/knkahpz3/mp4/knkahpz3.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제7화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260828/qpcnr44a/mp4/qpcnr44a.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제6화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260822/qya9wnl1/mp4/qya9wnl1.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제5화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260821/u6hgj0tp/mp4/u6hgj0tp.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제4화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260815/bupxehkl/mp4/bupxehkl.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제3화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260814/3q29sg6k/mp4/3q29sg6k.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제2화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260808/onzh8kp9/mp4/onzh8kp9.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제1화
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260807/2e18pvjl/mp4/2e18pvjl.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제12화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260908/ASVkn0wc/mp4/ASVkn0wc.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제11화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260907/f8eBokwF/mp4/f8eBokwF.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제10화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260901/ebvlmwcf/mp4/ebvlmwcf.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제9화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260831/ma33OgqT/mp4/ma33OgqT.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제8화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260825/69wid1hb/mp4/69wid1hb.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제7화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts6/20260824/yYUno46t/mp4/yYUno46t.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제6화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260818/d1ha6bfo/mp4/d1ha6bfo.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제5화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260817/ph5wwm35/mp4/ph5wwm35.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제4화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260811/s6vlvnnz/mp4/s6vlvnnz.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제3화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260810/0l8dwhzt/mp4/0l8dwhzt.mp4/master.m3u8
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제2화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://bodaponi.b-cdn.net/%EC%B5%9C%EC%95%A0%EC%9D%98.%EC%82%AC%EC%9B%90.S01E02.260804.1080p.TVING.WEB-DL.AAC2.0.H.264-_wm.mp4
-
-#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제1화 
-#EXTVLCOPT:http-referrer=https://www.olevod.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://europe.olemovienews.com/ts5/20260803/x4tjnvkn/mp4/x4tjnvkn.mp4/master.m3u8
-
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://img.imbc.com/template/2026/07/program_2534c150-6f99-42e5-b045-e50748785036.jpg", 유부녀킬러 제15화
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -1748,6 +1614,11 @@ https://europe.olemovienews.com/ts5/20260802/uev4dqam/mp4/uev4dqam.mp4/master.m3
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://europe.olemovienews.com/ts5/20260801/qrfs2pyn/mp4/qrfs2pyn.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", 사랑이 온다 제18화
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%82%AC%EB%9E%91%EC%9D%B4.%EC%98%A8%EB%8B%A4.S01E18.1080p.WAVVE.WEB-DL.AAC2.0.H.264-_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국드라마🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", 사랑이 온다 제17화
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -2845,6 +2716,83 @@ https://www.vidspace2.xyz/20260330/YpuUggi7/1000kb/hls/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/700xX/2026/08/24/news-p.v1.20260824.efe3e89432e7401e80fc8d31f3c09b5c_P1.webp", 260921 대환장 기안장 시즌2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%8C%80%ED%99%98%EC%9E%A5%20%EA%B8%B0%EC%95%88%EC%9E%A5_S02E04%20wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img1.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921154200005_01_i_P4.jpg", 260921 원더픽
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%9B%90%EB%8D%94%ED%94%BD.S01E01.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://wimg.mk.co.kr/news/cms/202607/30/news-p.v1.20260730.7231e139cd474959b10498357ccc1c6f_P1.png", 260921 내 남은 연애
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%82%B4%20%EB%82%A8%EC%9D%80%20%EC%97%B0%EC%95%A0%20S01E08%20260921%20wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0518/2026/9/7/1788763684031_661807.jpg", 260921 배송왔송 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%B0%B0%EC%86%A1%EC%99%94%EC%86%A1.-.What.Song.Express.S01E01.260921.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/2026/07/23/news-p.v1.20260723.a098af2d7bd0491fa9fcf743b36ed991_P1.webp", 260921 연애전쟁 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%97%B0%EC%95%A0%EC%A0%84%EC%9F%81_S01E13%20260921.wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/51312.jpg", 260921 신빨토크쇼 귀묘한 이야기
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%A0%EB%B9%A8%ED%86%A0%ED%81%AC%EC%87%BC.%EA%B7%80%EB%AC%98%ED%95%9C.%EC%9D%B4%EC%95%BC%EA%B8%B02.S02E38.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://news.kbs.co.kr/data/news/title_image/newsmp4/economyconcert/2025/11/03/70_8397357.jpg", 260921 가요무대
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EA%B0%80%EC%9A%94%EB%AC%B4%EB%8C%80.S01E1965.260921.1080p.WAVVE.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.mbn.co.kr/program/592/2025/10/31/176187322871.jpg", 260921 나는 자연인이다 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%82%98%EB%8A%94.%EC%9E%90%EC%97%B0%EC%9D%B8%EC%9D%B4%EB%8B%A4.S01E727.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/44823.jpg", 260921 벌거벗은 세계사
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%B2%8C%EA%B1%B0%EB%B2%97%EC%9D%80.%EC%84%B8%EA%B3%84%EC%82%AC.S01E273.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://www.kdrama.pw/img/videos/200x285/48925.jpg", 260921 탐정들의 영업비밀
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%ED%83%90%EC%A0%95%EB%93%A4%EC%9D%98.%EC%98%81%EC%97%85%EB%B9%84%EB%B0%80.S01E129.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.imbc.com/template/2026/06/program_62e3a962-85d3-485d-8938-4626b1f28534.jpg", 260921 심야괴담회 시즌6
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%8B%AC%EC%95%BC%EA%B4%B4%EB%8B%B4%ED%9A%8C.%EC%8B%9C%EC%A6%8C6.S06E14.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.smartnote.blog/pp3/2026-09-15/1789457509341962143.jpg", 260921 빈칸 채우기 
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%B9%88%EC%B9%B8%EC%B1%84%EC%9A%B0%EA%B8%B0.S01E02.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://image.tving.com/ntgs/contents/CTC/caip/CAIP0900/ko/20240804/0941/P001759951.jpg/dims/resize/F_webp,480", 260921 히든아이
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%ED%9E%88%EB%93%A0%EC%95%84%EC%9D%B4.S01E103.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://liveimg.kbsn.co.kr/cms/uploads/PROGRAM_20251105084804_3fcfc5a7e9cb6c8a91fe06a5bdffbbd0.png", 260921 무엇이든 물어보살
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0.%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%82%B4.S01E383.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://img.smartnote.blog/pp3/2026-09-14/1789387879977361864.webp", 260921 원수는 외야석에서♥︎
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%9B%90%EC%88%98%EB%8A%94.%EC%99%B8%EC%95%BC%EC%84%9D%EC%97%90%EC%84%9C%E2%99%A5.S01E02.260921.1080p.TVING.WEB-DL.AAC2.0.H.264-VTVT_wm.mp4
 
 #EXTINF:-1 group-title="🐉한국예능🦆" tvg-logo="https://images.khan.co.kr/article/r/700xX/2020/06/27/l_2020062702001286800263251.webp", 260920 개그콘서트
 #EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
@@ -7411,6 +7359,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
 
 
 
+
+
+#EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260922-1/98534a614013007b58a063efddb685f5.jpg", 一击3
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260922/O6vUgBNy/mp4/O6vUgBNy.mp4/master.m3u8
+
 #EXTINF:-1 group-title="🐉외국영화🦆" tvg-logo="https://static.olelive.com/upload/vod/20260921-1/9a7dbbcf67d71165f8d554ae7b417453.jpg", 瘴气营地的青春性事与死亡
 #EXTVLCOPT:http-referrer=https://www.olevod.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
@@ -9433,6 +9388,152 @@ https://v.gsuus.com/play/hls/bW6n1YEa/index.m3u8
 https://v.gsuus.com/play/hls/e31l3ZAb/index.m3u8
 #EXTINF:-1 group-title="🐉한국예능 운명전쟁49🦆" tvg-logo="https://www.chosun.com/resizer/v2/MY4GMZJWHBQTGNDBMU4GCMRWG4.jpg?auth=b9cf19af9d279a96e852cf323a97cfddb434218d77701d6d276e5905fdce7dac&width=616", 260304 운명전쟁49 제1화
 https://v.gsuus.com/play/hls/bo2YmGYa/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제12화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260908/ASVkn0wc/mp4/ASVkn0wc.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제11화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260907/f8eBokwF/mp4/f8eBokwF.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제10화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260901/ebvlmwcf/mp4/ebvlmwcf.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제9화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260831/ma33OgqT/mp4/ma33OgqT.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제8화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260825/69wid1hb/mp4/69wid1hb.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제7화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260824/yYUno46t/mp4/yYUno46t.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제6화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260818/d1ha6bfo/mp4/d1ha6bfo.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제5화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260817/ph5wwm35/mp4/ph5wwm35.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제4화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260811/s6vlvnnz/mp4/s6vlvnnz.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제3화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260810/0l8dwhzt/mp4/0l8dwhzt.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제2화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/%EC%B5%9C%EC%95%A0%EC%9D%98.%EC%82%AC%EC%9B%90.S01E02.260804.1080p.TVING.WEB-DL.AAC2.0.H.264-_wm.mp4
+
+#EXTINF:-1 group-title="🐉한국드라마 최애의 사원🦆" tvg-logo="https://static.olelive.com/upload/vod/20260803-1/a0dcfb8a4a8282dc4ef754220550f60f.jpg", 최애의 사원 제1화 
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260803/x4tjnvkn/mp4/x4tjnvkn.mp4/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제14화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260919/6X6IfW8X/mp4/6X6IfW8X.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제13화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260918/jStWPSw7/mp4/jStWPSw7.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제12화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260912/5rLKh5zh/mp4/5rLKh5zh.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제11화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260911/pzBiJr47/mp4/pzBiJr47.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제10화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260905/m0oZVNVv/mp4/m0oZVNVv.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제9화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts6/20260904/SmFEGrVY/mp4/SmFEGrVY.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제8화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260829/knkahpz3/mp4/knkahpz3.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제7화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260828/qpcnr44a/mp4/qpcnr44a.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제6화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260822/qya9wnl1/mp4/qya9wnl1.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제5화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260821/u6hgj0tp/mp4/u6hgj0tp.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제4화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260815/bupxehkl/mp4/bupxehkl.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제3화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260814/3q29sg6k/mp4/3q29sg6k.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제2화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260808/onzh8kp9/mp4/onzh8kp9.mp4/master.m3u8
+
+#EXTINF:-1 group-title="🐉한국드라마 재벌X형사🦆" tvg-logo="https://static.olelive.com/upload/vod/20260807-1/b8682f488473a707f9d63c639a2e8d9c.jpg", 재벌X형사 2 제1화
+#EXTVLCOPT:http-referrer=https://www.olevod.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://europe.olemovienews.com/ts5/20260807/2e18pvjl/mp4/2e18pvjl.mp4/master.m3u8
+
 
 
 
