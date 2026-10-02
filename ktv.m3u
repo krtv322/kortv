@@ -6,7 +6,7 @@ https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
