@@ -5,13 +5,13 @@
 
 
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTI2NTg4NjEsInBhdGgiOiIvbzIifQ.tc7KYG5e6mI70jlJfTIAw_gNpKooPIEtUGpy4KJnE40
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
+https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTI2NTg4ODIsInBhdGgiOiIvbzIifQ.Ye0WsrjzWHcUFJhbtGX4zy3G11RFukGRo6OnxEnFVTw
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+https://tving-live-o2-skcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/ee2fffabf7f97ad65578fb27167a1161/dmMxX3N0cmVhbTMubTN1OA==/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyNjU4OTE3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Ha1mN1DJGkesn1UcXF3gqJ7jrlQL8N7WKYJ3Rs4MrPJtvi1ID1fAIYtoD4RV3J5ASQb0YwIyMgsjCvJd4fUJmjllE6aY7Xz~cKTUu-pXy6Dd5h9ddyF-o0SSUU8JNPFojA-02GwP3jposCXolH7YWWPAhdIs80aRF2jbWvEPoRcwRG6JT1sYw2QZjXl3ExcVxMh-fDbqYUxsXIl4oF3t00vWkxPBUqlg-oVfutEDbP2LWPOonl9H~8yn-wswUCvklgKm7OKGC1KVG~irsAlmh2dfnqf1LguyM2u7wMd42BX3n9XwHRlLA9BIn3nqso3S0udwzu3pJoVpU6EZtxUOWQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
