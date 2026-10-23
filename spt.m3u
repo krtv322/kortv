@@ -129,7 +129,35 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 group-title="🐉스포츠🦆",Asian
 http://cdn.adultiptv.net/asian.m3u8
 
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj1
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/b4a310-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
 
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj2
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/wr610-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
+
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj3
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/b1a483-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
+
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj4
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/wr607-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
+
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj5
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/b2a264-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
+
+#EXTINF:-1 group-title="🐉스포츠재방송🦆" tvg-logo="https://programres.kbs.co.kr/t2026-0039/2026/7/10/1783648586550_653647.jpg", bj6
+#EXTVLCOPT:http-referrer=https://ckp.wiselife.blog/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://bodaponi.b-cdn.net/b1a267-bj%EB%B2%97%EB%B0%A9-%ED%8A%B8%EC%9C%84%ED%84%B0%EC%95%BC%EB%8F%99.mp4
 
 
 
