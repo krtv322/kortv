@@ -1,12 +1,12 @@
 #EXTM3U8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/KBS1.png",KBS 1
-https://tving-live-o2-skcdn.tving.com/o2/v1/01a0a8531d5c1eb80e791db1d96030/01a0a85320b41eb80e791db1d96033/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzMDAzNTM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=X~z8LkAhjcH13YibOFHfYsABwWlVVkJwKv3aBhlWuVFQyYhgXvPrDHMFQQCNQBOCrXSSe0-uDTwskE1nerwk9AikbJIphjcPL5su0WuxO3fU8fzJtkDE4~DC2yeYzkZg9tBLxe0yN1hhEuo1l4PoB7JyAXjV0rTzxHkPxfgC8oZDoaIYkLk5bxjO6ZgWO3mSwYMTct~bGxDczsrUx1s6S1sB2w~fb39cvcMKkDCCWy-4S-Hg1BevqI065glXZGQBN3TzFsEkYn3uvII0IrJNNB8PpBdD2Ntg3gmDB16gbSJU9PvNc57ts5Z1pEHOCTkXo24yMMonkaOh6kQPHkw3gg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
-https://tving-live-o2-xcdn.tving.com/o2/v1/01a0a855bb341eb80e791db1d96034/01a0a855bea1153d78652fe2d08706/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMwMDM1NjQsInBhdGgiOiIvbzIifQ.cRdO7MTjisrRytQf8AoDwHs49zu2YyCXHmfFZRQRxhE
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
-https://tving-live-o2-skcdn.tving.com/v1/ssai/manifest/019bd50ff2d61eb80e791c22ad4884/f64115bbc4bf5633641f18edf865a7b8/dmMxX3N0cmVhbTMubTN1OA==/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzMDAzNTg4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=jNsuhiho1lEA5eAYpUEVdrMAw31YCKwDL4VhdPzWwbEN7lE~CWqXwb1BKEh6RoeoQNVcbr0-MpBZGq2NmDjEWeqAe0wNETKQtY09ysuR6eXK3ZCnMznqk5z93ho3dwcAcbuWI9cS5NP4QI-jaNc6Ktslm5q8UrVDvdlZgYXU2d-BSAQfIxtRpw9HuVd1-0ufF0sQvunE4C9ydzyZFLDODdsgdMBcOlN12100u8LpCtWLRbcbHpMnpw9panReFs86KKD5IAL0z2tr5mvHCh0e4HuaCuxwkqtAQDgX02mGh871kK9mHV4V6cHrL87aQSymapXnwnP1PvuZRMqwPkLBHQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
 https://noh-slb-samsung-fastcdn.uplus.co.kr/mbn.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=mbn.stream
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="🐉한국방송🦆",TV Chosun
